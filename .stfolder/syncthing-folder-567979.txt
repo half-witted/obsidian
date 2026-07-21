@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: kuvnw-tnvrj
+created: 2026-07-16T20:09:51+07:00

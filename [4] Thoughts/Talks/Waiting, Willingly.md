@@ -1,0 +1,5 @@
+<p align="justify">I've waited for you what feels like forever. Waiting has never been something I'm good at but somehow, it became something I learned to deal with. Every day that passed, every quiet moment spent hoping, changed me in ways I didn't expect. The waiting taught me to believe that some things are worth the ache, the struggles, the doubts, and the time. </p>
+
+<p align="justify">And the thing is, if waiting is the cost of a future where we can finally be together, I'd choose it over and over again. I'd go through all the lonely nights, all the moments engulfed by my own thoughts, and all the blurry slow days. Sometimes I question myself whether I'm such a fool for holding on to someone I've never even held. But then I'd remember the way you make me feel and suddenly, the waiting doesn't seem impossible anymore.</p>
+
+So I'll keep on waiting for you, even if I look like an absolute moron.

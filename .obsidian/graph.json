@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Thoughts  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Tasks  ",
+      "color": {
+        "a": 1,
+        "rgb": 4517464
+      }
+    },
+    {
+      "query": "path:UTBK  ",
+      "color": {
+        "a": 1,
+        "rgb": 13688914
+      }
+    },
+    {
+      "query": "path:SHS/11th  ",
+      "color": {
+        "a": 1,
+        "rgb": 11483901
+      }
+    },
+    {
+      "query": "path:SHS/12th  ",
+      "color": {
+        "a": 1,
+        "rgb": 1587303
+      }
+    },
+    {
+      "query": "path:\"[5] Quick Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5197647
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.09321739838539718,
+  "close": true
+}

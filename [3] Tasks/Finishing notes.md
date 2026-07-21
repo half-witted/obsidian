@@ -1,0 +1,10 @@
+- [ ] Adv Math: exercises
+- [ ] Arabic
+- [ ] Bahasa Indonesia: exercises
+- [ ] Comp Math: exercises, statistika (unsur, box and whisker)
+- [ ] English
+- [ ] Geography: exercises
+- [ ] History
+- [ ] Informatics: exercises, basis data (kardinalitas, erd), statistika (skewness)
+- [ ] PAI: exercises
+- [ ] Physics: exercises, fluida (tegangan permukaan), gelombang suara (sumber bunyi), gelombang mekanik (fase gelombang)

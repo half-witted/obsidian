@@ -1,0 +1,22 @@
+{
+  "accentColor": "#3070cf",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Manrope",
+  "textFontFamily": "Inclusive Sans",
+  "monospaceFontFamily": "Space Mono",
+  "enabledCssSnippets": [
+    "justify-text",
+    "math-size",
+    "readable-line",
+    "latex-preview",
+    "math",
+    "background",
+    "headings",
+    "text",
+    "layout",
+    "table-spacing",
+    "compact-table",
+    "theme"
+  ],
+  "baseFontSize": 16
+}

@@ -1,0 +1,61 @@
+body.theme-dark {
+    /*main*/
+    --background-primary: #1e1f22 !important;
+    --bg1: #1e1f22 !important;
+
+    /*left sidebar*/
+    --background-secondary: #1a1b1e !important;
+    --bg2: #1a1b1e !important;
+
+    /*icons*/
+    --background-secondary-alt: #161719 !important;
+
+    /*dropdown, contents, popup*/
+    --background-nested: #2b2d31 !important;
+    --background-floating: #2b2d31 !important;
+    --bg3: #2b2d31 !important;
+
+    /*sidebar text*/
+    --nav-item-color: #9b9c9e !important;
+    --nav-item-color-hover: #e3e4e6 !important;
+    --background-modifier-hover: #232529 !important;
+
+    /*selected sidebar*/
+    --nav-item-background-active: #282a2e !important;
+    --nav-item-color-active: #ffffff !important;
+
+    /*panel borderline*/
+    --divider-color: #2e3035 !important;
+}
+
+/*headings*/
+.theme-dark .markdown-rendered h1, .theme-dark .cm-header-1 { color: #ff6b6b !important; }
+body.theme-dark { --h1-color: #e85a4f !important; }
+
+.theme-dark .markdown-rendered h2, .theme-dark .cm-header-2 { color: #5cc0ff !important; }
+body.theme-dark { --h2-color: #5cc0ff !important; }
+
+.theme-dark .markdown-rendered h3, .theme-dark .cm-header-3 { color: #ffd43b !important; }
+body.theme-dark { --h3-color: #ffd43b !important; }
+
+.theme-dark .markdown-rendered h4, .theme-dark .cm-header-4 { color: #9e7ffc !important; }
+body.theme-dark { --h4-color: #b197fc !important; }
+
+.theme-dark .markdown-rendered h5, .theme-dark .cm-header-5 { color: #69db7c !important; }
+body.theme-dark { --h5-color: #69db7c !important; }
+
+.theme-dark .markdown-rendered h6, .theme-dark .cm-header-6 { color: #faa2c1 !important; }
+body.theme-dark { --h6-color: #faa2c1 !important; }
+
+/*same size headings*/
+.markdown-source-view.mod-cm6 .cm-header,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    font-size: calc(var(--font-text-size) * 1.005) !important;
+    font-weight: 700 !important;
+    line-height: 1.4 !important;
+}
