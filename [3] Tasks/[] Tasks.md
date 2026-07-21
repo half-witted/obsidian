@@ -34,7 +34,6 @@ TQ_show_urgency:
 
 ## In Progress
 
-- [ ] [[Finishing substack]] @{2026-07-27}
 - [ ] [[Finishing notes]] @{2026-07-24}
 - [ ] [[Neat notes]] @{2026-07-24}
 
