@@ -1,10 +1,6 @@
-- [ ] Adv Math: exercises
-- [ ] Arabic
-- [ ] Bahasa Indonesia: exercises
-- [ ] Comp Math: exercises, statistika (unsur, box and whisker)
-- [ ] English
-- [ ] Geography: exercises
-- [ ] History
-- [ ] Informatics: exercises, basis data (kardinalitas, erd), statistika (skewness)
-- [ ] PAI: exercises
-- [ ] Physics: exercises, fluida (tegangan permukaan), gelombang suara (sumber bunyi), gelombang mekanik (fase gelombang)
+Finish:
+- [ ] [[[1] Vector]]
+- [ ] [[[1.2] Potensial, Energi, dan Kapasitor]]: energi, kapasitor
+- [x] [[[1] Transformasi]]
+- [x] All notes: change () to equation mode
+- [ ] [[[1] Konsep Wilayah dan Tata Ruang]]

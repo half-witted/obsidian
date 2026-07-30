@@ -35,7 +35,6 @@ TQ_show_urgency:
 ## In Progress
 
 - [ ] [[Finishing notes]] @{2026-07-24}
-- [ ] [[Neat notes]] @{2026-07-24}
 
 
 ## Completed

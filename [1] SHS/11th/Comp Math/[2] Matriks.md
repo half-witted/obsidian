@@ -87,4 +87,4 @@ $Adj(A)=(kof(A))^T$
 Matriks persegi $A$ dan $B$ dgn ordo sama dikatakan saling invers jika $AB=BA=$ matriks identitas $\to A=B^{-1},B=A^{-1}$
 $A^{-1}=\frac{1}{|A|}*Adj(A)$
 ### Sifat
-## Exercise(s)
+## Exercises

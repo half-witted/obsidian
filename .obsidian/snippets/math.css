@@ -1,7 +1,14 @@
-body {--math-size: 1.15em}
+/* font size*/
+body {
+    --math-size: 1.15em;
+}
 
 .math, 
 .cm-math-string, 
-.MathJax {font-size: var(--math-size) !important}
+.MathJax {
+    font-size: var(--math-size) !important;
+}
 
-.math-block .MathJax {font-size: calc(var(--math-size) * 1.05) !important}
+.math-block .MathJax {
+    font-size: calc(var(--math-size) * 1.05) !important;
+}

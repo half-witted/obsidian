@@ -26,4 +26,4 @@ $r=\sqrt{\left( -\frac{A}{2} \right)^2+\left( -\frac{B}{2} \right)^2-C}$
 ## Position of a Point
 | $K=x_{1}^2+y_{1}^2+Ax_{1}+By_{1}+C$ | $K<0\to$ inside<br>$K=0\to$ exactly (on the edge)<br>$K>0\to$ outside |
 | ----------------------------------- | --------------------------------------------------------------------- |
-## Exercise(s)
+## Exercises

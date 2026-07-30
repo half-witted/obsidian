@@ -1,1 +1,0 @@
-The worst person in the world $\to$ 18:56

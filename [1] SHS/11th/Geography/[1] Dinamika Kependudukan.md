@@ -50,26 +50,26 @@ Semua org berdomisili RI selama $\geq_{}6$ bulan atau $>6$ dgn tujuan menetap.
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 ## Bonus Demografi
 Keadaan saat produktif $>$ non-produktif.
-1. Ciri-ciri
-	- Usia produktif dominan
-	- [[#Komposisi|dependency ratio]] rendah ($<31\%$)
+### Ciri-Ciri
+- Usia produktif dominan
+- [[#Komposisi|dependency ratio]] rendah $(<31\%)$
+- Banyak tenaga kerja
+- Ekonomi berpotensi meningkat
+### Dampak
+- Positif
 	- Banyak tenaga kerja
-	- Ekonomi berpotensi meningkat
-2. Dampak
-	- Positif
-		- Banyak tenaga kerja
-		- Peluang peningkatan ekonomi
-		- Peluang investasi
-		- Dorong inovasi, pembangunan
-	- Negatif
-		- Pengangguran tinggi
-		- Kemiskinan bisa naik
-		- Beban sosial naik
-3. Syarat
-	- Pendidikan, keterampilan tinggi
-	- Lapangan kerja ada
-	- Kesehatan baik
-	- Pemerintah mendukung
+	- Peluang peningkatan ekonomi
+	- Peluang investasi
+	- Dorong inovasi, pembangunan
+- Negatif
+	- Pengangguran tinggi
+	- Kemiskinan bisa naik
+	- Beban sosial naik
+### Syarat
+- Pendidikan, keterampilan tinggi
+- Lapangan kerja ada
+- Kesehatan baik
+- Pemerintah mendukung
 ## Komposisi
 | <center>*Dependency ratio*</center>                              | <center>*Sex ratio*</center> |
 | ---------------------------------------------------------------- | ---------------------------- |
@@ -88,4 +88,4 @@ Keadaan saat produktif $>$ non-produktif.
 2. Internasional: emigrasi ()
 ### Non-Permanen
 Komutasi (tk inap), sirkulasi (inap)
-## Exercise(s)
+## Exercises

@@ -30,4 +30,4 @@ $V=\pi \int_{x_1}^{x_2}[f(x)]^2\space dx$
 | Cylinder               | $f(x)=r$                  | ```pi * IntegralBetween(f(x)^2, 0, x_1, x_2)``` | $x_{1}=$ graph starting point<br>$x_{2}=$ graph ending point, total height/long if $x_{1}=0$ |
 | Cone                   | $g(x)=\frac{r}{h}x$       | ```pi * IntegralBetween(g(x)^2, 0, x_1, x_2)``` | same as above                                                                                |
 | Sphere                 | $h(x)=\sqrt{ R^2-x^2 }$   | ```pi * IntegralBetween(h(x)^2, 0, x_1, x_2)``` | same as above                                                                                |
-## Exercise(s)
+## Exercises

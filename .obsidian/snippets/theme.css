@@ -41,10 +41,21 @@ body.theme-dark { --h3-color: #ffd43b !important; }
 .theme-dark .markdown-rendered h4, .theme-dark .cm-header-4 { color: #9e7ffc !important; }
 body.theme-dark { --h4-color: #b197fc !important; }
 
-.theme-dark .markdown-rendered h5, .theme-dark .cm-header-5 { color: #69db7c !important; }
+/*h5, h6 fix*/
+.theme-dark .markdown-rendered h5, 
+.theme-dark .cm-header-5 { 
+    color: #69db7c !important; 
+    font-variant: normal !important;
+    text-transform: none !important; 
+}
 body.theme-dark { --h5-color: #69db7c !important; }
 
-.theme-dark .markdown-rendered h6, .theme-dark .cm-header-6 { color: #faa2c1 !important; }
+.theme-dark .markdown-rendered h6, 
+.theme-dark .cm-header-6 { 
+    color: #faa2c1 !important; 
+    font-variant: normal !important;
+    text-transform: none !important; 
+}
 body.theme-dark { --h6-color: #faa2c1 !important; }
 
 /*same size headings*/

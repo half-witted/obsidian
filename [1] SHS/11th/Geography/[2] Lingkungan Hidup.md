@@ -28,4 +28,4 @@ Keduanya saling bergantung.
 - Fisik: air keruh, udara berdebu, suhu tinggi
 - Kimia: oksigen turun, pH berubah
 - Biologis: flora fauna punah, habitat hilang, hayati menurun
-## Exercise(s)
+## Exercises
