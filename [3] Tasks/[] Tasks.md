@@ -28,13 +28,13 @@ TQ_show_urgency:
 
 ## To Do
 
-- [ ] [[Arabic slides]] @{2026-08-03}
-- [ ] [[History slides]] @{2026-07-27}
+- [ ] [[Arabic slides]] @{2026-08-10}
+- [ ] [[Substack]] @{2026-08-08}
 
 
 ## In Progress
 
-- [ ] [[Finishing notes]] @{2026-07-24}
+- [ ] [[Finishing notes]] @{2026-08-10}
 
 
 ## Completed

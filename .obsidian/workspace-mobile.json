@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[1] SHS/11th/Geography/[1] Dinamika Kependudukan.md",
-                "mode": "preview",
+                "file": "[1] SHS/SHS.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "[1] Dinamika Kependudukan"
+              "title": "SHS"
             }
           }
         ]
@@ -38,7 +38,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -174,6 +176,7 @@
   },
   "active": "c85c93f6fa67f705",
   "lastOpenFiles": [
+    "[1] SHS/11th/Geography/[1] Dinamika Kependudukan.md",
     "[1] SHS/11th/Informatics/[] Informatics.md",
     "[1] SHS/11th/Adv Math/[2] Limit and Derivative.md",
     "[1] SHS/11th/Adv Math/[1] Circle.md",

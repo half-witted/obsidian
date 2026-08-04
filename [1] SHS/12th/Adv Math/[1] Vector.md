@@ -8,4 +8,3 @@
 - $|AB|=|BA|$
 ## Operations
 ### Addition
-- AQ
