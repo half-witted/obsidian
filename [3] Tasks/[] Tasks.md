@@ -30,6 +30,7 @@ TQ_show_urgency:
 
 - [ ] [[Arabic slides]] @{2026-08-10}
 - [ ] [[Substack]] @{2026-08-08}
+- [ ] [[Arts]] @{2026-08-13}
 
 
 ## In Progress

@@ -6,5 +6,5 @@
 ### Vector Magnitude (Length)
 - If $a=\begin{bmatrix}x\\y\end{bmatrix}$, $|a|$ $=\sqrt{ x^2+y^2 }$
 - $|AB|=|BA|$
-## Operations
-### Addition
+## Exercises
+![[[1(E)] Vector|800]]

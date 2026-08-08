@@ -70,3 +70,8 @@ body.theme-dark { --h6-color: #faa2c1 !important; }
     font-weight: 700 !important;
     line-height: 1.4 !important;
 }
+
+/* highlight text in Preview */
+.theme-dark .markdown-rendered mark {
+    color: #000000 !important;
+}
