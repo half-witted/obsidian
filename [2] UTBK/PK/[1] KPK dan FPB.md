@@ -1,0 +1,1 @@
+## Kelipatan Persekutuan Terkecil (KPK)

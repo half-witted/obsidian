@@ -44,7 +44,7 @@ A function is considered continuous only if (all must be fulfilled):
 ## Derivative
 ### Definition
 Shows rate of changes of a function
-$f'(x)$ or $\frac{dy}{dx}$
+$$f'(x), \frac{dy}{dx}$$
 ### Rules
 | <center>Constant</center>             | <center>Power</center>                 | <center>Product</center>                     | <center>Quotient</center>                                                             |
 | ------------------------------------- | -------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------- |

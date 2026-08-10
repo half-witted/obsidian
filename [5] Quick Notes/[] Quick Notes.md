@@ -1,3 +1,2 @@
 - [[BINDO]]
-- [[Physics]]
 - [[Books]]

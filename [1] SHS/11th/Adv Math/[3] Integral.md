@@ -1,6 +1,6 @@
 ## Definition
 An inverse of derivative
-$\int f'(x)\space dx=f(x)+C$
+$$\int f'(x)\space dx=f(x)+C$$
 - Why C is added? $\to \frac{d}{dx}(x^2+5)=\frac{d}{dx}(x^2-10)=2x\to$ constant is always 0 whatever the value is
 - <mark style="background:#40a9ff">Make it in plus-minus form first (without any mult, div), then integrate</mark>
 ## Rules

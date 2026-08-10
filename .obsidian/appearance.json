@@ -9,13 +9,13 @@
     "math-size",
     "readable-line",
     "latex-preview",
-    "math",
     "background",
     "headings",
     "text",
     "layout",
     "table-spacing",
     "compact-table",
+    "math",
     "theme"
   ],
   "baseFontSize": 16

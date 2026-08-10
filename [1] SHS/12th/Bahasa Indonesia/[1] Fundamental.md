@@ -59,6 +59,22 @@ Keterangan tambahan
 - <mark style="background:#fdbfff">Tk dpt menjadi subjek pd kalimat pasif</mark>
 - Tk selalu wajib
 - <mark style="background:#fdbfff">Setelah predikat transitif</mark> (predikat yg kalo gk ada objek atau pelnya, jdi gk jelas)
+## Fakta dan Opini
+### Fakta
+- Dpt dibuktikan
+- Berisi <mark style="background:#d4b106">data2 kuantitatif</mark>
+- Dpt berupa waktu, tanggal, tempat
+- Dr narasumber terpercaya
+- <mark style="background:#d4b106">Objektif</mark>
+- <mark style="background:#d4b106">Menjawab 5W + 1H</mark>
+### Opini
+- Kebenaran <mark style="background:#d4b106">bisa benar, salah</mark>
+- <mark style="background:#d4b106">Subjektif,</mark> ada pendapat
+- Tk punya narasumber
+- Gk ada bukti
+- Dpt ditandai dgn: <mark style="background:#d4b106">bisa jadi, sepertinya, mungkin, seharusnya, sebaiknya</mark>
 ## Exercises
+### Tata Kalimat, Kata Majemuk
 ![[[1(E1)] Fundamental|1000]]
+### Inti Kalimat, Fakta dan Opini
 ![[[1(E2)] Fundamental|1000]]
