@@ -64,7 +64,7 @@ Keterangan tambahan
 - Dpt dibuktikan
 - Berisi <mark style="background:#d4b106">data2 kuantitatif</mark>
 - Dpt berupa waktu, tanggal, tempat
-- Dr narasumber terpercaya
+- Dr narasumber <mark style="background:#d4b106">terpercaya</mark>
 - <mark style="background:#d4b106">Objektif</mark>
 - <mark style="background:#d4b106">Menjawab 5W + 1H</mark>
 ### Opini
