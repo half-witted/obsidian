@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "[1] Vector"
             }
-          },
-          {
-            "id": "e824cba32fd8b386",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "[1(E)] Fundamental"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "baa3f7d0fafc0c50",
@@ -117,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -229,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md"
+                "file": "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -274,11 +262,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "e824cba32fd8b386",
+  "active": "db13721d19cdbfae",
   "lastOpenFiles": [
-    "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md",
     "[1] SHS/12th/Adv Math/[1] Vector.md",
+    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md",
+    "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
     "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
     "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260827223919_248.png",
     "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260827220540_103.png",
