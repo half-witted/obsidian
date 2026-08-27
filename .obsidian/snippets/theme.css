@@ -75,3 +75,9 @@ body.theme-dark { --h6-color: #faa2c1 !important; }
 .theme-dark .markdown-rendered mark {
     color: #000000 !important;
 }
+
+/*italic background issue*/
+mark em,
+mark i {
+    font-style: italic !important;
+}

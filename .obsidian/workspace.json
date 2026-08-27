@@ -4,17 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f2dd592ff696b419",
+        "id": "5ae382d7fae7a5fe",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6f3ecd4e7659ca",
+            "id": "cf0e94233266ad5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excalidraw",
+              "state": {
+                "file": "[5] Quick Notes/Garis besar muvi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Garis besar muvi"
+            }
+          },
+          {
+            "id": "0f053dbaf351e9bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[1] SHS/SHS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SHS"
             }
           }
         ]
@@ -96,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "[5] Quick Notes/Garis besar muvi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,15 +208,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "1f98162c346ce855",
@@ -220,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,53 +252,53 @@
       "templates:Insert template": false
     }
   },
-  "active": "f5d2c126b0a3f8e3",
+  "active": "cf0e94233266ad5d",
   "lastOpenFiles": [
-    "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
-    "[1] SHS/12th/Adv Math/[1] Vector.md",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E2)] Fundamental.md",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810231507_548.png",
-    "[1] SHS/12th/Physics/Exercises/[1.1(E)] Muatan dan Medan Listrik.md",
-    "[1] SHS/12th/Comp Math/Exercises/[1(E)] Transformasi.md",
-    "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E1)] Fundamental.md",
-    "[1] SHS/12th/Bahasa Indonesia/[] Bahasa Indonesia.md",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810211332_639.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810211202_234.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810211130_913.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810211109_327.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810211049_846.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810210901_042.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810210253_015.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810210104_456.png",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments/Pasted Image 20260810205812_669.png",
-    "[2] UTBK/PM/[2] Aljabar Dasar.md",
     "[1] SHS/SHS.md",
-    "[2] UTBK/PM/[] PM.md",
-    "[2] UTBK/PK/[] PK.md",
-    "[2] UTBK/PK/[1] KPK dan FPB.md",
-    "[2] UTBK/PM/[1] KPK dan FPB.md",
-    "[2] UTBK/PM/Attachments",
-    "[2] UTBK/PBM/[] PBM.md",
-    "[3] Tasks/[] Tasks.md",
-    "[1] SHS/12th/Physics/[1.1] Muatan dan Medan Listrik.md",
+    "[5] Quick Notes/Garis besar muvi.md",
+    "[1] SHS/12th/Physics/Exercises/[1(E)] Listrik Statis.md",
     "[1] SHS/12th/Physics/[1.2] Potensial, Energi, dan Kapasitor.md",
-    "[3] Tasks/Arabic slides.md",
-    "[3] Tasks/Substack.md",
-    "[3] Tasks/Arts.md",
-    "[5] Quick Notes/Books.md",
+    "[1] SHS/12th/Physics/[1.1] Muatan dan Medan Listrik.md",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260827020033_926.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260827015948_444.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260827010941_941.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260827010858_979.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260827005510_576.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260827005440_412.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260826233026_591.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260826232956_175.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260826231459_775.png",
+    "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260826230812_707.png",
+    "[5] Quick Notes/Fisika.md",
     "[5] Quick Notes/BINDO.md",
-    "[5] Quick Notes/[] Quick Notes.md",
-    "[5] Quick Notes/Physics.md",
+    "[5] Quick Notes/Untitled.md",
+    "[5] Quick Notes/Books.md",
+    "[5] Quick Notes/English.md",
+    "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
+    "[1] SHS/12th/Comp Math/[1] Transformasi.md",
+    "[5] Quick Notes/Drawing 2026-08-23 19.48.52.excalidraw.md",
+    "[1] SHS/12th/Adv Math/[1] Vector.md",
+    "[1] SHS/12th/Adv Math/[] Adv Math.md",
+    "[5] Quick Notes/Drawing 2026-08-23 18.19.38.excalidraw.md",
+    "[5] Quick Notes/Drawing 2026-08-22 15.56.37.excalidraw.md",
+    "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
+    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md",
+    "[1] SHS/12th/Geography/Exercises/[1(E)] Konsep Wilayah dan Tata Ruang.md",
+    "[1] SHS/12th/Geography/[1] Konsep Wilayah dan Tata Ruang.md",
+    "[2] UTBK/PBM/Exercises/[1(E)] Konjungsi.md",
+    "[1] SHS/12th/Informatics/Exercises/[1(E)] Gerbang Logika.md",
+    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E3)] Fundamental.md",
+    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E2)] Fundamental.md",
+    "[1] SHS/12th/Geography/Exercises/Attachments",
+    "[1] SHS/12th/Geography/Exercises",
+    "[1] SHS/12th/Informatics/Exercises/Attachments",
+    "[1] SHS/12th/Informatics/Exercises",
+    "[5] Quick Notes/Attachments",
+    "[2] UTBK/PM/Attachments",
     "[1] SHS/12th/Adv Math/Attachments",
     "[2] UTBK/PK/Attachments",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/Attachments",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises",
-    "[2] UTBK/PBM/Exercises/Attachments",
-    "[2] UTBK/PBM/Exercises",
-    "[1] SHS/12th/Comp Math/Exercises/Attachments",
     "Untitled.canvas",
     "SHS/11th/Bahasa Indonesia/Untitled.canvas",
     "Thoughts/Untitled.canvas",

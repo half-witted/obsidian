@@ -1,4 +1,4 @@
-## Tata Kalimat
+## Hirarki Bahasa
 ### Frasa
 Gabungan $>1$ kata yg membentuk makna baru 
 #### Jenis
@@ -7,20 +7,26 @@ Gabungan $>1$ kata yg membentuk makna baru
 3. Adjektiva (sifat) $\to$ marah (adj) $+$ besar (n) $=$ marah besar (f. adj)
 4. Preposisi (depan) $\to$ di (pre) $+$ rumah (n) $=$ di rumah (f. pre)
 5. Numeralia (jumlah) $\to$ dua (num) $+$ burung (n) $=$ dua burung (f. num)
+### Klausa
+Berisi $\geq$ 1 predikat, bisa ada subjek atau tk
+#### Ciri-Ciri
+- Min. punya <mark style="background:#9254de">subjek, predikat</mark>
+- <mark style="background:#9254de">Tk punya intonasi akhir</mark> (.?!)
+- Dpt berupa bagian dr kalimat majemuk
 ### Kalimat
 #### Ciri-Ciri
 - Minimal memiliki <mark style="background:#9254de">subjek, predikat</mark>
-- Memiliki <mark style="background:#9254de">titik</mark>
+- Memiliki <mark style="background:#9254de">intonasi akhir:</mark> titik, tanda tanya, tanda seru
 - Mengandung pikiran utuh, satuan ide jelas
 - Mengandung <mark style="background:#9254de">urutan logis (SPOK)</mark>
-- Predikat transitif disertai objek, predikat intransitif dpt disertai pelengkap
+- Predikat <mark style="background:#9254de">transitif (butuh objek) disertai objek,</mark> predikat <mark style="background:#9254de">intransitif dpt disertai pelengkap</mark>
 #### Bagian
 ##### Subjek
 Fungsi pokok, berbuat sesuatu, jadi topik pembicaraan
 ###### Ciri-Ciri
 - Jawaban dari apa, siapa
-- Dapat didahului bahwa
-- <mark style="background:#fdbfff">Tk didahului preposisi:</mark> dalam, di, kepada, pada, bagi, untuk, menurut, dari, berdasarkan
+- Dpt <mark style="background:#fdbfff">didahului bahwa</mark>
+- <mark style="background:#fdbfff">Tk didahului preposisi</mark> (dalam, di, kepada, pada, bagi, untuk, menurut, dari, berdasarkan, tentang)
 - Kata sifat harus didahului 'sang', 'si'
 - Dpt berupa frasa nomina
 ##### Predikat
@@ -35,7 +41,7 @@ Membicarakan/menjelaskan subjek
 Diperbuat sesuatu oleh subjek
 ###### Ciri-Ciri
 - Langsung di <mark style="background:#fdbfff">belakang predikat</mark>
-- <mark style="background:#fdbfff">Tk didahului preposisi</mark> (di, pada , dari, ke, untuk)
+- <mark style="background:#fdbfff">Tk didahului preposisi</mark> (dalam, di, kepada, pada, bagi, untuk, menurut, dari, berdasarkan, tentang)
 - <mark style="background:#fdbfff">Dpt jadi subjek pada kalimat pasif</mark>
 ##### Keterangan
 Memberikan informasi lbh lanjut
@@ -59,6 +65,15 @@ Keterangan tambahan
 - <mark style="background:#fdbfff">Tk dpt menjadi subjek pd kalimat pasif</mark>
 - Tk selalu wajib
 - <mark style="background:#fdbfff">Setelah predikat transitif</mark> (predikat yg kalo gk ada objek atau pelnya, jdi gk jelas)
+## Gagasan Utama
+- <mark style="background:#40a9ff">Gambaran secara keseluruhan </mark>
+- Mengandung topik permasalahan
+- Berupa <mark style="background:#40a9ff">1 kalimat/kalimat utama yg dpt berdiri sendiri</mark>
+- Arti jelas
+- Dibentuk <mark style="background:#40a9ff">tanpa kata sambung</mark>
+- <mark style="background:#40a9ff">Mewakili isi</mark> bacaan
+- Bisa di <mark style="background:#40a9ff">awal, akhir, campuran (kesimpulan)</mark>
+- Bisa <mark style="background:#40a9ff">menjawab pertanyaan "apa yg sdg dibahas?"</mark>
 ## Fakta dan Opini
 ### Fakta
 - Dpt dibuktikan
@@ -73,8 +88,8 @@ Keterangan tambahan
 - Tk punya narasumber
 - Gk ada bukti
 - Dpt ditandai dgn: <mark style="background:#d4b106">bisa jadi, sepertinya, mungkin, seharusnya, sebaiknya</mark>
-## Exercises
-### Tata Kalimat, Kata Majemuk
-![[[1(E1)] Fundamental|1000]]
-### Inti Kalimat, Fakta dan Opini
-![[[1(E2)] Fundamental|1000]]
+## Inti Kalimat dan Inti dari Kalimat
+|                   | <center>Analisis</center>              | <center>Output</center>                      | <center>Fungsi</center>           |
+| ----------------- | -------------------------------------- | -------------------------------------------- | --------------------------------- |
+| Inti kalimat      | Ilmu tata bahasa (sintaksis)           | Potongan klausa dasar (tk dimodif)           | Menentukan struktur dasar kalimat |
+| Inti dari kalimat | Pemahaman makna (semantik/kontekstual) | Kesimpulan ringkas (bisa pake kata2 sendiri) | Menangkap maksud utama            |

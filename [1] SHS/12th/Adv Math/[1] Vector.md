@@ -10,10 +10,9 @@
 ### Vector Magnitude (Length)
 - If $a=\begin{bmatrix}x\\y\end{bmatrix} \to |a|$ $=\sqrt{ x^2+y^2 }$
 - $|AB|=|BA|$
-## Algebra
-### Vector Between Two Points
-$A_(x_{A},y_{A})$ and $B_({x_{B},y_{B}}) \to \vec{AB}=\begin{bmatrix}x_{B}-x_{A}\\y_{B}-y_{A}\end{bmatrix}$ or end point $-$ starting point
-### Unit Vector
+## Parallel and Collinear
+
+## Unit Vector
 A unit vector has <mark style="background:#d4b106">magnitude 1</mark> that <mark style="background:#d4b106">shows a direction</mark>
 $\hat{v} = \frac{1}{|\vec{v}|}\vec{v}$
 ## Dot Product and Angles
@@ -25,7 +24,7 @@ $\hat{v} = \frac{1}{|\vec{v}|}\vec{v}$
 |              how much              |       which direction        |     how much + which direction     |
 ### Scalar Projection
 The <mark style="background:#d4b106">length</mark> of $\vec{x}$ in the direction of $\vec{y}$ with <mark style="background:#d4b106">no direction</mark> 
-$comp_{\vec{b}}\vec{a} = \frac{\vec{x} * \vec{y}}{|\vec{y}|}$
+$comp_{\vec{b}}\vec{a} = \frac{\vec{a} * \vec{b}}{|\vec{b}|}$
 ### Vector Projection
 The <mark style="background:#d4b106">actual vector</mark> that represents that part of $\vec{x}$
 $proj_{\vec{b}}\vec{a} = \frac{\vec{a} * \vec{b}}{|\vec{b}|^2}\vec{b}$

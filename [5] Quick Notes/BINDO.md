@@ -1,6 +1,6 @@
-- 28 Jul 2026
-- 29 Jul 2026 (PH)
-- 3 Aug 2026 (intensif)
-- 4 Aug 2026 (intensif)
-- 5 Aug 2026 (PH)
-- 7 Aug 2026 (PH)
+- 5 Aug 2026 +2
+- 7 Aug 2026 +2
+- 10 Aug 2026 +2
+- 19 Aug 2026 +2
+- 20 Aug 2026 +2
+- 24 Aug 2026 +2.5
