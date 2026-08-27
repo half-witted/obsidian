@@ -4,34 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae382d7fae7a5fe",
+        "id": "baa3f7d0fafc0c50",
         "type": "tabs",
         "children": [
           {
-            "id": "cf0e94233266ad5d",
+            "id": "db13721d19cdbfae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "[5] Quick Notes/Garis besar muvi.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Garis besar muvi"
-            }
-          },
-          {
-            "id": "0f053dbaf351e9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "[1] SHS/SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SHS"
+              "title": "New tab"
             }
           }
         ]
@@ -184,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[5] Quick Notes/Garis besar muvi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -252,10 +234,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "cf0e94233266ad5d",
+  "active": "db13721d19cdbfae",
   "lastOpenFiles": [
-    "[1] SHS/SHS.md",
     "[5] Quick Notes/Garis besar muvi.md",
+    "[1] SHS/SHS.md",
     "[1] SHS/12th/Physics/Exercises/[1(E)] Listrik Statis.md",
     "[1] SHS/12th/Physics/[1.2] Potensial, Energi, dan Kapasitor.md",
     "[1] SHS/12th/Physics/[1.1] Muatan dan Medan Listrik.md",
