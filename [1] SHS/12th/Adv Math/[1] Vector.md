@@ -28,5 +28,3 @@ $comp_{\vec{b}}\vec{a} = \frac{\vec{a} * \vec{b}}{|\vec{b}|}$
 ### Vector Projection
 The <mark style="background:#d4b106">actual vector</mark> that represents that part of $\vec{x}$
 $proj_{\vec{b}}\vec{a} = \frac{\vec{a} * \vec{b}}{|\vec{b}|^2}\vec{b}$
-## Exercises
-![[[1(E)] Vector|1000]]
