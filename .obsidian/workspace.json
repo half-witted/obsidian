@@ -11,10 +11,12 @@
             "id": "db13721d19cdbfae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "[1(E)] Vector"
             }
           }
         ]
@@ -236,6 +238,9 @@
   },
   "active": "db13721d19cdbfae",
   "lastOpenFiles": [
+    "[5] Quick Notes/BINDO.md",
+    "[5] Quick Notes/Books.md",
+    "[5] Quick Notes/Fisika.md",
     "[5] Quick Notes/Garis besar muvi.md",
     "[1] SHS/SHS.md",
     "[1] SHS/12th/Physics/Exercises/[1(E)] Listrik Statis.md",
@@ -251,10 +256,7 @@
     "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260826232956_175.png",
     "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260826231459_775.png",
     "[1] SHS/12th/Physics/Exercises/Attachments/Pasted Image 20260826230812_707.png",
-    "[5] Quick Notes/Fisika.md",
-    "[5] Quick Notes/BINDO.md",
     "[5] Quick Notes/Untitled.md",
-    "[5] Quick Notes/Books.md",
     "[5] Quick Notes/English.md",
     "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
     "[1] SHS/12th/Comp Math/[1] Transformasi.md",
