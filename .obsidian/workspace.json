@@ -18,6 +18,16 @@
               "icon": "excalidraw-icon",
               "title": "Garis besar muvi"
             }
+          },
+          {
+            "id": "9250f2416cea9f65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -237,7 +247,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "d17ed3fe023f04ef",
+  "active": "ec8061ed9b52668d",
   "lastOpenFiles": [
     "[5] Quick Notes/Garis besar muvi.md",
     "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
