@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "[1(E)] Fundamental"
+            }
+          },
+          {
+            "id": "a1a52f9c3c122960",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md"
               },
               "icon": "excalidraw-icon",
               "title": "[1(E)] Vector"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,12 +249,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "6332ac0edc5c1f66",
+  "active": "a1a52f9c3c122960",
   "lastOpenFiles": [
-    "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828075951_132.png",
+    "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828081003_815.png",
     "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md",
-    "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
     "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
+    "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828075951_132.png",
+    "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
     "[1] SHS/12th/Adv Math/[1] Vector.md",
     "[1] SHS/SHS.md",
     "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828012224_907.png",
@@ -253,7 +267,6 @@
     "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828004114_639.png",
     "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828003525_353.png",
     "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828003512_691.png",
-    "[1] SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828002855_499.png",
     "[5] Quick Notes/BINDO.md",
     "[5] Quick Notes/Books.md",
     "[5] Quick Notes/Fisika.md",
