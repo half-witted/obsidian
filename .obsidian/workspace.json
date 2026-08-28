@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -238,6 +239,7 @@
   },
   "active": "ec8061ed9b52668d",
   "lastOpenFiles": [
+    "[5] Quick Notes/Garis besar muvi.md",
     "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
     "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
     "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E)] Fundamental.md",
@@ -256,7 +258,6 @@
     "[5] Quick Notes/BINDO.md",
     "[5] Quick Notes/Books.md",
     "[5] Quick Notes/Fisika.md",
-    "[5] Quick Notes/Garis besar muvi.md",
     "[1] SHS/12th/Physics/Exercises/[1(E)] Listrik Statis.md",
     "[1] SHS/12th/Physics/[1.2] Potensial, Energi, dan Kapasitor.md",
     "[1] SHS/12th/Physics/[1.1] Muatan dan Medan Listrik.md",
