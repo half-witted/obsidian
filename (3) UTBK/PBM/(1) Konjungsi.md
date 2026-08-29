@@ -58,4 +58,4 @@ Menghubungkan 2 kalimat utuh
 | Sebab-akibat            | oleh karena itu, oleh sebab itu                                                                                                    |
 | Penyimpulan             | jadi, dengan demikian                                                                                                              |
 ## Exercises
-![[[1(E)] Konjungsi|1000]]
+![[(1E) Konjungsi|1000]]

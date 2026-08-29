@@ -1,2 +1,0 @@
-- [[[1] KPK dan FPB]]
-- [[[2] Aljabar Dasar]]

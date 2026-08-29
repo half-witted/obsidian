@@ -11,15 +11,59 @@
             "id": "9250f2416cea9f65",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "(1) SHS/11th/IE/() Attachments/Pasted image 20260714214208.png"
+                "file": "(1) SHS/12th/Adv Math/(1) Vector.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260714214208"
+              "icon": "lucide-file",
+              "title": "(1) Vector"
             }
           }
         ]
+      },
+      {
+        "id": "686d5a926baddd73",
+        "type": "split",
+        "children": [
+          {
+            "id": "d04c10168a4e5170",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "038ab25c25e63c8e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "(1E) Vector"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5c1ad7ed8f95b27f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d630e4b73f737343",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -90,7 +134,6 @@
       {
         "id": "1e9dac631e946ebd",
         "type": "tabs",
-        "dimension": 64.77777777777777,
         "children": [
           {
             "id": "14df11876d169442",
@@ -199,23 +242,6 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "1f98162c346ce855",
-        "type": "tabs",
-        "dimension": 35.22222222222222,
-        "children": [
-          {
-            "id": "038ab25c25e63c8e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -236,8 +262,33 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95ad9845db6905a",
+  "active": "d630e4b73f737343",
   "lastOpenFiles": [
+    "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
+    "(1) SHS/12th/Informatics/() Informatics.md",
+    "(1) SHS/12th/Adv Math/(1) Vector.md",
+    "(1) SHS/11th/English/() English.md",
+    "(2) TKA/() TKA.md",
+    "(6) Quick Notes/() Quick Notes.md",
+    "(1) SHS/12th/Informatics/(1) Gerbang Logika.md",
+    "(6) Quick Notes/English.md",
+    "(2) TKA/Adv English/() Adv English.md",
+    "(2) TKA/English/() English.md",
+    "(2) TKA/Comp Math/() Comp Math.md",
+    "(2) TKA/English/Untitled",
+    "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
+    "(2) TKA/Adv Math/() Adv Math.md",
+    "(2) TKA/Bahasa Indonesia/Untitled",
+    "(2) TKA/Adv English",
+    "(2) TKA/Comp Math",
+    "(2) TKA/Adv Math",
+    "(2) TKA/English",
+    "(2) TKA/Bahasa Indonesia",
+    "(2) TKA/Untitled.md",
+    "(4) Tasks/() Tasks.md",
+    "(1) SHS/12th/() 12th.md",
+    "(3) UTBK/LBE/() LBE.md",
+    "(1) SHS/11th/IE/() Attachments/Pasted image 20260714214208.png",
     "(1) SHS/11th/Geography/(3) Bencana Alam.md",
     "(1) SHS/11th/Geography/(2) Lingkungan Hidup.md",
     "(1) SHS/11th/Geography/(1) Dinamika Kependudukan.md",
@@ -245,45 +296,20 @@
     "(1) SHS/11th/Comp Math/(1) Statistika.md",
     "(1) SHS/11th/Comp Math/() Comp Math.md",
     "(1) SHS/11th/IE/() IE.md",
-    "(3) UTBK/LBE/[] LBE.md",
     "(1) SHS/11th/() 11th.md",
     "(3) UTBK/() UTBK.md",
-    "(5) Thoughts/() Thoughts.md",
-    "(2) TKA/() TKA.md",
     "(2) TKA/() Attachments/Pasted image 20260829194312.png",
     "(2) TKA/() Attachments",
     "(3) UTBK/() Attachments/Pasted image 20260829194300.png",
-    "(1) SHS/() SHS.md",
     "(3) UTBK/Attachments/Pasted image 20260804200755.png",
-    "(1) SHS/12th/Informatics/() Informatics.md",
-    "(1) SHS/12th/IE/() IE.md",
-    "(1) SHS/12th/History/() History.md",
-    "(1) SHS/12th/History/(0) Pra Materi.md",
-    "(1) SHS/12th/Geography/() Geography.md",
-    "(1) SHS/12th/Geography/Exercises/(1E) Konsep Wilayah dan Tata Ruang.md",
-    "(1) SHS/12th/Adv Math/() Adv Math.md",
-    "(1) SHS/11th/Physics/() Physics.md",
-    "(1) SHS/11th/Informatics/() Informatics.md",
-    "(1) SHS/11th/History/() History.md",
-    "(1) SHS/11th/Adv Math/() Adv Math.md",
-    "(4) Tasks/Finishing notes.md",
     "(1) SHS/() Attachments/Pasted image 20260829193053.png",
-    "[3] Tasks/Untitled.md",
     "(2) TKA",
     "[1] SHS/Untitled",
     "(1) SHS/Attachments/Pasted image 20260829192835.png",
-    "(1) SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828090258_655.png",
-    "(1) SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828085739_541.png",
-    "(1) SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828084542_156.png",
-    "(1) SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828083708_391.png",
-    "(1) SHS/12th/Adv Math/Exercises/Attachments/Pasted Image 20260828082156_591.png",
-    "(1) SHS/12th/Geography/Exercises/Attachments",
-    "(1) SHS/12th/Geography/Exercises",
-    "(1) SHS/12th/Informatics/Exercises/Attachments",
-    "(1) SHS/12th/Informatics/Exercises",
-    "(6) Quick Notes/Attachments",
-    "(3) UTBK/PM/Attachments",
-    "(1) SHS/12th/Adv Math/Attachments",
+    "(1) SHS/12th/Adv Math/() Exercises/Attachments/Pasted Image 20260828090258_655.png",
+    "(1) SHS/12th/Adv Math/() Exercises/Attachments/Pasted Image 20260828085739_541.png",
+    "(1) SHS/12th/Adv Math/() Exercises/Attachments/Pasted Image 20260828084542_156.png",
+    "(1) SHS/12th/Adv Math/() Exercises/Attachments/Pasted Image 20260828083708_391.png",
     "Untitled.canvas",
     "SHS/11th/Bahasa Indonesia/Untitled.canvas",
     "Thoughts/Untitled.canvas",
