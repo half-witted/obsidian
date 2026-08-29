@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec8061ed9b52668d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "[5] Quick Notes/Garis besar muvi.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Garis besar muvi"
-            }
-          },
-          {
             "id": "9250f2416cea9f65",
             "type": "leaf",
             "state": {
@@ -247,7 +235,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "ec8061ed9b52668d",
+  "active": "9250f2416cea9f65",
   "lastOpenFiles": [
     "[5] Quick Notes/Garis besar muvi.md",
     "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
