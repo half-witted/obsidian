@@ -58,7 +58,7 @@ $J=$ data terbesar $-$ data terkecil
 - Kekurangan: sgt dipengaruhi nilai ektrem *(outlier)*
 ### Kuartil dan *Interquartile Range* (IQR)
 #### Kuartil
-| $Q_{1}=Tb_{i}+\left( \frac{{\frac{1}{4}n-\sum f_{-i}}}{f_{i}} \right)p$ | $Q_{i}=$ kuartil ke-i (1, 2, 3)<br>$Tb_{i}=$ tepi bawah kelas kuartil ke-i<br>$n=$ jumlah semua frekuensi<br>$\sum f_{-i}=$ jumlah frekuensi sebelum kelas kuartil ke-i<br>$f_{i}=$ frekuensi kelas kuartil ke-i<br>$p=$ [[[1] Statistika#^panjang-kelas\|panjang kelas]] |
+| $Q_{1}=Tb_{i}+\left( \frac{{\frac{1}{4}n-\sum f_{-i}}}{f_{i}} \right)p$ | $Q_{i}=$ kuartil ke-i (1, 2, 3)<br>$Tb_{i}=$ tepi bawah kelas kuartil ke-i<br>$n=$ jumlah semua frekuensi<br>$\sum f_{-i}=$ jumlah frekuensi sebelum kelas kuartil ke-i<br>$f_{i}=$ frekuensi kelas kuartil ke-i<br>$p=$ [[(1) Statistika#^panjang-kelas\|panjang kelas]] |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 #### *Interquartile Range* (IQR)
 Mengukur penyebaran 50% data tengah

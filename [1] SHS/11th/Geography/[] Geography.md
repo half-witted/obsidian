@@ -1,3 +1,0 @@
-- [[[1] Dinamika Kependudukan]]
-- [[[2] Lingkungan Hidup]]
-- [[[3] Bencana Alam]]
