@@ -11,12 +11,20 @@
             "id": "9250f2416cea9f65",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "[5] Quick Notes/Garis besar muvi.md"
+                "file": "[3] Tasks/[] Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Garis besar muvi"
+              "icon": "lucide-trello",
+              "title": "[] Tasks"
             }
           }
         ]
@@ -238,6 +246,12 @@
   },
   "active": "9250f2416cea9f65",
   "lastOpenFiles": [
+    "[3] Tasks/Arts.md",
+    "[3] Tasks/Finishing notes.md",
+    "[3] Tasks/Substack.md",
+    "[3] Tasks/[] Tasks.md",
+    "[3] Tasks/PP.md",
+    "[3] Tasks/Arabic slides.md",
     "[5] Quick Notes/Garis besar muvi.md",
     "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
     "[1] SHS/12th/Adv Math/Exercises/[1(E)] Vector.md",
@@ -268,11 +282,6 @@
     "[5] Quick Notes/Drawing 2026-08-23 18.19.38.excalidraw.md",
     "[5] Quick Notes/Drawing 2026-08-22 15.56.37.excalidraw.md",
     "[1] SHS/12th/Geography/Exercises/[1(E)] Konsep Wilayah dan Tata Ruang.md",
-    "[1] SHS/12th/Geography/[1] Konsep Wilayah dan Tata Ruang.md",
-    "[2] UTBK/PBM/Exercises/[1(E)] Konjungsi.md",
-    "[1] SHS/12th/Informatics/Exercises/[1(E)] Gerbang Logika.md",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E3)] Fundamental.md",
-    "[1] SHS/12th/Bahasa Indonesia/Exercises/[1(E2)] Fundamental.md",
     "[1] SHS/12th/Geography/Exercises/Attachments",
     "[1] SHS/12th/Geography/Exercises",
     "[1] SHS/12th/Informatics/Exercises/Attachments",

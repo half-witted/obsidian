@@ -1,1 +1,1 @@
-Buat teks deskripsi tentang kekalahan tokoh2 the odyssey lawan pahlawan nusantara
+Buat lukisan
