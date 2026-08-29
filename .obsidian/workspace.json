@@ -11,10 +11,12 @@
             "id": "d436ab0cd81a14e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(6) Quick Notes/Aftermovie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aftermovie"
             }
           }
         ]
@@ -189,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "(6) Quick Notes/Aftermovie.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -216,7 +220,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95ad9845db6905a",
+  "active": "d436ab0cd81a14e4",
   "lastOpenFiles": [
     "(6) Quick Notes/() Quick Notes.md",
     "(1) SHS/12th/Informatics/() Exercises/(1E) Gerbang Logika.md",
