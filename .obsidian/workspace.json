@@ -11,10 +11,12 @@
             "id": "9250f2416cea9f65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "[5] Quick Notes/Garis besar muvi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Garis besar muvi"
             }
           }
         ]
@@ -79,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "57be4382a96190d2",
