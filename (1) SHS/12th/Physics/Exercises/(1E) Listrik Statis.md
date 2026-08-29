@@ -196,23 +196,23 @@ a) ^9yCDcElz
 c) ^IQ6aRrRr
 
 ## Element Links
-BVQ3LyZF: [[[1.1] Muatan dan Medan Listrik#Pengertian]]
+BVQ3LyZF: [[(1.1) Muatan dan Medan Listrik#Pengertian]]
 
-ws2OHqou: [[[1.2] Potensial, Energi, dan Kapasitor#Kapasitor]]
+ws2OHqou: [[(1.2) Potensial, Energi, dan Kapasitor#Kapasitor]]
 
-UUmsucOw: [[[1.1] Muatan dan Medan Listrik#Persamaan]]
+UUmsucOw: [[(1.1) Muatan dan Medan Listrik#Persamaan]]
 
-l7CRsJqK: [[[1.1] Muatan dan Medan Listrik#Persamaan]]
+l7CRsJqK: [[(1.1) Muatan dan Medan Listrik#Persamaan]]
 
-0oZbIH3W: [[[1.1] Muatan dan Medan Listrik#Gaya Coulomb/Gaya Listrik]]
+0oZbIH3W: [[(1.1) Muatan dan Medan Listrik#Gaya Coulomb/Gaya Listrik]]
 
-B2zMM8B4: [[[1.1] Muatan dan Medan Listrik#Persamaan]]
+B2zMM8B4: [[(1.1) Muatan dan Medan Listrik#Persamaan]]
 
-tsdX7tNo: [[[1.1] Muatan dan Medan Listrik#Persamaan]]
+tsdX7tNo: [[(1.1) Muatan dan Medan Listrik#Persamaan]]
 
-I53mpcC8: [[[1.2] Potensial, Energi, dan Kapasitor#Kapasitor]]
+I53mpcC8: [[(1.2) Potensial, Energi, dan Kapasitor#Kapasitor]]
 
-60Ic6LXq: [[[1.1] Muatan dan Medan Listrik]]
+60Ic6LXq: [[(1.1) Muatan dan Medan Listrik]]
 
 ## Embedded Files
 38d19d49f6806cf3a9faba54056b6e6825fb6013: $$\color{#1971c2}\begin{aligned}

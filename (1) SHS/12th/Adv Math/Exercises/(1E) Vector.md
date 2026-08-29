@@ -287,147 +287,147 @@ mistake: they projected the direction using unit vector with the value of a inst
 satisfied ^Y4Yuttza
 
 ## Element Links
-av7ZZV6G: [[[1] Vector#Determining a Vector]]
+av7ZZV6G: [[(1) Vector#Determining a Vector]]
 
-mgLQJxCi: [[[1] Vector#Vector Magnitude (Length)]]
+mgLQJxCi: [[(1) Vector#Vector Magnitude (Length)]]
 
-SktiJOOO: [[[1] Vector#Parallel and Collinear]]
+SktiJOOO: [[(1) Vector#Parallel and Collinear]]
 
-vuP7fMzE: [[[1] Vector#Vector Magnitude (Length)]]
+vuP7fMzE: [[(1) Vector#Vector Magnitude (Length)]]
 
-mJySrvPS: [[[1] Vector#Parallel and Collinear]]
+mJySrvPS: [[(1) Vector#Parallel and Collinear]]
 
-RxLpr7az: [[[1] Vector#Determining a Vector]]
+RxLpr7az: [[(1) Vector#Determining a Vector]]
 
-LB46yzcM: [[[1] Vector#Parallel and Collinear]]
+LB46yzcM: [[(1) Vector#Parallel and Collinear]]
 
-x7SY8MDC: [[[1] Vector#Vector Magnitude (Length)]]
+x7SY8MDC: [[(1) Vector#Vector Magnitude (Length)]]
 
-7FA4Ny1q: [[[1] Vector#Unit Vector]]
+7FA4Ny1q: [[(1) Vector#Unit Vector]]
 
-BsqdcEMi: [[[1] Vector#Parallel and Collinear]]
+BsqdcEMi: [[(1) Vector#Parallel and Collinear]]
 
-IiGP3p1G: [[[1] Vector#Determining a Vector]]
+IiGP3p1G: [[(1) Vector#Determining a Vector]]
 
-pzf3xd2I: [[[1] Vector#Vector Magnitude (Length)]]
+pzf3xd2I: [[(1) Vector#Vector Magnitude (Length)]]
 
-SJPI5sCX: [[[1] Vector#Vector Magnitude (Length)]]
+SJPI5sCX: [[(1) Vector#Vector Magnitude (Length)]]
 
-CFfBTyaO: [[[1] Vector#Vector Magnitude (Length)]]
+CFfBTyaO: [[(1) Vector#Vector Magnitude (Length)]]
 
-djc3oOJv: [[[1] Vector#Vector Magnitude (Length)]]
+djc3oOJv: [[(1) Vector#Vector Magnitude (Length)]]
 
-eE0oPaHQ: [[[1] Vector#Determining a Vector]]
+eE0oPaHQ: [[(1) Vector#Determining a Vector]]
 
-LxvaoydK: [[[1] Vector#Determining a Vector]]
+LxvaoydK: [[(1) Vector#Determining a Vector]]
 
-yl1UoR1M: [[[1] Vector#Determining a Vector]]
+yl1UoR1M: [[(1) Vector#Determining a Vector]]
 
-uQ6QfOQQ: [[[1] Vector#Parallel and Collinear]]
+uQ6QfOQQ: [[(1) Vector#Parallel and Collinear]]
 
-PotJLiKg: [[[1] Vector#Determining a Vector]]
+PotJLiKg: [[(1) Vector#Determining a Vector]]
 
-JeTH2D35: [[[1] Vector#Unit Vector]]
+JeTH2D35: [[(1) Vector#Unit Vector]]
 
-FX3rGVXK: [[[1] Vector#Unit Vector]]
+FX3rGVXK: [[(1) Vector#Unit Vector]]
 
-ID2cXH1P: [[[1] Vector#Vector Magnitude (Length)]]
+ID2cXH1P: [[(1) Vector#Vector Magnitude (Length)]]
 
-onV6Cr90: [[[1] Vector#Determining a Vector]]
+onV6Cr90: [[(1) Vector#Determining a Vector]]
 
-E9l4OM6S: [[[1] Vector#Dot Product and Angles]]
+E9l4OM6S: [[(1) Vector#Dot Product and Angles]]
 
-2B6G8vuC: [[[1] Vector#Dot Product and Angles]]
+2B6G8vuC: [[(1) Vector#Dot Product and Angles]]
 
-MYvowW55: [[[1] Vector#Scalar Projection]]
+MYvowW55: [[(1) Vector#Scalar Projection]]
 
-4uFNPwFG: [[[1] Vector#Scalar Projection]]
+4uFNPwFG: [[(1) Vector#Scalar Projection]]
 
-HkaU6d3A: [[[1] Vector#Vector Projection]]
+HkaU6d3A: [[(1) Vector#Vector Projection]]
 
-NRNk2GuG: [[[1] Vector#Determining a Vector]]
+NRNk2GuG: [[(1) Vector#Determining a Vector]]
 
-UTNOUwXP: [[[1] Vector#Dot Product and Angles]]
+UTNOUwXP: [[(1) Vector#Dot Product and Angles]]
 
-224v9HMi: [[[1] Vector#Dot Product and Angles]]
+224v9HMi: [[(1) Vector#Dot Product and Angles]]
 
-L70L91Ld: [[[1] Vector#Dot Product and Angles]]
+L70L91Ld: [[(1) Vector#Dot Product and Angles]]
 
-pyad7AEK: [[[1] Vector#Scalar Projection]]
+pyad7AEK: [[(1) Vector#Scalar Projection]]
 
-u5PIcZXv: [[[1] Vector#Vector Projection]]
+u5PIcZXv: [[(1) Vector#Vector Projection]]
 
-XN7s05Kq: [[[1] Vector#Determining a Vector]]
+XN7s05Kq: [[(1) Vector#Determining a Vector]]
 
-N9TDf5W5: [[[1] Vector#Determining a Vector]]
+N9TDf5W5: [[(1) Vector#Determining a Vector]]
 
-HL7N4pS1: [[[1] Vector#Dot Product and Angles]]
+HL7N4pS1: [[(1) Vector#Dot Product and Angles]]
 
-l9VUvZVo: [[[1] Vector#Dot Product and Angles]]
+l9VUvZVo: [[(1) Vector#Dot Product and Angles]]
 
-WOg6Qo2E: [[[1] Vector#Vector Projection]]
+WOg6Qo2E: [[(1) Vector#Vector Projection]]
 
-FumPymsd: [[[1] Vector#Determining a Vector]]
+FumPymsd: [[(1) Vector#Determining a Vector]]
 
-c4OLKhz6: [[[1] Vector#Determining a Vector]]
+c4OLKhz6: [[(1) Vector#Determining a Vector]]
 
-dnZrhxFe: [[[1] Vector#Determining a Vector]]
+dnZrhxFe: [[(1) Vector#Determining a Vector]]
 
-7m3m6wWP: [[[1] Vector#Determining a Vector]]
+7m3m6wWP: [[(1) Vector#Determining a Vector]]
 
-sAAdQtRx: [[[1] Vector#Parallel and Collinear]]
+sAAdQtRx: [[(1) Vector#Parallel and Collinear]]
 
-1ybyDvYj: [[[1] Vector#Determining a Vector]]
+1ybyDvYj: [[(1) Vector#Determining a Vector]]
 
-MiKZ479r: [[[1] Vector#Unit Vector]]
+MiKZ479r: [[(1) Vector#Unit Vector]]
 
-vgNui6Xd: [[[1] Vector#Dot Product and Angles]]
+vgNui6Xd: [[(1) Vector#Dot Product and Angles]]
 
-gLv32kU9: [[[1] Vector#Projection]]
+gLv32kU9: [[(1) Vector#Projection]]
 
-hFhrLtuf: [[[1] Vector#Determining a Vector]]
+hFhrLtuf: [[(1) Vector#Determining a Vector]]
 
-ymckyzrO: [[[1] Vector#Determining a Vector]]
+ymckyzrO: [[(1) Vector#Determining a Vector]]
 
-FzGPMhLX: [[[1] Vector#Determining a Vector]]
+FzGPMhLX: [[(1) Vector#Determining a Vector]]
 
-vEbpMFBi: [[[1] Vector#Determining a Vector]]
+vEbpMFBi: [[(1) Vector#Determining a Vector]]
 
-1YE2ymeH: [[[1] Vector#Determining a Vector]]
+1YE2ymeH: [[(1) Vector#Determining a Vector]]
 
-T5bzEz7G: [[[1] Vector#Vector Magnitude (Length)]]
+T5bzEz7G: [[(1) Vector#Vector Magnitude (Length)]]
 
-HlLVZehC: [[[1] Vector#Projection]]
+HlLVZehC: [[(1) Vector#Projection]]
 
-5XjE3AQz: [[[1] Vector#Vector Magnitude (Length)]]
+5XjE3AQz: [[(1) Vector#Vector Magnitude (Length)]]
 
-0oBQQ2xh: [[[1] Vector#Dot Product and Angles]]
+0oBQQ2xh: [[(1) Vector#Dot Product and Angles]]
 
-haIcL9s2: [[[1] Vector#Dot Product and Angles]]
+haIcL9s2: [[(1) Vector#Dot Product and Angles]]
 
-BlXLAy3t: [[[1] Vector#Determining a Vector]]
+BlXLAy3t: [[(1) Vector#Determining a Vector]]
 
-ToaTvFhR: [[[1] Vector#Parallel and Collinear]]
+ToaTvFhR: [[(1) Vector#Parallel and Collinear]]
 
-FbRZiXaP: [[[1] Vector#Projection]]
+FbRZiXaP: [[(1) Vector#Projection]]
 
-Ctk9G4dI: [[[1] Vector#Vector Magnitude (Length)]]
+Ctk9G4dI: [[(1) Vector#Vector Magnitude (Length)]]
 
-lhVV3EjY: [[[1] Vector#Dot Product and Angles]]
+lhVV3EjY: [[(1) Vector#Dot Product and Angles]]
 
-sA0kZRIg: [[[1] Vector#Determining a Vector]]
+sA0kZRIg: [[(1) Vector#Determining a Vector]]
 
-TNLfAgYC: [[[1] Vector#Determining a Vector]]
+TNLfAgYC: [[(1) Vector#Determining a Vector]]
 
-rc3HEu62: [[[1] Vector#Determining a Vector]]
+rc3HEu62: [[(1) Vector#Determining a Vector]]
 
-LBtfQhrS: [[[1] Vector#Determining a Vector]]
+LBtfQhrS: [[(1) Vector#Determining a Vector]]
 
-huwOqcme: [[[1] Vector#Determining a Vector]]
+huwOqcme: [[(1) Vector#Determining a Vector]]
 
-gfQhEJ6v: [[[1] Vector#Vector Magnitude (Length)]]
+gfQhEJ6v: [[(1) Vector#Vector Magnitude (Length)]]
 
-XQd4Q8p8: [[[1] Vector#Projection]]
+XQd4Q8p8: [[(1) Vector#Projection]]
 
 ## Embedded Files
 4eb1ab84c07dbddc32c8bad820ef5d9d5efcca53: $$\color{#1971c2}\vec{BA} = -\vec{AB} = \color{#2f9e44}\begin{bmatrix}-3\\2\\-4\end{bmatrix}$$

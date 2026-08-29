@@ -1,3 +1,0 @@
-- [[[1] Fluida]]
-- [[[2.1] Gelombang Suara]]
-- [[[2.2] Gelombang Mekanik]]

@@ -114,51 +114,51 @@ b) keberagaman identitas ^i2zxREFe
 d) heterogen ^LWypG7UU
 
 ## Element Links
-lQLN3tib: [[[1] Konsep Wilayah dan Tata Ruang#Teori Lokasi Optimum (Alfred Weber)]]
+lQLN3tib: [[(1) Konsep Wilayah dan Tata Ruang#Teori Lokasi Optimum (Alfred Weber)]]
 
-DT4UrD3Q: [[[1] Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
+DT4UrD3Q: [[(1) Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
 
-FbSE49U8: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+FbSE49U8: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-YLeLgznW: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+YLeLgznW: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-BBCQJAm2: [[[1] Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
+BBCQJAm2: [[(1) Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
 
-WSmMiVsz: [[[1] Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
+WSmMiVsz: [[(1) Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
 
-yhdVT3dJ: [[[1] Konsep Wilayah dan Tata Ruang#Teori Lokasi Sentral (Walter Christaller)]]
+yhdVT3dJ: [[(1) Konsep Wilayah dan Tata Ruang#Teori Lokasi Sentral (Walter Christaller)]]
 
-u9PYDZAm: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+u9PYDZAm: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-uOgbQagF: [[[1] Konsep Wilayah dan Tata Ruang#Teori Lokasi Optimum (Alfred Weber)]]
+uOgbQagF: [[(1) Konsep Wilayah dan Tata Ruang#Teori Lokasi Optimum (Alfred Weber)]]
 
-NeTyKABq: [[[1] Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
+NeTyKABq: [[(1) Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
 
-bQjwFmSI: [[[1] Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
+bQjwFmSI: [[(1) Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
 
-J1dg0oXu: [[[1] Konsep Wilayah dan Tata Ruang#Teori Lokasi Optimum (Alfred Weber)]]
+J1dg0oXu: [[(1) Konsep Wilayah dan Tata Ruang#Teori Lokasi Optimum (Alfred Weber)]]
 
-RvPtcs17: [[[1] Konsep Wilayah dan Tata Ruang#Teori Lokasi Sentral (Walter Christaller)]]
+RvPtcs17: [[(1) Konsep Wilayah dan Tata Ruang#Teori Lokasi Sentral (Walter Christaller)]]
 
-kfXYigwV: [[[1] Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
+kfXYigwV: [[(1) Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
 
-0qt1yGWj: [[[1] Konsep Wilayah dan Tata Ruang#Asas]]
+0qt1yGWj: [[(1) Konsep Wilayah dan Tata Ruang#Asas]]
 
-ZQFR32Tk: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+ZQFR32Tk: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-kBeV6PeX: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+kBeV6PeX: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-szrfZ1uU: [[[1] Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
+szrfZ1uU: [[(1) Konsep Wilayah dan Tata Ruang#Kutub Pertumbuhan (Francois Perroux)]]
 
-b3ZQIkE7: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+b3ZQIkE7: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-GKpchz8z: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+GKpchz8z: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-BvG40SOf: [[[1] Konsep Wilayah dan Tata Ruang#Teori Lokasi Sentral (Walter Christaller)]]
+BvG40SOf: [[(1) Konsep Wilayah dan Tata Ruang#Teori Lokasi Sentral (Walter Christaller)]]
 
-SqjjZfPb: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+SqjjZfPb: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
-nNcbGUlw: [[[1] Konsep Wilayah dan Tata Ruang#Wilayah]]
+nNcbGUlw: [[(1) Konsep Wilayah dan Tata Ruang#Wilayah]]
 
 ## Embedded Files
 6872e1008e05f7a56ee622dd772753cb064a695e: [[Pasted Image 20260818193047_846.png]]

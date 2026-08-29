@@ -827,217 +827,217 @@ B, D) ada data
 C) sumber terpercaya ^SQe7jb6o
 
 ## Element Links
-kzw8JQjA: [[[1] Fundamental#Frasa]]
+kzw8JQjA: [[(1) Fundamental#Frasa]]
 
-lr3eBVlo: [[[1] Fundamental#Frasa]]
+lr3eBVlo: [[(1) Fundamental#Frasa]]
 
-bkT3y1Sc: [[[1] Fundamental#Frasa]]
+bkT3y1Sc: [[(1) Fundamental#Frasa]]
 
-HoY6Nqhh: [[[1] Fundamental#Frasa]]
+HoY6Nqhh: [[(1) Fundamental#Frasa]]
 
-BEJNyLEF: [[[1] Fundamental#Frasa]]
+BEJNyLEF: [[(1) Fundamental#Frasa]]
 
-SVx9bflV: [[[1] Fundamental#Ciri-Ciri]]
+SVx9bflV: [[(1) Fundamental#Ciri-Ciri]]
 
-enlhbirE: [[[1] Fundamental#Ciri-Ciri]]
+enlhbirE: [[(1) Fundamental#Ciri-Ciri]]
 
-1Fgi5qkP: [[[1] Fundamental#Frasa]]
+1Fgi5qkP: [[(1) Fundamental#Frasa]]
 
-seNv2VR5: [[[1] Fundamental#Frasa]]
+seNv2VR5: [[(1) Fundamental#Frasa]]
 
-EcqieCBi: [[[1] Fundamental#Ciri-Ciri]]
+EcqieCBi: [[(1) Fundamental#Ciri-Ciri]]
 
-XknydGDw: [[[1] Fundamental#Frasa]]
+XknydGDw: [[(1) Fundamental#Frasa]]
 
-atkBkvTP: [[[1] Fundamental#Frasa]]
+atkBkvTP: [[(1) Fundamental#Frasa]]
 
-HWjWiBXd: [[[1] Fundamental#Frasa]]
+HWjWiBXd: [[(1) Fundamental#Frasa]]
 
-ewPbVljz: [[[1] Fundamental#Frasa]]
+ewPbVljz: [[(1) Fundamental#Frasa]]
 
-nq1XUEnr: [[[1] Fundamental#Ciri-Ciri]]
+nq1XUEnr: [[(1) Fundamental#Ciri-Ciri]]
 
-AexDpZrd: [[[1] Fundamental#Ciri-Ciri]]
+AexDpZrd: [[(1) Fundamental#Ciri-Ciri]]
 
-9cIqqNbV: [[[1] Fundamental#Frasa]]
+9cIqqNbV: [[(1) Fundamental#Frasa]]
 
-AyVLs1Pp: [[[1] Fundamental#Frasa]]
+AyVLs1Pp: [[(1) Fundamental#Frasa]]
 
-oTj4lXnl: [[[1] Fundamental#Bagian]]
+oTj4lXnl: [[(1) Fundamental#Bagian]]
 
-zwn9BWZd: [[[1] Fundamental#Bagian]]
+zwn9BWZd: [[(1) Fundamental#Bagian]]
 
-wI1RXmN5: [[[1] Fundamental#Inti Kalimat dan Inti dari Kalimat]]
+wI1RXmN5: [[(1) Fundamental#Inti Kalimat dan Inti dari Kalimat]]
 
-YXHqNh5u: [[[1] Fundamental#Bagian]]
+YXHqNh5u: [[(1) Fundamental#Bagian]]
 
-ruWDADop: [[[1] Fundamental#Bagian]]
+ruWDADop: [[(1) Fundamental#Bagian]]
 
-I7KYdhF2: [[[1] Fundamental#Ciri-Ciri]]
+I7KYdhF2: [[(1) Fundamental#Ciri-Ciri]]
 
-3HwFqyvK: [[[1] Fundamental#Ciri-Ciri]]
+3HwFqyvK: [[(1) Fundamental#Ciri-Ciri]]
 
-LVO0Lp5J: [[[1] Fundamental#Bagian]]
+LVO0Lp5J: [[(1) Fundamental#Bagian]]
 
-EWFZoGb2: [[[1] Fundamental#Bagian]]
+EWFZoGb2: [[(1) Fundamental#Bagian]]
 
-JOIcFPJS: [[[1] Fundamental#Frasa]]
+JOIcFPJS: [[(1) Fundamental#Frasa]]
 
-EyaIBtTI: [[[1] Fundamental#Bagian]]
+EyaIBtTI: [[(1) Fundamental#Bagian]]
 
-hy2Piq0Z: [[[1] Fundamental#Bagian]]
+hy2Piq0Z: [[(1) Fundamental#Bagian]]
 
-wpXvHSVy: [[[1] Fundamental#Bagian]]
+wpXvHSVy: [[(1) Fundamental#Bagian]]
 
-oemzVY4x: [[[1] Fundamental#Frasa]]
+oemzVY4x: [[(1) Fundamental#Frasa]]
 
-cgN1PnCe: [[[1] Fundamental#Bagian]]
+cgN1PnCe: [[(1) Fundamental#Bagian]]
 
-KEkRCOyx: [[[1] Fundamental#Inti Kalimat dan Inti dari Kalimat]]
+KEkRCOyx: [[(1) Fundamental#Inti Kalimat dan Inti dari Kalimat]]
 
-MkyX2TLP: [[[1] Fundamental#Bagian]]
+MkyX2TLP: [[(1) Fundamental#Bagian]]
 
-OFXyQN2j: [[[1] Fundamental#Bagian]]
+OFXyQN2j: [[(1) Fundamental#Bagian]]
 
-ZvSCTV99: [[[1] Fundamental#Frasa]]
+ZvSCTV99: [[(1) Fundamental#Frasa]]
 
-HGdzUOXW: [[[1] Fundamental#Bagian]]
+HGdzUOXW: [[(1) Fundamental#Bagian]]
 
-VVZZtmJF: [[[1] Fundamental#Bagian]]
+VVZZtmJF: [[(1) Fundamental#Bagian]]
 
-I6LtmlUf: [[[1] Fundamental#Inti Kalimat dan Inti dari Kalimat]]
+I6LtmlUf: [[(1) Fundamental#Inti Kalimat dan Inti dari Kalimat]]
 
-p7lFSz0N: [[[1] Fundamental#Frasa]]
+p7lFSz0N: [[(1) Fundamental#Frasa]]
 
-8ePdvDdG: [[[1] Fundamental#Frasa]]
+8ePdvDdG: [[(1) Fundamental#Frasa]]
 
-clYXyko7: [[[1] Fundamental#Bagian]]
+clYXyko7: [[(1) Fundamental#Bagian]]
 
-yFCfNMLA: [[[1] Fundamental#Bagian]]
+yFCfNMLA: [[(1) Fundamental#Bagian]]
 
-ZfH6125b: [[[1] Fundamental#Bagian]]
+ZfH6125b: [[(1) Fundamental#Bagian]]
 
 jDHrErUV: [[]]
 
-EABdqmwx: [[[1] Fundamental#Ciri-Ciri]]
+EABdqmwx: [[(1) Fundamental#Ciri-Ciri]]
 
-vZojuIGl: [[[1] Fundamental#Bagian]]
+vZojuIGl: [[(1) Fundamental#Bagian]]
 
-juBA9kj6: [[[1] Fundamental#Bagian]]
+juBA9kj6: [[(1) Fundamental#Bagian]]
 
-9bM2ntNq: [[[1] Fundamental#Frasa]]
+9bM2ntNq: [[(1) Fundamental#Frasa]]
 
-PJfjiY86: [[[1] Fundamental#Bagian]]
+PJfjiY86: [[(1) Fundamental#Bagian]]
 
-1l42q6CB: [[[1] Fundamental#Bagian]]
+1l42q6CB: [[(1) Fundamental#Bagian]]
 
-7QSNTbe9: [[[1] Fundamental#Frasa]]
+7QSNTbe9: [[(1) Fundamental#Frasa]]
 
-ZkqYIeIt: [[[1] Fundamental#Bagian]]
+ZkqYIeIt: [[(1) Fundamental#Bagian]]
 
-iwgRxAxm: [[[1] Fundamental#Bagian]]
+iwgRxAxm: [[(1) Fundamental#Bagian]]
 
-OAbXBwIo: [[[1] Fundamental#Ciri-Ciri]]
+OAbXBwIo: [[(1) Fundamental#Ciri-Ciri]]
 
-Wf0B22K2: [[[1] Fundamental#Frasa]]
+Wf0B22K2: [[(1) Fundamental#Frasa]]
 
-IBDDuVqz: [[[1] Fundamental#Bagian]]
+IBDDuVqz: [[(1) Fundamental#Bagian]]
 
-zzGqrUn7: [[[1] Fundamental#Bagian]]
+zzGqrUn7: [[(1) Fundamental#Bagian]]
 
-5p2buCOB: [[[1] Fundamental#Inti Kalimat dan Inti dari Kalimat]]
+5p2buCOB: [[(1) Fundamental#Inti Kalimat dan Inti dari Kalimat]]
 
-baq2G1va: [[[1] Fundamental#Bagian]]
+baq2G1va: [[(1) Fundamental#Bagian]]
 
-aIBJ8HR4: [[[1] Fundamental#Bagian]]
+aIBJ8HR4: [[(1) Fundamental#Bagian]]
 
-Ba6Ymi9V: [[[1] Fundamental#Bagian]]
+Ba6Ymi9V: [[(1) Fundamental#Bagian]]
 
-pBIxVsPd: [[[1] Fundamental#Frasa]]
+pBIxVsPd: [[(1) Fundamental#Frasa]]
 
-aI8nA2He: [[[1] Fundamental#Bagian]]
+aI8nA2He: [[(1) Fundamental#Bagian]]
 
-FMZxkoFh: [[[1] Fundamental#Frasa]]
+FMZxkoFh: [[(1) Fundamental#Frasa]]
 
-jMFqmVyX: [[[1] Fundamental#Kalimat]]
+jMFqmVyX: [[(1) Fundamental#Kalimat]]
 
-URjrnDNW: [[[1] Fundamental#Kalimat]]
+URjrnDNW: [[(1) Fundamental#Kalimat]]
 
-tTBRizAH: [[[1] Fundamental#Kalimat]]
+tTBRizAH: [[(1) Fundamental#Kalimat]]
 
-9UEsoqZz: [[[1] Fundamental#Kalimat]]
+9UEsoqZz: [[(1) Fundamental#Kalimat]]
 
-sRDR9tle: [[[1] Fundamental#Kalimat]]
+sRDR9tle: [[(1) Fundamental#Kalimat]]
 
-FbUr3fgj: [[[1] Fundamental#Kalimat]]
+FbUr3fgj: [[(1) Fundamental#Kalimat]]
 
-lPljrDcN: [[[1] Fundamental#Kalimat]]
+lPljrDcN: [[(1) Fundamental#Kalimat]]
 
-4Gixxop3: [[[1] Fundamental#Kalimat]]
+4Gixxop3: [[(1) Fundamental#Kalimat]]
 
-4kfzXzZf: [[[1] Fundamental#Kalimat]]
+4kfzXzZf: [[(1) Fundamental#Kalimat]]
 
-1EujnyEA: [[[1] Fundamental#Kalimat]]
+1EujnyEA: [[(1) Fundamental#Kalimat]]
 
-K70zPfi1: [[[1] Fundamental#Kalimat]]
+K70zPfi1: [[(1) Fundamental#Kalimat]]
 
-hvSiy0qk: [[[1] Fundamental#Kalimat]]
+hvSiy0qk: [[(1) Fundamental#Kalimat]]
 
-jxP7TbKY: [[[1] Fundamental#Kalimat]]
+jxP7TbKY: [[(1) Fundamental#Kalimat]]
 
-YgIELzjx: [[[1] Fundamental#Kalimat]]
+YgIELzjx: [[(1) Fundamental#Kalimat]]
 
-7yA46v7W: [[[1] Fundamental#Kalimat]]
+7yA46v7W: [[(1) Fundamental#Kalimat]]
 
-ZvqRxvuc: [[[1] Fundamental#Kalimat]]
+ZvqRxvuc: [[(1) Fundamental#Kalimat]]
 
-TCDtVE0Y: [[[1] Fundamental#Kalimat]]
+TCDtVE0Y: [[(1) Fundamental#Kalimat]]
 
-qZlWPRVb: [[[1] Fundamental#Kalimat]]
+qZlWPRVb: [[(1) Fundamental#Kalimat]]
 
-pHP3EShA: [[[1] Fundamental#Kalimat]]
+pHP3EShA: [[(1) Fundamental#Kalimat]]
 
-7ee3K1Em: [[[1] Fundamental#Kalimat]]
+7ee3K1Em: [[(1) Fundamental#Kalimat]]
 
-ZYSnRAqd: [[[1] Fundamental#Kalimat]]
+ZYSnRAqd: [[(1) Fundamental#Kalimat]]
 
-RmOwcScL: [[[1] Fundamental#Kalimat]]
+RmOwcScL: [[(1) Fundamental#Kalimat]]
 
-fEQKas1H: [[[1] Fundamental#Kalimat]]
+fEQKas1H: [[(1) Fundamental#Kalimat]]
 
-i1PvcNEn: [[[1] Fundamental#Kalimat]]
+i1PvcNEn: [[(1) Fundamental#Kalimat]]
 
-RZOT58yB: [[[1] Fundamental#Kalimat]]
+RZOT58yB: [[(1) Fundamental#Kalimat]]
 
-X2fzUtMp: [[[1] Fundamental#Kalimat]]
+X2fzUtMp: [[(1) Fundamental#Kalimat]]
 
-PZ8RdVWF: [[[1] Fundamental#Kalimat]]
+PZ8RdVWF: [[(1) Fundamental#Kalimat]]
 
-z6O4qWx4: [[[1] Fundamental#Kalimat]]
+z6O4qWx4: [[(1) Fundamental#Kalimat]]
 
-VBFhy9SR: [[[1] Fundamental#Kalimat]]
+VBFhy9SR: [[(1) Fundamental#Kalimat]]
 
-lzRJIJlX: [[[1] Fundamental#Kalimat]]
+lzRJIJlX: [[(1) Fundamental#Kalimat]]
 
-b4rKy6rS: [[[1] Fundamental#Fakta]]
+b4rKy6rS: [[(1) Fundamental#Fakta]]
 
-Fmyev0b6: [[[1] Fundamental#Opini]]
+Fmyev0b6: [[(1) Fundamental#Opini]]
 
-GTGvq3t8: [[[1] Fundamental#Opini]]
+GTGvq3t8: [[(1) Fundamental#Opini]]
 
-uwjNVKrn: [[[1] Fundamental#Opini]]
+uwjNVKrn: [[(1) Fundamental#Opini]]
 
-dgdkwkrH: [[[1] Fundamental#Opini]]
+dgdkwkrH: [[(1) Fundamental#Opini]]
 
-aPgYEbgn: [[[1] Fundamental#Opini]]
+aPgYEbgn: [[(1) Fundamental#Opini]]
 
-lz4Drwq6: [[[1] Fundamental#Fakta]]
+lz4Drwq6: [[(1) Fundamental#Fakta]]
 
-ZPSFTdYy: [[[1] Fundamental#Fakta]]
+ZPSFTdYy: [[(1) Fundamental#Fakta]]
 
-h1mTowG1: [[[1] Fundamental#Opini]]
+h1mTowG1: [[(1) Fundamental#Opini]]
 
-HKPLEc2e: [[[1] Fundamental#Fakta]]
+HKPLEc2e: [[(1) Fundamental#Fakta]]
 
 ## Embedded Files
 2a72386c63d8ffb0113d9e2d6af5cd0c784824e0: [[Pasted Image 20260807112558_656.png]]
