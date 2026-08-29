@@ -11,20 +11,15 @@
             "id": "9250f2416cea9f65",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "[3] Tasks/[] Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "[1] SHS/SHS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "[] Tasks"
+              "icon": "lucide-file",
+              "title": "SHS"
             }
           }
         ]
@@ -246,10 +241,10 @@
   },
   "active": "9250f2416cea9f65",
   "lastOpenFiles": [
+    "[3] Tasks/[] Tasks.md",
     "[3] Tasks/Arts.md",
     "[3] Tasks/Finishing notes.md",
     "[3] Tasks/Substack.md",
-    "[3] Tasks/[] Tasks.md",
     "[3] Tasks/PP.md",
     "[3] Tasks/Arabic slides.md",
     "[5] Quick Notes/Garis besar muvi.md",
