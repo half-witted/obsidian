@@ -8,45 +8,52 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Thoughts  ",
+      "query": "path:\"(5) Thoughts\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:Tasks  ",
+      "query": "path: \"(4) Tasks\"  ",
       "color": {
         "a": 1,
         "rgb": 4517464
       }
     },
     {
-      "query": "path:UTBK  ",
+      "query": "path: \"(3) UTBK\"  ",
       "color": {
         "a": 1,
         "rgb": 13688914
       }
     },
     {
-      "query": "path:SHS/11th  ",
+      "query": "path: \"(1) SHS/11th\"  ",
       "color": {
         "a": 1,
         "rgb": 11483901
       }
     },
     {
-      "query": "path:SHS/12th  ",
+      "query": "path: \"(1) SHS/12th\"  ",
       "color": {
         "a": 1,
         "rgb": 1587303
       }
     },
     {
-      "query": "path:\"[5] Quick Notes\"  ",
+      "query": "path: \"(6) Quick Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 5197647
+        "rgb": 15568391
+      }
+    },
+    {
+      "query": "path: \"(2) TKA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15668936564316166,
+  "scale": 0.15668936564316155,
   "close": true
 }
