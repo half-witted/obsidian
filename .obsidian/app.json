@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./() Media",
+  "attachmentFolderPath": "./() Attachments",
   "readableLineLength": true,
   "pdfExportSettings": {
     "includeName": true,
