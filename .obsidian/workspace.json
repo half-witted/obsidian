@@ -11,12 +11,15 @@
             "id": "d436ab0cd81a14e4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "(6) Quick Notes/Aftermovie.md"
+                "file": "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Aftermovie"
+              "icon": "lucide-file",
+              "title": "(1) Fundamental"
             }
           }
         ]
@@ -220,7 +223,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "3f194054accf0b3f",
+  "active": "d436ab0cd81a14e4",
   "lastOpenFiles": [
     "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/() Quick Notes.md",
