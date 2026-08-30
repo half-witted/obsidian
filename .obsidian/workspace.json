@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b52890ca46116ebc",
+        "id": "4a8996441bb055a1",
         "type": "tabs",
         "children": [
           {
-            "id": "ca2b7fde4f2e810a",
+            "id": "3e69ee29eeff1389",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md"
+                "file": "(1) SHS/() SHS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "(1E) Vector"
+              "icon": "lucide-file",
+              "title": "() SHS"
             }
           }
         ]
@@ -220,8 +223,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "ca2b7fde4f2e810a",
+  "active": "3e69ee29eeff1389",
   "lastOpenFiles": [
+    "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/Aftermovie.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
@@ -266,7 +270,6 @@
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial/(1) Gagasan.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial",
     "(3) UTBK/PM/() PM.md",
-    "(3) UTBK/PM/(1) KPK dan FPB.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual",
     "(2) TKA/Bahasa Indonesia/Untitled.canvas",
     "Untitled.canvas",
