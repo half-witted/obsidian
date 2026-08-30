@@ -1,9 +1,0 @@
-- [[Movies]]
-- [[Lessons in Loving]]
-- [[Love, Interpreted]]
-- [[Waiting, Willingly]]
-- [[Last Minutes]]
-- [[The Lost Art of Boredom]]
-- [[As I Am]]
-- [[Unaligned]]
-- 
