@@ -1,1 +1,0 @@
-[[(2) Informasi dalam Teks]]
