@@ -11,10 +11,12 @@
             "id": "ca2b7fde4f2e810a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(6) Quick Notes/Aftermovie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aftermovie"
             }
           }
         ]
@@ -218,7 +220,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95ad9845db6905a",
+  "active": "ca2b7fde4f2e810a",
   "lastOpenFiles": [
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
     "(2) TKA/Adv Math/() Attachments",
