@@ -11,12 +11,15 @@
             "id": "049e7253383a8eae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "(6) Quick Notes/Aftermovie.md"
+                "file": "(5) Thoughts/Films/Being Watched without Being Seen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Aftermovie"
+              "icon": "lucide-file",
+              "title": "Being Watched without Being Seen"
             }
           }
         ]
@@ -81,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -220,9 +224,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "edb85b17d9f6558d",
+  "active": "049e7253383a8eae",
   "lastOpenFiles": [
     "(6) Quick Notes/Aftermovie.md",
+    "(5) Thoughts/Films/Being Watched without Being Seen.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/() 12th.md",
@@ -264,7 +269,6 @@
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/() Evaluasi dan Apresiasi.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(6) Inti Kalimat.md",
     "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
-    "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi",
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual",
