@@ -16,5 +16,3 @@ Urut nomer
 | <center>2</center>  | Refleksi               | $y = f(-x)$             | Sumbu y                                                                    |
 | <center>3</center>  | Dilatasi               | $y = f(kx)$             | Skala k $Dx(k)$                                                            |
 | <center>4</center>  | Rotasi                 |                         |                                                                            |
-## Exercises
-![[(1E) Transformasi|1000]]

@@ -11,10 +11,15 @@
             "id": "049e7253383a8eae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(1) Transformasi"
             }
           }
         ]
@@ -221,6 +226,8 @@
   "active": "049e7253383a8eae",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
+    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+    "(1) SHS/12th/() 12th.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(6) Quick Notes/Aftermovie.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
@@ -262,9 +269,7 @@
     "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi",
-    "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial/(1) Gagasan.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial",
-    "(3) UTBK/PM/() PM.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual",
     "(2) TKA/Bahasa Indonesia/Untitled.canvas",
     "Untitled.canvas",
