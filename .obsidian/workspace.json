@@ -21,6 +21,16 @@
               "icon": "lucide-file",
               "title": "Being Watched without Being Seen"
             }
+          },
+          {
+            "id": "928a431181885e1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -225,8 +235,8 @@
   },
   "active": "24ba5c404054ce0a",
   "lastOpenFiles": [
-    "(1) SHS/() SHS.md",
     "(5) Thoughts/Films/Being Watched without Being Seen.md",
+    "(1) SHS/() SHS.md",
     "(5) Thoughts/() Thoughts.md",
     "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
