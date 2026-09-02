@@ -13,23 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(5) Thoughts/Films/Being Watched without Being Seen.md",
+                "file": "(5) Thoughts/Films/More Films, Less Meaning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Being Watched without Being Seen"
+              "title": "More Films, Less Meaning"
             }
           },
           {
             "id": "928a431181885e1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -235,9 +235,16 @@
   },
   "active": "24ba5c404054ce0a",
   "lastOpenFiles": [
-    "(5) Thoughts/Films/Being Watched without Being Seen.md",
-    "(1) SHS/() SHS.md",
     "(5) Thoughts/() Thoughts.md",
+    "(5) Thoughts/Talks/() Talks.md",
+    "(5) Thoughts/Talks/Last Minutes.md",
+    "(5) Thoughts/Talks/As I Am.md",
+    "(5) Thoughts/Films/() Films.md",
+    "(5) Thoughts/Films/In Praise of Small Things.md",
+    "(5) Thoughts/Films/Between the Living and the Dead.md",
+    "(5) Thoughts/Films/More Films, Less Meaning.md",
+    "(5) Thoughts/Films/Talking Trilogy.md",
+    "(1) SHS/() SHS.md",
     "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/() 12th.md",
@@ -271,13 +278,6 @@
     "(2) TKA/Comp Math/(1) Bilangan Real.md",
     "(2) TKA/Comp Math/(2) Persamaan dan Pertidaksamaan Linear.md",
     "(2) TKA/Comp Math/(3) Fungsi.md",
-    "(2) TKA/Comp Math/(4) Barisan dan Deret.md",
-    "(2) TKA/Comp Math/(5) Objek Geometri.md",
-    "(2) TKA/Comp Math/Untitled.md",
-    "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(3) Struktur Sintaksis.md",
-    "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial/() Pemahaman Inferensial.md",
-    "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/() Evaluasi dan Apresiasi.md",
-    "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(6) Inti Kalimat.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi",
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual",
