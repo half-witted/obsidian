@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8012c3b983de5d83",
+        "id": "a3023ced8701fbfb",
         "type": "tabs",
+        "dimension": 33.804627249357324,
         "children": [
           {
-            "id": "d62c6c965730dc3f",
+            "id": "9716aba36ac52c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +21,25 @@
               },
               "icon": "lucide-file",
               "title": "(1) Transformasi"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8012c3b983de5d83",
+        "type": "tabs",
+        "dimension": 66.19537275064268,
+        "children": [
+          {
+            "id": "d62c6c965730dc3f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(1E) Transformasi"
             }
           }
         ]
@@ -84,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -223,11 +244,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "d62c6c965730dc3f",
+  "active": "9716aba36ac52c11",
   "lastOpenFiles": [
+    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
+    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(5) Thoughts/Films/() Films.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
     "(5) Thoughts/Talks/() Talks.md",
     "(5) Thoughts/() Thoughts.md",
@@ -239,7 +261,6 @@
     "(5) Thoughts/Films/Talking Trilogy.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/Aftermovie.md",
-    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/() 12th.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
