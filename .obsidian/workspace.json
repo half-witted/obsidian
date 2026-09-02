@@ -4,32 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "33cd2cf661f15682",
+        "id": "8012c3b983de5d83",
         "type": "tabs",
         "children": [
           {
-            "id": "24ba5c404054ce0a",
+            "id": "d62c6c965730dc3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(5) Thoughts/Films/More Films, Less Meaning.md",
+                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "More Films, Less Meaning"
-            }
-          },
-          {
-            "id": "928a431181885e1d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "(1) Transformasi"
             }
           }
         ]
@@ -233,16 +223,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "24ba5c404054ce0a",
+  "active": "d62c6c965730dc3f",
   "lastOpenFiles": [
-    "(5) Thoughts/() Thoughts.md",
+    "(5) Thoughts/Films/() Films.md",
+    "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
+    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
+    "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
     "(5) Thoughts/Talks/() Talks.md",
+    "(5) Thoughts/() Thoughts.md",
+    "(5) Thoughts/Films/More Films, Less Meaning.md",
     "(5) Thoughts/Talks/Last Minutes.md",
     "(5) Thoughts/Talks/As I Am.md",
-    "(5) Thoughts/Films/() Films.md",
     "(5) Thoughts/Films/In Praise of Small Things.md",
     "(5) Thoughts/Films/Between the Living and the Dead.md",
-    "(5) Thoughts/Films/More Films, Less Meaning.md",
     "(5) Thoughts/Films/Talking Trilogy.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/Aftermovie.md",
@@ -257,7 +250,6 @@
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830170224.png",
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830170156.png",
     "(2) TKA/Adv Math/() Adv Math.md",
-    "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260830170012.png",
     "(2) TKA/Comp Math/() Attachments",
     "(2) TKA/() TKA.md",
@@ -276,8 +268,6 @@
     "(2) TKA/Bahasa Indonesia/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Attachments",
     "(2) TKA/Comp Math/(1) Bilangan Real.md",
-    "(2) TKA/Comp Math/(2) Persamaan dan Pertidaksamaan Linear.md",
-    "(2) TKA/Comp Math/(3) Fungsi.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi",
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual",
