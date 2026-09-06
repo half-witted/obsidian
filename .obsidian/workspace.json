@@ -224,6 +224,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Log": false,
       "switcher:Open quick switcher": false,
       "obsidian-kanban:Create new board": false,
       "canvas:Create new canvas": false,
@@ -233,7 +235,8 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-livesync:P2P Status": false
     }
   },
   "active": "4b69bb73b7e3c9da",
