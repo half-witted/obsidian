@@ -213,14 +213,23 @@
               "icon": "lucide-info",
               "title": "File properties"
             }
+          },
+          {
+            "id": "0cdeea14acda9bcb",
+            "type": "leaf",
+            "state": {
+              "type": "p2p-server-status",
+              "state": {},
+              "icon": "waypoints",
+              "title": "P2P Status"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +245,8 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templates:Insert template": false,
-      "obsidian-livesync:P2P Status": false
+      "obsidian-livesync:P2P Status": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "4b69bb73b7e3c9da",
