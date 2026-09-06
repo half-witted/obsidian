@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2d989c3b36135f08",
+        "id": "5eb912178db9726c",
         "type": "tabs",
         "children": [
           {
-            "id": "d17a1dd1614aed3d",
+            "id": "a23ec3f26dd8de7a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "(1E) Vector"
-            }
-          },
-          {
-            "id": "a3e14f71aae10a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(1) Transformasi"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -249,15 +229,16 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "a3e14f71aae10a20",
+  "active": "a23ec3f26dd8de7a",
   "lastOpenFiles": [
+    "(1) SHS/() SHS.md",
+    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
+    "(1) SHS/12th/Comp Math/() Comp Math.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "Untitled.canvas",
-    "(1) SHS/() SHS.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(5) Thoughts/Films/More Films, Less Meaning.md",
     "(5) Thoughts/Films/() Films.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
