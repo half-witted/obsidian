@@ -1,0 +1,16 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": "j",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "editor:swap-line-up"
+    }
+  ]
+}

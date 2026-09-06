@@ -14,5 +14,14 @@
       ],
       "key": "Tab"
     }
+  ],
+  "vimium-plus:enter-editing": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }

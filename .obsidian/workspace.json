@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8d0ca37cecda9eef",
+        "id": "2d989c3b36135f08",
         "type": "tabs",
         "children": [
           {
-            "id": "fe83bd504c6e2b72",
+            "id": "d17a1dd1614aed3d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(1E) Vector"
+            }
+          },
+          {
+            "id": "4b69bb73b7e3c9da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +34,8 @@
               "title": "(1) Vector"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,9 +236,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "fe83bd504c6e2b72",
+  "active": "4b69bb73b7e3c9da",
   "lastOpenFiles": [
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
+    "(1) SHS/12th/Adv Math/(1) Vector.md",
+    "Untitled.canvas",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
@@ -255,7 +270,6 @@
     "(2) TKA/() TKA.md",
     "(1) SHS/12th/Adv Math/() Adv Math.md",
     "(1) SHS/11th/Bahasa Indonesia/() Bahasa Indonesia.md",
-    "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/11th/() 11th.md",
     "(1) SHS/() Media/Pasted image 20260830165353.png",
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830165331.png",
@@ -267,12 +281,10 @@
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830164750.png",
     "(2) TKA/Bahasa Indonesia/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Attachments",
-    "(2) TKA/Comp Math/(1) Bilangan Real.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi",
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual",
     "(2) TKA/Bahasa Indonesia/Untitled.canvas",
-    "Untitled.canvas",
     "SHS/11th/Bahasa Indonesia/Untitled.canvas",
     "Thoughts/Untitled.canvas",
     "Journal/Untitled.canvas",
