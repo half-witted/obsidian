@@ -18,8 +18,24 @@
               "icon": "excalidraw-icon",
               "title": "(1E) Vector"
             }
+          },
+          {
+            "id": "a3e14f71aae10a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(1) Transformasi"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md"
+                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -233,7 +249,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "0cdeea14acda9bcb",
+  "active": "a3e14f71aae10a20",
   "lastOpenFiles": [
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(6) Quick Notes/Aftermovie.md",
