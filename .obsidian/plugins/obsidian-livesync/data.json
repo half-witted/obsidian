@@ -11,7 +11,7 @@
   "savingDelay": 200,
   "lessInformationInLog": false,
   "gcDelay": 0,
-  "versionUpFlash": "Remote synchronisation is paused until this device's compatibility review has been completed.",
+  "versionUpFlash": "",
   "minimumChunkSize": 20,
   "longLineThreshold": 250,
   "showVerboseLog": false,
@@ -53,7 +53,7 @@
   "syncInternalFilesIgnorePatterns": "\\/node_modules\\/, \\/\\.git\\/, \\/obsidian-livesync\\/",
   "syncInternalFilesTargetPatterns": "",
   "syncInternalFilesInterval": 60,
-  "additionalSuffixOfDatabaseName": "",
+  "additionalSuffixOfDatabaseName": "6ffae387c07fb81e",
   "ignoreVersionCheck": false,
   "lastReadUpdates": 0,
   "deleteMetadataOfDeletedFiles": false,
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$h1Lf+yIAvQxtbbD732Hy9Zwq0foOjibD+bpt+QJBy7OpAJDu0WdMYIdp7g6VXPykVoONfLdHi5qzVcoju6NR5hdjyMS+8QycjTOoJQKQRJyoMFisZ3JkyXxyyBRNzCKGDYOctg==",
+  "encryptedPassphrase": "%$h1Lf+yIAvQxtbbD732Hy9Zwq0foOjibD+bpt+QJBy7OjDdewTi5ZfGGiZoz3bDhlPNW4td0YviVyEpAROX6eJGxeSK1N12jGtZXlZWs+Es3jq5x91t7/0a3liFg7rEwOABpqoQ==",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "remote-mtponb0t-0t49z5": {
       "id": "remote-mtponb0t-0t49z5",
       "name": "P2P 902-449-291-au1",
-      "uri": "%$h1Lf+yIAvQxtbbD732Hy9Zwq0foOjibD+bpt+QJBy7NSybf0v4SI4lZEqmSPXNzpAuoB/dARl7fqe8ijACOs+b7FWPwNR/J/cLGOVpDdq8YDAY9ri/1FpPO7yAvxxTkTHCVYBohiMUCoAnNg+0fJ7NM+/4Ug/5uSqbwlIISOl4NBkQCopCJimki05EEFQ/Vx/ClArP716jcAdm+RUwplk5Cnui7o6w+DUtcs47UNSTTYTdL80pMPqgpa7eCAqLm6nOVZsRmBt11OJj/opRvY3IV109BzCAml90lrieJvPUZEvurRlNYDZ8a1DkDaYJ5Nmoq/EoXLfcw=",
+      "uri": "%$h1Lf+yIAvQxtbbD732Hy9Zwq0foOjibD+bpt+QJBy7ONaTohLgqkKWz0EKIIKomyFZwbJ9J+OeqxChpQ01utruWeiU8KLQNaYyZvDaosE7paX6nYkr5HDi/oN41HYwVb8nUT1vo2tLMABMA9vHYKgCfYEE6L5IQcoONX5S5JiyVHflXeLffU2/tp3blCT2qNJ1YpHxptl6roxDG45GJpWMKhFMetJ36T1h62nxU/XwpeXkzx7kJiXL5tfaipOq+g5Dis12oY3N3FMUdhVKy7JWKQwvE+Anc0Pec1qydXQVRCYQ1k9x/LbA4++4QQSCirkF7FoJFJsns=",
       "isEncrypted": true
     }
   },
@@ -116,7 +116,7 @@
   "maxTotalLengthInEden": 1024,
   "maxAgeInEden": 10,
   "disableCheckingConfigMismatch": false,
-  "displayLanguage": "",
+  "displayLanguage": "def",
   "enableChunkSplitterV2": false,
   "disableWorkerForGeneratingChunks": false,
   "processSmallFilesInUIThread": false,
