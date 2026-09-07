@@ -11,15 +11,12 @@
             "id": "a23ec3f26dd8de7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "(5) Thoughts/() Thoughts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md"
               },
-              "icon": "lucide-file",
-              "title": "() Thoughts"
+              "icon": "excalidraw-icon",
+              "title": "(1E) Vector"
             }
           }
         ]
@@ -194,27 +191,19 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
-          },
-          {
-            "id": "0cdeea14acda9bcb",
-            "type": "leaf",
-            "state": {
-              "type": "p2p-server-status",
-              "state": {},
-              "icon": "waypoints",
-              "title": "P2P Status"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +225,7 @@
   },
   "active": "a23ec3f26dd8de7a",
   "lastOpenFiles": [
+    "(5) Thoughts/() Thoughts.md",
     "(2) TKA/() TKA.md",
     "(2) TKA/Adv English/() Adv English.md",
     "(2) TKA/Adv English/Test",
@@ -253,7 +243,6 @@
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
     "(5) Thoughts/Talks/() Talks.md",
-    "(5) Thoughts/() Thoughts.md",
     "(5) Thoughts/Talks/Last Minutes.md",
     "(5) Thoughts/Talks/As I Am.md",
     "(5) Thoughts/Films/In Praise of Small Things.md",
