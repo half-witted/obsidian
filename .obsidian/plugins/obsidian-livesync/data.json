@@ -6,8 +6,8 @@
   "couchDB_PASSWORD": "",
   "couchDB_DBNAME": "",
   "liveSync": false,
-  "syncOnSave": false,
-  "syncOnStart": false,
+  "syncOnSave": true,
+  "syncOnStart": true,
   "savingDelay": 200,
   "lessInformationInLog": false,
   "gcDelay": 0,
@@ -57,7 +57,7 @@
   "ignoreVersionCheck": false,
   "lastReadUpdates": 0,
   "deleteMetadataOfDeletedFiles": false,
-  "syncIgnoreRegEx": "|[]||[]||[]|",
+  "syncIgnoreRegEx": "|[]||[]|",
   "syncOnlyRegEx": "^\\(1\\) SHS/|[]|^\\(2\\) TKA/|[]|^\\(3\\) UTBK/",
   "customChunkSize": 0,
   "readChunksOnline": true,
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJBH7GqTJlB5xK+sX1uQ2JQhbNoG1vAef1ZPm4QOVLZTpJUXzmk97LiLkUvmedt4VmSEEqJTcjtc4vH/I6MYSNp2HFhCrw==",
+  "encryptedPassphrase": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJBdeYlcZ/eMSam4+BDHy94o6+31Gi80USA2qSTNvPLklyjwCRDIsc1NFbNxi0HkZ6rYD3E6LfdlupA8T56DQ07A/3xClg==",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "remote-mtponb0t-0t49z5": {
       "id": "remote-mtponb0t-0t49z5",
       "name": "P2P 902-449-291-au1",
-      "uri": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJB48mp+UrfNFvgd/zekIj8RhmI4MfbrRoqdWVQupNQk7wf2W1OfqfM7Xdf/+KCFyMpJ/EIVwmxukLztaM52x2xusNqk8K0Jgj2Cc+iHDz388mqtw6EmUmZRTFw1jscWhyWGHAo2EOuWcWZXu/JPJSftDxTfq4eoCZbGxRa60D2UOawt+Kv4jXe104IZwF6+0V5y1sz71S3zfR8ppK4mPniQh1qlW11193J9Ouaop1OEWstTqKC4/O8LfGtmMyjC7eQlfQuJfT6WQXZ7Hs+HhWEg8nlgzx6Hg8Y=",
+      "uri": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJCRl426oIioTdZVKlXf0EQlQ8l+1vm5JTC+Ap/CxA6H8XOmXJacBVW/cNcNZNgAbHGVuIViiVQ5sbAAMlOuucwJaK76zmryWC5DUGIt+kFU5Ks00sEDo6TjcLax4J+ZCeXuWgf9fYcKpcSNr8BYuu0cPCj0cQA0G8C/Zic06x9cdQtAhH2JbLFxa63DghRqgenBZaQCOpiRCebnMAxk47XBLq+qZPyGbl270buwolqSi81uTewgT6KYwIT6qkPucEF52ofMrEVTxNpzkLtmi6ITqpbMBySJTXM=",
       "isEncrypted": true
     }
   },
@@ -94,7 +94,7 @@
   "doNotSuspendOnFetching": false,
   "useIgnoreFiles": false,
   "ignoreFiles": ".gitignore",
-  "syncOnEditorSave": false,
+  "syncOnEditorSave": true,
   "keepReplicationActiveInBackground": false,
   "allowSleepDuringSynchronisation": false,
   "allowSleepDuringSynchronisationOnDesktop": true,
@@ -175,5 +175,5 @@
   "syncInternalFileOverwritePatterns": "",
   "useOnlyLocalChunk": false,
   "maxMTimeForReflectEvents": 0,
-  "tweakModified": 1788691361732
+  "tweakModified": 1788745297657
 }
