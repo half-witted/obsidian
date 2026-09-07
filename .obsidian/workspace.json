@@ -11,10 +11,15 @@
             "id": "4fb7b688e96e1cfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/PP/(0) Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(0) Notes"
             }
           }
         ]
@@ -189,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "(1) SHS/12th/PP/(0) Notes.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -217,6 +224,11 @@
   },
   "active": "4fb7b688e96e1cfc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "(1) SHS/12th/PP/(0) Notes.md",
+    "(1) SHS/12th/PP/() PP.md",
+    "(1) SHS/12th/() 12th.md",
+    "(1) SHS/12th/PP",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
@@ -240,18 +252,14 @@
     "(5) Thoughts/Films/In Praise of Small Things.md",
     "(5) Thoughts/Films/Between the Living and the Dead.md",
     "(5) Thoughts/Films/Talking Trilogy.md",
-    "(1) SHS/12th/() 12th.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
     "(2) TKA/Adv Math/() Attachments",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260830170249.png",
-    "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830170224.png",
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830170156.png",
-    "(2) TKA/Adv Math/() Adv Math.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260830170012.png",
     "(2) TKA/Comp Math/() Attachments",
-    "(1) SHS/12th/Adv Math/() Adv Math.md",
     "(1) SHS/() Media/Pasted image 20260830165353.png",
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830165331.png",
     "(2) TKA/Bahasa Indonesia/() Attachments",
@@ -263,7 +271,6 @@
     "(2) TKA/Bahasa Indonesia/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Attachments",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi",
-    "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial",
     "(2) TKA/Bahasa Indonesia/Untitled.canvas",
     "SHS/11th/Bahasa Indonesia/Untitled.canvas",
     "Thoughts/Untitled.canvas",
