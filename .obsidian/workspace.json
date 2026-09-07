@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb912178db9726c",
+        "id": "0d782c22a6171c79",
         "type": "tabs",
         "children": [
           {
-            "id": "7ccb3a079f89d894",
+            "id": "4fb7b688e96e1cfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(1) Transformasi"
+              "title": "New tab"
             }
           }
         ]
@@ -194,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -210,8 +203,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show Log": false,
       "switcher:Open quick switcher": false,
       "obsidian-kanban:Create new board": false,
       "canvas:Create new canvas": false,
@@ -221,13 +212,12 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templates:Insert template": false,
-      "obsidian-livesync:P2P Status": false,
-      "obsidian-livesync:Show Customization sync": false
+      "templates:Insert template": false
     }
   },
-  "active": "7ccb3a079f89d894",
+  "active": "4fb7b688e96e1cfc",
   "lastOpenFiles": [
+    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(5) Thoughts/() Thoughts.md",
@@ -238,7 +228,6 @@
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/12th/Comp Math/() Comp Math.md",
-    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(6) Quick Notes/Aftermovie.md",
     "Untitled.canvas",
     "(5) Thoughts/Films/More Films, Less Meaning.md",
