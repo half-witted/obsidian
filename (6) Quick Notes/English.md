@@ -1,3 +1,0 @@
-- Individual but divided into groups of 5 (i reckon)
-- Read for 3 minute ish
-- Point: writing, speaking, grammatical, 
