@@ -11,10 +11,15 @@
             "id": "a23ec3f26dd8de7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Adv English/() Adv English.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "() Adv English"
             }
           }
         ]
@@ -229,8 +234,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "0cdeea14acda9bcb",
+  "active": "a23ec3f26dd8de7a",
   "lastOpenFiles": [
+    "(2) TKA/Adv English/Test",
+    "flag_fetch.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/12th/Comp Math/() Comp Math.md",
@@ -263,8 +270,6 @@
     "(2) TKA/Comp Math/() Attachments",
     "(2) TKA/() TKA.md",
     "(1) SHS/12th/Adv Math/() Adv Math.md",
-    "(1) SHS/11th/Bahasa Indonesia/() Bahasa Indonesia.md",
-    "(1) SHS/11th/() 11th.md",
     "(1) SHS/() Media/Pasted image 20260830165353.png",
     "(2) TKA/Bahasa Indonesia/() Attachments/Pasted image 20260830165331.png",
     "(2) TKA/Bahasa Indonesia/() Attachments",
