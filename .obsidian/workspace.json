@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,7 +229,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "a23ec3f26dd8de7a",
+  "active": "0cdeea14acda9bcb",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",

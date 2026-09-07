@@ -58,7 +58,7 @@
   "lastReadUpdates": 0,
   "deleteMetadataOfDeletedFiles": false,
   "syncIgnoreRegEx": "^\\(4\\) Tasks/|[]|^\\(5\\) Thoughts/|[]|^\\(6\\) Quick Notes/",
-  "syncOnlyRegEx": "|[]|",
+  "syncOnlyRegEx": "^\\(1\\) SHS/|[]|^\\(2\\) TKA/|[]|^\\(3\\) UTBK/",
   "customChunkSize": 0,
   "readChunksOnline": true,
   "watchInternalFileChanges": true,
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$h1Lf+yIAvQxtbbD732Hy9Zwq0foOjibD+bpt+QJBy7PQBGk+GzvtcjuV7ndxo0e5+v4dImZYqoicLG1MNCH5F9giiqgZfWSbxMNxHLJvoIbNV9LcT9PDJVwBMXZSBfNWBEeWpA==",
+  "encryptedPassphrase": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJB5m+sZt/Zxr/bpd5PHEY2weM+VnMzyumfIIGVcbLcK6P4FzyotjgKj/Nzy4ai6wESy++D6o3UMT0o4m2dRerdaAPQuqA==",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "remote-mtponb0t-0t49z5": {
       "id": "remote-mtponb0t-0t49z5",
       "name": "P2P 902-449-291-au1",
-      "uri": "%$h1Lf+yIAvQxtbbD732Hy9Zwq0foOjibD+bpt+QJBy7OHDvjAU+YAkeAXyihJgPUgCHH65V3gkMbPuR7meO3tQ8P3xxuqm5Ww9/2rmI8Nknl9Fnv/jrtpFzly8AO2BmXBVElbRgeGnov5ZjeeAr+GbdCIYv1JxRgkZJssNQp+Jdgo+1X4mItG/VTZAswNxK9nvmVL7NRFMr6IjKwd6z7IBFrrgP8o34XkKExibflEvH21ZYIAZn2HScMF44/3Y9fQp2oqZnxQFOhEkaB3KBJIwF05XJpgN+JM2hx91mQ8xmoNH6Vy9upcTvOvLRTPS+QKBFg/dKNlpz8=",
+      "uri": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJCA3vk5jCfMKyIDRLZXD4ZwKk1oNa3VmWoa+IfRc7kgmf3rBSm1lLEBlkymPpvHQtAQF72AhQYLCzRy/Ny/CcHKIeMhKC17r7FB0pyii8VNbwu1jZu6FXirMLRu7OzEXri3YJIjAZE0joRCln2dTXpjJWSdbQA6WPA8b4IetBi2ztvjwFz30QIf8B318XYoZZ+q6FXKpDEmW3E5r3xQIfl4elEHiqhkbV2DcnD1RcQqI1WK9XF3oLS8awdsDw9Oeohp8zO6Fb1zL2kF/YFk9ragN7+en9Mkq9g=",
       "isEncrypted": true
     }
   },
@@ -143,7 +143,7 @@
   "P2P_relays": "wss://exp-relay.vrtmrz.net/",
   "P2P_AutoBroadcast": false,
   "P2P_AutoStart": false,
-  "P2P_AutoSyncPeers": "",
+  "P2P_AutoSyncPeers": "Raihan-b693a5cb760e854b",
   "P2P_AutoWatchPeers": "",
   "P2P_SyncOnReplication": "",
   "P2P_RebuildFrom": "",
