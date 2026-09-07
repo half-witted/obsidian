@@ -57,7 +57,7 @@
   "ignoreVersionCheck": false,
   "lastReadUpdates": 0,
   "deleteMetadataOfDeletedFiles": false,
-  "syncIgnoreRegEx": "^\\(4\\) Tasks/|[]|^\\(5\\) Thoughts/|[]|^\\(6\\) Quick Notes/",
+  "syncIgnoreRegEx": "|[]||[]||[]|",
   "syncOnlyRegEx": "^\\(1\\) SHS/|[]|^\\(2\\) TKA/|[]|^\\(3\\) UTBK/",
   "customChunkSize": 0,
   "readChunksOnline": true,
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJB5m+sZt/Zxr/bpd5PHEY2weM+VnMzyumfIIGVcbLcK6P4FzyotjgKj/Nzy4ai6wESy++D6o3UMT0o4m2dRerdaAPQuqA==",
+  "encryptedPassphrase": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJBH7GqTJlB5xK+sX1uQ2JQhbNoG1vAef1ZPm4QOVLZTpJUXzmk97LiLkUvmedt4VmSEEqJTcjtc4vH/I6MYSNp2HFhCrw==",
   "encryptedCouchDBConnection": "",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "remote-mtponb0t-0t49z5": {
       "id": "remote-mtponb0t-0t49z5",
       "name": "P2P 902-449-291-au1",
-      "uri": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJCA3vk5jCfMKyIDRLZXD4ZwKk1oNa3VmWoa+IfRc7kgmf3rBSm1lLEBlkymPpvHQtAQF72AhQYLCzRy/Ny/CcHKIeMhKC17r7FB0pyii8VNbwu1jZu6FXirMLRu7OzEXri3YJIjAZE0joRCln2dTXpjJWSdbQA6WPA8b4IetBi2ztvjwFz30QIf8B318XYoZZ+q6FXKpDEmW3E5r3xQIfl4elEHiqhkbV2DcnD1RcQqI1WK9XF3oLS8awdsDw9Oeohp8zO6Fb1zL2kF/YFk9ragN7+en9Mkq9g=",
+      "uri": "%$lkTAxmuyKOXcJNgUijloTbfKqwASyi7IyVYYKcwjvJB48mp+UrfNFvgd/zekIj8RhmI4MfbrRoqdWVQupNQk7wf2W1OfqfM7Xdf/+KCFyMpJ/EIVwmxukLztaM52x2xusNqk8K0Jgj2Cc+iHDz388mqtw6EmUmZRTFw1jscWhyWGHAo2EOuWcWZXu/JPJSftDxTfq4eoCZbGxRa60D2UOawt+Kv4jXe104IZwF6+0V5y1sz71S3zfR8ppK4mPniQh1qlW11193J9Ouaop1OEWstTqKC4/O8LfGtmMyjC7eQlfQuJfT6WQXZ7Hs+HhWEg8nlgzx6Hg8Y=",
       "isEncrypted": true
     }
   },
