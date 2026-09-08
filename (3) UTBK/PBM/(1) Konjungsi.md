@@ -39,7 +39,7 @@ Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#9254de">seta
 | Perlawanan/<br>konsesif      | biarpun, meski(pun), <br>sekalipun, walau(pun)       |
 | Sebab                        | karena, sebab, oleh sebab, oleh karena               |
 | Akibat atau<br>hasil         | maka, sehingga                                       |
-| Tujuan                       | agar, supaya                                         |
+| Tujuan                       | agar, supaya, untuk                                  |
 | Komplementasi/<br>penjelasan | bahwa                                                |
 | Pengandaian                  | andaikan, seandainya, sekiranya                      |
 | Pembandingan                 | alih-alih, ibarat, laksana, seakan-akan, sebagaimana |

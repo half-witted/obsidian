@@ -27,5 +27,10 @@ Punya <mark style="background:#d4b106">> 1 verba</mark> dan [[(1) Konjungsi|konj
 - Setara: dihubungkan [[(1) Konjungsi#Konjungsi Koordinatif|konjungsi koordinatif]]
 - Bertingkat: dihubungkan [[(1) Konjungsi#Konjungsi Subordinatif|konjungsi subordinatif]]
 ### Koherensi
-Antar kalimat harus berkaitan, tk ada yg tk padu
+Antar kalimat harus <mark style="background:#d4b106">berkaitan,</mark> tk ada yg tk padu
 ## Langkah-Langkah Menyusun
+1. Membaca teks sampe tuntas dan paham
+2. Mencari bagian2 penting
+3. Menyatukan bagian2 pke kata sendiri
+4. Mengecek ulang
+5. Memperbaiki teks

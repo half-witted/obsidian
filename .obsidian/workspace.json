@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md",
+                "file": "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(0) Ikhtisar"
+              "title": "(1) Ikhtisar"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) UTBK/PBM/(1) Konjungsi.md",
+                "file": "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(1) Konjungsi"
+              "title": "(1) Ikhtisar"
             }
           }
         ],
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(3) UTBK/PBM/(1) Konjungsi.md",
+                "file": "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,14 +240,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "7f4983b843aa8a30",
+  "active": "d95ad9845db6905a",
   "lastOpenFiles": [
-    "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md",
+    "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(3) UTBK/PBM/(1) Konjungsi.md",
+    "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
     "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
     "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) Konjungsi.md",
-    "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/BINDO.md",
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
