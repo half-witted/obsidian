@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
+                "file": "(6) Quick Notes/TKA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(1) Ikhtisar"
+              "title": "TKA"
             }
           }
         ],
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
+                "file": "(6) Quick Notes/TKA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,11 +240,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95ad9845db6905a",
+  "active": "7f4983b843aa8a30",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/() Comp Math.md",
+    "(6) Quick Notes/TKA.md",
+    "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
     "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(3) UTBK/PBM/(1) Konjungsi.md",
-    "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
     "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
     "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) Konjungsi.md",
@@ -267,9 +269,7 @@
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(5) Thoughts/() Thoughts.md",
     "(2) TKA/() TKA.md",
-    "(2) TKA/Adv English/() Adv English.md",
     "(2) TKA/Adv English/Test",
-    "flag_fetch.md",
     "Untitled.canvas",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
     "(2) TKA/Adv Math/() Attachments",
