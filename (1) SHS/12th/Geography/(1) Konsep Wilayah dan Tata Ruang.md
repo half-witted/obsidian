@@ -185,3 +185,231 @@ Raw-material oriented industry: sektor pariwisata, perkebunan dekat SDA (objek w
 ###### Teori Lokasi Sentral
 - <mark style="background:#fdbfff"><em>Range</em> lbh menonjol dr sisi jalur transportasi,</mark> bukan besar population threshold
 - K4: menghubungkan<mark style="background:#fdbfff"> Jawa-Bali,</mark> memengaruhi <mark style="background:#fdbfff">1/2 bagian</mark> wilayah tetangga
+# 1. Bandar Lampung — Sumatera
+
+### Alasan
+
+- Berada di ujung selatan Sumatera dan menjadi penghubung Sumatera dengan Jawa melalui Selat Sunda.
+- Memiliki kegiatan perdagangan, jasa, industri, dan pertanian.
+- Memiliki akses jalan tol, pelabuhan, dan jaringan transportasi yang mendukung distribusi.
+
+### Teori
+
+#### Kutub Pertumbuhan
+
+**Faktor:**
+
+- **Pusat kegiatan ekonomi:** perdagangan, industri, dan jasa.
+- **Sumber daya:** hasil pertanian dan perkebunan serta tenaga kerja.
+- **Aksesibilitas:** Pelabuhan Panjang, jalan tol Trans-Sumatera, dan jalur menuju Jawa.
+- **Kondisi geografis:** berada di jalur penghubung Sumatera–Jawa.
+
+**Ciri-ciri:**
+
+- **Interconnected:** perdagangan berhubungan dengan industri, pertanian, dan jasa transportasi.
+- **Multiplier effect:** industri/perdagangan berkembang → membutuhkan pekerja → pendapatan meningkat → muncul usaha baru.
+- **Mendorong hinterland:** Lampung Selatan, Pesawaran, Pringsewu, dan Metro dapat ikut berkembang.
+
+#### Lokasi Optimum
+
+- **Market-oriented:** dekat jalur distribusi menuju Jawa dan wilayah Sumatera sehingga biaya transportasi produk lebih rendah.
+
+#### Lokasi Sentral
+
+- **Population threshold:** cukup untuk mendukung berbagai perdagangan dan jasa.
+- **Range:** dapat melayani wilayah Lampung dan daerah sekitarnya.
+- **K4:** jalur transportasi menjadi faktor utama karena Bandar Lampung menghubungkan Sumatera dengan Jawa.
+
+---
+
+# 2. Kediri — Jawa
+
+### Alasan
+
+- Di tengah-tengah Jawa Timur → titik hubung utara (Surabaya), selatan/barat (Tulungagung, Nganjuk, dll).
+- Industri besar (Gudang Garam) menjadi _leading actor_ → _multiplier effect_ ekonomi lokal.
+- Pertanian subur karena dilalui Sungai Brantas.
+
+### Teori
+
+#### Kutub Pertumbuhan
+
+**Faktor:**
+
+- **Pusat kegiatan ekonomi:** Gudang Garam.
+- **Sumber daya:** tembakau dan tebu.
+- **Aksesibilitas:** menghubungkan berbagai wilayah Jawa Timur.
+- **Kondisi geografis:** dilalui Brantas → tanah subur.
+
+**Ciri-ciri:**
+
+- **Interconnected:** industri rokok dengan pertanian tembakau.
+- **Multiplier effect:** pabrik → pekerja → pendapatan → muncul usaha-usaha.
+- **Mendorong hinterland:** Tulungagung, Nganjuk, dan Blitar melalui _spread effect_ dan _trickling down effect_.
+
+#### Lokasi Optimum
+
+- **Raw-material oriented industry:** lokasi industri rokok dekat bahan baku seperti tembakau yang perlu cepat diproses.
+
+#### Lokasi Sentral
+
+- **Population threshold:** terpenuhi untuk orde menengah.
+- **Range:** mencakup kabupaten-kabupaten sekitar sebelum penduduk menjangkau Surabaya.
+- **K3:** memengaruhi 1/3 bagian wilayah tetangga dalam distribusi barang/jasa.
+
+---
+
+# 3. Samarinda — Kalimantan
+
+### Alasan
+
+- Berada di posisi strategis di Kalimantan Timur dan terhubung dengan berbagai wilayah pedalaman.
+- Memiliki kegiatan perdagangan, jasa, industri, dan pengolahan sumber daya alam.
+- Memiliki akses Sungai Mahakam dan jaringan jalan yang mendukung distribusi.
+
+### Teori
+
+#### Kutub Pertumbuhan
+
+**Faktor:**
+
+- **Pusat kegiatan ekonomi:** perdagangan, jasa, industri, dan pengolahan sumber daya alam.
+- **Sumber daya:** hasil tambang, perkebunan, hasil hutan, dan tenaga kerja.
+- **Aksesibilitas:** Sungai Mahakam dan jaringan jalan.
+- **Kondisi geografis:** berada di jalur Sungai Mahakam yang menghubungkan wilayah pesisir dengan pedalaman.
+
+**Ciri-ciri:**
+
+- **Interconnected:** pertambangan dan perkebunan berhubungan dengan industri pengolahan, perdagangan, dan transportasi.
+- **Multiplier effect:** industri berkembang → membutuhkan pekerja → pendapatan meningkat → muncul usaha pendukung.
+- **Mendorong hinterland:** Kutai Kartanegara, Kutai Timur, dan wilayah pedalaman dapat ikut berkembang.
+
+#### Lokasi Optimum
+
+- **Raw-material oriented:** dekat dengan sumber daya alam sehingga bahan baku lebih mudah diangkut menuju pusat pengolahan.
+
+#### Lokasi Sentral
+
+- **Population threshold:** cukup untuk mendukung berbagai fasilitas perdagangan dan jasa.
+- **Range:** dapat melayani wilayah Kalimantan Timur bagian tengah dan sekitarnya.
+- **K4:** Sungai Mahakam dan jaringan transportasi menjadi penghubung utama dengan wilayah sekitar.
+
+---
+
+# 4. Palu — Sulawesi
+
+### Alasan
+
+- Berada di posisi strategis di tengah jalur Sulawesi dan menjadi penghubung Sulawesi bagian barat dan tengah.
+- Memiliki kegiatan perdagangan, jasa, pertanian, dan perikanan.
+- Memiliki pelabuhan dan bandara yang mendukung konektivitas.
+
+### Teori
+
+#### Kutub Pertumbuhan
+
+**Faktor:**
+
+- **Pusat kegiatan ekonomi:** perdagangan, jasa, pertanian, dan perikanan.
+- **Sumber daya:** hasil pertanian, perkebunan, perikanan, dan tenaga kerja.
+- **Aksesibilitas:** Pelabuhan Pantoloan dan Bandara Mutiara SIS Al-Jufrie.
+- **Kondisi geografis:** berada di lembah yang strategis di pesisir Sulawesi Tengah.
+
+**Ciri-ciri:**
+
+- **Interconnected:** pertanian dan perikanan berhubungan dengan perdagangan, pengolahan, dan transportasi.
+- **Multiplier effect:** hasil pertanian/perikanan meningkat → pengolahan berkembang → lapangan kerja dan usaha bertambah.
+- **Mendorong hinterland:** Donggala, Sigi, dan Parigi Moutong dapat ikut berkembang.
+
+#### Lokasi Optimum
+
+- **Raw-material oriented:** dekat dengan sumber bahan baku pertanian dan perikanan sehingga biaya pengangkutan menuju industri pengolahan lebih rendah.
+
+#### Lokasi Sentral
+
+- **Population threshold:** cukup untuk mendukung perdagangan dan jasa.
+- **Range:** dapat melayani wilayah Sulawesi Tengah.
+- **K4:** pelabuhan dan jaringan jalan menghubungkan Palu dengan wilayah sekitarnya.
+
+---
+
+# 5. Kupang — Nusa Tenggara
+
+### Alasan
+
+- Menjadi pusat kegiatan ekonomi di Pulau Timor.
+- Memiliki perdagangan, jasa, perikanan, dan kegiatan pemerintahan.
+- Memiliki pelabuhan dan bandara yang menghubungkan Nusa Tenggara dengan wilayah lain.
+
+### Teori
+
+#### Kutub Pertumbuhan
+
+**Faktor:**
+
+- **Pusat kegiatan ekonomi:** perdagangan, jasa, perikanan, dan pemerintahan.
+- **Sumber daya:** hasil laut, peternakan, pertanian, dan tenaga kerja.
+- **Aksesibilitas:** Pelabuhan Tenau dan Bandara El Tari.
+- **Kondisi geografis:** berada di Pulau Timor dan dekat jalur pelayaran antarpulau.
+
+**Ciri-ciri:**
+
+- **Interconnected:** perikanan, peternakan, perdagangan, dan transportasi saling berhubungan.
+- **Multiplier effect:** perdagangan meningkat → kebutuhan transportasi dan jasa meningkat → usaha baru muncul.
+- **Mendorong hinterland:** Timor Tengah Selatan, Timor Tengah Utara, dan Kupang dapat ikut berkembang.
+
+#### Lokasi Optimum
+
+- **Raw-material oriented:** pengolahan hasil laut dan peternakan dekat dengan sumber bahan baku sehingga mengurangi biaya transportasi.
+
+#### Lokasi Sentral
+
+- **Population threshold:** cukup untuk mendukung fasilitas perdagangan dan jasa.
+- **Range:** dapat melayani wilayah Pulau Timor dan pulau-pulau sekitarnya.
+- **K4:** pelabuhan menjadi faktor penting dalam menghubungkan Kupang dengan wilayah kepulauan.
+
+---
+
+# 6. Ternate — Kepulauan Maluku
+
+### Alasan
+
+- Memiliki posisi strategis sebagai penghubung wilayah Maluku Utara.
+- Memiliki kegiatan perdagangan, jasa, perikanan, dan pariwisata.
+- Didukung pelabuhan dan bandara yang menghubungkan berbagai pulau.
+
+### Teori
+
+#### Kutub Pertumbuhan
+
+**Faktor:**
+
+- **Pusat kegiatan ekonomi:** perdagangan, jasa, perikanan, dan pariwisata.
+- **Sumber daya:** hasil laut, perkebunan, dan potensi wisata.
+- **Aksesibilitas:** pelabuhan dan Bandara Sultan Babullah.
+- **Kondisi geografis:** berada di wilayah kepulauan dan menjadi penghubung antarpulau di Maluku Utara.
+
+**Ciri-ciri:**
+
+- **Interconnected:** perikanan, perdagangan, pariwisata, dan transportasi saling berhubungan.
+- **Multiplier effect:** pariwisata/perdagangan berkembang → hotel, restoran, dan transportasi berkembang → lapangan kerja bertambah.
+- **Mendorong hinterland:** Tidore Kepulauan, Halmahera Barat, dan Halmahera Utara dapat ikut berkembang.
+
+#### Lokasi Optimum
+
+- **Raw-material oriented:** pengolahan hasil laut dekat dengan sumber daya perikanan sehingga hasil tangkapan dapat segera diolah.
+
+#### Lokasi Sentral
+
+- **Population threshold:** cukup untuk mendukung perdagangan dan jasa.
+- **Range:** dapat menjangkau pulau-pulau di sekitar Ternate.
+- **K4:** transportasi laut menjadi faktor utama yang menghubungkan Ternate dengan wilayah sekitar.
+
+### Wilayah yang mungkin berkembang
+
+- **Bandar Lampung →** Lampung Selatan, Pesawaran, Pringsewu, Metro.
+- **Kediri →** Tulungagung, Nganjuk, Blitar.
+- **Samarinda →** Kutai Kartanegara, Kutai Timur, wilayah pedalaman.
+- **Palu →** Donggala, Sigi, Parigi Moutong.
+- **Kupang →** Timor Tengah Selatan, Timor Tengah Utara, wilayah Pulau Timor.
+- **Ternate →** Tidore Kepulauan, Halmahera Barat, Halmahera Utara.
