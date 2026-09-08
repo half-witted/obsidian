@@ -100,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[1] SHS/12th/Bahasa Indonesia/[1] Fundamental.md",
+                "file": "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",

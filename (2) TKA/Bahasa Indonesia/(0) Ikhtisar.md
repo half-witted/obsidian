@@ -12,7 +12,17 @@ Teks <mark style="background:#40a9ff">ringkas</mark> berdasarkan teks aslinya
 ## Kebahasaan
 ### Kalimat Efektif
 Tersusun scr baik, benar, jelas, gk ada ambiguitas
-#### Ciri-CIri
+#### Ciri-Ciri
+| <center>No</center> | <center>Ciri-Ciri</center> | <center>Penjelasan</center> | <center>Contoh</center>                                                                                                |
+| ------------------- | -------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| <center>1</center>  | Kesepadanan struktur       | Unsur jelas, seimbang       | ~~- Kepada siswa diharapkan mengumpulkan tugas.~~<br>- Siswa diharapkan mengumpulkan tugas.                            |
+| <center>2</center>  | Kepararelan                | Bentuk kata harus konsisten | ~~- Kegiatannya meliputi membaca, menulis, dan diskusi.~~ <br>- Kegiatannya meliputi membaca, menulis, dan berdiskusi. |
+| <center>3</center>  | Kehematan kata             |                             | ~~- Ia naik ke atas.~~<br>- Ia naik.                                                                                   |
+| <center>4</center>  | Kecermatan                 | Tk ada makna ganda          | ~~- Saya melihat orang dengan teropong.~~                                                                              |
+| <center>5</center>  | Kepaduan                   | Hubungan antarunsur jelas   | ~~- Mereka membicarakan tentang masalah itu.~~<br>- Mereka membicarakan masalah itu                                    |
+| <center>5</center>  | Kelogisan                  |                             | ~~- Waktu dan tempat kami persilakan.~~<br>- Bapak/Ibu kami persilakan.                                                |
 ### Kalimat Majemuk
 Punya > 1 verba dan konjungsi
+#### Jenis
+- Setara: 
 ## Langkah-Langkah Menyusun
