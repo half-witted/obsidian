@@ -24,6 +24,7 @@ Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#40a9ff">seta
 | jangankan ..., ... pun ...          | Penambahan (+)          |                              | pun = juga, pun harus dipisah dari kata depan |
 | entah ... entah ...                 | Penambahan (+)          |                              |                                               |
 | apa(kah) ... atau ...               | Pemilihan (/)           |                              |                                               |
+| demikian ... sehingga ...           |                         |                              |                                               |
 ### Konjungsi Subordinatif
 #### Pengertian
 - Menghubungkan <mark style="background:#40a9ff">2 kalimat tk setara</mark>
