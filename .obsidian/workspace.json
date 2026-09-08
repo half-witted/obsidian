@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
+                "file": "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "() Bahasa Indonesia"
+              "title": "(0) Ikhtisar"
             }
           }
         ]
@@ -195,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md"
+                "file": "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -224,6 +224,8 @@
   },
   "active": "89ddb8f8bca6d53a",
   "lastOpenFiles": [
+    "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
+    "(2) TKA/Bahasa Indonesia/(0) Ikhtisar.md",
     "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/BINDO.md",
@@ -250,8 +252,6 @@
     "(2) TKA/Adv English/() Adv English.md",
     "(2) TKA/Adv English/Test",
     "flag_fetch.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
-    "(1) SHS/12th/Comp Math/() Comp Math.md",
     "Untitled.canvas",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
     "(2) TKA/Adv Math/() Attachments",
