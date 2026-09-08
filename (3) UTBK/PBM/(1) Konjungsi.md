@@ -44,7 +44,7 @@ Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#40a9ff">seta
 | Pengandaian                  | andaikan, seandainya, sekiranya                      |
 | Pembandingan                 | alih-alih, ibarat, laksana, seakan-akan, sebagaimana |
 | Alat/cara                    | dengan, tanpa                                        |
-| Perbandingan                 | sama                                                 |
+| Perbandingan                 | ... sama ... dengan, ... lebih ... dari/daripada ... |
 ## Konjungsi Antarkalimat
 ### Pengertian
 Menghubungkan 2 kalimat utuh
