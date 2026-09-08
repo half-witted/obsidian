@@ -11,12 +11,15 @@
             "id": "d67a99d21cf94bc0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "(6) Quick Notes/Aftermovie.md"
+                "file": "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Aftermovie"
+              "icon": "lucide-file",
+              "title": "(1) Konsep Wilayah dan Tata Ruang"
             }
           }
         ]
@@ -192,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "(6) Quick Notes/Aftermovie.md"
+                "file": "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -221,6 +224,7 @@
   },
   "active": "d67a99d21cf94bc0",
   "lastOpenFiles": [
+    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Books.md",
@@ -248,7 +252,6 @@
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/12th/Comp Math/() Comp Math.md",
-    "(6) Quick Notes/Aftermovie.md",
     "Untitled.canvas",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
     "(2) TKA/Adv Math/() Attachments",

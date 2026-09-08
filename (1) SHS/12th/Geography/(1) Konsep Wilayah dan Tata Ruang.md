@@ -1,4 +1,4 @@
-## Wilayah dan Perwilayahan
+	## Wilayah dan Perwilayahan
 - Area permukaan bumi yg memiliki karakteristik khusus, berbeda dari area lain.
 - Perbedaan dpt berupa fisik, sosial, ekonomi, budaya
 ### Wilayah
