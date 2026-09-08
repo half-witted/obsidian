@@ -22,7 +22,10 @@ Tersusun scr baik, benar, jelas, gk ada ambiguitas
 | <center>5</center>  | Kepaduan                   | Hubungan antarunsur jelas   | ~~- Mereka membicarakan tentang masalah itu.~~<br>- Mereka membicarakan masalah itu                                    |
 | <center>5</center>  | Kelogisan                  |                             | ~~- Waktu dan tempat kami persilakan.~~<br>- Bapak/Ibu kami persilakan.                                                |
 ### Kalimat Majemuk
-Punya > 1 verba dan konjungsi
+Punya <mark style="background:#d4b106">> 1 verba</mark> dan [[(1) Konjungsi|konjungsi]]
 #### Jenis
-- Setara: 
+- Setara: dihubungkan [[(1) Konjungsi#Konjungsi Koordinatif|konjungsi koordinatif]]
+- Bertingkat: dihubungkan [[(1) Konjungsi#Konjungsi Subordinatif|konjungsi subordinatif]]
+### Koherensi
+Antar kalimat harus berkaitan, tk ada yg tk padu
 ## Langkah-Langkah Menyusun

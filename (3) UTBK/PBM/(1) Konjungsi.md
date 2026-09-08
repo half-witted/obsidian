@@ -1,7 +1,7 @@
 ## Konjungsi Intrakalimat
 ### Konjungsi Koordinatif
 #### Pengertian
-Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#40a9ff">setara</mark>
+Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#9254de">setara</mark>
 #### Fungsi
 | <center>Fungsi</center>                           | <center>Contoh</center>             |
 | ------------------------------------------------- | ----------------------------------- |
@@ -12,7 +12,7 @@ Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#40a9ff">seta
 | Menandai hubungan perlawanan (didahului koma) (≠) | <center>tetapi, melainkan</center>  |
 ### Konjungsi Korelatif
 #### Pengertian
-<mark style="background:#40a9ff">Sepasang konjungsi</mark> yg menghubungkan unsur2 <mark style="background:#40a9ff">setara</mark>
+<mark style="background:#9254de">Sepasang konjungsi</mark> yg menghubungkan unsur2 <mark style="background:#9254de">setara</mark>
 #### Contoh
 | <center>Contoh</center>             | <center>Fungsi</center> | <center>Penggunaan</center>  | <center>Info Tambahan</center>                |
 | ----------------------------------- | ----------------------- | ---------------------------- | --------------------------------------------- |
@@ -27,10 +27,10 @@ Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#40a9ff">seta
 | demikian ... sehingga ...           |                         |                              |                                               |
 ### Konjungsi Subordinatif
 #### Pengertian
-- Menghubungkan <mark style="background:#40a9ff">2 kalimat tk setara</mark>
-- <mark style="background:#40a9ff">Mengawali anak kalimat</mark> shg induk, anak mempunyai makna utuh
-- <mark style="background:#40a9ff">Induk bisa berdiri sendiri, anak gk</mark> krn diawali konjungsi
-- <mark style="background:#40a9ff">Induk gk selalu di awal</mark>
+- Menghubungkan <mark style="background:#9254de">2 kalimat tk setara</mark>
+- Mengawali anak kalimat shg induk, anak mempunyai makna utuh
+- <mark style="background:#9254de">Induk bisa berdiri sendiri, anak gk</mark> krn diawali konjungsi
+- <mark style="background:#9254de">Induk gk selalu di awal</mark>
 #### Jenis
 | <center>Jenis</center>       | <center>Contoh</center>                              |
 | ---------------------------- | ---------------------------------------------------- |
@@ -47,7 +47,7 @@ Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#40a9ff">seta
 | Perbandingan                 | ... sama ... dengan, ... lebih ... dari/daripada ... |
 ## Konjungsi Antarkalimat
 ### Pengertian
-Menghubungkan 2 kalimat utuh
+Menghubungkan <mark style="background:#d4b106">2 kalimat utuh</mark>
 ### Ciri-Ciri
 - Terletak di awal kalimat baru
 - Huruf pertama ditulis kapital

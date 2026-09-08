@@ -1,2 +1,1 @@
 - [[(1) Fundamental]]
-- [[(2) Konjungsi]]
