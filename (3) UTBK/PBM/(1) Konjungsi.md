@@ -32,15 +32,19 @@ Menghubungkan unsur2 (kata, frasa, klausa) <mark style="background:#40a9ff">seta
 - <mark style="background:#40a9ff">Induk bisa berdiri sendiri, anak gk</mark> krn diawali konjungsi
 - <mark style="background:#40a9ff">Induk gk selalu di awal</mark>
 #### Jenis
-| <center>Jenis</center>       | <center>Contoh</center>                        |
-| ---------------------------- | ---------------------------------------------- |
-| Waktu                        | ketika, setelah, sebelum, sesudah              |
-| Syarat                       | jika, kalau, apabila                           |
-| Perlawanan/<br>konsesif      | biarpun, meski(pun), <br>sekalipun, walau(pun) |
-| Sebab                        | karena, sebab                                  |
-| Akibat atau<br>hasil         | maka, sehingga                                 |
-| Tujuan                       | agar, supaya                                   |
-| Komplementasi/<br>penjelasan | bahwa                                          |
+| <center>Jenis</center>       | <center>Contoh</center>                              |
+| ---------------------------- | ---------------------------------------------------- |
+| Waktu                        | ketika, setelah, sebelum, sesudah                    |
+| Syarat                       | jika, kalau, apabila                                 |
+| Perlawanan/<br>konsesif      | biarpun, meski(pun), <br>sekalipun, walau(pun)       |
+| Sebab                        | karena, sebab, oleh sebab, oleh karena               |
+| Akibat atau<br>hasil         | maka, sehingga                                       |
+| Tujuan                       | agar, supaya                                         |
+| Komplementasi/<br>penjelasan | bahwa                                                |
+| Pengandaian                  | andaikan, seandainya, sekiranya                      |
+| Pembandingan                 | alih-alih, ibarat, laksana, seakan-akan, sebagaimana |
+| Alat/cara                    | dengan, tanpa                                        |
+| Perbandingan                 | sama                                                 |
 ## Konjungsi Antarkalimat
 ### Pengertian
 Menghubungkan 2 kalimat utuh
