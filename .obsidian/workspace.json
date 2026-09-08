@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c977b333c61e1a5",
+        "id": "36a0062dbe3e3b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "d67a99d21cf94bc0",
+            "id": "89ddb8f8bca6d53a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(1) Konsep Wilayah dan Tata Ruang"
+              "title": "New tab"
             }
           }
         ]
@@ -194,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -222,10 +215,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "d67a99d21cf94bc0",
+  "active": "89ddb8f8bca6d53a",
   "lastOpenFiles": [
-    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
+    "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Books.md",
     "(3) UTBK/PBM/(1) Konjungsi.md",
