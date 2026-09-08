@@ -12,10 +12,10 @@
 
 ## Notes
 ### Contoh Sila
-| <center>Sila</center> | <center>Contoh</center>                                        |
-| --------------------- | -------------------------------------------------------------- |
-| <center>1</center>    |                                                                |
-| <center>2</center>    | Tk membedakan warna kulit, cinta kemajuan,                     |
-| <center>3</center>    | Kepentingan bersama di atas pribadi, bela negara, cinta negara |
-| <center>4</center>    |                                                                |
-| <center>5</center>    | Gotong royong, tolong menolong                                 |
+| <center>Sila</center> | <center>Contoh</center>                                                           |
+| --------------------- | --------------------------------------------------------------------------------- |
+| <center>1</center>    |                                                                                   |
+| <center>2</center>    | Tk membedakan warna kulit, tk bully, terlibat kegiatan2 sosial, ikut partisipasi  |
+| <center>3</center>    | Kepentingan bersama di atas pribadi, bela negara, cinta negara                    |
+| <center>4</center>    |                                                                                   |
+| <center>5</center>    | Gotong royong, tolong menolong                                                    |
