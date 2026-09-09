@@ -11,10 +11,12 @@
             "id": "9b80dd84dede5f76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(6) Quick Notes/Aftermovie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aftermovie"
             }
           }
         ]
@@ -167,6 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(6) Quick Notes/Aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
