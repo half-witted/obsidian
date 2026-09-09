@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b80dd84dede5f76",
+            "id": "0cf5f81f096effb0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "(6) Quick Notes/Aftermovie.md"
+                "file": "(6) Quick Notes/Another aftermovie.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Aftermovie"
+              "title": "Another aftermovie"
             }
           }
         ]
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(6) Quick Notes/Aftermovie.md",
+                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,8 +221,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "9b80dd84dede5f76",
+  "active": "0cf5f81f096effb0",
   "lastOpenFiles": [
+    "(6) Quick Notes/BINDO.md",
+    "(6) Quick Notes/Another aftermovie.md",
+    "(6) Quick Notes/Aftermovie.md",
+    "(6) Quick Notes/Another.md",
     "(6) Quick Notes/TKA.md",
     "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
     "(2) TKA/Comp Math/() Comp Math.md",
@@ -232,9 +236,7 @@
     "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) Konjungsi.md",
     "(1) SHS/() SHS.md",
-    "(6) Quick Notes/BINDO.md",
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
-    "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/Books.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(6) Inti Kalimat.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
@@ -248,8 +250,6 @@
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
-    "(5) Thoughts/() Thoughts.md",
-    "(2) TKA/() TKA.md",
     "(2) TKA/Adv English/Test",
     "Untitled.canvas",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20260830170340.png",
