@@ -62,6 +62,6 @@ Menghubungkan <mark style="background:#d4b106">2 kalimat utuh</mark>
 | Penegasan               | bahkan, malah(an), lagipula                                                                                                                               |
 | Eksklusif, inklusif     | kecuali itu, di samping itu                                                                                                                               |
 | Sebab-akibat            | oleh karena itu, oleh sebab itu                                                                                                                           |
-| Penyimpulan             | jadi, dengan demikian                                                                                                                                     |
+| Penyimpulan             | jadi, dengan demikian, maka dari itu                                                                                                                      |
 ## Exercises
 ![[(1E) Konjungsi|1000]]
