@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Comp Math/(1) Pola Bilangan.md",
+                "file": "(2) TKA/Comp Math/(1.1) Pola Bilangan I.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(1) Pola Bilangan"
+              "title": "(1.1) Pola Bilangan I"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Comp Math/(1) Pola Bilangan.md",
+                "file": "(2) TKA/Comp Math/(1.1) Pola Bilangan I.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,7 +227,7 @@
   "active": "c8ae5543b84f8c79",
   "lastOpenFiles": [
     "(2) TKA/Comp Math/() Comp Math.md",
-    "(2) TKA/Comp Math/(1) Pola Bilangan.md",
+    "(2) TKA/Comp Math/(1.1) Pola Bilangan I.md",
     "(6) Quick Notes/() Quick Notes.md",
     "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/TKA.md",
