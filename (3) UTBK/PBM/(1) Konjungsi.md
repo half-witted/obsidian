@@ -53,14 +53,15 @@ Menghubungkan <mark style="background:#d4b106">2 kalimat utuh</mark>
 - Huruf pertama ditulis kapital
 - Diikuti koma
 ### Jenis
-| <center>Fungsi</center> | <center>Contoh</center>                                                                                                            |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Penambahan              | selain itu, di sisi lain, sementara itu                                                                                            |
-| Pertentangan            | biarpun demikian, sekalipun demikian, namun,<br>walaupun begitu, akan tetapi, meski demikian, <br>kendati demikian, walau demikian |
-| Urutan waktu            | - Lanjutan: kemudian, sesudah itu, selanjutnya<br>- Sebelum: sebelum itu                                                           |
-| Penegasan               | bahkan, malah(an), lagipula                                                                                                        |
-| Eksklusif, inklusif     | kecuali itu, di samping itu                                                                                                        |
-| Sebab-akibat            | oleh karena itu, oleh sebab itu                                                                                                    |
-| Penyimpulan             | jadi, dengan demikian                                                                                                              |
+| <center>Fungsi</center> | <center>Contoh</center>                                                                                                                                   |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Penambahan              | selain itu, di sisi lain, sementara itu                                                                                                                   |
+| Pertentangan            | biarpun demikian/begitu, sekalipun demikian/begitu, namun,<br>walau(pun) demikian/begitu, akan tetapi, meski demikian/begitu, <br>kendati demikian/begitu |
+| Pembalikan              | Sebaliknya                                                                                                                                                |
+| Temporal                | - Lanjutan: kemudian, sesudah itu, selanjutnya<br>- Sebelum: sebelum itu                                                                                  |
+| Penegasan               | bahkan, malah(an), lagipula                                                                                                                               |
+| Eksklusif, inklusif     | kecuali itu, di samping itu                                                                                                                               |
+| Sebab-akibat            | oleh karena itu, oleh sebab itu                                                                                                                           |
+| Penyimpulan             | jadi, dengan demikian                                                                                                                                     |
 ## Exercises
 ![[(1E) Konjungsi|1000]]
