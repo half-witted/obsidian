@@ -120,7 +120,24 @@ Makna dr perang puputan adlh perlawanan total hingga titik darah penghabisan.
 | I Gusti Made Tangkas         | <mark style="background:#9254de">Panglima</mark> perang                                                           |
 | I Gusti Ngurah Rai Gede      | Komandan pasukan <mark style="background:#9254de">Bambu Runcing</mark>                                            |
 | Letkol W. Spoor              | Panglima Belanda yg memimpin operasi militer dlm <mark style="background:#9254de">mempertahankan kekuasaan</mark> |
+#### Kronologi
+- <mark style="background:#9254de">1946: Belanda kembali</mark> ke <mark style="background:#9254de">Bali</mark> utk menguasainya dan membentuk <mark style="background:#9254de">Negara Indonesia Timur.</mark>
+- <mark style="background:#9254de">Juni 1946:</mark> <mark style="background:#9254de">I Gusti Ngurah Rai</mark> membentuk pasukan <mark style="background:#9254de">Ciung Wanara</mark> utk melawan.
+- <mark style="background:#9254de">8-9 Nov 1946:</mark> <mark style="background:#9254de">Ciung Wanara</mark> menyerang <mark style="background:#9254de">pos2 Belanda di Marga, Tabanan</mark> dan dpt persenjataan.
+- <mark style="background:#9254de">20 Nov 1946:</mark> Belanda <mark style="background:#9254de">mengepung Ciung Winara di Margarana, Marga, Tabanan;</mark> Ngurah Rai memerintahkan utk <mark style="background:#9254de">melakukan puputan.</mark> <mark style="background:#9254de">Mereka gugur, termasuk Ngurah Rai.</mark>
 #### Peninggalan
 - Candi Pahlawan Margarana
 - Taman Pujaan Bangsa Margarana
 - Patung I Gusti Ngurah Rai
+## Perjanjian Mempertahankan Kemerdekaan
+### Perjanjian Linggarjati (1946)
+1. Belanda mengakui scr de facto wilayah RI: <mark style="background:#9254de">Jawa, Madura, Sumatra.</mark>
+2. RI dan Belanda sepakat membentuk <mark style="background:#9254de">Republik Indonesia Serikat (RIS).</mark>
+3. RIS dan Belanda akan membentuk <mark style="background:#9254de">Uni Indonesia-Belanda.</mark>
+4. Pembentukan RIS dan Uni Indonesia-Belanda direncanakan <mark style="background:#9254de">paling lambat 1 Jan 1949.</mark>
+### Perjanjian Renville (1948)
+1. Belanda dan RI menyetujui <mark style="background:#9254de">gencatan senjata.</mark>
+2. Disepakati <mark style="background:#9254de">Garis Van Mook sbg garis pemisah</mark> wilayah RI dan Belanda.
+3. Wilayah RI <mark style="background:#9254de">makin sempit.</mark>
+4. Pasukan RI harus <mark style="background:#9254de">ditarik dr wilayah2 kuasa Belanda.</mark>
+5. RI 
