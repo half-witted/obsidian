@@ -26,8 +26,8 @@
 	- Pertempuran berakhir stlh perintah <mark style="background:#9254de">gencatan senjata</mark>
 ### Pertempuran Bandung
 #### Waktu
-- Awal: Oktober 1945
-- Akhir: 24 Maret 1946 (pembakaran) $\to$ dampak hingga sekitar 1950
+- Awal: Okt 1945
+- Akhir: 24 Mar 1946 (pembakaran) $\to$ dampak hingga sekitar 1950
 #### Tokoh
 | <center>Indonesia</center> | <center>Sekutu</center>         |
 | -------------------------- | ------------------------------- |
@@ -37,3 +37,14 @@
 | Ramdan                     |                                 |
 #### Kronologi
 Pembumihangusan Kota Bandung bagian selatan pd <mark style="background:#9254de">23-24 Maret 1946</mark> oleh Tentara Republik Indonesia <mark style="background:#9254de">(TRI)</mark> dan warga setempat agar kota tsb <mark style="background:#9254de">tk bs dipake sbg markas militer</mark> tentara <mark style="background:#9254de">sekutu dan NICA Belanda.</mark>
+### Pertempuran Ambarawa
+Rakyat dan tentara melawan sekutu pd 20 Oktober - 15 Desember 1945
+#### Latar Belakang
+- <mark style="background:#9254de">Kedatangan sekutu:</mark> pasukan sekutu yg dipimpin oleh <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang</mark> pd <mark style="background:#9254de">20 Oktober 1945</mark> dgn alasan <mark style="background:#9254de">mengurus tawanan</mark> perang.
+- <mark style="background:#9254de">Boncengan NICA:</mark> sekutu ternyata diboncengi NICA yg mulai <mark style="background:#9254de">membebaskan, mempersenjatai tawanan Belanda.</mark>
+- <mark style="background:#9254de">Kemarahan rakyat:</mark> sekutu melanggar kesepakatan dan memicu <mark style="background:#9254de">perlawanan dr Tentara Keamanan Rakyat (TKR) serta warga lokal.</mark>
+#### Kronologi
+- <mark style="background:#9254de">26 Nov 1945: Letnan Kolonel Isdiman gugur</mark> setelah diserang pesawat sekutu.
+- <mark style="background:#9254de">Kolonel Sudirman mengambil alih</mark> posisinya dan lgsg <mark style="background:#9254de">memimpin pasukan TKR.</mark>
+### Pertempuran Surabaya
+### Pertempuran Puputan Margarana
