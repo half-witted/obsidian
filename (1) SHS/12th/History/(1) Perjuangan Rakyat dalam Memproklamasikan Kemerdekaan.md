@@ -10,7 +10,7 @@
 #### Tokoh
 | <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                                                                                                                                                                     |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kolonel Soedirman            | <mark style="background:#9254de">Pemimpin, panglima</mark> dari Tentara Keamanan Rakyat <mark style="background:#9254de">(TKR)</mark> Divisi V Banyumas yg menggunakan <mark style="background:#9254de">taktik "Supit Urang" (pengepungan ganda)</mark> |
+| Kolonel Soedirman            | <mark style="background:#9254de">Pemimpin, panglima</mark> dari Tentara Keamanan Rakyat <mark style="background:#9254de">(TKR) Divisi V Banyumas</mark> yg menggunakan <mark style="background:#9254de">taktik "Supit Urang" (pengepungan ganda)</mark> |
 | Letkol Isdiman               | <mark style="background:#9254de">Perwira</mark> yg <mark style="background:#9254de">gugur</mark> dlm pertempuran di daerah <mark style="background:#9254de">Kalurahan</mark> akibat <mark style="background:#9254de">serangan udara sekutu</mark>       |
 | Letkol Gatot Soebroto        | <mark style="background:#9254de">Ahli siasat</mark> perang yg ikut <mark style="background:#9254de">merencanakan strategi dan memimpin pasukan dgn Soedirman</mark>                                                                                     |
 | Kolonel G.P.H. Djatikusumo   | <mark style="background:#9254de">Komandan Divisi IV</mark> yg ikut mengatur <mark style="background:#9254de">koordinasi, pengepungan</mark>                                                                                                             |
@@ -56,8 +56,30 @@
 | Jenderal Mansergh            | <mark style="background:#9254de">Pengganti Mallaby</mark> yg mengeluarkan <mark style="background:#9254de">ultimatum</mark>                                              |
 #### Kronologi
 - <mark style="background:#9254de">25 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Mayjen A.W.S. Mallaby]] dtg ke <mark style="background:#9254de">Surabaya utk melucuti tentara Jepang dan mengurus tawanan perang.</mark>
-- 27 Okt 1945: terjadi bentrokan antara Indo dan sekutu stlh sekutu menyebarkan pamflet yg memerintahkan rakyat utk menyerahkan sen
+- <mark style="background:#9254de">27 Okt 1945:</mark> terjadi <mark style="background:#9254de">bentrokan</mark> antara Indo dan sekutu stlh <mark style="background:#9254de">sekutu menyebarkan pamflet</mark> yg memerintahkan <mark style="background:#9254de">rakyat utk menyerahkan senjata.</mark>
+- <mark style="background:#9254de">30 Okt 1945: A.W.S. Mallaby tewas.</mark>
+- <mark style="background:#9254de">9 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata, menghentikan perlawanan.</mark>
+- <mark style="background:#9254de">10 Nov 1945:</mark> rakyat, pejuang melakukan <mark style="background:#9254de">perlawanan besar-besaran.</mark>
+- <mark style="background:#9254de">10-30 Nov 1945:</mark> pertempuran berlangsung <mark style="background:#9254de">sengit;</mark> pasukan <mark style="background:#9254de">Indo</mark> akhirnya <mark style="background:#9254de">mundur dr pusat kota</mark> akibat <mark style="background:#9254de">tekanan besar sekutu.</mark>
+- <mark style="background:#9254de">10 Nov: Hari Pahlawan</mark>
+#### Peninggalan
+| <center>Peninggalan</center> | <center>Penjelasan Singkat</center>          |
+| ---------------------------- | -------------------------------------------- |
+| Tugu Pahlawan                | Mengenang perjuangan                         |
+| Museum Sepuluh Nopember      | Menyimpan koleksi, dokumentasi               |
+| Hotel Majapahit              | Perobekan warna biru Belanda pd 19 Sept 1945 |
+| Jembatan merah               |                                              |
 ### Pertempuran Bandung
+#### Tokoh
+| <center>Tokoh</center> | <center>Penjelasan Singkat</center>                                                                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A.H. Nasution          | <mark style="background:#9254de">Komandan Divisi III TKR</mark> yg mengatur strategi pertahanan Bandung dan <mark style="background:#9254de">perintah bumi hangus</mark> |
+| Mohammad Toha          | Pejuang yg <mark style="background:#9254de">gugur</mark> stlh <mark style="background:#9254de">meledakkan gudang amunisi Jepang di Dayeuhkolot</mark>                    |
+| Abdul Haris            | Pejuang Bandung yg ikut perlawanan                                                                                                                                       |
+| Brigade MacDonald      | Komandan pasukan sekutu yg <mark style="background:#9254de">menuntut rakyat menyerahkan senjata</mark>                                                                   |
+| Sutan Syahrir          | Perdana menteri dlm <mark style="background:#9254de">diplomasi utk menyelesaikan konflik</mark>                                                                          |
+#### Kronologi
+
 #### Waktu
 * Awal: Okt 1945
 * Akhir: 24 Mar 1946 (pembakaran) $\to$ dampak hingga sekitar 1950
