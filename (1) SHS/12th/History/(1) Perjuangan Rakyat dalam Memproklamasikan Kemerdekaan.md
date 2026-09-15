@@ -38,13 +38,22 @@
 #### Kronologi
 Pembumihangusan Kota Bandung bagian selatan pd <mark style="background:#9254de">23-24 Maret 1946</mark> oleh Tentara Republik Indonesia <mark style="background:#9254de">(TRI)</mark> dan warga setempat agar kota tsb <mark style="background:#9254de">tk bs dipake sbg markas militer</mark> tentara <mark style="background:#9254de">sekutu dan NICA Belanda.</mark>
 ### Pertempuran Ambarawa
-Rakyat dan tentara melawan sekutu pd 20 Oktober - 15 Desember 1945
+Rakyat dan tentara melawan sekutu pd <mark style="background:#d4b106">20 Okt - 15 Des 1945 dgn puncak 20 Nov - 15 Des 1945.</mark>
+#### Tokoh
+| <center>Tokoh</center> | <center>Penjelasan Singkat</center>                                                                                                                                                                                                                      |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kolonel Soedirman      | <mark style="background:#9254de">Pemimpin, panglima</mark> dari Tentara Keamanan Rakyat <mark style="background:#9254de">(TKR)</mark> Divisi V Banyumas yg menggunakan <mark style="background:#9254de">taktik "Supit Urang" (pengepungan ganda).</mark> |
+| Letkol Isdiman         | Perwira yg <mark style="background:#9254de">gugur</mark> dlm pertempuran di daerah <mark style="background:#9254de">Kalurahan</mark> akibat <mark style="background:#9254de">serangan udara sekutu.</mark>                                               |
+| Letkol Gatot Soebroto  | Ahli siasat perang yg ikut merencanakan strag                                                                                                                                                                                                            |
 #### Latar Belakang
 - <mark style="background:#9254de">Kedatangan sekutu:</mark> pasukan sekutu yg dipimpin oleh <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang</mark> pd <mark style="background:#9254de">20 Oktober 1945</mark> dgn alasan <mark style="background:#9254de">mengurus tawanan</mark> perang.
 - <mark style="background:#9254de">Boncengan NICA:</mark> sekutu ternyata diboncengi NICA yg mulai <mark style="background:#9254de">membebaskan, mempersenjatai tawanan Belanda.</mark>
 - <mark style="background:#9254de">Kemarahan rakyat:</mark> sekutu melanggar kesepakatan dan memicu <mark style="background:#9254de">perlawanan dr Tentara Keamanan Rakyat (TKR) serta warga lokal.</mark>
 #### Kronologi
-- <mark style="background:#9254de">26 Nov 1945: Letnan Kolonel Isdiman gugur</mark> setelah diserang pesawat sekutu.
+- <mark style="background:#9254de">26 Nov 1945: Letnan Kolonel Isdiman gugur</mark> stlh diserang pesawat sekutu.
 - <mark style="background:#9254de">Kolonel Sudirman mengambil alih</mark> posisinya dan lgsg <mark style="background:#9254de">memimpin pasukan TKR.</mark>
+- Kolonel Sudirman menerapkan strategi <mark style="background:#9254de">pengepungan ganda atau supit urang.</mark>
+- <mark style="background:#9254de">12-15 Des 1945: puncak serangan serentak</mark> dilakukan, <mark style="background:#9254de">mengepung</mark> pertahanan <mark style="background:#9254de">sekutu slm 4 hari.</mark>
+- <mark style="background:#9254de">15 Des 1945:</mark> pasukan sekutu <mark style="background:#9254de">terdesak, mundur dr Ambarawa ke Semarang.</mark>
 ### Pertempuran Surabaya
 ### Pertempuran Puputan Margarana
