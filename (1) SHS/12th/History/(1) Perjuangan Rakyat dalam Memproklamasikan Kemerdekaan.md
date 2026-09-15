@@ -110,7 +110,17 @@
 - Museum Perjuangan TNI
 - Patok Medan Area
 ### Pertempuran Puputan Margarana
+Makna dr perang puputan adlh perlawanan total hingga titik darah penghabisan.
 #### Tokoh
-|     |     |
-| --- | --- |
-|     |     |
+| <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                               |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| I Gusti Ngurah Rai           | Komandan pasukan <mark style="background:#9254de">Ciung Wanara</mark>                                             |
+| I Gusti Putu Wisnu           | Komandan pasukan <mark style="background:#9254de">Keris</mark>                                                    |
+| I Gusti Ngurah Made Jelantik | Wakil komandan pasukan <mark style="background:#9254de">Ciung Wanara</mark>                                       |
+| I Gusti Made Tangkas         | <mark style="background:#9254de">Panglima</mark> perang                                                           |
+| I Gusti Ngurah Rai Gede      | Komandan pasukan <mark style="background:#9254de">Bambu Runcing</mark>                                            |
+| Letkol W. Spoor              | Panglima Belanda yg memimpin operasi militer dlm <mark style="background:#9254de">mempertahankan kekuasaan</mark> |
+#### Peninggalan
+- Candi Pahlawan Margarana
+- Taman Pujaan Bangsa Margarana
+- Patung I Gusti Ngurah Rai
