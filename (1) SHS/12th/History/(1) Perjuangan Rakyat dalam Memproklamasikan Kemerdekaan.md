@@ -17,13 +17,13 @@
 | Kapten Surono                | Ditunjuk oleh Letkol Gatot Soebroto krn pengalaman, keahlian militer                                                                                                                                                                                    |
 | Letkol Sarbini Martodiharjo  | Pemimpin pasukan <mark style="background:#9254de">TKR</mark> dr <mark style="background:#9254de">Resimen Kedu Tengah</mark> yg <mark style="background:#9254de">memukul mundur sekutu</mark>                                                            |
 #### Kronologi
-- <mark style="background:#9254de">20 Okt 1945: pasukan sekutu</mark> di bawah <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang utk mengurus tawanan</mark> perang.
+- <mark style="background:#9254de">20 Okt 1945:</mark> pasukan <mark style="background:#9254de">sekutu</mark> di bawah <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang utk mengurus tawanan</mark> perang.
 - <mark style="background:#9254de">26 Okt 1945:</mark> sekutu <mark style="background:#9254de">mempersenjatai</mark> mantan tawanan <mark style="background:#9254de">NICA</mark> yg <mark style="background:#9254de">memicu bentrokan.</mark>
-- <mark style="background:#9254de">20 Nov 1945: pertempuran pecah</mark> di Ambarawa krn sekutu <mark style="background:#9254de">melanggar gencatan senjata.</mark>
+- <mark style="background:#9254de">20 Nov 1945:</mark> <mark style="background:#9254de">pertempuran pecah</mark> di Ambarawa krn sekutu <mark style="background:#9254de">melanggar gencatan senjata.</mark>
 - <mark style="background:#9254de">26 Nov 1945:</mark> [[#^tokoh|Letkol Isdiman]] <mark style="background:#9254de">gugur; komando diambil alih</mark> [[#^tokoh|Kolonel Soedirman]]
 - <mark style="background:#9254de">11 Des 1945:</mark> [[#^tokoh|Kolonel Soedirman]] pake <mark style="background:#9254de">Supit Urang</mark>
 - <mark style="background:#9254de">12-15 Des 1945:</mark> TKR <mark style="background:#9254de">serentak</mark> menyerang, sekutu <mark style="background:#9254de">mundur ke Semarang</mark>
-- <mark style="background:#9254de">15 Des: Hari Juang Kartika</mark>
+- <mark style="background:#9254de">15 Des:</mark> <mark style="background:#9254de">Hari Juang Kartika</mark>
 #### Peninggalan
 ##### Senjata dan Kendaraan Tempur
 | <center>Peninggalan</center> | <center>Penjelasan Singkat</center>    |
@@ -57,11 +57,11 @@
 #### Kronologi
 - <mark style="background:#9254de">25 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Mayjen A.W.S. Mallaby]] dtg ke <mark style="background:#9254de">Surabaya utk melucuti tentara Jepang dan mengurus tawanan perang.</mark>
 - <mark style="background:#9254de">27 Okt 1945:</mark> terjadi <mark style="background:#9254de">bentrokan</mark> antara Indo dan sekutu stlh <mark style="background:#9254de">sekutu menyebarkan pamflet</mark> yg memerintahkan <mark style="background:#9254de">rakyat utk menyerahkan senjata.</mark>
-- <mark style="background:#9254de">30 Okt 1945: A.W.S. Mallaby tewas.</mark>
+- <mark style="background:#9254de">30 Okt 1945:</mark> <mark style="background:#9254de">A.W.S. Mallaby tewas.</mark>
 - <mark style="background:#9254de">9 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata, menghentikan perlawanan.</mark>
 - <mark style="background:#9254de">10 Nov 1945:</mark> rakyat, pejuang melakukan <mark style="background:#9254de">perlawanan besar-besaran.</mark>
 - <mark style="background:#9254de">10-30 Nov 1945:</mark> pertempuran berlangsung <mark style="background:#9254de">sengit;</mark> pasukan <mark style="background:#9254de">Indo</mark> akhirnya <mark style="background:#9254de">mundur dr pusat kota</mark> akibat <mark style="background:#9254de">tekanan besar sekutu.</mark>
-- <mark style="background:#9254de">10 Nov: Hari Pahlawan</mark>
+- <mark style="background:#9254de">10 Nov:</mark> <mark style="background:#9254de">Hari Pahlawan</mark>
 #### Peninggalan
 | <center>Peninggalan</center> | <center>Penjelasan Singkat</center>          |
 | ---------------------------- | -------------------------------------------- |
@@ -80,17 +80,17 @@
 | Sutan Syahrir          | Perdana menteri dlm <mark style="background:#9254de">diplomasi utk menyelesaikan konflik</mark>                                                                          |
 #### Kronologi
 - <mark style="background:#9254de">12 Okt 1945:</mark> pasukan <mark style="background:#9254de">sekutu</mark> dtg ke <mark style="background:#9254de">Bandung utk melucuti tentara Jepang dan membebaskan tawanan.</mark>
-- <mark style="background:#9254de">Okt-Nov 1945: bentrokan2</mark> Indo dgn sekutu dan NICA.
+- <mark style="background:#9254de">Okt-Nov 1945: </mark> <mark style="background:#9254de">bentrokan2</mark> Indo dgn sekutu dan NICA.
 - <mark style="background:#9254de">24 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">Bandung bagian utara dikosongkan.</mark>
 - <mark style="background:#9254de">23 Mar 1946:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum kembali</mark> agar <mark style="background:#9254de">pasukan Indo meninggalkan Bandung.</mark>
-- <mark style="background:#9254de">23-24 Mar 1946: Bandung dibumihanguskan</mark> agar tk dpt digunakan sekutu.
+- <mark style="background:#9254de">23-24 Mar 1946:</mark> <mark style="background:#9254de">Bandung dibumihanguskan</mark> agar tk dpt digunakan sekutu.
 #### Peninggalan
 - Monumen Bandung Lautan Api
 - Museum Mandala Wangsit Siliwangi
 - Tugu Juang 45
 ### Pertempuran Medan Area
 #### Tokoh
-| <center>Tokoh</center>         | <center>Penjelasan Singkat</center>                                                                                                    |
+| <center>Tokoh</center>^tokoh   | <center>Penjelasan Singkat</center>                                                                                                    |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Ahmad Tahir                    | <mark style="background:#9254de">Pemimpin Barisan Pemuda Indonesia di Medan</mark>                                                     |
 | Achmad Daeng Mangatas          |                                                                                                                                        |
@@ -98,20 +98,19 @@
 | Brigadir Jenderal T.E.D. Kelly | <mark style="background:#9254de">Komandan</mark> pasukan sekutu yg <mark style="background:#9254de">memimpin kedatangan Inggris</mark> |
 | Teuku Mohammad Hasan           | Gubernur Sumatra                                                                                                                       |
 #### Kronologi
-- <mark style="background:#9254de">27 Agt 1945: Medan baru mengetahui</mark>
-	- <mark style="background:#9254de">Medan baru mengetahui</mark> kemerdekaan
-	- Dibawa oleh <mark style="background:#9254de">Teuku Muhammad Hassan</mark> (Gubernur Sumatra)
-- <mark style="background:#9254de">9 Okt 1945</mark>
-	- <mark style="background:#9254de">Sekutu</mark> dtg utk <mark style="background:#9254de">melucuti Jepang</mark>
-	- <mark style="background:#9254de">Mempersenjatai NICA</mark>
-	- Dipimpin oleh <mark style="background:#9254de">T. D. Kelly</mark>
-- <mark style="background:#9254de">13 Okt 1945</mark>
-	- Seorang pemuda dgn perawakan tentara di <mark style="background:#9254de"><em>Pension Wilhelmina</em></mark>
-	- Ia <mark style="background:#9254de">dilucuti, lencara diinjak-injak</mark>
-	- Memicu <mark style="background:#9254de">kemarahan rakyat, menyerbu</mark> *Pension Wilhelmina*
-	- Sekitar <mark style="background:#9254de">96 tewas,</mark> mayoritas NICA
-- Sekutu memasang <mark style="background:#9254de"><em>fixed boundaries</em></mark>
-- Tempur terus
-- <mark style="background:#9254de">Feb 1947</mark>
-	- Pertempuran berakhir stlh perintah <mark style="background:#9254de">gencatan senjata</mark>
+- <mark style="background:#9254de">27 Agt 1945:</mark> <mark style="background:#9254de">Medan baru tahu kemerdekaan</mark> yg dibawa oleh <mark style="background:#9254de">Teuku Mohammad Hasan.</mark>
+- <mark style="background:#9254de">9 Okt 1945:</mark> pasukan <mark style="background:#9254de">sekutu</mark> di bawah [[#^tokoh|Brigjen T.E.D. Kelly]] dtg ke <mark style="background:#9254de">Medan utk melucuti Jepang dan mempersenjatai NICA.</mark>
+- <mark style="background:#9254de">13 Okt 1945:</mark> pemuda dgn <mark style="background:#9254de">perawakan tentara</mark> di <mark style="background:#9254de"><em>Pension Wilhelmina</em> dilucuti, lencara diinjak-injak</mark> yg memicu bentrokan di sana (96 tewas, mayoritas NICA).
+- <mark style="background:#9254de">18 Okt 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata.</mark>
+- <mark style="background:#9254de">1 Des 1945: sekutu</mark> memasang <mark style="background:#9254de"><em>fixed boundaries.</em></mark>
+- <mark style="background:#9254de">1946-1947: tempur terus.</mark>
+- <mark style="background:#9254de">Feb 1947:</mark> pertempuran berakhir stlh perintah <mark style="background:#9254de">gencatan senjata</mark>
+#### Peninggalan
+- Tugu Medan Area
+- Museum Perjuangan TNI
+- Patok Medan Area
 ### Pertempuran Puputan Margarana
+#### Tokoh
+|     |     |
+| --- | --- |
+|     |     |
