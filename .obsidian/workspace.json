@@ -11,10 +11,15 @@
             "id": "76da60890a210877",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,10 +226,17 @@
   },
   "active": "76da60890a210877",
   "lastOpenFiles": [
-    "(6) Quick Notes/BAR.md",
+    "(1) SHS/12th/History/(0) Pra Materi.md",
+    "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
-    "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/() Exercises/(1.1) Pola Bilangan.md",
+    "(6) Quick Notes/Aftermovie.md",
+    "(6) Quick Notes/Another aftermovie.md",
+    "(6) Quick Notes/BAR.md",
+    "(6) Quick Notes/BINDO.md",
+    "(6) Quick Notes/Books.md",
+    "(6) Quick Notes/TKA.md",
+    "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260914210415.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260914210413.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260914205853.png",
@@ -236,13 +249,9 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260830170249.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260914194632.png",
     "(6) Quick Notes/() Quick Notes.md",
-    "(6) Quick Notes/Aftermovie.md",
-    "(6) Quick Notes/TKA.md",
     "(6) Quick Notes/English.md",
-    "(6) Quick Notes/BINDO.md",
     "(3) UTBK/PBM/(1) Konjungsi.md",
     "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
-    "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/Another.md",
     "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
     "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
@@ -250,13 +259,10 @@
     "(1) SHS/12th/Bahasa Indonesia/(2) Konjungsi.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
-    "(6) Quick Notes/Books.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(6) Inti Kalimat.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(3) Struktur Sintaksis.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial/(1) Gagasan.md",
-    "(1) SHS/12th/PP/(0) Notes.md",
-    "Untitled.md",
     "(1) SHS/12th/PP",
     "(2) TKA/Adv English/Test",
     "Untitled.canvas",
