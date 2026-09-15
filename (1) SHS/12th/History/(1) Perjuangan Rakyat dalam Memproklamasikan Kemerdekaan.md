@@ -1,6 +1,6 @@
 ## Kedatangan Sekutu dan *Netherlands-Indies Civil Administration* (NICA)
-- **16 Sept 1945: W. R. Patterson** mendarat di Tanjung Priok
-- **29 Sept 1945: Sir Philip Christison** memimpin *Allied Forces Netherlands East Indies* (AFNEI)
+- <mark style="background:#40a9ff">16 Sept 1945: W. R. Patterson</mark> mendarat di <mark style="background:#40a9ff">Tanjung Priok</mark>
+- <mark style="background:#40a9ff">29 Sept 1945: Sir Philip Christison</mark> memimpin *Allied Forces Netherlands East Indies* <mark style="background:#40a9ff">(AFNEI)</mark>
 ### Tugas AFNEI dan NICA
 - Melucuti, memulangkan tentara Jepang
 - Membebaskan tawanan Jepang
@@ -54,8 +54,27 @@ Rakyat dan tentara melawan sekutu pd <mark style="background:#d4b106">20 Okt - 1
 - <mark style="background:#9254de">20 Nov 1945: pertempuran pecah</mark> di Ambarawa krn sekutu <mark style="background:#9254de">melanggar gencatan senjata.</mark>
 - <mark style="background:#9254de">26 Nov 1945:</mark> [[#^tokoh|Letkol Isdiman]] <mark style="background:#9254de">gugur; komando diambil alih</mark> [[#^tokoh|Kolonel Soedirman]]
 - <mark style="background:#9254de">11 Des 1945:</mark> [[#^tokoh|Kolonel Soedirman]] pake <mark style="background:#9254de">Supit Urang</mark>
-- <mark style="background:#9254de">12-15 Des 1945:</mark> TKR <mark style="background:#9254de">serentak menyerang, sekutu mundur ke Semarang</mark> 
+- <mark style="background:#9254de">12-15 Des 1945:</mark> TKR <mark style="background:#9254de">serentak</mark> menyerang, sekutu <mark style="background:#9254de">mundur ke Semarang</mark>
 #### Peninggalan
-
+##### Senjata dan Kendaraan Tempur
+| <center>Peninggalan</center> | <center>Penjelasan Singkat</center>    |
+| ---------------------------- | -------------------------------------- |
+| Pesawat Mustang P-51         | Pesawat sekutu yg jatuh di Rawa Pening |
+| Tank M4 Sherman              | Tank sekutu yg direbut pejuang         |
+| Meriam dan panser            | Sisa PDII                              |
+| Lokomotif uap                | Pengangkut logistik militer dahulu.    |
+##### Koleksi Museum Isdiman
+| <center>Peninggalan</center> | <center>Penjelasan Singkat</center>             |
+| ---------------------------- | ----------------------------------------------- |
+| Senjata api dan tradisional  | Senapan rampasan militer, pistol, bambu runcing |
+| Seragam asli                 | Pakaian militer pejuang                         |
+| Maket taktik Supit Urang     |                                                 |
+| Dokumentasi foto otentik     |                                                 |
+##### Situs Sejarah Terkait
+| <center>Peninggalan</center>             | <center>Penjelasan Singkat</center> |
+| ---------------------------------------- | ----------------------------------- |
+| Benteng Pendem (Fort Willem I)           | Markas sekutu sebelum dikepung TKR  |
+| Patung Kolonel Soedirman, Letkol Isdiman |                                     |
 ### Pertempuran Surabaya
+
 ### Pertempuran Puputan Margarana
