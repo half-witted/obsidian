@@ -8,21 +8,22 @@
 ## Peperangan Mempertahankan Kemerdekaan
 ### Pertempuran Ambarawa
 #### Tokoh
-| <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                                                                                                                                                                      |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kolonel Soedirman            | <mark style="background:#9254de">Pemimpin, panglima</mark> dari Tentara Keamanan Rakyat <mark style="background:#9254de">(TKR)</mark> Divisi V Banyumas yg menggunakan <mark style="background:#9254de">taktik "Supit Urang" (pengepungan ganda).</mark> |
-| Letkol Isdiman               | <mark style="background:#9254de">Perwira</mark> yg <mark style="background:#9254de">gugur</mark> dlm pertempuran di daerah <mark style="background:#9254de">Kalurahan</mark> akibat <mark style="background:#9254de">serangan udara sekutu.</mark>       |
-| Letkol Gatot Soebroto        | <mark style="background:#9254de">Ahli siasat</mark> perang yg ikut <mark style="background:#9254de">merencanakan strategi dan memimpin pasukan dgn Soedirman.</mark>                                                                                     |
-| Kolonel G.P.H. Djatikusumo   | <mark style="background:#9254de">Komandan Divisi IV</mark> yg ikut mengatur <mark style="background:#9254de">koordinasi, pengepungan</mark>                                                                                                              |
-| Kapten Surono                | Ditunjuk oleh Letkol Gatot Soebroto krn pengalaman, keahlian militer                                                                                                                                                                                     |
-| Letkol Sarbini Martodiharjo  | Pemimpin pasukan <mark style="background:#9254de">TKR</mark> dr <mark style="background:#9254de">Resimen Kedu Tengah</mark> yg <mark style="background:#9254de">memukul mundur sekutu.</mark>                                                            |
+| <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                                                                                                                                                                     |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kolonel Soedirman            | <mark style="background:#9254de">Pemimpin, panglima</mark> dari Tentara Keamanan Rakyat <mark style="background:#9254de">(TKR)</mark> Divisi V Banyumas yg menggunakan <mark style="background:#9254de">taktik "Supit Urang" (pengepungan ganda)</mark> |
+| Letkol Isdiman               | <mark style="background:#9254de">Perwira</mark> yg <mark style="background:#9254de">gugur</mark> dlm pertempuran di daerah <mark style="background:#9254de">Kalurahan</mark> akibat <mark style="background:#9254de">serangan udara sekutu</mark>       |
+| Letkol Gatot Soebroto        | <mark style="background:#9254de">Ahli siasat</mark> perang yg ikut <mark style="background:#9254de">merencanakan strategi dan memimpin pasukan dgn Soedirman</mark>                                                                                     |
+| Kolonel G.P.H. Djatikusumo   | <mark style="background:#9254de">Komandan Divisi IV</mark> yg ikut mengatur <mark style="background:#9254de">koordinasi, pengepungan</mark>                                                                                                             |
+| Kapten Surono                | Ditunjuk oleh Letkol Gatot Soebroto krn pengalaman, keahlian militer                                                                                                                                                                                    |
+| Letkol Sarbini Martodiharjo  | Pemimpin pasukan <mark style="background:#9254de">TKR</mark> dr <mark style="background:#9254de">Resimen Kedu Tengah</mark> yg <mark style="background:#9254de">memukul mundur sekutu</mark>                                                            |
 #### Kronologi
-- <mark style="background:#9254de">20 Okt 1945: pasukan sekutu</mark> yg dipimpin oleh <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang utk mengurus tawanan</mark> perang.
+- <mark style="background:#9254de">20 Okt 1945: pasukan sekutu</mark> di bawah <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang utk mengurus tawanan</mark> perang.
 - <mark style="background:#9254de">26 Okt 1945:</mark> sekutu <mark style="background:#9254de">mempersenjatai</mark> mantan tawanan <mark style="background:#9254de">NICA</mark> yg <mark style="background:#9254de">memicu bentrokan.</mark>
 - <mark style="background:#9254de">20 Nov 1945: pertempuran pecah</mark> di Ambarawa krn sekutu <mark style="background:#9254de">melanggar gencatan senjata.</mark>
 - <mark style="background:#9254de">26 Nov 1945:</mark> [[#^tokoh|Letkol Isdiman]] <mark style="background:#9254de">gugur; komando diambil alih</mark> [[#^tokoh|Kolonel Soedirman]]
 - <mark style="background:#9254de">11 Des 1945:</mark> [[#^tokoh|Kolonel Soedirman]] pake <mark style="background:#9254de">Supit Urang</mark>
 - <mark style="background:#9254de">12-15 Des 1945:</mark> TKR <mark style="background:#9254de">serentak</mark> menyerang, sekutu <mark style="background:#9254de">mundur ke Semarang</mark>
+- <mark style="background:#9254de">15 Des: Hari Juang Kartika</mark>
 #### Peninggalan
 ##### Senjata dan Kendaraan Tempur
 | <center>Peninggalan</center> | <center>Penjelasan Singkat</center>    |
@@ -45,10 +46,17 @@
 | Patung Kolonel Soedirman, Letkol Isdiman |                                     |
 ### Pertempuran Surabaya
 #### Tokoh
-| <center>Tokoh</center> | <center>Penjelasan S |
-| ---------------------- | -------------------- |
-|                        |                      |
-
+| <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bung Tomo                    | <mark style="background:#9254de">Pemimpin, pengobar semangat</mark> rakyat lwt radio; terkenal dgn pidatonya                                                             |
+| Gubernur Soerjo              | <mark style="background:#9254de">Gubernur Jatim</mark> yg memimpin pemerintahan dan <mark style="background:#9254de">menyerukan perlawanan trhdp ultimatum sekutu</mark> |
+| Mayjen A.W.S. Mallaby        | Komandan sekutu yg tewas pd <mark style="background:#9254de">30 Okt 1945.</mark>                                                                                         |
+| Kolonel Sungkono             | Komandan pertahanan yg <mark style="background:#9254de">mengatur perlawanan rakyat, TKR</mark>                                                                           |
+| KH. Hasyim Asyari            | Mengeluarkan <mark style="background:#9254de">resolusi jihad</mark>                                                                                                      |
+| Jenderal Mansergh            | <mark style="background:#9254de">Pengganti Mallaby</mark> yg mengeluarkan <mark style="background:#9254de">ultimatum</mark>                                              |
+#### Kronologi
+- <mark style="background:#9254de">25 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Mayjen A.W.S. Mallaby]] dtg ke <mark style="background:#9254de">Surabaya utk melucuti tentara Jepang dan mengurus tawanan perang.</mark>
+- 27 Okt 1945: terjadi bentrokan antara Indo dan sekutu stlh sekutu menyebarkan pamflet yg memerintahkan rakyat utk menyerahkan sen
 ### Pertempuran Bandung
 #### Waktu
 * Awal: Okt 1945
