@@ -17,7 +17,7 @@
 | Kapten Surono                | Ditunjuk oleh Letkol Gatot Soebroto krn pengalaman, keahlian militer                                                                                                                                                                                    |
 | Letkol Sarbini Martodiharjo  | Pemimpin pasukan <mark style="background:#9254de">TKR</mark> dr <mark style="background:#9254de">Resimen Kedu Tengah</mark> yg <mark style="background:#9254de">memukul mundur sekutu</mark>                                                            |
 #### Kronologi
-- <mark style="background:#9254de">20 Okt 1945:</mark> pasukan <mark style="background:#9254de">sekutu</mark> di bawah <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang utk mengurus tawanan</mark> perang.
+- <mark style="background:#9254de">20 Okt 1945:</mark> pasukan sekutu di bawah <mark style="background:#9254de">Brigadir Bethell</mark> dtg ke <mark style="background:#9254de">Semarang utk mengurus tawanan</mark> perang.
 - <mark style="background:#9254de">26 Okt 1945:</mark> sekutu <mark style="background:#9254de">mempersenjatai</mark> mantan tawanan <mark style="background:#9254de">NICA</mark> yg <mark style="background:#9254de">memicu bentrokan.</mark>
 - <mark style="background:#9254de">20 Nov 1945:</mark> <mark style="background:#9254de">pertempuran pecah</mark> di Ambarawa krn sekutu <mark style="background:#9254de">melanggar gencatan senjata.</mark>
 - <mark style="background:#9254de">26 Nov 1945:</mark> [[#^tokoh|Letkol Isdiman]] <mark style="background:#9254de">gugur; komando diambil alih</mark> [[#^tokoh|Kolonel Soedirman]]
@@ -55,7 +55,7 @@
 | KH. Hasyim Asyari            | Mengeluarkan <mark style="background:#9254de">resolusi jihad</mark>                                                                                                      |
 | Jenderal Mansergh            | <mark style="background:#9254de">Pengganti Mallaby</mark> yg mengeluarkan <mark style="background:#9254de">ultimatum</mark>                                              |
 #### Kronologi
-- <mark style="background:#9254de">25 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Mayjen A.W.S. Mallaby]] dtg ke <mark style="background:#9254de">Surabaya utk melucuti tentara Jepang dan mengurus tawanan perang.</mark>
+- <mark style="background:#9254de">25 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Mayjen A.W.S. Mallaby]] dtg ke Surabaya utk <mark style="background:#9254de">melucuti tentara Jepang dan mengurus tawanan perang.</mark>
 - <mark style="background:#9254de">27 Okt 1945:</mark> terjadi <mark style="background:#9254de">bentrokan</mark> antara Indo dan sekutu stlh <mark style="background:#9254de">sekutu menyebarkan pamflet</mark> yg memerintahkan <mark style="background:#9254de">rakyat utk menyerahkan senjata.</mark>
 - <mark style="background:#9254de">30 Okt 1945:</mark> <mark style="background:#9254de">A.W.S. Mallaby tewas.</mark>
 - <mark style="background:#9254de">9 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata, menghentikan perlawanan.</mark>
@@ -79,7 +79,7 @@
 | Brigade MacDonald      | Komandan pasukan sekutu yg <mark style="background:#9254de">menuntut rakyat menyerahkan senjata</mark>                                                                   |
 | Sutan Syahrir          | Perdana menteri dlm <mark style="background:#9254de">diplomasi utk menyelesaikan konflik</mark>                                                                          |
 #### Kronologi
-- <mark style="background:#9254de">12 Okt 1945:</mark> pasukan <mark style="background:#9254de">sekutu</mark> dtg ke <mark style="background:#9254de">Bandung utk melucuti tentara Jepang dan membebaskan tawanan.</mark>
+- <mark style="background:#9254de">12 Okt 1945:</mark> pasukan sekutu dtg ke Bandung <mark style="background:#9254de">melucuti tentara Jepang dan membebaskan tawanan.</mark>
 - <mark style="background:#9254de">Okt-Nov 1945: </mark> <mark style="background:#9254de">bentrokan2</mark> Indo dgn sekutu dan NICA.
 - <mark style="background:#9254de">24 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">Bandung bagian utara dikosongkan.</mark>
 - <mark style="background:#9254de">23 Mar 1946:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum kembali</mark> agar <mark style="background:#9254de">pasukan Indo meninggalkan Bandung.</mark>
@@ -99,11 +99,11 @@
 | Teuku Mohammad Hasan           | Gubernur Sumatra                                                                                                                       |
 #### Kronologi
 - <mark style="background:#9254de">27 Agt 1945:</mark> <mark style="background:#9254de">Medan baru tahu kemerdekaan</mark> yg dibawa oleh <mark style="background:#9254de">Teuku Mohammad Hasan.</mark>
-- <mark style="background:#9254de">9 Okt 1945:</mark> pasukan <mark style="background:#9254de">sekutu</mark> di bawah [[#^tokoh|Brigjen T.E.D. Kelly]] dtg ke <mark style="background:#9254de">Medan utk melucuti Jepang dan mempersenjatai NICA.</mark>
+- <mark style="background:#9254de">9 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Brigjen T.E.D. Kelly]] dtg ke Medan utk <mark style="background:#9254de">melucuti Jepang dan mempersenjatai NICA.</mark>
 - <mark style="background:#9254de">13 Okt 1945:</mark> pemuda dgn <mark style="background:#9254de">perawakan tentara</mark> di <mark style="background:#9254de"><em>Pension Wilhelmina</em> dilucuti, lencara diinjak-injak</mark> yg memicu bentrokan di sana (96 tewas, mayoritas NICA).
 - <mark style="background:#9254de">18 Okt 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata.</mark>
-- <mark style="background:#9254de">1 Des 1945: sekutu</mark> memasang <mark style="background:#9254de"><em>fixed boundaries.</em></mark>
-- <mark style="background:#9254de">1946-1947: tempur terus.</mark>
+- <mark style="background:#9254de">1 Des 1945:</mark> sekutu memasang <mark style="background:#9254de"><em>fixed boundaries.</em></mark>
+- <mark style="background:#9254de">1946-1947:</mark> tempur terus.
 - <mark style="background:#9254de">Feb 1947:</mark> pertempuran berakhir stlh perintah <mark style="background:#9254de">gencatan senjata</mark>
 #### Peninggalan
 - Tugu Medan Area
@@ -121,7 +121,7 @@ Makna dr perang puputan adlh perlawanan total hingga titik darah penghabisan.
 | I Gusti Ngurah Rai Gede      | Komandan pasukan <mark style="background:#9254de">Bambu Runcing</mark>                                            |
 | Letkol W. Spoor              | Panglima Belanda yg memimpin operasi militer dlm <mark style="background:#9254de">mempertahankan kekuasaan</mark> |
 #### Kronologi
-- <mark style="background:#9254de">1946: Belanda kembali</mark> ke <mark style="background:#9254de">Bali</mark> utk menguasainya dan membentuk <mark style="background:#9254de">Negara Indonesia Timur.</mark>
+- <mark style="background:#9254de">1946:</mark> <mark style="background:#9254de">Belanda kembali</mark> ke Bali utk menguasainya dan membentuk <mark style="background:#9254de">Negara Indonesia Timur.</mark>
 - <mark style="background:#9254de">Juni 1946:</mark> <mark style="background:#9254de">I Gusti Ngurah Rai</mark> membentuk pasukan <mark style="background:#9254de">Ciung Wanara</mark> utk melawan.
 - <mark style="background:#9254de">8-9 Nov 1946:</mark> <mark style="background:#9254de">Ciung Wanara</mark> menyerang <mark style="background:#9254de">pos2 Belanda di Marga, Tabanan</mark> dan dpt persenjataan.
 - <mark style="background:#9254de">20 Nov 1946:</mark> Belanda <mark style="background:#9254de">mengepung Ciung Winara di Margarana, Marga, Tabanan;</mark> Ngurah Rai memerintahkan utk <mark style="background:#9254de">melakukan puputan.</mark> <mark style="background:#9254de">Mereka gugur, termasuk Ngurah Rai.</mark>
@@ -131,13 +131,19 @@ Makna dr perang puputan adlh perlawanan total hingga titik darah penghabisan.
 - Patung I Gusti Ngurah Rai
 ## Perjanjian Mempertahankan Kemerdekaan
 ### Perjanjian Linggarjati (1946)
-1. Belanda mengakui scr de facto wilayah RI: <mark style="background:#9254de">Jawa, Madura, Sumatra.</mark>
-2. RI dan Belanda sepakat membentuk <mark style="background:#9254de">Republik Indonesia Serikat (RIS).</mark>
-3. RIS dan Belanda akan membentuk <mark style="background:#9254de">Uni Indonesia-Belanda.</mark>
-4. Pembentukan RIS dan Uni Indonesia-Belanda direncanakan <mark style="background:#9254de">paling lambat 1 Jan 1949.</mark>
+1. Belanda mengakui scr de facto wilayah RI: <mark style="background:#d4b106">Jawa, Madura, Sumatra.</mark>
+2. RI dan Belanda sepakat membentuk <mark style="background:#d4b106">Republik Indonesia Serikat (RIS).</mark>
+3. RIS dan Belanda akan membentuk <mark style="background:#d4b106">Uni Indonesia-Belanda.</mark>
+4. Pembentukan RIS dan Uni Indonesia-Belanda direncanakan <mark style="background:#d4b106">paling lambat 1 Jan 1949.</mark>
 ### Perjanjian Renville (1948)
-1. Belanda dan RI menyetujui <mark style="background:#9254de">gencatan senjata.</mark>
-2. Disepakati <mark style="background:#9254de">Garis Van Mook sbg garis pemisah</mark> wilayah RI dan Belanda.
-3. Wilayah RI <mark style="background:#9254de">makin sempit.</mark>
-4. Pasukan RI harus <mark style="background:#9254de">ditarik dr wilayah2 kuasa Belanda.</mark>
-5. RI 
+1. Belanda dan RI menyetujui <mark style="background:#d4b106">gencatan senjata.</mark>
+2. Disepakati <mark style="background:#d4b106">Garis Van Mook sbg garis pemisah</mark> wilayah RI dan Belanda.
+3. Wilayah RI <mark style="background:#d4b106">makin sempit.</mark>
+4. Pasukan RI harus <mark style="background:#d4b106">ditarik dr wilayah2 kuasa Belanda.</mark>
+5. RI dan Belanda ttp berusaha menyelesaikan konflik lwt perundingan.
+### Perjanjian Roem-Royen (1949)
+1. RI <mark style="background:#d4b106">menghentikan perang gerilya</mark> dan bersedia bekerja sama.
+2. Belanda <mark style="background:#d4b106">menghentikan operasi militer dan membebaskan pemimpin2</mark> RI yg ditahan.
+3. Pemerintah RI <mark style="background:#d4b106">dikembalikan ke Yogyakarta.</mark>
+4. Belanda menyetujui penyelenggaraan <mark style="background:#d4b106">KMB.</mark>
+5. RI bersedia ikut KMB utk membahas penyerahan kedaulatan kpd Indo.
