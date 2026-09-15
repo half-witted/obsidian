@@ -130,18 +130,18 @@ Makna dr perang puputan adlh perlawanan total hingga titik darah penghabisan.
 - Taman Pujaan Bangsa Margarana
 - Patung I Gusti Ngurah Rai
 ## Perjanjian Mempertahankan Kemerdekaan
-### Perjanjian Linggarjati (1946)
+### Perjanjian Linggarjati (15 Nov 1946)
 1. Belanda mengakui scr de facto wilayah RI: <mark style="background:#d4b106">Jawa, Madura, Sumatra.</mark>
 2. RI dan Belanda sepakat membentuk <mark style="background:#d4b106">Republik Indonesia Serikat (RIS).</mark>
 3. RIS dan Belanda akan membentuk <mark style="background:#d4b106">Uni Indonesia-Belanda.</mark>
 4. Pembentukan RIS dan Uni Indonesia-Belanda direncanakan <mark style="background:#d4b106">paling lambat 1 Jan 1949.</mark>
-### Perjanjian Renville (1948)
+### Perjanjian Renville (17 Jan 1948)
 1. Belanda dan RI menyetujui <mark style="background:#d4b106">gencatan senjata.</mark>
 2. Disepakati <mark style="background:#d4b106">Garis Van Mook sbg garis pemisah</mark> wilayah RI dan Belanda.
 3. Wilayah RI <mark style="background:#d4b106">makin sempit.</mark>
 4. Pasukan RI harus <mark style="background:#d4b106">ditarik dr wilayah2 kuasa Belanda.</mark>
 5. RI dan Belanda ttp berusaha menyelesaikan konflik lwt perundingan.
-### Perjanjian Roem-Royen (1949)
+### Perjanjian Roem-Royen (7 Mei 1949)
 1. RI <mark style="background:#d4b106">menghentikan perang gerilya</mark> dan bersedia bekerja sama.
 2. Belanda <mark style="background:#d4b106">menghentikan operasi militer dan membebaskan pemimpin2</mark> RI yg ditahan.
 3. Pemerintah RI <mark style="background:#d4b106">dikembalikan ke Yogyakarta.</mark>
