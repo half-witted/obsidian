@@ -79,22 +79,26 @@
 | Brigade MacDonald      | Komandan pasukan sekutu yg <mark style="background:#9254de">menuntut rakyat menyerahkan senjata</mark>                                                                   |
 | Sutan Syahrir          | Perdana menteri dlm <mark style="background:#9254de">diplomasi utk menyelesaikan konflik</mark>                                                                          |
 #### Kronologi
-
-#### Waktu
-* Awal: Okt 1945
-* Akhir: 24 Mar 1946 (pembakaran) $\to$ dampak hingga sekitar 1950
-#### Tokoh
-| <center>Indonesia</center> | <center>Sekutu</center>         |
-| -------------------------- | ------------------------------- |
-| Abdoel Haris Nasution      | Mayor Jenderal Douglas Hawthorn |
-| Sutan Syahrir              |                                 |
-| Mohammad Toha              |                                 |
-| Ramdan                     |                                 |
-#### Kronologi
-Pembumihangusan Kota Bandung bagian selatan pd <mark style="background:#9254de">23-24 Maret 1946</mark> oleh Tentara Republik Indonesia <mark style="background:#9254de">(TRI)</mark> dan warga setempat agar kota tsb <mark style="background:#9254de">tk bs dipake sbg markas militer</mark> tentara <mark style="background:#9254de">sekutu dan NICA Belanda.</mark>
+- <mark style="background:#9254de">12 Okt 1945:</mark> pasukan <mark style="background:#9254de">sekutu</mark> dtg ke <mark style="background:#9254de">Bandung utk melucuti tentara Jepang dan membebaskan tawanan.</mark>
+- <mark style="background:#9254de">Okt-Nov 1945: bentrokan2</mark> Indo dgn sekutu dan NICA.
+- <mark style="background:#9254de">24 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">Bandung bagian utara dikosongkan.</mark>
+- <mark style="background:#9254de">23 Mar 1946:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum kembali</mark> agar <mark style="background:#9254de">pasukan Indo meninggalkan Bandung.</mark>
+- <mark style="background:#9254de">23-24 Mar 1946: Bandung dibumihanguskan</mark> agar tk dpt digunakan sekutu.
+#### Peninggalan
+- Monumen Bandung Lautan Api
+- Museum Mandala Wangsit Siliwangi
+- Tugu Juang 45
 ### Pertempuran Medan Area
-#### Timeline
-- <mark style="background:#9254de">27 Agt 1945</mark>
+#### Tokoh
+| <center>Tokoh</center>         | <center>Penjelasan Singkat</center>                                                                                                    |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Ahmad Tahir                    | <mark style="background:#9254de">Pemimpin Barisan Pemuda Indonesia di Medan</mark>                                                     |
+| Achmad Daeng Mangatas          |                                                                                                                                        |
+| Kolonel Ahmad Yani             | <mark style="background:#9254de">Perwira TKR</mark> yg kemudian <mark style="background:#9254de">memimpin pasukan di Sumut</mark>      |
+| Brigadir Jenderal T.E.D. Kelly | <mark style="background:#9254de">Komandan</mark> pasukan sekutu yg <mark style="background:#9254de">memimpin kedatangan Inggris</mark> |
+| Teuku Mohammad Hasan           | Gubernur Sumatra                                                                                                                       |
+#### Kronologi
+- <mark style="background:#9254de">27 Agt 1945: Medan baru mengetahui</mark>
 	- <mark style="background:#9254de">Medan baru mengetahui</mark> kemerdekaan
 	- Dibawa oleh <mark style="background:#9254de">Teuku Muhammad Hassan</mark> (Gubernur Sumatra)
 - <mark style="background:#9254de">9 Okt 1945</mark>
@@ -110,4 +114,4 @@ Pembumihangusan Kota Bandung bagian selatan pd <mark style="background:#9254de">
 - Tempur terus
 - <mark style="background:#9254de">Feb 1947</mark>
 	- Pertempuran berakhir stlh perintah <mark style="background:#9254de">gencatan senjata</mark>
-### Pertempuran Puputan Margaranatokoh
+### Pertempuran Puputan Margarana
