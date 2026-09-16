@@ -141,6 +141,7 @@ Makna dr perang puputan adlh perlawanan total hingga titik darah penghabisan.
 3. Wilayah RI <mark style="background:#d4b106">makin sempit.</mark>
 4. Pasukan RI harus <mark style="background:#d4b106">ditarik dr wilayah2 kuasa Belanda.</mark>
 5. RI dan Belanda ttp berusaha menyelesaikan konflik lwt perundingan.
+6. Agar pemerintahan ttp di Jakarta.
 ### Perjanjian Roem-Royen (7 Mei 1949)
 1. RI <mark style="background:#d4b106">menghentikan perang gerilya</mark> dan bersedia bekerja sama.
 2. Belanda <mark style="background:#d4b106">menghentikan operasi militer dan membebaskan pemimpin2</mark> RI yg ditahan.
