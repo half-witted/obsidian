@@ -6,6 +6,72 @@
 - Membebaskan tawanan Jepang
 - Menjaga keamanan, perdamaian Indo
 ## Peperangan Mempertahankan Kemerdekaan
+### Pertempuran Medan Area
+#### Tokoh
+| <center>Tokoh</center>^tokoh   | <center>Penjelasan Singkat</center>                                                                                                    |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Ahmad Tahir                    | <mark style="background:#9254de">Pemimpin Barisan Pemuda Indonesia di Medan</mark>                                                     |
+| Achmad Daeng Mangatas          |                                                                                                                                        |
+| Kolonel Ahmad Yani             | <mark style="background:#9254de">Perwira TKR</mark> yg kemudian <mark style="background:#9254de">memimpin pasukan di Sumut</mark>      |
+| Brigadir Jenderal T.E.D. Kelly | <mark style="background:#9254de">Komandan</mark> pasukan sekutu yg <mark style="background:#9254de">memimpin kedatangan Inggris</mark> |
+| Teuku Mohammad Hasan           | Gubernur Sumatra                                                                                                                       |
+#### Kronologi
+- <mark style="background:#9254de">27 Agt 1945:</mark> <mark style="background:#9254de">Medan baru tahu kemerdekaan</mark> yg dibawa oleh <mark style="background:#9254de">Teuku Mohammad Hasan.</mark>
+- <mark style="background:#9254de">9 Okt 1945:</mark> pasukan sekutu (British Raj dan Belanda) di bawah [[#^tokoh|Brigjen T.E.D. Kelly]] dtg ke Medan utk <mark style="background:#9254de">melucuti Jepang dan mempersenjatai NICA.</mark>
+- <mark style="background:#9254de">13 Okt 1945:</mark> pemuda dgn <mark style="background:#9254de">perawakan tentara</mark> di <mark style="background:#9254de"><em>Pension Wilhelmina</em> dilucuti, lencara diinjak-injak</mark> yg memicu bentrokan di sana (96 tewas, mayoritas NICA).
+- <mark style="background:#9254de">18 Okt 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata.</mark>
+- <mark style="background:#9254de">1 Des 1945:</mark> sekutu memasang <mark style="background:#9254de"><em>fixed boundaries.</em></mark>
+- 
+- <mark style="background:#9254de">1946-1947:</mark> tempur terus.
+- <mark style="background:#9254de">Feb 1947:</mark> pertempuran berakhir stlh perintah <mark style="background:#9254de">gencatan senjata</mark>
+#### Peninggalan
+- Tugu Medan Area
+- Museum Perjuangan TNI
+- Patok Medan Area
+### Pertempuran Bandung
+#### Tokoh
+| <center>Tokoh</center> | <center>Penjelasan Singkat</center>                                                                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A.H. Nasution          | <mark style="background:#9254de">Komandan Divisi III TKR</mark> yg mengatur strategi pertahanan Bandung dan <mark style="background:#9254de">perintah bumi hangus</mark> |
+| Mohammad Toha          | Pejuang yg <mark style="background:#9254de">gugur</mark> stlh <mark style="background:#9254de">meledakkan gudang amunisi Jepang di Dayeuhkolot</mark>                    |
+| Abdul Haris            | Pejuang Bandung yg ikut perlawanan                                                                                                                                       |
+| Brigade MacDonald      | Komandan pasukan sekutu yg <mark style="background:#9254de">menuntut rakyat menyerahkan senjata</mark>                                                                   |
+| Sutan Syahrir          | Perdana menteri dlm <mark style="background:#9254de">diplomasi utk menyelesaikan konflik</mark>                                                                          |
+#### Kronologi
+- <mark style="background:#9254de">12 Okt 1945:</mark> pasukan sekutu dtg ke Bandung <mark style="background:#9254de">melucuti tentara Jepang dan membebaskan tawanan.</mark>
+- <mark style="background:#9254de">Okt-Nov 1945: </mark> <mark style="background:#9254de">bentrokan2</mark> Indo dgn sekutu dan NICA.
+- <mark style="background:#9254de">24 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">Bandung bagian utara dikosongkan.</mark>
+- <mark style="background:#9254de">23 Mar 1946:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum kembali</mark> agar <mark style="background:#9254de">pasukan Indo meninggalkan Bandung.</mark>
+- <mark style="background:#9254de">23-24 Mar 1946:</mark> <mark style="background:#9254de">Bandung dibumihanguskan</mark> agar tk dpt digunakan sekutu.
+#### Peninggalan
+- Monumen Bandung Lautan Api
+- Museum Mandala Wangsit Siliwangi
+- Tugu Juang 45
+### Pertempuran Surabaya
+#### Tokoh
+| <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Bung Tomo                    | <mark style="background:#9254de">Pemimpin, pengobar semangat</mark> rakyat lwt radio; terkenal dgn pidatonya                                                             |
+| Gubernur Soerjo              | <mark style="background:#9254de">Gubernur Jatim</mark> yg memimpin pemerintahan dan <mark style="background:#9254de">menyerukan perlawanan trhdp ultimatum sekutu</mark> |
+| Mayjen A.W.S. Mallaby        | Komandan sekutu yg tewas pd <mark style="background:#9254de">30 Okt 1945.</mark>                                                                                         |
+| Kolonel Sungkono             | Komandan pertahanan yg <mark style="background:#9254de">mengatur perlawanan rakyat, TKR</mark>                                                                           |
+| KH. Hasyim Asyari            | Mengeluarkan <mark style="background:#9254de">resolusi jihad</mark>                                                                                                      |
+| Jenderal Mansergh            | <mark style="background:#9254de">Pengganti Mallaby</mark> yg mengeluarkan <mark style="background:#9254de">ultimatum</mark>                                              |
+#### Kronologi
+- <mark style="background:#9254de">25 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Mayjen A.W.S. Mallaby]] dtg ke Surabaya utk <mark style="background:#9254de">melucuti tentara Jepang dan mengurus tawanan perang.</mark>
+- <mark style="background:#9254de">27 Okt 1945:</mark> terjadi <mark style="background:#9254de">bentrokan</mark> antara Indo dan sekutu stlh <mark style="background:#9254de">sekutu menyebarkan pamflet</mark> yg memerintahkan <mark style="background:#9254de">rakyat utk menyerahkan senjata.</mark>
+- <mark style="background:#9254de">30 Okt 1945:</mark> <mark style="background:#9254de">A.W.S. Mallaby tewas.</mark>
+- <mark style="background:#9254de">9 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata, menghentikan perlawanan.</mark>
+- <mark style="background:#9254de">10 Nov 1945:</mark> rakyat, pejuang melakukan <mark style="background:#9254de">perlawanan besar-besaran.</mark>
+- <mark style="background:#9254de">10-30 Nov 1945:</mark> pertempuran berlangsung <mark style="background:#9254de">sengit;</mark> pasukan <mark style="background:#9254de">Indo</mark> akhirnya <mark style="background:#9254de">mundur dr pusat kota</mark> akibat <mark style="background:#9254de">tekanan besar sekutu.</mark>
+- <mark style="background:#9254de">10 Nov:</mark> <mark style="background:#9254de">Hari Pahlawan</mark>
+#### Peninggalan
+| <center>Peninggalan</center> | <center>Penjelasan Singkat</center>          |
+| ---------------------------- | -------------------------------------------- |
+| Tugu Pahlawan                | Mengenang perjuangan                         |
+| Museum Sepuluh Nopember      | Menyimpan koleksi, dokumentasi               |
+| Hotel Majapahit              | Perobekan warna biru Belanda pd 19 Sept 1945 |
+| Jembatan merah               |                                              |
 ### Pertempuran Ambarawa
 #### Tokoh
 | <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                                                                                                                                                                     |
@@ -44,71 +110,6 @@
 | ---------------------------------------- | ----------------------------------- |
 | Benteng Pendem (Fort Willem I)           | Markas sekutu sebelum dikepung TKR  |
 | Patung Kolonel Soedirman, Letkol Isdiman |                                     |
-### Pertempuran Surabaya
-#### Tokoh
-| <center>Tokoh</center>^tokoh | <center>Penjelasan Singkat</center>                                                                                                                                      |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Bung Tomo                    | <mark style="background:#9254de">Pemimpin, pengobar semangat</mark> rakyat lwt radio; terkenal dgn pidatonya                                                             |
-| Gubernur Soerjo              | <mark style="background:#9254de">Gubernur Jatim</mark> yg memimpin pemerintahan dan <mark style="background:#9254de">menyerukan perlawanan trhdp ultimatum sekutu</mark> |
-| Mayjen A.W.S. Mallaby        | Komandan sekutu yg tewas pd <mark style="background:#9254de">30 Okt 1945.</mark>                                                                                         |
-| Kolonel Sungkono             | Komandan pertahanan yg <mark style="background:#9254de">mengatur perlawanan rakyat, TKR</mark>                                                                           |
-| KH. Hasyim Asyari            | Mengeluarkan <mark style="background:#9254de">resolusi jihad</mark>                                                                                                      |
-| Jenderal Mansergh            | <mark style="background:#9254de">Pengganti Mallaby</mark> yg mengeluarkan <mark style="background:#9254de">ultimatum</mark>                                              |
-#### Kronologi
-- <mark style="background:#9254de">25 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Mayjen A.W.S. Mallaby]] dtg ke Surabaya utk <mark style="background:#9254de">melucuti tentara Jepang dan mengurus tawanan perang.</mark>
-- <mark style="background:#9254de">27 Okt 1945:</mark> terjadi <mark style="background:#9254de">bentrokan</mark> antara Indo dan sekutu stlh <mark style="background:#9254de">sekutu menyebarkan pamflet</mark> yg memerintahkan <mark style="background:#9254de">rakyat utk menyerahkan senjata.</mark>
-- <mark style="background:#9254de">30 Okt 1945:</mark> <mark style="background:#9254de">A.W.S. Mallaby tewas.</mark>
-- <mark style="background:#9254de">9 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata, menghentikan perlawanan.</mark>
-- <mark style="background:#9254de">10 Nov 1945:</mark> rakyat, pejuang melakukan <mark style="background:#9254de">perlawanan besar-besaran.</mark>
-- <mark style="background:#9254de">10-30 Nov 1945:</mark> pertempuran berlangsung <mark style="background:#9254de">sengit;</mark> pasukan <mark style="background:#9254de">Indo</mark> akhirnya <mark style="background:#9254de">mundur dr pusat kota</mark> akibat <mark style="background:#9254de">tekanan besar sekutu.</mark>
-- <mark style="background:#9254de">10 Nov:</mark> <mark style="background:#9254de">Hari Pahlawan</mark>
-#### Peninggalan
-| <center>Peninggalan</center> | <center>Penjelasan Singkat</center>          |
-| ---------------------------- | -------------------------------------------- |
-| Tugu Pahlawan                | Mengenang perjuangan                         |
-| Museum Sepuluh Nopember      | Menyimpan koleksi, dokumentasi               |
-| Hotel Majapahit              | Perobekan warna biru Belanda pd 19 Sept 1945 |
-| Jembatan merah               |                                              |
-### Pertempuran Bandung
-#### Tokoh
-| <center>Tokoh</center> | <center>Penjelasan Singkat</center>                                                                                                                                      |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| A.H. Nasution          | <mark style="background:#9254de">Komandan Divisi III TKR</mark> yg mengatur strategi pertahanan Bandung dan <mark style="background:#9254de">perintah bumi hangus</mark> |
-| Mohammad Toha          | Pejuang yg <mark style="background:#9254de">gugur</mark> stlh <mark style="background:#9254de">meledakkan gudang amunisi Jepang di Dayeuhkolot</mark>                    |
-| Abdul Haris            | Pejuang Bandung yg ikut perlawanan                                                                                                                                       |
-| Brigade MacDonald      | Komandan pasukan sekutu yg <mark style="background:#9254de">menuntut rakyat menyerahkan senjata</mark>                                                                   |
-| Sutan Syahrir          | Perdana menteri dlm <mark style="background:#9254de">diplomasi utk menyelesaikan konflik</mark>                                                                          |
-#### Kronologi
-- <mark style="background:#9254de">12 Okt 1945:</mark> pasukan sekutu dtg ke Bandung <mark style="background:#9254de">melucuti tentara Jepang dan membebaskan tawanan.</mark>
-- <mark style="background:#9254de">Okt-Nov 1945: </mark> <mark style="background:#9254de">bentrokan2</mark> Indo dgn sekutu dan NICA.
-- <mark style="background:#9254de">24 Nov 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">Bandung bagian utara dikosongkan.</mark>
-- <mark style="background:#9254de">23 Mar 1946:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum kembali</mark> agar <mark style="background:#9254de">pasukan Indo meninggalkan Bandung.</mark>
-- <mark style="background:#9254de">23-24 Mar 1946:</mark> <mark style="background:#9254de">Bandung dibumihanguskan</mark> agar tk dpt digunakan sekutu.
-#### Peninggalan
-- Monumen Bandung Lautan Api
-- Museum Mandala Wangsit Siliwangi
-- Tugu Juang 45
-### Pertempuran Medan Area
-#### Tokoh
-| <center>Tokoh</center>^tokoh   | <center>Penjelasan Singkat</center>                                                                                                    |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Ahmad Tahir                    | <mark style="background:#9254de">Pemimpin Barisan Pemuda Indonesia di Medan</mark>                                                     |
-| Achmad Daeng Mangatas          |                                                                                                                                        |
-| Kolonel Ahmad Yani             | <mark style="background:#9254de">Perwira TKR</mark> yg kemudian <mark style="background:#9254de">memimpin pasukan di Sumut</mark>      |
-| Brigadir Jenderal T.E.D. Kelly | <mark style="background:#9254de">Komandan</mark> pasukan sekutu yg <mark style="background:#9254de">memimpin kedatangan Inggris</mark> |
-| Teuku Mohammad Hasan           | Gubernur Sumatra                                                                                                                       |
-#### Kronologi
-- <mark style="background:#9254de">27 Agt 1945:</mark> <mark style="background:#9254de">Medan baru tahu kemerdekaan</mark> yg dibawa oleh <mark style="background:#9254de">Teuku Mohammad Hasan.</mark>
-- <mark style="background:#9254de">9 Okt 1945:</mark> pasukan sekutu di bawah [[#^tokoh|Brigjen T.E.D. Kelly]] dtg ke Medan utk <mark style="background:#9254de">melucuti Jepang dan mempersenjatai NICA.</mark>
-- <mark style="background:#9254de">13 Okt 1945:</mark> pemuda dgn <mark style="background:#9254de">perawakan tentara</mark> di <mark style="background:#9254de"><em>Pension Wilhelmina</em> dilucuti, lencara diinjak-injak</mark> yg memicu bentrokan di sana (96 tewas, mayoritas NICA).
-- <mark style="background:#9254de">18 Okt 1945:</mark> sekutu mengeluarkan <mark style="background:#9254de">ultimatum</mark> agar <mark style="background:#9254de">rakyat menyerahkan senjata.</mark>
-- <mark style="background:#9254de">1 Des 1945:</mark> sekutu memasang <mark style="background:#9254de"><em>fixed boundaries.</em></mark>
-- <mark style="background:#9254de">1946-1947:</mark> tempur terus.
-- <mark style="background:#9254de">Feb 1947:</mark> pertempuran berakhir stlh perintah <mark style="background:#9254de">gencatan senjata</mark>
-#### Peninggalan
-- Tugu Medan Area
-- Museum Perjuangan TNI
-- Patok Medan Area
 ### Pertempuran Puputan Margarana
 Makna dr perang puputan adlh perlawanan total hingga titik darah penghabisan.
 #### Tokoh

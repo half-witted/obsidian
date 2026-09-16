@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6ae9cc8bc8e6d2",
+        "id": "e3a7d4b94dc71423",
         "type": "tabs",
         "children": [
           {
-            "id": "21be2e7b232d7f14",
+            "id": "13e3119c79c0f846",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -221,7 +220,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "21be2e7b232d7f14",
+  "active": "d95ad9845db6905a",
   "lastOpenFiles": [
     "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
     "(1) SHS/12th/History/(0) Pra Materi.md",
