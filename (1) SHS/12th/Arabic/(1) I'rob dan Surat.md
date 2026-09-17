@@ -22,26 +22,26 @@
 	- Di akhirat, manusia akan <mark style="background:#d4b106">ditanya ttg nikmat</mark> yg diterimanya.
 ## I'rob
 ![[CamScanner 18-09-2026 02.57.jpg|432]]
-## Analisis Jenis Kata
+## Analisis Ayat
 ### Al Alaq
-| <center>Ayat</center> | <center>Potongan</center>                             | <center>Jenis</center> | <center>I'rob</center> | <center>Tanda</center> |
-| --------------------- | ----------------------------------------------------- | ---------------------- | ---------------------- | ---------------------- |
-| <center>1</center>    | \|قْرَأْ<br>بِ<br>سْمِ<br>رَبِّكَ<br>لَّذِى<br>خَلَقَ | Fiil amr<br>Huruf<br>  |                        |                        |
-| <center>2</center>    |                                                       |                        |                        |                        |
-| <center>3</center>    |                                                       |                        |                        |                        |
-| <center>4</center>    |                                                       |                        |                        |                        |
-| <center>5</center>    |                                                       |                        |                        |                        |
-| <center>6</center>    |                                                       |                        |                        |                        |
-| <center>7</center>    |                                                       |                        |                        |                        |
-| <center>8</center>    |                                                       |                        |                        |                        |
-| <center>9</center>    |                                                       |                        |                        |                        |
-| <center>10</center>   |                                                       |                        |                        |                        |
-| <center>11</center>   |                                                       |                        |                        |                        |
-| <center>12</center>   |                                                       |                        |                        |                        |
-| <center>13</center>   |                                                       |                        |                        |                        |
-| <center>14</center>   |                                                       |                        |                        |                        |
-| <center>15</center>   |                                                       |                        |                        |                        |
-| <center>16</center>   |                                                       |                        |                        |                        |
-| <center>17</center>   |                                                       |                        |                        |                        |
-| <center>18</center>   |                                                       |                        |                        |                        |
-| <center>19</center>   |                                                       |                        |                        |                        |
+| <center>Ayat</center> | <center>Potongan, Jenis, I'rob</center>   | <center>Tanda</center>                               |
+| --------------------- | ----------------------------------------- | ---------------------------------------------------- |
+| <center>1</center>    | ![[Pasted image 20260918030858.png\|406]] | Tetap<br>Tetap<br>Kasroh<br>Kasroh<br>Tetap<br>Tetap |
+| <center>2</center>    | ![[Pasted image 20260918031136.png\|440]] | Tetap<br>Fathah<br>Tetap<br>Kasroh                   |
+| <center>3</center>    | ![[Pasted image 20260918031239.png\|424]] | Tetap<br>Tetap<br>Dhommah<br>Dhommah                 |
+| <center>4</center>    | ![[Pasted image 20260918031343.png\|425]] | Tetap<br>Tetap<br>Tetap<br>Kasroh                    |
+| <center>5</center>    | ![[Pasted image 20260918031410.png\|440]] | Tetap<br>Fathah<br>Tetap<br>Tetap<br>Sukun           |
+| <center>6</center>    | ![[Pasted image 20260918031533.png\|431]] | Tetap<br>Tetap<br>Fathah<br>                         |
+| <center>7</center>    |                                           |                                                      |
+| <center>8</center>    |                                           |                                                      |
+| <center>9</center>    |                                           |                                                      |
+| <center>10</center>   |                                           |                                                      |
+| <center>11</center>   |                                           |                                                      |
+| <center>12</center>   |                                           |                                                      |
+| <center>13</center>   |                                           |                                                      |
+| <center>14</center>   |                                           |                                                      |
+| <center>15</center>   |                                           |                                                      |
+| <center>16</center>   |                                           |                                                      |
+| <center>17</center>   |                                           |                                                      |
+| <center>18</center>   |                                           |                                                      |
+| <center>19</center>   |                                           |                                                      |
