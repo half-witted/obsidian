@@ -11,10 +11,15 @@
             "id": "3144c149de829c88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Arabic/(1) I'rob.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(1) I'rob"
             }
           }
         ]
@@ -222,6 +227,8 @@
   },
   "active": "3144c149de829c88",
   "lastOpenFiles": [
+    "(1) SHS/12th/Arabic/() Arabic.md",
+    "(1) SHS/12th/Arabic/(1) I'rob.md",
     "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
     "(1) SHS/12th/History/(0) Pra Materi.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
@@ -257,8 +264,6 @@
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
     "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(6) Inti Kalimat.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
-    "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(3) Struktur Sintaksis.md",
-    "(2) TKA/Bahasa Indonesia/Pemahaman Inferensial/(1) Gagasan.md",
     "(1) SHS/12th/PP",
     "(2) TKA/Adv English/Test",
     "Untitled.canvas",
