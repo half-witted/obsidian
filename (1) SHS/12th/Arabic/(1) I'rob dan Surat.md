@@ -21,4 +21,27 @@
 	- Manusia diperingatkan ttg <mark style="background:#d4b106">akibat kelalaiannya,</mark> yaitu akan melihat <mark style="background:#d4b106">neraka Jahim.</mark>
 	- Di akhirat, manusia akan <mark style="background:#d4b106">ditanya ttg nikmat</mark> yg diterimanya.
 ## I'rob
-
+![[CamScanner 18-09-2026 02.57.jpg|432]]
+## Analisis Jenis Kata
+### Al Alaq
+| <center>Ayat</center> | <center>Potongan</center>                             | <center>Jenis</center> | <center>I'rob</center> | <center>Tanda</center> |
+| --------------------- | ----------------------------------------------------- | ---------------------- | ---------------------- | ---------------------- |
+| <center>1</center>    | \|قْرَأْ<br>بِ<br>سْمِ<br>رَبِّكَ<br>لَّذِى<br>خَلَقَ | Fiil amr<br>Huruf<br>  |                        |                        |
+| <center>2</center>    |                                                       |                        |                        |                        |
+| <center>3</center>    |                                                       |                        |                        |                        |
+| <center>4</center>    |                                                       |                        |                        |                        |
+| <center>5</center>    |                                                       |                        |                        |                        |
+| <center>6</center>    |                                                       |                        |                        |                        |
+| <center>7</center>    |                                                       |                        |                        |                        |
+| <center>8</center>    |                                                       |                        |                        |                        |
+| <center>9</center>    |                                                       |                        |                        |                        |
+| <center>10</center>   |                                                       |                        |                        |                        |
+| <center>11</center>   |                                                       |                        |                        |                        |
+| <center>12</center>   |                                                       |                        |                        |                        |
+| <center>13</center>   |                                                       |                        |                        |                        |
+| <center>14</center>   |                                                       |                        |                        |                        |
+| <center>15</center>   |                                                       |                        |                        |                        |
+| <center>16</center>   |                                                       |                        |                        |                        |
+| <center>17</center>   |                                                       |                        |                        |                        |
+| <center>18</center>   |                                                       |                        |                        |                        |
+| <center>19</center>   |                                                       |                        |                        |                        |
