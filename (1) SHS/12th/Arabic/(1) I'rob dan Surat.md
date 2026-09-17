@@ -31,14 +31,14 @@
 | <center>3</center>    | ![[Pasted image 20260918031239.png\|424]] | Tetap<br>Tetap<br>Dhommah<br>Dhommah                 |
 | <center>4</center>    | ![[Pasted image 20260918031343.png\|425]] | Tetap<br>Tetap<br>Tetap<br>Kasroh                    |
 | <center>5</center>    | ![[Pasted image 20260918031410.png\|440]] | Tetap<br>Fathah<br>Tetap<br>Tetap<br>Sukun           |
-| <center>6</center>    | ![[Pasted image 20260918031533.png\|431]] | Tetap<br>Tetap<br>Fathah<br>                         |
-| <center>7</center>    |                                           |                                                      |
-| <center>8</center>    |                                           |                                                      |
-| <center>9</center>    |                                           |                                                      |
-| <center>10</center>   |                                           |                                                      |
-| <center>11</center>   |                                           |                                                      |
-| <center>12</center>   |                                           |                                                      |
-| <center>13</center>   |                                           |                                                      |
+| <center>6</center>    | ![[Pasted image 20260918031533.png\|431]] | Tetap<br>Tetap<br>Fathah<br>Dhommah (?)              |
+| <center>7</center>    | ![[Pasted image 20260918031743.png\|327]] | Tetap<br>Tetap<br>Tetap                              |
+| <center>8</center>    | ![[Pasted image 20260918031817.png\|432]] | Tetap<br>Tetap<br>Kasroh<br>Fathah (?)               |
+| <center>9</center>    | ![[Pasted image 20260918031939.png\|314]] | Tetap<br>Tetap<br>Mu'tal ya'                         |
+| <center>10</center>   | ![[Pasted image 20260918032336.png\|293]] | Fathah<br>Tetap<br>Tetap                             |
+| <center>11</center>   | ![[Pasted image 20260918032422.png\|439]] | Tetap<br>Tetap<br>Tetap<br>Kasroh (?)                |
+| <center>12</center>   | ![[Pasted image 20260918032506.png\|329]] | Tetap<br>Tetap<br>Kasroh (?)                         |
+| <center>13</center>   | ![[Pasted image 20260918032607.png\|463]] | Tetap<br>Tetap<br>Tetap<br>Tetap<br>Tetap            |
 | <center>14</center>   |                                           |                                                      |
 | <center>15</center>   |                                           |                                                      |
 | <center>16</center>   |                                           |                                                      |
