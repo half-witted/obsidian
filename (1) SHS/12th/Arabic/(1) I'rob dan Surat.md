@@ -15,4 +15,10 @@
 ### At Takatsur
 - Menegur manusia yg <mark style="background:#d4b106">sibuk bermegah2an</mark> dgn harta, kedudukan, anak, keturunan, hal2 duniawi sampe <mark style="background:#d4b106">lalai kewajiban pada Allah.</mark>
 - Urutan pemahaman:
-	- 
+	- Manusa mdh <mark style="background:#d4b106">terlena krn mengejar kemegahan duniawi.</mark>
+	- Kebiasaan bermegah2an dpt berlangsung <mark style="background:#d4b106">sampe mati.</mark>
+	- Allah memperingatkan manusia agar <mark style="background:#d4b106">tk slg membanggakan, bersaing dlm urusan duniawi</mark> sampe melupakan ketaatan.
+	- Manusia diperingatkan ttg <mark style="background:#d4b106">akibat kelalaiannya,</mark> yaitu akan melihat <mark style="background:#d4b106">neraka Jahim.</mark>
+	- Di akhirat, manusia akan <mark style="background:#d4b106">ditanya ttg nikmat</mark> yg diterimanya.
+## I'rob
+
