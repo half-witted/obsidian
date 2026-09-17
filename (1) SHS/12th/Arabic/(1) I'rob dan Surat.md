@@ -7,7 +7,7 @@
 ## Pemahaman Surat
 ### Al Ashr
 - Allah bersumpah demi <mark style="background:#d4b106">masa</mark> utk menunjukkan bhw <mark style="background:#d4b106">waktu sgt penting</mark> dlm kehidupan manusia. Manusia dlm <mark style="background:#d4b106">kerugian bila menyia2kan waktu, umur.</mark>
-- Hal yg buat manusia <mark style="background:#d4b106">terhindar dr kerugian:</mark>
+- Hal yg buat manusia <mark style="background:#d4b106">terhindar dr kerugian (ayat 3):</mark>
 	1. <mark style="background:#d4b106">Iman:</mark> memiliki <mark style="background:#d4b106">pedoman hidup yg benar.</mark>
 	2. <mark style="background:#d4b106">Amal saleh:</mark> membuktikan keimanan lwt <mark style="background:#d4b106">perbuatan baik.</mark>
 	3. Slg menasehati dlm <mark style="background:#d4b106">kebenaran: </mark>mengajak org lain ttp di <mark style="background:#d4b106">jln yg bnr.</mark>
