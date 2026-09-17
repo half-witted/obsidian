@@ -51,14 +51,11 @@
 | <center>18</center>   | ![[Pasted image 20260918033024.png\|218]] | Dhommah<br>Fathah                                               |
 | <center>19</center>   | ![[Pasted image 20260918033056.png\|426]] | Tetap<br>Tetap<br>Sukun<br>Tetap<br>Tetap<br>Tetap<br>Tetap     |
 ### Al Ashr
-| <center>Ayat</center> | <center>Potongan, Jenis, I'rob, Tanda</center>                                                                                                                                   |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <center>1</center>    | ![[Pasted image 20260918033415.png\|314]]                                                                                                                                        |
-| <center>2</center>    | ![[Pasted image 20260918033444.png\|544]]                                                                                                                                        |
-| <center>3</center>    | ![[Pasted image 20260918033514.png\|546]]<br>![[Pasted image 20260918033617.png\|546]]<br>![[Pasted image 20260918033643.png\|532]]<br>![[Pasted image 20260918033700.png\|354]] |
-
-^96280f
-
+| <center>Ayat</center>^96280f | <center>Potongan, Jenis, I'rob, Tanda</center>                                                                                                                                   |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <center>1</center>           | ![[Pasted image 20260918033415.png\|314]]                                                                                                                                        |
+| <center>2</center>           | ![[Pasted image 20260918033444.png\|544]]                                                                                                                                        |
+| <center>3</center>           | ![[Pasted image 20260918033514.png\|546]]<br>![[Pasted image 20260918033617.png\|546]]<br>![[Pasted image 20260918033643.png\|532]]<br>![[Pasted image 20260918033700.png\|354]] |
 ## Terjemahan Ayat
 ### Al Adiyat
 | ![[Pasted image 20260918033843.png\|431]] | ![[Pasted image 20260918033853.png\|497]] |
