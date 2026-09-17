@@ -22,6 +22,11 @@
 	- Di akhirat, manusia akan <mark style="background:#d4b106">ditanya ttg nikmat</mark> yg diterimanya.
 ## I'rob
 ![[CamScanner 18-09-2026 02.57.jpg|432]]
+
+| <center>I'rob<center> | <center>Huruf</center>                    |
+| --------------------- | ----------------------------------------- |
+| Jar                   | ![[Pasted image 20260918034422.png\|187]] |
+| Jazm                  | ![[Pasted image 20260918034439.png\|204]] |
 ## Analisis Ayat
 ### Al Alaq
 | <center>Ayat</center> | <center>Potongan, Jenis, I'rob</center>   | <center>Tanda</center>                                          |
@@ -46,8 +51,17 @@
 | <center>18</center>   | ![[Pasted image 20260918033024.png\|218]] | Dhommah<br>Fathah                                               |
 | <center>19</center>   | ![[Pasted image 20260918033056.png\|426]] | Tetap<br>Tetap<br>Sukun<br>Tetap<br>Tetap<br>Tetap<br>Tetap     |
 ### Al Ashr
-| <center>Ayat</center> | <center>Potongan, Jenis, I'rob</center>                                                                                        |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <center>1</center>    | ![[Pasted image 20260918033415.png\|314]]                                                                                      |
-| <center>2</center>    | ![[Pasted image 20260918033444.png\|544]]                                                                                      |
-| <center>3</center>    | ![[Pasted image 20260918033514.png\|546]]<br>![[Pasted image 20260918033617.png\|546]]<br>![[Pasted image 20260918033635.png]] |
+| <center>Ayat</center> | <center>Potongan, Jenis, I'rob, Tanda</center>                                                                                                                                   |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <center>1</center>    | ![[Pasted image 20260918033415.png\|314]]                                                                                                                                        |
+| <center>2</center>    | ![[Pasted image 20260918033444.png\|544]]                                                                                                                                        |
+| <center>3</center>    | ![[Pasted image 20260918033514.png\|546]]<br>![[Pasted image 20260918033617.png\|546]]<br>![[Pasted image 20260918033643.png\|532]]<br>![[Pasted image 20260918033700.png\|354]] |
+
+^96280f
+
+## Terjemahan Ayat
+### Al Adiyat
+| ![[Pasted image 20260918033843.png\|431]] | ![[Pasted image 20260918033853.png\|497]] |
+| ----------------------------------------- | ----------------------------------------- |
+### Al Ashr
+[[#^96280f|Sini]]
