@@ -1,1 +1,1 @@
-[[(1) Gagasan]]
+- [[(1) Gagasan]]
