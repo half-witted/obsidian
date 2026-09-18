@@ -1,1 +1,2 @@
+- [[(1) SHS/12th/Geography/() Exercises/() Exercises|() Exercises]]
 - [[(1) Konsep Wilayah dan Tata Ruang]]

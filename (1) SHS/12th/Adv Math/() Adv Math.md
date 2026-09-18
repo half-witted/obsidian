@@ -1,1 +1,2 @@
+- [[(1) SHS/12th/Adv Math/() Exercises/() Exercises|() Exercises]]
 - [[(1) Vector]]

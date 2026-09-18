@@ -1,1 +1,2 @@
+- [[(1) SHS/12th/Informatics/() Exercises/() Exercises|() Exercises]]
 - [[(1) Gerbang Logika]]

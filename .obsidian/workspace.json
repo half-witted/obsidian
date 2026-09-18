@@ -8,13 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0963d0d67dcaf422",
+            "id": "4f88999f7bfd647e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Adv English/() Adv English.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "() Adv English"
+            }
+          },
+          {
+            "id": "10f1a84c67da281e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -220,9 +235,34 @@
       "templates:Insert template": false
     }
   },
-  "active": "0963d0d67dcaf422",
+  "active": "d95ad9845db6905a",
   "lastOpenFiles": [
-    "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
+    "(2) TKA/Adv Math/() Adv Math.md",
+    "(2) TKA/Adv English/() Adv English.md",
+    "(1) SHS/12th/() 12th.md",
+    "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
+    "(1) SHS/12th/PP/() PP.md",
+    "(1) SHS/12th/PP/(0) Notes.md",
+    "(1) SHS/12th/Physics/() Physics.md",
+    "(1) SHS/12th/Physics/() Exercises/() Exercises.md",
+    "(1) SHS/12th/Informatics/() Informatics.md",
+    "(1) SHS/12th/Informatics/() Exercises/(1E) Gerbang Logika.md",
+    "(1) SHS/12th/Informatics/() Exercises/() Exercises.md",
+    "(1) SHS/12th/IE/() IE.md",
+    "(1) SHS/12th/History/() History.md",
+    "(1) SHS/12th/Geography/() Geography.md",
+    "(1) SHS/12th/Geography/() Exercises/() Exercises.md",
+    "(1) SHS/12th/Geography/() Exercises/(1E) Konsep Wilayah dan Tata Ruang.md",
+    "(1) SHS/12th/Comp Math/() Comp Math.md",
+    "(1) SHS/12th/Comp Math/() Exercises/() Exercises.md",
+    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
+    "(1) SHS/12th/Bahasa Indonesia/() Exercises/() Exercises.md",
+    "(1) SHS/12th/Adv Math/() Adv Math.md",
+    "(1) SHS/12th/Bahasa Indonesia/() Exercises/(1E) Fundamental.md",
+    "(1) SHS/12th/Arabic/() Arabic.md",
+    "(1) SHS/12th/Adv Math/() Exercises/() Exercises.md",
+    "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
+    "(1) SHS/11th/() 11th.md",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034439.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034422.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033853.png",
@@ -234,32 +274,8 @@
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033539.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033514.png",
     "(1) SHS/12th/Arabic/() Attachments",
-    "(1) SHS/12th/Arabic/() Arabic.md",
-    "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
-    "(1) SHS/12th/History/(0) Pra Materi.md",
-    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
-    "(2) TKA/Comp Math/() Exercises/(1.1) Pola Bilangan.md",
-    "(6) Quick Notes/Aftermovie.md",
-    "(6) Quick Notes/Another aftermovie.md",
-    "(6) Quick Notes/BAR.md",
-    "(6) Quick Notes/BINDO.md",
-    "(6) Quick Notes/Books.md",
-    "(6) Quick Notes/TKA.md",
-    "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/() Exercises/() Attachments",
     "(2) TKA/Comp Math/() Exercises",
-    "(6) Quick Notes/() Quick Notes.md",
-    "(6) Quick Notes/English.md",
-    "(3) UTBK/PBM/(1) Konjungsi.md",
-    "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
-    "(6) Quick Notes/Another.md",
-    "(2) TKA/Bahasa Indonesia/(1) Ikhtisar.md",
-    "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
-    "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
-    "(1) SHS/12th/Bahasa Indonesia/(2) Konjungsi.md",
-    "(1) SHS/() SHS.md",
-    "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
-    "(2) TKA/Bahasa Indonesia/Evaluasi dan Apresiasi/(6) Inti Kalimat.md",
     "(1) SHS/12th/PP",
     "(2) TKA/Adv English/Test",
     "Untitled.canvas",
