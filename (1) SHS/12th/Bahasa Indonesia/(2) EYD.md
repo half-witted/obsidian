@@ -18,4 +18,6 @@
 17. Bkn utk nama geografi yg digunakan sbg nama jenis: jeruk bali, gula jawa
 18. Nama benda yg menyatakan asal daerah: batik Cirebon, bubur Manado
 19. Huruf pertama nama negara, lembaga, kecuali kata tugas: Perserikatan Bangsa-Bangsa, 
-20. 
+20. Judul buku, karangan, artikel, makalah, media massa: buku berjudul "Atomic Habits", surat kabar Sinar Pembangunan
+21. Nama gelar, pangkat
+22. Huruf pertama kata penunjuk hubungan kekerabatan atau ungkapan lain (termasuk bentuk ulang utuh) sbg sapaan: Bapak berangkat, bapak dan ibu kita
