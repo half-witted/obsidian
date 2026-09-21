@@ -11,10 +11,15 @@
             "id": "efd7892a4b694405",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(4) Tasks/English.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "English"
             }
           }
         ]
@@ -222,11 +227,12 @@
   },
   "active": "efd7892a4b694405",
   "lastOpenFiles": [
+    "(4) Tasks/Substack.md",
+    "(6) Quick Notes/Books.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(4) Tasks/English.md",
     "(4) Tasks/() Tasks.md",
     "(6) Quick Notes/Intensif.md",
-    "(6) Quick Notes/Books.md",
     "(6) Quick Notes/() Quick Notes.md",
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/BAR.md",
@@ -249,7 +255,6 @@
     "(1) SHS/12th/Comp Math/() Comp Math.md",
     "(1) SHS/12th/Geography/() Geography.md",
     "(1) SHS/12th/Adv Math/() Adv Math.md",
-    "(1) SHS/11th/IE/() IE.md",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034439.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034422.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033853.png",
