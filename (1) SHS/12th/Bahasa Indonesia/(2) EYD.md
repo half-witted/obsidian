@@ -12,3 +12,10 @@
 11. Nama bangsa, suku, bahasa, aksara: suku Jawa, bangsa Indonesia
 12. Bkn utk bahasa, suku yg berupa kata turunan: pengindonesiaan, inggris-inggrisan
 13. Nama tahun, bulan, hari, hari besar: hari Natal, tahun Masehi, hari Lebaran
+14. Huruf pertama unsur nama peristiwa sejarah: Konferensi Asia Afrika, Perang Dunia II, Proklamasi Kemerdekaan Indonesia
+15. Bkn utk peristiwa sejarah yg tk digunakan sbg nama: perang dunia, proklamasi kemerdekaan
+16. Nama geografi (klo gk ada namanya, gk kapital): Benua Afrika, sungai, Sungai Jagir
+17. Bkn utk nama geografi yg digunakan sbg nama jenis: jeruk bali, gula jawa
+18. Nama benda yg menyatakan asal daerah: batik Cirebon, bubur Manado
+19. Huruf pertama nama negara, lembaga, kecuali kata tugas: Perserikatan Bangsa-Bangsa, 
+20. 
