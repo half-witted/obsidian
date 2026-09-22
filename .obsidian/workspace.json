@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(1) SHS/() SHS.md",
+                "file": "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "(2) Pola Keruangan"
             }
           }
         ]
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -227,6 +228,8 @@
   },
   "active": "3309c3cf88877989",
   "lastOpenFiles": [
+    "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
+    "(1) SHS/() SHS.md",
     "(1) SHS/() Attachments/Pasted image 20260922130907.png",
     "(4) Tasks/Substack.md",
     "(4) Tasks/Bindo.md",
@@ -255,7 +258,6 @@
     "(2) TKA/Comp Math/() Exercises/(1.1E) Pola Bilangan.md",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
     "(2) TKA/Bahasa Indonesia/() Bahasa Indonesia.md",
-    "(2) TKA/Adv English/() Adv English.md",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034439.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034422.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033853.png",
@@ -265,7 +267,6 @@
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033635.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033617.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033539.png",
-    "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033514.png",
     "(1) SHS/12th/Arabic/() Attachments",
     "(2) TKA/Comp Math/() Exercises/() Attachments",
     "(2) TKA/Comp Math/() Exercises",
