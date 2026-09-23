@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2913d3e88d0ce5",
+        "id": "6f1319a510e61300",
         "type": "tabs",
         "children": [
           {
-            "id": "cb5605825f0afded",
+            "id": "6d38e9e01ebf8589",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
         ]
@@ -225,7 +220,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "cb5605825f0afded",
+  "active": "6d38e9e01ebf8589",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/() 12th.md",
