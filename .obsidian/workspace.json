@@ -11,10 +11,15 @@
             "id": "cb5605825f0afded",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/() SHS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "() SHS"
             }
           }
         ]
