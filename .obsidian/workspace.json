@@ -11,10 +11,15 @@
             "id": "9554cdba96742543",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(4) Tasks/Substack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Substack"
             }
           }
         ]
@@ -222,6 +227,7 @@
   },
   "active": "9554cdba96742543",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
     "(1) SHS/12th/() 12th.md",
@@ -251,7 +257,6 @@
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/() Exercises/() Exercises.md",
     "(2) TKA/Comp Math/() Exercises/(1.1E) Pola Bilangan.md",
-    "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034439.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034422.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033853.png",
