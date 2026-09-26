@@ -11,20 +11,15 @@
             "id": "9554cdba96742543",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "(4) Tasks/() Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "() Tasks"
+              "icon": "lucide-file",
+              "title": "(1.1) Pola Bilangan"
             }
           }
         ]
@@ -230,16 +225,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95ad9845db6905a",
+  "active": "9554cdba96742543",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/() Exercises/(1.1E) Pola Bilangan.md",
+    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
+    "(4) Tasks/() Tasks.md",
     "(4) Tasks/Bindo.md",
     "(4) Tasks/Substack.md",
-    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
     "(1) SHS/12th/() 12th.md",
     "(1) SHS/() Attachments/Pasted image 20260922130907.png",
-    "(4) Tasks/() Tasks.md",
     "(4) Tasks/English.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(6) Quick Notes/BINDO.md",
@@ -261,7 +257,6 @@
     "(3) UTBK/PBM/() Exercises/() Exercises.md",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/() Exercises/() Exercises.md",
-    "(2) TKA/Comp Math/() Exercises/(1.1E) Pola Bilangan.md",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034439.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918034422.png",
     "(1) SHS/12th/Arabic/() Attachments/Pasted image 20260918033853.png",
