@@ -46,9 +46,7 @@ $A=\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}\to3A=3\begin{bmatrix}1&4&2\\3&-1&0\
 ### Perkalian Matriks
 $A_{mxn}*B_{nxp}=(AB)_{mxp}$
 $A=\begin{bmatrix}1&2\\3&4\\1&0\end{bmatrix},B=\begin{bmatrix}-1&2&1\\3&2&4\end{bmatrix}$
-$\hookrightarrow C=AB=\begin{bmatrix}(1*-1)+(2*3)&(1*2)+(2*2)&(1*1)+(2*4)\\(3*-1)+(4*3)&(3*2)+(4*2)&(3*1)+(4*4)\\(1*-1)+(0*3)&(1*2)+(0*2)&(1*1)+(0*4)\end{bmatrix}$
-               $=\begin{bmatrix}-1+6&2+4&1+8\\-3+12&6+8&3+16\\-1+0&2+0&1+0\end{bmatrix}$
-               $=\begin{bmatrix}5&6&9\\9&14&19\\-1&2&1\end{bmatrix}$
+$\begin{aligned}\hookrightarrow C=AB&=\begin{bmatrix}(1*-1)+(2*3)&(1*2)+(2*2)&(1*1)+(2*4)\\(3*-1)+(4*3)&(3*2)+(4*2)&(3*1)+(4*4)\\(1*-1)+(0*3)&(1*2)+(0*2)&(1*1)+(0*4)\end{bmatrix}\\&=\begin{bmatrix}-1+6&2+4&1+8\\-3+12&6+8&3+16\\-1+0&2+0&1+0\end{bmatrix}\\&=\begin{bmatrix}5&6&9\\9&14&19\\-1&2&1\end{bmatrix}\end{aligned}$
 ## Determinan
 Determinan matriks $A=|A|$
 ### Nilai Determinan
@@ -56,10 +54,7 @@ Determinan matriks $A=|A|$
 $|A|=$ hasil kali diagonal utama $-$ hasil kali diagonal sekunder
 $A=\begin{bmatrix}3&5\\4&7\end{bmatrix},|A|=(3*7)-(4*5)=1$
 #### Ordo 3x3
-$B=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix},|B|=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix}\begin{matrix}1&0\\3&1\\1&-1\end{matrix}$
-							 $=(1*1*2)+(0*-2*1)+(2*3*-1)-(2*1*1)-(1*-2*-1)-(0*3*2)$
-							 $=2+0-6-2-2-0$
-							 $=-8$
+$\begin{aligned}B=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix},|B|&=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix}\begin{matrix}1&0\\3&1\\1&-1\end{matrix}\\&=(1*1*2)+(0*-2*1)+(2*3*-1)-(2*1*1)-(1*-2*-1)-(0*3*2)\\&=2+0-6-2-2-0\\&=-8\end{aligned}$
 ### Jenis
 - Jika $|A|=0$, matriks $A$ disebut <mark style="background:#d4b106">matriks singular</mark>
 - Jika $|A|\neq0$, matriks $A$ disebut <mark style="background:#d4b106">matriks nonsingular</mark>
@@ -81,8 +76,7 @@ Menutup baris dan kolom, menjadikan sisanya sbg matriks baru, menghitung hasil k
 ### Kofaktor
 $kof(A)=\begin{bmatrix}M_{11}&-M_{12}&M_{13}\\-M_{21}&M_{22}&-M_{23}\\M_{31}&-M_{32}&M_{33}\end{bmatrix}=\begin{bmatrix}6&-1&-7\\4&-7&8\\-11&5&-3\end{bmatrix}$
 ### Adjoin
-$Adj(A)=(kof(A))^T$
-		  $=\begin{bmatrix}6&4&-11\\-1&-7&5\\-7&8&-3\end{bmatrix}$
+$\begin{aligned}Adj(A)&=(kof(A))^T\\&=\begin{bmatrix}6&4&-11\\-1&-7&5\\-7&8&-3\end{bmatrix}\end{aligned}$
 ## Invers
 Matriks persegi $A$ dan $B$ dgn ordo sama dikatakan saling invers jika $AB=BA=$ matriks identitas $\to A=B^{-1},B=A^{-1}$
 $A^{-1}=\frac{1}{|A|}*Adj(A)$

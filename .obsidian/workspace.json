@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
+                "file": "(2) TKA/Adv Math/(1) Matriks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,9 +238,10 @@
   },
   "active": "f1a045e0b266354c",
   "lastOpenFiles": [
-    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
-    "(2) TKA/Adv Math/(1) Matriks.md",
     "(1) SHS/11th/Comp Math/(2) Matriks.md",
+    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+    "(2) TKA/Adv Math/(1) Matriks.md",
+    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/Aftermovie.md",
@@ -277,7 +277,6 @@
     "(4) Tasks/() Attachments",
     "(4) Tasks/Arabic slides.md",
     "(4) Tasks/Arts.md",
-    "(3) UTBK/PM/() PM.md",
     "(1) SHS/12th/Arabic/() Attachments",
     "(2) TKA/Comp Math/() Exercises/() Attachments",
     "(2) TKA/Comp Math/() Exercises",
