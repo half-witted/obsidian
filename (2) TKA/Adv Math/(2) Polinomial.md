@@ -12,8 +12,10 @@
 ### Perkalian
 <mark style="background:#d4b106">Pelangi</mark>
 ### Pembagian
+| $P(x)=Q(x)*H(x)+S(x)$ | $P(x)=$ yg dibagi (derajat $n$)<br>$Q(x)=$ pembagi (derajat $m$)<br>$H(x)=$ hasil bagi (derajat $n-m$)<br>$S(x)=$ sisa bagi (derajat maks $m-1$) |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 #### Kesamaan
-- Hasil bagi
+- Hasil bagi:
 ### Kesamaan
 Dikatakan sama apabila:
 - Derajat sama
