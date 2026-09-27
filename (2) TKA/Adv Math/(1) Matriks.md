@@ -15,7 +15,7 @@
 - Matriks nol: semua elemen 0
 - Matriks diagonal: matriks persegi dgn elemen diagonal utama $\neq$ 0, elemen lain 0
   $\begin{bmatrix}1&0&0\\0&2&0\\0&0&3\end{bmatrix}$
-- Matriks identitas
+- Matriks identitas ^matriks-identitas
 	- Matriks persegi dgn elemen diagonal utama 1, elemen lain 0
 	- Hasil kali matriks dgn invers nya
       $\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}$
@@ -47,7 +47,7 @@ $A=\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}\to3A=3\begin{bmatrix}1&4&2\\3&-1&0\
 $A_{mxn}*B_{nxp}=(AB)_{mxp}$
 $A=\begin{bmatrix}1&2\\3&4\\1&0\end{bmatrix},B=\begin{bmatrix}-1&2&1\\3&2&4\end{bmatrix}$
 $\begin{aligned}\hookrightarrow C=AB&=\begin{bmatrix}(1*-1)+(2*3)&(1*2)+(2*2)&(1*1)+(2*4)\\(3*-1)+(4*3)&(3*2)+(4*2)&(3*1)+(4*4)\\(1*-1)+(0*3)&(1*2)+(0*2)&(1*1)+(0*4)\end{bmatrix}\\&=\begin{bmatrix}-1+6&2+4&1+8\\-3+12&6+8&3+16\\-1+0&2+0&1+0\end{bmatrix}\\&=\begin{bmatrix}5&6&9\\9&14&19\\-1&2&1\end{bmatrix}\end{aligned}$
-## Determinan
+## Determinan ^determinan
 Determinan matriks $A=|A|$
 ### Nilai Determinan
 #### Ordo 2x2
@@ -79,10 +79,10 @@ $kof(A)=\begin{bmatrix}M_{11}&-M_{12}&M_{13}\\-M_{21}&M_{22}&-M_{23}\\M_{31}&-M_
 ### Adjoin
 $\begin{aligned}Adj(A)&=(kof(A))^T\\&=\begin{bmatrix}6&4&-11\\-1&-7&5\\-7&8&-3\end{bmatrix}\end{aligned}$
 ## Invers
-Matriks persegi $A$ dan $B$ dgn ordo sama dikatakan saling invers jika $AB=BA=$ matriks identitas $\to A=B^{-1},B=A^{-1}$
+Matriks persegi $A$ dan $B$ dgn ordo sama dikatakan saling invers jika $AB=BA=$ [[#^matriks-identitas|matriks identitas]] $\to A=B^{-1},B=A^{-1}$
 $A^{-1}=\frac{1}{|A|}*Adj(A)$
 ### Sifat
-- $A^{-1}*A=A*A^{-1}=I$ dgn $I=$ matriks identitas 
+- $A^{-1}*A=A*A^{-1}=I$ dgn $I=$ [[#^matriks-identitas|matriks identitas]] 
 - $(A^{-1})^{-1}=A$
 - $(A^T)^{-1}=(A^{-1})^T$
 - $(AB)^{-1}=A^{-1}B^{-1}$
@@ -92,3 +92,6 @@ $\begin{aligned}2x+3y &= 7\\4x-y &= 5\end{aligned}$
 2. Matriks variabel $\to \begin{bmatrix}x\\y\end{bmatrix}$
 3. Matriks konstanta $\to \begin{bmatrix}7\\5\end{bmatrix}$
 4. Gabung $\to \begin{bmatrix}2&3\\4&-1\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}7\\5\end{bmatrix}$
+### Aturan Cramer
+1. Ubah SPL jdi bentuk matriks
+2. Cari [[]]
