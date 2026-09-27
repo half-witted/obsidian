@@ -47,12 +47,6 @@ $A=\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}\to3A=3\begin{bmatrix}1&4&2\\3&-1&0\
 $A_{mxn}*B_{nxp}=(AB)_{mxp}$
 $A=\begin{bmatrix}1&2\\3&4\\1&0\end{bmatrix},B=\begin{bmatrix}-1&2&1\\3&2&4\end{bmatrix}$
 $\begin{aligned}\hookrightarrow C=AB&=\begin{bmatrix}(1*-1)+(2*3)&(1*2)+(2*2)&(1*1)+(2*4)\\(3*-1)+(4*3)&(3*2)+(4*2)&(3*1)+(4*4)\\(1*-1)+(0*3)&(1*2)+(0*2)&(1*1)+(0*4)\end{bmatrix}\\&=\begin{bmatrix}-1+6&2+4&1+8\\-3+12&6+8&3+16\\-1+0&2+0&1+0\end{bmatrix}\\&=\begin{bmatrix}5&6&9\\9&14&19\\-1&2&1\end{bmatrix}\end{aligned}$
-## Penyelesaian SPL
-### SPLDV
-Tahapan:
-- Mengalikan baris manapun dgn bilangan
-- Menambah atau mengurangi baris manapun dgn kelipatan baris lain
-- Menukar urutan baris
 ## Determinan
 Determinan matriks $A=|A|$
 ### Nilai Determinan
@@ -60,6 +54,7 @@ Determinan matriks $A=|A|$
 $|A|=$ hasil kali diagonal utama $-$ hasil kali diagonal sekunder
 $A=\begin{bmatrix}3&5\\4&7\end{bmatrix},|A|=(3*7)-(4*5)=1$
 #### Ordo 3x3
+Pake metode sarrus
 $\begin{aligned}B=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix},|B|&=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix}\begin{matrix}1&0\\3&1\\1&-1\end{matrix}\\&=(1*1*2)+(0*-2*1)+(2*3*-1)-(2*1*1)-(1*-2*-1)-(0*3*2)\\&=2+0-6-2-2-0\\&=-8\end{aligned}$
 ### Jenis
 - Jika $|A|=0$, matriks $A$ disebut <mark style="background:#d4b106">matriks singular</mark>
@@ -69,7 +64,7 @@ $\begin{aligned}B=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix},|B|&=\begin{
 - $|A^{-1}|=\frac{1}{|A|}$
 - $|AB|=|A|*|B|$
 - $|A^n|=|A|^n$
-- $|k*A|=k^n*|A|$ dgn $n$ adalah ordo
+- $|kA|=k^n*|A|$ dgn $n$ adalah ordo
 ## Adjoin
 $A=\begin{bmatrix}1&4&3\\2&5&1\\3&4&2\end{bmatrix}$
 ### Minor
