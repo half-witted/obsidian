@@ -37,8 +37,7 @@
               "title": "() SHS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/() SHS.md",
+                "file": "(2) TKA/Adv Math/(1) Matriks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,14 +239,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "b2656e47bca683e9",
+  "active": "f1a045e0b266354c",
   "lastOpenFiles": [
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20260927174246.png",
+    "(1) SHS/() SHS.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "^matriks-identitas.md",
     "(1) SHS/11th/Comp Math/(2) Matriks.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
-    "(1) SHS/() SHS.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/() Quick Notes.md",
@@ -280,7 +280,6 @@
     "(6) Quick Notes/BAR.md",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
-    "(4) Tasks/Arabic slides.md",
     "(1) SHS/12th/Arabic/() Attachments",
     "(2) TKA/Comp Math/() Exercises/() Attachments",
     "(2) TKA/Comp Math/() Exercises",

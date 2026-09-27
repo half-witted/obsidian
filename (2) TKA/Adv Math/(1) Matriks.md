@@ -97,3 +97,8 @@ $\begin{aligned}2x+3y &= 7\\4x-y &= 5\end{aligned}$
 2. Cari [[#^determinan|determinan]] koefisien $(D)$
 3. Cari $D_{x}$: $D$ dgn elemen <mark style="background:#d4b106">kolom pertama diganti</mark> elemen matriks konstanta
 4. Cari $D_{y}$: $D$ dgn elemen <mark style="background:#d4b106">kolom kedua diganti</mark> elemen matriks konstanta 
+5. Cari $x$ dan $y$
+#### Contoh
+![[Pasted image 20260927174246.png|458]]
+1. $\begin{bmatrix}1&2\\2&-3\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix}=\begin{bmatrix}5\\3\end{bmatrix}$
+2. $D={\begin{vmatrix}1&2\\2&-3\end{vmatrix}}=()$
