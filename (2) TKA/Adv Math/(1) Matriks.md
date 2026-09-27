@@ -47,7 +47,7 @@ $A=\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}\to3A=3\begin{bmatrix}1&4&2\\3&-1&0\
 $A_{mxn}*B_{nxp}=(AB)_{mxp}$
 $A=\begin{bmatrix}1&2\\3&4\\1&0\end{bmatrix},B=\begin{bmatrix}-1&2&1\\3&2&4\end{bmatrix}$
 $\begin{aligned}\hookrightarrow C=AB&=\begin{bmatrix}(1*-1)+(2*3)&(1*2)+(2*2)&(1*1)+(2*4)\\(3*-1)+(4*3)&(3*2)+(4*2)&(3*1)+(4*4)\\(1*-1)+(0*3)&(1*2)+(0*2)&(1*1)+(0*4)\end{bmatrix}\\&=\begin{bmatrix}-1+6&2+4&1+8\\-3+12&6+8&3+16\\-1+0&2+0&1+0\end{bmatrix}\\&=\begin{bmatrix}5&6&9\\9&14&19\\-1&2&1\end{bmatrix}\end{aligned}$
-## Determinan ^determinan
+## Determinan
 Determinan matriks $A=|A|$
 ### Nilai Determinan
 #### Ordo 2x2
@@ -94,4 +94,6 @@ $\begin{aligned}2x+3y &= 7\\4x-y &= 5\end{aligned}$
 4. Gabung $\to \begin{bmatrix}2&3\\4&-1\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}7\\5\end{bmatrix}$
 ### Aturan Cramer
 1. Ubah SPL jdi bentuk matriks
-2. Cari [[]]
+2. Cari [[#^determinan|determinan]] koefisien $(D)$
+3. Cari $D_{x}$: $D$ dgn elemen <mark style="background:#d4b106">kolom pertama diganti</mark> elemen matriks konstanta
+4. Cari $D_{y}$: $D$ dgn elemen <mark style="background:#d4b106">kolom kedua diganti</mark> elemen matriks konstanta 

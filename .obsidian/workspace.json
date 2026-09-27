@@ -23,18 +23,22 @@
             }
           },
           {
-            "id": "021f6e53cad7602e",
+            "id": "b2656e47bca683e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md"
+                "file": "(1) SHS/() SHS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "(1E) Transformasi"
+              "icon": "lucide-file",
+              "title": "() SHS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Adv Math/(1) Matriks.md",
+                "file": "(1) SHS/() SHS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -236,13 +240,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "f1a045e0b266354c",
+  "active": "b2656e47bca683e9",
   "lastOpenFiles": [
-    "^matriks-identitas.md",
+    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
+    "^matriks-identitas.md",
     "(1) SHS/11th/Comp Math/(2) Matriks.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/Aftermovie.md",
