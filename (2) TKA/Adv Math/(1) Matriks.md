@@ -57,7 +57,7 @@ $A=\begin{bmatrix}3&5\\4&7\end{bmatrix},|A|=(3*7)-(4*5)=1$
 Pake metode sarrus
 $\begin{aligned}B=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix},|B|&=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix}\begin{matrix}1&0\\3&1\\1&-1\end{matrix}\\&=(1*1*2)+(0*-2*1)+(2*3*-1)-(2*1*1)-(1*-2*-1)-(0*3*2)\\&=2+0-6-2-2-0\\&=-8\end{aligned}$
 ### Jenis
-- Jika $|A|=0$, matriks $A$ disebut <mark style="background:#d4b106">matriks singular</mark>
+- Jika $|A|=0$, matriks $A$ disebut <mark style="background:#d4b106">matriks singular</mark> (tk punya invers)
 - Jika $|A|\neq0$, matriks $A$ disebut <mark style="background:#d4b106">matriks nonsingular</mark>
 ### Sifat
 - $|A^T|=|A|$
@@ -82,3 +82,13 @@ $\begin{aligned}Adj(A)&=(kof(A))^T\\&=\begin{bmatrix}6&4&-11\\-1&-7&5\\-7&8&-3\e
 Matriks persegi $A$ dan $B$ dgn ordo sama dikatakan saling invers jika $AB=BA=$ matriks identitas $\to A=B^{-1},B=A^{-1}$
 $A^{-1}=\frac{1}{|A|}*Adj(A)$
 ### Sifat
+- $A^{-1}*A=A*A^{-1}=I$ dgn $I=$ matriks identitas 
+- $(A^{-1})^{-1}=A$
+- $(A^T)^{-1}=(A^{-1})^T$
+- $(AB)^{-1}=A^{-1}B^{-1}$
+## SPL
+$\begin{aligned}2x+3y &= 7\\4x-y &= 5\end{aligned}$
+1. Matriks koefisien $\to \begin{bmatrix}2&3\\4&-1\end{bmatrix}$
+2. Matriks variabel $\to \begin{bmatrix}x\\y\end{bmatrix}$
+3. Matriks konstanta $\to \begin{bmatrix}7\\5\end{bmatrix}$
+4. Gabung $\to \begin{bmatrix}2&3\\4&-1\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}7\\5\end{bmatrix}$
