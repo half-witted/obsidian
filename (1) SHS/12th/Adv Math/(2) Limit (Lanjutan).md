@@ -54,3 +54,5 @@ Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 2. Ganti $\lim_{ x \to \infty } \to \lim_{ a \to 0 }$
 3. Lanjut di [[#Limit Fungsi Trigonometri|limit fungsi trigonometri]]
 ## Asimtot
+### Datar
+<mark style="background:#d4b106">Garis datar yg didekati</mark> oleh fungsi ketika $x$ menuju <mark style="background:#d4b106">tak hingga.</mark>
