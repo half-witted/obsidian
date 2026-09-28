@@ -2,7 +2,7 @@
 ### Sifat Dasar
 - Digunakan jika bentuk <mark style="background:#d4b106">subs fungsi jadi tak tentu.</mark> $\to\space \frac{0}{0},\frac{A}{0}$
 - Hanya utk fungsi yg memuat <mark style="background:#d4b106">sin, tan,</mark>
-- Dipasangin $\to$ kalo <mark style="background:#d4b106">penyebut tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">DNE</mark> $\to \frac{\sin ax}{x^2}, \frac{2\sin^2ax}{x^3}$ 
+- Dipasangin $\to$ kalo <mark style="background:#d4b106">penyebut tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">DNE</mark> $\to \frac{\sin ax}{x^2}, \frac{2\sin^2ax}{x^4}$ 
 
 | <center>Koefisien sama</center>           | <center>Koefisien beda</center>                       |
 | ----------------------------------------- | ----------------------------------------------------- |
@@ -22,7 +22,7 @@
 ### Rumus Trigonometri
 1. Identitas:
 	- $\sin^2x+\cos^2x=1$
-	- $1+\tan^2x=\sec^2x$
+	- $1+\tan^2x=\sec^2x=\frac{1}{\sin x}$
 	- $1+\cot^2x=\csc^2x$
 2. Sudut rangkap: $1-\cos ax=2\sin^2\frac{a}{2}x$ 
 3. Jumlah sudut, selisih sudut: $\cos A-\cos B=-2\sin\frac{1}{2}(A+B)\sin\frac{1}{2}(A-B)$
@@ -38,10 +38,11 @@ Tentukan derajat tertinggi dr pembilang, penyebut
 | Pembilang $=$ penyebut   | $\lim_{ x \to \infty }\frac{1x^2}{2x^2}=\frac{1}{2}$ |
 | Pembilang $<$ penyebut   | $\lim_{ x \to \infty }\frac{x^2}{x^3}=\infty$        |
 ### Bentuk Akar
-Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$
+Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 
-| <center>Kondisi</center> | <center>Hasil</center> |
-| ------------------------ | ---------------------- |
-| $a>p$                    | $\infty$               |
-| $a=p$                    |                        |
-| $a<$                     |                        |
+| <center>Kondisi</center> | <center>Hasil</center>    |
+| ------------------------ | ------------------------- |
+| $a>p$                    | $\infty$                  |
+| $a=p$                    | $\frac{b-q}{2\sqrt{ a }}$ |
+| $a<p$                    | $-\infty$                 |
+### Fungsi Trigonometri
