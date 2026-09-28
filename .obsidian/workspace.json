@@ -11,20 +11,12 @@
             "id": "d66940c67ddeeef3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "(4) Tasks/() Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "(6) Quick Notes/Another aftermovie.md"
               },
-              "icon": "lucide-trello",
-              "title": "() Tasks"
+              "icon": "excalidraw-icon",
+              "title": "Another aftermovie"
             }
           },
           {
@@ -192,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(4) Tasks/() Tasks.md",
+                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,12 +238,12 @@
   },
   "active": "d66940c67ddeeef3",
   "lastOpenFiles": [
-    "(4) Tasks/Adv math quiz.md",
+    "(1) SHS/() SHS.md",
+    "(6) Quick Notes/Another aftermovie.md",
     "(4) Tasks/() Tasks.md",
+    "(4) Tasks/Adv math quiz.md",
     "(4) Tasks/Adv math exam.md",
     "(4) Tasks/Substack.md",
-    "(6) Quick Notes/Another aftermovie.md",
-    "(1) SHS/() SHS.md",
     "(6) Quick Notes/Aftermovie.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
