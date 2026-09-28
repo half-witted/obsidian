@@ -18,7 +18,9 @@
 1. Subs
 2. Jika bentuk tk tentu, pake sifat dasar
 3. Kalo <mark style="background:#d4b106">cosinus buat</mark> fungsi jadi <mark style="background:#d4b106">tk tentu,</mark> ubah jadi <mark style="background:#d4b106">sin atau tan</mark> pake [[#Rumus Trigonometri|rumus trigonometri]]
-4. Dipasangin $\to$ kalo <mark style="background:#d4b106">penyebut tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">DNE</mark> $\to \frac{\sin ax}{x^2}, \frac{2\sin^2ax}{x^3}$ 
+4. Dipasangin
+	- Kalo <mark style="background:#d4b106">penyebut tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">DNE</mark> $\to \frac{\sin ax}{x^2}, \frac{2\sin^2ax}{x^3}$ 
+	- Kalo pembilang tk punya pasangan, otomatis 0 $\to \frac{\sin_{2}}{}$
 ### Rumus Trigonometri
 1. Identitas:
 	- $\sin^2x+\cos^2x=1$
@@ -46,3 +48,6 @@ Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 | $a=p$                    | $\frac{b-q}{2\sqrt{ a }}$ |
 | $a<p$                    | $-\infty$                 |
 ### Fungsi Trigonometri
+1. Pake permisalan: $\frac{1}{x}=a \to x=\frac{1}{a}$
+2. Ganti $\lim_{ x \to \infty } \to \lim_{ a \to 0 }$
+3. Lanjut di [[#Limit Fungsi Trigonometri|limit fungsi trigonometri]]
