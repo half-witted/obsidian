@@ -2,7 +2,9 @@
 ### Sifat Dasar
 - Digunakan jika bentuk <mark style="background:#d4b106">subs fungsi jadi tak tentu.</mark> $\to\space \frac{0}{0},\frac{A}{0}$
 - Hanya utk fungsi yg memuat <mark style="background:#d4b106">sin, tan,</mark>
-- Dipasangin $\to$ kalo <mark style="background:#d4b106">penyebut tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">DNE</mark> $\to \frac{\sin ax}{x^2}, \frac{2\sin^2ax}{x^4}$ 
+- Dipasangin
+	- Kalo <mark style="background:#d4b106">penyebut tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">DNE</mark> $\to \frac{\sin ax}{x^2}, \frac{2\sin^2ax}{x^3}$ 
+	- Kalo <mark style="background:#d4b106">pembilang tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">0</mark> $\to \frac{2\sin^2ax}{x^2},\frac{\sin^2ax}{x}$
 
 | <center>Koefisien sama</center>           | <center>Koefisien beda</center>                       |
 | ----------------------------------------- | ----------------------------------------------------- |
@@ -20,7 +22,7 @@
 3. Kalo <mark style="background:#d4b106">cosinus buat</mark> fungsi jadi <mark style="background:#d4b106">tk tentu,</mark> ubah jadi <mark style="background:#d4b106">sin atau tan</mark> pake [[#Rumus Trigonometri|rumus trigonometri]]
 4. Dipasangin
 	- Kalo <mark style="background:#d4b106">penyebut tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">DNE</mark> $\to \frac{\sin ax}{x^2}, \frac{2\sin^2ax}{x^3}$ 
-	- Kalo pembilang tk punya pasangan, otomatis 0 $\to \frac{\sin_{2}}{}$
+	- Kalo <mark style="background:#d4b106">pembilang tk punya pasangan,</mark> otomatis <mark style="background:#d4b106">0</mark> $\to \frac{2\sin^2ax}{x^2},\frac{\sin^2ax}{x}$
 ### Rumus Trigonometri
 1. Identitas:
 	- $\sin^2x+\cos^2x=1$
@@ -51,3 +53,4 @@ Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 1. Pake permisalan: $\frac{1}{x}=a \to x=\frac{1}{a}$
 2. Ganti $\lim_{ x \to \infty } \to \lim_{ a \to 0 }$
 3. Lanjut di [[#Limit Fungsi Trigonometri|limit fungsi trigonometri]]
+## Asimtot
