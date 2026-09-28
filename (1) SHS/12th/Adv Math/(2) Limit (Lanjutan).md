@@ -27,4 +27,3 @@
 2. Sudut rangkap: $1-\cos ax=2\sin^2\frac{a}{2}x$ 
 3. Jumlah sudut, selisih sudut: $\cos A-\cos B=-2\sin\frac{1}{2}(A+B)\sin\frac{1}{2}(A-B)$
 ## Limit Tak Hingga
- 
