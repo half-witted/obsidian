@@ -11,12 +11,20 @@
             "id": "d66940c67ddeeef3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
+                "file": "(4) Tasks/() Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
+              "icon": "lucide-trello",
+              "title": "() Tasks"
             }
           },
           {
@@ -184,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md",
+                "file": "(4) Tasks/() Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,8 +246,12 @@
   },
   "active": "d66940c67ddeeef3",
   "lastOpenFiles": [
-    "(1) SHS/() SHS.md",
+    "(4) Tasks/Adv math quiz.md",
+    "(4) Tasks/() Tasks.md",
+    "(4) Tasks/Adv math exam.md",
+    "(4) Tasks/Substack.md",
     "(6) Quick Notes/Another aftermovie.md",
+    "(1) SHS/() SHS.md",
     "(6) Quick Notes/Aftermovie.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
@@ -263,9 +275,7 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260926204118.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260926200655.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260926200653.png",
-    "(4) Tasks/() Tasks.md",
     "(4) Tasks/Bindo.md",
-    "(4) Tasks/Substack.md",
     "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
     "(1) SHS/12th/() 12th.md",
     "(4) Tasks/English.md",
@@ -273,8 +283,6 @@
     "(6) Quick Notes/BINDO.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
     "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
-    "(6) Quick Notes/Books.md",
-    "(6) Quick Notes/Intensif.md",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
     "(1) SHS/12th/Arabic/() Attachments",
