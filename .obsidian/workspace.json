@@ -11,10 +11,12 @@
             "id": "d66940c67ddeeef3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(6) Quick Notes/Another aftermovie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Another aftermovie"
             }
           }
         ]
@@ -167,6 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,6 +223,7 @@
   },
   "active": "d66940c67ddeeef3",
   "lastOpenFiles": [
+    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
@@ -238,7 +242,6 @@
     "(1) SHS/11th/Comp Math/(2) Matriks.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(6) Quick Notes/Another aftermovie.md",
-    "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/() Quick Notes.md",
     "(6) Quick Notes/Aftermovi.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20260927105802.png",
