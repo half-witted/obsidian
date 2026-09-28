@@ -40,3 +40,6 @@
 8. Tk digunakan utk memisahkan petikan lgsg dr bagian lain dlm kalimat, kalo berakhiran ? atau !
 9. Digunakan di antara nama dan alimat, alamat, bagian2 alamat, tmpt tgl, serta nama tmpt dan wilayah yg ditulis berurutan
 10. Digunakan di antara nama orang dan singkatan gelar akademis yg mengikutinya utk membedakannya dr singkatan nama diri, nama keluarga, atau nama marga $\to$ Prof. Dr. Muh. Muhlis, S.E., M.A., Ph.D
+11. Digunakan sblm angka desimal atau di antara rupiah dan sen yg dinyatakan dgn angka: 12,5 m
+12. Digunakan utk mengapit keterangan aposisi $\to$ Soekarno, Presiden I RI, merupakan salah seorang pendiri Gerakan Nonblok.
+13. Dpt digunakan  di blkg keterangan yg terdapat pd awal kalimat utk menghindari salah pengertian
