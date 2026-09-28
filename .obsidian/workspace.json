@@ -11,12 +11,15 @@
             "id": "d66940c67ddeeef3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
+                "file": "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
+              "icon": "lucide-file",
+              "title": "(2) EYD"
             }
           },
           {
@@ -184,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md",
+                "file": "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +242,8 @@
   },
   "active": "d66940c67ddeeef3",
   "lastOpenFiles": [
-    "(1) SHS/() SHS.md",
     "(6) Quick Notes/Another aftermovie.md",
+    "(1) SHS/() SHS.md",
     "(4) Tasks/() Tasks.md",
     "(4) Tasks/Adv math quiz.md",
     "(4) Tasks/Adv math exam.md",

@@ -21,3 +21,7 @@
 20. Judul buku, karangan, artikel, makalah, media massa: buku berjudul "Atomic Habits", surat kabar Sinar Pembangunan
 21. Nama gelar, pangkat
 22. Huruf pertama kata penunjuk hubungan kekerabatan atau ungkapan lain (termasuk bentuk ulang utuh) sbg sapaan: Bapak berangkat, bapak dan ibu kita
+## Titik
+1. Digunakan pd akhir kalimat pernyataan
+2. Gk digunakan pd angka atau huruf yg sdh bertanda kurung dlm perincian
+3. 
