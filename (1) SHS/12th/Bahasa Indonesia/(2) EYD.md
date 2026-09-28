@@ -28,5 +28,15 @@
 4. Digunakan utk memisahkan angka jam, menit, detik yg menunjukkan waktu atau jangka waktu: pukul 01.35.20, 00.20.30 jam
 5. Gk digunakan utk memisahkan ribuan atau kelipatan yg gk menunjukkan jumlah: 1998
 6. Digunakan utk memisahkan bilangan ribuan atau kelipatannya yg menunjukkan jumlah: 13.000 pulau
-7. Gk digunakan di blkg alamat penerima surat serta tgl surat: Jalan Sumbawa I/18, Rawamangun, Yth. Rahmat Hidayat, S.T.
-8. 
+7. Gk digunakan di blkg alamat penerima surat serta tgl surat
+## Koma
+1. Digunakan antara unsur2 dlm perincian berupa kata, frasa, atau bilangan
+2. Digunakan sblm kata penghubung (tetapi, melainkan, sedangkan)
+3. Digunakan utk memisahkan anak kalimat yg mendahului induk kalimat $\to$ Kalau diundang, saya akan datang.
+4. Gk digunakan jk induk kalimat mendahului anak kalimat $\to$ Saya akan datang kalau diundang.
+5. Digunakan di blkg konjungsi antarkalimat
+6. Digunakan sebelum dan/atau sesudah kata seru (o, ya, wah, aduh, hai) atau sapaan (Bu, Dik, Nak) $\to$ O, begitu? Dia baik sekali, Bu.
+7. Digunakan utk memisahkan petikan lgsg dr bagian lain dlm kalimat $\to$ Kata nenek saya, "Kita harus berbagi dalam hidup ini."
+8. Tk digunakan utk memisahkan petikan lgsg dr bagian lain dlm kalimat, kalo berakhiran ? atau !
+9. Digunakan di antara nama dan alimat, alamat, bagian2 alamat, tmpt tgl, serta nama tmpt dan wilayah yg ditulis berurutan
+10. Digunakan di antara nama orang dan singkatan gelar akademis yg mengikutinya utk membedakannya dr singkatan nama diri, nama keluarga, atau nama marga $\to$ Prof. Dr. Muh. Muhlis, S.E., M.A., Ph.D
