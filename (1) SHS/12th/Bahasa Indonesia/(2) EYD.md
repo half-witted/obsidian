@@ -24,4 +24,9 @@
 ## Titik
 1. Digunakan pd akhir kalimat pernyataan
 2. Gk digunakan pd angka atau huruf yg sdh bertanda kurung dlm perincian
-3. 
+3. Digunakan utk mengakhiri pernyataan lengkap yg diikuti perincian berupa kalimat baru, paragraf baru, atau subjudul baru
+4. Digunakan utk memisahkan angka jam, menit, detik yg menunjukkan waktu atau jangka waktu: pukul 01.35.20, 00.20.30 jam
+5. Gk digunakan utk memisahkan ribuan atau kelipatan yg gk menunjukkan jumlah: 1998
+6. Digunakan utk memisahkan bilangan ribuan atau kelipatannya yg menunjukkan jumlah: 13.000 pulau
+7. Gk digunakan di blkg alamat penerima surat serta tgl surat: Jalan Sumbawa I/18, Rawamangun, Yth. Rahmat Hidayat, S.T.
+8. 
