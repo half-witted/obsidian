@@ -30,3 +30,18 @@
 - Pd aljabar linear, subs $x$ dgn $\infty$. 
 - $\infty$ dibagi, dikurangi, dijumlah dgn apapun masih $\infty$
 ### Bentuk Pecahan
+Tentukan derajat tertinggi dr pembilang, penyebut
+
+| <center>Kondisi</center> | <center>Shortcut                                     |
+| ------------------------ | ---------------------------------------------------- |
+| Pembilang $>$ penyebut   | $\lim_{ x \to \infty }\frac{x^3}{x^2}=0$             |
+| Pembilang $=$ penyebut   | $\lim_{ x \to \infty }\frac{1x^2}{2x^2}=\frac{1}{2}$ |
+| Pembilang $<$ penyebut   | $\lim_{ x \to \infty }\frac{x^2}{x^3}=\infty$        |
+### Bentuk Akar
+Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$
+
+| <center>Kondisi</center> | <center>Hasil</center> |
+| ------------------------ | ---------------------- |
+| $a>p$                    | $\infty$               |
+| $a=p$                    |                        |
+| $a<$                     |                        |
