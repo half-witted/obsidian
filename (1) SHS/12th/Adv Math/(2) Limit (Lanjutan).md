@@ -12,7 +12,13 @@
 | $\lim_{ x \to 0 }\frac{\sin x}{\tan x}=1$ | $\lim_{ x \to 0 }\frac{\sin ax}{\tan bx}=\frac{a}{b}$ |
 | $\lim_{ x \to 0 }\frac{\tan x}{\sin x}=1$ | $\lim_{ x \to 0 }\frac{\tan ax}{\sin bx}=\frac{a}{b}$ |
 | $\lim_{ x \to 0 }\frac{\sin x}{\sin x}=1$ | $\lim_{ x \to 0 }\frac{\sin ax}{\sin bx}=\frac{a}{b}$ |
-| $\lim_{ x \to 0 }\frac{\tan x}{\tan x}=1$ | $\lim_{ x \to 0 }$                                    |
-Kalau fungsi memuat cosinus:
+| $\lim_{ x \to 0 }\frac{\tan x}{\tan x}=1$ | $\lim_{ x \to 0 }\frac{\tan ax}{\tan bx}=\frac{a}{b}$ |
+### Memuat Cosinus
 1. Subs
-2. Klo bentuk tak tentu, ubah jadi memuat sinus atau tangen $\to$ pake rumus trigonometri
+2. Jika bentuk tk tentu, pake sifat dasar
+3. Kalo cosinus buat fungsi jadi tk tentu, ubah jadi sin atau tan pake rumus trigonometri
+### Rumus Trigonometri
+1. Identitas
+	- $\sin^2x+\cos^2x=1$
+	- $1+\tan^2x=\sec^2x$
+	- $1+\cot^2x$
