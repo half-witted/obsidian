@@ -34,8 +34,7 @@
               "title": "() SHS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/() SHS.md",
+                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,10 +236,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "6078bfcfcd324955",
+  "active": "d66940c67ddeeef3",
   "lastOpenFiles": [
-    "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/() SHS.md",
+    "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/Aftermovie.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
