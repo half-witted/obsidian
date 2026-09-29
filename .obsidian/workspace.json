@@ -11,10 +11,12 @@
             "id": "ca3daf1f33910ead",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(6) Quick Notes/Another aftermovie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Another aftermovie"
             }
           }
         ]
@@ -220,10 +222,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95ad9845db6905a",
+  "active": "ca3daf1f33910ead",
   "lastOpenFiles": [
-    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
+    "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/Another aftermovie.md",
+    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(1) SHS/() SHS.md",
@@ -237,7 +240,6 @@
     "(4) Tasks/Adv math quiz.md",
     "(4) Tasks/Adv math exam.md",
     "(4) Tasks/Substack.md",
-    "(6) Quick Notes/Aftermovie.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/() Exercises/(1.1E) Pola Bilangan.md",
