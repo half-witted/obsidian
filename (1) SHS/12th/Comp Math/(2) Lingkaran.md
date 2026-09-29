@@ -12,7 +12,7 @@
 | Tembereng              | $AED$ (biru)                  |
 | Apotema                | $OE$                          |
 ## Sudut
-Sudut pusat $=2\space*$ sudut keliling ^rumus-sudut
+$\color{#40A9FF}\angle pusat=2\space*\angle keliling$ ^rumus-sudut
 ### Sudut Pusat
 Dibentuk oleh 2 jari2 dan <mark style="background:#d4b106">titik sudut pd pusat.</mark>
 ![[Pasted image 20260929201857.png|183]]
@@ -22,3 +22,13 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 #### Sifat
 - Sudut yg <mark style="background:#9254de">menghadap diameter</mark> sebesar $\color{#9254DE}90\degree$$\to$ pake [[#^rumus-sudut|ini]] di mana <mark style="background:#9254de">diameter = sudut pusat</mark>
 - Sudut2 yg <mark style="background:#9254de">menghadap busur yg sama</mark> punya <mark style="background:#9254de">besar sama</mark>
+## Segi Empat Tali Busur
+- Segi empat yg <mark style="background:#40a9ff">sisi2nya</mark> merupakan <mark style="background:#40a9ff">tali busur.</mark>
+- Jumlah <mark style="background:#40a9ff">sudut2 berhadapan</mark> adalah $\color{#40A9FF}180\degree$
+## Keliling dan Luas
+### Keliling
+
+| <center> |     |
+| -------- | --- |
+|          |     |
+
