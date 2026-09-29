@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fe2fafd9f5049b51",
+        "id": "f4ddc2d733d1fce0",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3daf1f33910ead",
+            "id": "b295b60d56f7a37b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -222,10 +220,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "ca3daf1f33910ead",
+  "active": "b295b60d56f7a37b",
   "lastOpenFiles": [
-    "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/Another aftermovie.md",
+    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
