@@ -37,7 +37,8 @@
               "title": "(2) Lingkaran"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +240,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "52939587be876791",
+  "active": "0451e91071831f37",
   "lastOpenFiles": [
-    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+    "(1) SHS/() SHS.md",
+    "(1) SHS/12th/() 12th.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
+    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Comp Math/() Attachments/Pasted image 20260929201939.png",
     "(1) SHS/12th/Comp Math/() Attachments/Pasted image 20260929201857.png",
     "(1) SHS/12th/Comp Math/() Attachments/Pasted image 20260929201323.png",
@@ -255,14 +258,12 @@
     "(2) TKA/Adv Math/() Adv Math.md",
     "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
-    "(1) SHS/() SHS.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
     "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
-    "(1) SHS/12th/() 12th.md",
     "(6) Quick Notes/() Quick Notes.md",
     "(6) Quick Notes/Intensif.md",
     "(6) Quick Notes/Books.md",
