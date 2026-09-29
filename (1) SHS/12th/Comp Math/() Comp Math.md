@@ -1,2 +1,3 @@
 - [[(1) SHS/12th/Comp Math/() Exercises/() Exercises|() Exercises]]
 - [[(1) Transformasi]]
+- [[(2) Lingkaran]]
