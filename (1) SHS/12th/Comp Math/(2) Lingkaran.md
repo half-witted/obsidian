@@ -27,8 +27,13 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 - Jumlah <mark style="background:#40a9ff">sudut2 berhadapan</mark> adalah $\color{#40A9FF}180\degree$
 ## Keliling dan Luas
 ### Keliling
-
-| <center> |     |
-| -------- | --- |
-|          |     |
+| <center>Rumus</center> | <center>Penjelasan</center>    |
+| ---------------------- | ------------------------------ |
+| $K=\pi d$              | $K=$ keliling<br>$d=$ diameter |
+| $K=2\pi r$             | $r=$ jari2                     |
+### Luas
+| <center>Rumus</center> | <center>Penjelasan</center> |
+| ---------------------- | --------------------------- |
+| $L=\pi r^2$            | $L=$ luas<br>$r=$ jari2     |
+| $L=\frac{1}{4}\pi d^2$ | $d=$ diameter               |
 
