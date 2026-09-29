@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/() SHS.md",
+                "file": "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
