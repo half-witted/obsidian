@@ -34,8 +34,7 @@
               "title": "() SHS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/() SHS.md",
+                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,10 +236,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "3e4a4e97e9ceb69b",
+  "active": "306da2217e7411e2",
   "lastOpenFiles": [
-    "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/() SHS.md",
+    "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/Comp Math/() Attachments/Pasted image 20260929220455.png",
     "(1) SHS/12th/Comp Math/() Attachments/Pasted image 20260929220345.png",
