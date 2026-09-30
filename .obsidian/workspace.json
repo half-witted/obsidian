@@ -19,21 +19,8 @@
               "icon": "excalidraw-icon",
               "title": "(2E) Limit (Lanjutan)"
             }
-          },
-          {
-            "id": "6b6613d8525175b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "(1E) Transformasi"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eb947526370c397c",
@@ -205,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,8 +245,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "6b6613d8525175b6",
+  "active": "a9af5eea9e42e7d7",
   "lastOpenFiles": [
+    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930225757_464.png",
+    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930225142_043.png",
+    "(1) SHS/12th/Physics/() Exercises/(1E) Listrik Statis.md",
+    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930224455_109.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930224244_395.png",
@@ -273,7 +264,6 @@
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222805_441.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222724_732.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222702_893.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Exercises.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
@@ -294,8 +284,6 @@
     "(6) Quick Notes/Books.md",
     "(6) Quick Notes/BINDO.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
-    "(4) Tasks/() Tasks.md",
-    "(4) Tasks/Adv math quiz.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
