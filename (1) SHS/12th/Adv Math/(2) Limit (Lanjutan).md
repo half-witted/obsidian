@@ -1,3 +1,8 @@
+---
+excalidraw-plugin: parsed
+tags:
+  - excalidraw
+---
 ## Limit Fungsi Trigonometri
 ### Sifat Dasar
 - Digunakan jika bentuk <mark style="background:#d4b106">subs fungsi jadi tak tentu.</mark> $\to\space \frac{0}{0},\frac{A}{0}$
@@ -24,8 +29,14 @@
 		- $1+\tan^2x=\sec^2x$
 		- $1+\cot^2x=\csc^2x$
 	- Perbandingan:
-		- $\tan=\frac{\si x}{\cos x}$
-2. Sudut rangkap: $1-\cos ax=2\sin^2\frac{a}{2}x$ 
+		- $\cot x=\frac{1}{\tan x}$
+		- $\sec x=\frac{1}{\cos x}$
+		- $\csc x=\frac{1}{\sin x}$
+2. Sudut rangkap: 
+	- $\sin 2x=2\sin x\cos x$
+	- $\cos ax=1-2\sin^2\frac{a}{2}x$ 
+	- $\cos ax=\cos^2\frac{a}{2}x-\sin^2\frac{a}{2}x$
+	- $\cos ax=2\cos^2x-1$
 3. Jumlah sudut, selisih sudut: $\cos A-\cos B=-2\sin\frac{1}{2}(A+B)\sin\frac{1}{2}(A-B)$
 ## Limit Tak Hingga
 - Pd aljabar linear, subs $x$ dgn $\infty$. 
@@ -50,3 +61,12 @@ Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 1. Pake permisalan: $\frac{1}{x}=a \to x=\frac{1}{a}$
 2. Ganti $\lim_{ x \to \infty } \to \lim_{ a \to 0 }$
 3. Lanjut di [[#Limit Fungsi Trigonometri|limit fungsi trigonometri]]
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFFgB2ULIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
+%%
