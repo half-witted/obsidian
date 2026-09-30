@@ -1,2 +1,2 @@
 - [[(1E) Vector]]
-- [[(2E) Limit (lanjutan)]]
+- [[(2E) Limit (Lanjutan)]]

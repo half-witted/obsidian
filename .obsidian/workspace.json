@@ -14,13 +14,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (lanjutan).md"
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md"
               },
               "icon": "excalidraw-icon",
-              "title": "(2E) Limit (lanjutan)"
+              "title": "(2E) Limit (Lanjutan)"
+            }
+          },
+          {
+            "id": "6b6613d8525175b6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(1E) Transformasi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb947526370c397c",
@@ -104,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (lanjutan).md",
+                "file": "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,10 +258,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "a9af5eea9e42e7d7",
+  "active": "6b6613d8525175b6",
   "lastOpenFiles": [
+    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
+    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930224455_109.png",
+    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930224244_395.png",
+    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930224042_583.png",
+    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930223923_157.png",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
-    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930223548_131.png",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930223256_700.png",
@@ -258,10 +274,6 @@
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222805_441.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222724_732.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222702_893.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222637_704.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930222614_152.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930221231_968.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20260930221639_290.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Exercises.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
@@ -284,7 +296,6 @@
     "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
     "(4) Tasks/() Tasks.md",
     "(4) Tasks/Adv math quiz.md",
-    "(4) Tasks/Adv math exam.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
