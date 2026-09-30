@@ -61,12 +61,3 @@ Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 1. Pake permisalan: $\frac{1}{x}=a \to x=\frac{1}{a}$
 2. Ganti $\lim_{ x \to \infty } \to \lim_{ a \to 0 }$
 3. Lanjut di [[#Limit Fungsi Trigonometri|limit fungsi trigonometri]]
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFFgB2ULIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```
-%%
