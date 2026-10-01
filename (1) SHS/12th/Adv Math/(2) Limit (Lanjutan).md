@@ -53,7 +53,7 @@ Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 | $a=p$                    | $\frac{b-q}{2\sqrt{ a }}$ |
 | $a<p$                    | $-\infty$                 |
 ### Fungsi Trigonometri
-$-\frac{1}{x}\leq \frac{\sin x}{x},\frac{\cos x}{x} \leq \frac{1}{x} \to  o\leq \frac{\sin x}{x},\frac{\cos x}{x}\leq 0$
+$-\frac{1}{x}\leq \frac{\sin ax}{x},\frac{\cos ax}{x} \leq \frac{1}{x} \to  o\leq \frac{\sin ax}{x},\frac{\cos ax}{x}\leq 0$
 1. Pake permisalan: $\frac{1}{x}=a \to x=\frac{1}{a}$
 2. Ganti $\lim_{ x \to \infty } \to \lim_{ a \to 0 }$
 3. Lanjut di [[#Limit Fungsi Trigonometri|limit fungsi trigonometri]]
