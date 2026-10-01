@@ -1,8 +1,7 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
@@ -33,6 +32,8 @@ tiap sudut naik 60, panjang naik 10 ^ePF5i5PK
 9. ^Ck6T7t0Z
 
 10. ^A26EQSrk
+
+11. ^EzXUJ1hz
 
 ## Embedded Files
 63c86e49db642afedf5f23e0c5e25ff0f4833af0: $$\color{#1971c2}d = 2r = 2(14) = \color{#2f9e44}28\space cm$$
@@ -70,6 +71,10 @@ p_{busur} &= \frac{\theta}{360\degree}2\pi r \\
 r &= \color{#2f9e44}7\space cm
 \end{aligned}$$
 
+6ba2fa4925ea1ffc2a5b36dda3c910bd118b04a6: $$\color{#1971c2}\frac{p_{busur}A}{p_{busur}B} = \frac{\alpha}{\beta} = \frac{40\degree}{80\degree} = \color{#2f9e44}\frac{1}{2}$$
+
+adf784122e52afd709f49b46ea5c1f0dd94f748d: $$\color{#1971c2}\frac{L_{juring}A}{L_{juring}B} = \frac{\alpha}{\beta} = \frac{40\degree}{80\degree} = \color{#2f9e44}\frac{1}{2}$$
+
 71495b34c08fd1ffe5e937f4ca2afd3d6f4a7776: [[Pasted Image 20261001210253_927.png]]
 
 fd1f7692f070a613c5e2dd500748d25a64506289: [[Pasted Image 20261001210324_798.png]]
@@ -93,6 +98,8 @@ c446dc04e86613d1d768f7a1ebb57c99c2f2809c: [[Pasted Image 20261001211404_792.png]
 a1e260cfa0133ad7355afca30e8d63fe22f20202: [[Pasted Image 20261001212640_591.png]]
 
 a99e107d5ac550998a890e8d0d55f062c26d3f20: [[Pasted Image 20261001212649_829.png]]
+
+9c79b67908aaad15ec5a8f45d4fc740fda10e27f: [[Pasted Image 20261001213722_829.png]]
 
 %%
 ## Drawing
@@ -207,14 +214,26 @@ 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
 
-+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
++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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 ```
 %%
