@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ec783fb56f543a5b",
+        "id": "c56bc67c4b527522",
         "type": "tabs",
         "children": [
           {
-            "id": "a1ddf365189d3ab7",
+            "id": "eff1982251b56b2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2) Lingkaran"
-            }
-          },
-          {
-            "id": "da930c34116c01c9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "(2E) Lingkaran"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,21 +219,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "da930c34116c01c9",
+  "active": "eff1982251b56b2e",
   "lastOpenFiles": [
+    "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
+    "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001215016_678.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214535_122.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214523_020.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214148_731.png",
-    "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001213722_829.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001212649_829.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001212640_591.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001211959_718.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001211744_042.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001211404_792.png",
-    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001211237_848.png",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/() SHS.md",
