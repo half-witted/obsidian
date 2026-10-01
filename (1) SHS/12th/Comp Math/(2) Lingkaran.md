@@ -42,3 +42,4 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 - Hubungan 2 juring $\to\color{#40A9FF}\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
 ![[Pasted image 20260929220345.png|185]]
 - Hubungan panjang busur dan luas juring $\to\color{#40A9FF}\frac{busur}{k}=\frac{juring}{L}$
+## Luas Tembereng
