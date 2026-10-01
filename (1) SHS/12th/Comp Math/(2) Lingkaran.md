@@ -38,8 +38,9 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 | $L=\frac{1}{4}\pi d^2$ | $d=$ diameter               |
 ## Busur dan Juring
 - Panjang busur $\to \color{#40A9FF}\frac{\theta}{360\degree}2\pi r$
-- Luas juring $\to\color{#40A9FF}\frac{\theta}{360\degree}\pi r^2$
+- Luas juring
+	- $\color{#40A9FF}\frac{\theta}{360\degree}\pi r^2$
+	- $\color{#40A9FF}L\triangle+L\space tembereng$
 - Hubungan 2 juring $\to\color{#40A9FF}\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
 ![[Pasted image 20260929220345.png|185]]
 - Hubungan panjang busur dan luas juring $\to\color{#40A9FF}\frac{busur}{k}=\frac{juring}{L}$
-## Luas Tembereng
