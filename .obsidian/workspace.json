@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "(2) Lingkaran"
             }
+          },
+          {
+            "id": "da930c34116c01c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(2E) Lingkaran"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +237,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "a1ddf365189d3ab7",
+  "active": "da930c34116c01c9",
   "lastOpenFiles": [
+    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001210646_306.png",
+    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001210526_339.png",
+    "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
+    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001210324_798.png",
+    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001210253_927.png",
+    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001210151_324.png",
+    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001210015_364.png",
+    "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001104215_034.png",
@@ -234,17 +255,11 @@
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001103513_121.png",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001005534_777.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001003826_076.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001003210_539.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001002135_292.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001001726_345.png",
-    "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001001509_245.png",
     "(1) SHS/12th/Physics/() Exercises/(1E) Listrik Statis.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
     "(1) SHS/12th/Adv Math/() Exercises/() Exercises.md",
     "(6) Quick Notes/Another aftermovie.md",
-    "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/() 12th.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Comp Math/() Attachments",
@@ -261,7 +276,6 @@
     "(6) Quick Notes/Intensif.md",
     "(6) Quick Notes/Books.md",
     "(6) Quick Notes/BINDO.md",
-    "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
