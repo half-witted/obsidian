@@ -4,17 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "2ad6744efa52f005",
+        "id": "bf3863369e7ff98a",
         "type": "tabs",
         "children": [
           {
             "id": "af3ee5ac6bb779a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(2E) Limit (Lanjutan)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ad6744efa52f005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c283b3be9db17f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(2) Limit (Lanjutan)"
             }
           }
         ]
@@ -79,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -219,11 +243,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "af3ee5ac6bb779a2",
+  "active": "c283b3be9db17f17",
   "lastOpenFiles": [
+    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
-    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001005534_777.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001003826_076.png",
     "(1) SHS/12th/Adv Math/() Exercises/() Attachments/Pasted Image 20261001003210_539.png",
