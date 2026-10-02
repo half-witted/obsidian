@@ -11,13 +11,31 @@
             "id": "741c2c336cecd082",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(2E) Lingkaran"
+            }
+          },
+          {
+            "id": "96047287babb4af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(2) Lingkaran"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,12 +237,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "741c2c336cecd082",
+  "active": "96047287babb4af3",
   "lastOpenFiles": [
+    "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
+    "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/() 12th.md",
-    "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001215016_678.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214535_122.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214523_020.png",

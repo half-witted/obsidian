@@ -12,7 +12,7 @@
 | Tembereng              | $AED$ (biru)                  |
 | Apotema                | $OE$                          |
 ## Sudut
-$\color{#40A9FF}\angle pusat=2\space*\angle keliling$ ^rumus-sudut
+$\color{#40A9FF}\angle_{p}=2\space*\angle_{k}$ ^rumus-sudut
 ### Sudut Pusat
 Dibentuk oleh 2 jari2 dan <mark style="background:#d4b106">titik sudut pd pusat.</mark>
 ![[Pasted image 20260929201857.png|183]]
@@ -40,7 +40,7 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 - Panjang busur $\to \color{#40A9FF}\frac{\theta}{360\degree}2\pi r$
 - Luas juring
 	- $\color{#40A9FF}\frac{\theta}{360\degree}\pi r^2$
-	- $\color{#40A9FF}L\triangle+L_{tembereng}$
-- Hubungan 2 juring $\to\color{#40A9FF}\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
+	- $\color{#40A9FF}L\triangle+L_{t}$
+- Hubungan 2 juring dan panjang busur $\to\color{#40A9FF}\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
 ![[Pasted image 20260929220345.png|185]]
-- Hubungan panjang busur dan luas juring $\to\color{#40A9FF}\frac{busur}{k}=\frac{juring}{L}$
+- Hubungan panjang busur dan luas juring $\to\color{#40A9FF}\frac{p_{b}}{k}=\frac{L_{j}}{L}$
