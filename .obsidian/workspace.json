@@ -11,10 +11,15 @@
             "id": "dbb868b152a39390",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(2) EYD"
             }
           }
         ]
