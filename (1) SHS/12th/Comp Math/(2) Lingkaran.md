@@ -41,6 +41,6 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 - Luas juring
 	- $\color{#40A9FF}\frac{\theta}{360\degree}\pi r^2$
 	- $\color{#40A9FF}L\triangle+L_{t}$
-- Hubungan 2 juring dan panjang busur $\to\color{#40A9FF}\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
+- Hubungan 2 juring dan panjang busur $\to\color{#40A9FF}\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}=\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
 ![[Pasted image 20260929220345.png|185]]
 - Hubungan panjang busur dan luas juring $\to\color{#40A9FF}\frac{p_{b}}{k}=\frac{L_{j}}{L}$
