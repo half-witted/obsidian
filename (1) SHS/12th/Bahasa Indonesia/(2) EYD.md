@@ -1,43 +1,28 @@
 ## Huruf Kapital
 ### Digunakan
-| <center>No</center> | <center>Syarat</center>         | <center>Contoh</center>                                                             | <center>Tambahan</center>             |
-| ------------------- | ------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------- |
-| <center>1</center>  | Awal kalimat                    |                                                                                     |                                       |
-| <center>2</center>  | Nama org/julukan                | Bapak Koperasi, Alejandro G Innaritu                                                |                                       |
-| <center>3</center>  | Teori, hukum, rumus dr nama org | teori Darwin, hukum Archimedes                                                      |                                       |
-| <center>4</center>  | Awal petikan lgsg               | - Ibu berpesan, Hati-hatilah, Nak!"<br>- "Besok pagi", katanya, "mereka berangkat." | Kecuali petikan lgsg lanjutan         |
-| <center>5</center>  | Agama, kitab, Tuhan             | Buddha, kitab Taurat, agama Islam                                                   | "agama", "kitab" kecil                |
-| <center>6</center>  | Gelar, pangkat                  | - Profesor Budi<br>- Budi, S.Pd.                                                    | - Sebelum, sesudah                    |
-| <center>7</center>  | Gelar, pangkat sbg sapaan       | - Halo, Yang Mulia.<br>- Siap, Jenderal.                                            |                                       |
-| <center>8</center>  | Jabatan, pangkat                | Presiden Habibie, Wali Kota Surabaya                                                | Jika diikuti nama org, instansi, tmpt |
-| <center>9</center>  | Tahun, bulan, hari, hari besar  | hari Natal, bulan Juli, tahun Masehi                                                | Nama aj                               |
-| <center>10</center> | Peristiwa sejarah               | Perang Dunia II, Proklamasi Kemerdekaan <br>Indonesia, Abad Kekosongan              | Jika sbg nama                         |
-| <center>11</center> | Nama geografi                   | Benua Afrika, Sungai Jagir, Gunung Bromo                                            | Klo ad nama                           |
-| <center>12</center> | Benda yg menyatakan asal        | batik Cirebon, bubur Manado                                                         | Hati2 dgn nama jenis                  |
-| <center>13</center> | Negara, lembaga                 | Perserikatan Bangsa-Bangsa, Republik<br>Indonesia                                   |                                       |
-| <center>14</center> | Judul                           | Hamnet, Atomic Habits, Tempo                                                        | Media massa jg msk                    |
-| <center>15</center> | Kata kekerabatan                |                                                                                     | Jika sbg sapaan                       |
-| <center>16</center> | Bangsa, suku, bahasa, aksara    |                                                                                     |                                       |
-| <center>17</center> |                                 |                                                                                     |                                       |
-| <center>18</center> |                                 |                                                                                     |                                       |
-| <center>19</center> |                                 |                                                                                     |                                       |
-
-1. Awal kalimat
-2. Nama org/julukan $\to$ Bapak Koperasi, Malcom James McCormick
-3. Teori, hukum, rumus dr nama org $\to$ teori Darwin, hukum Archimedes
-4. Awal petikan lgsg (kecuali petikan lanjutan)
-5. Agama, kitab, Tuhan (kata "agama", "kitab" kecil) $\to$ Buddha, kitab Al-Qur'an, agama Islam
-6. Gelar, pangkat(sebelum, sesudah) $\to$ Profesor Budi, Budi, S.Pd.
-7. Gelar, pangkat sbg sapaan $\to$ Yang Mulia, Raden, Jenderal
-8. Jabatan, pangkat (jika diikuti nama org, instansi, tmpt) $\to$ Presiden Habibie, wali kota
-9. Tahun, bulan, hari, hari besar (nama aj) $\to$ hari Natal, bulan Juli, tahun Masehi
-10. Peristiwa sejarah (jika sbg nama) $\to$ Perang Dunia II, Proklamasi Kemerdekaan Indonesia, perang dunia
-11. Nama geografi (jika ada nama) $\to$ Benua Afrika, Sungai Jagir, benua, sungai
-12. Benda yg menyatakan asal $\to$ batik Cirebon, bubur Manado
-13. Negara, lembaga $\to$ Perserikatan Bangsa-Bangsa, Republik Indonesia
-14. Judul (termasuk media massa) $\to$ Hamnet, Atomic Habits, Tempo
-15. Kata kekerabatan (jika sbg sapaan) $\to$ Bapak berangkat, Ibu datang, bapak dan ibu kita, kakak saya
+| <center>No</center> | <center>Syarat</center>                                                 | <center>Contoh</center>                                                             | <center>Tambahan</center>             |
+| ------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Awal kalimat</mark>                    |                                                                                     |                                       |
+| <center>2</center>  | <mark style="background:#d4b106">Nama org/julukan</mark>                | Bapak Koperasi, Alejandro G Innaritu                                                |                                       |
+| <center>3</center>  | <mark style="background:#d4b106">Teori, hukum, rumus dr nama org</mark> | teori Darwin, hukum Archimedes                                                      |                                       |
+| <center>4</center>  | <mark style="background:#d4b106">Awal petikan lgsg</mark>               | - Ibu berpesan, Hati-hatilah, Nak!"<br>- "Besok pagi", katanya, "mereka berangkat." | Kecuali petikan lgsg lanjutan         |
+| <center>5</center>  | <mark style="background:#d4b106">Agama, kitab, Tuhan</mark>             | Buddha, kitab Taurat, agama Islam                                                   | "agama", "kitab" kecil                |
+| <center>6</center>  | <mark style="background:#d4b106">Gelar, pangkat</mark>                  | - Profesor Budi<br>- Budi, S.Pd.                                                    | - Sebelum, sesudah                    |
+| <center>7</center>  | <mark style="background:#d4b106">Gelar, pangkat sbg sapaan</mark>       | - Halo, Yang Mulia.<br>- Siap, Jenderal.                                            |                                       |
+| <center>8</center>  | <mark style="background:#d4b106">Jabatan, pangkat</mark>                | Presiden Habibie, Wali Kota Surabaya                                                | Jika diikuti nama org, instansi, tmpt |
+| <center>9</center>  | <mark style="background:#d4b106">Tahun, bulan, hari, hari besar</mark>  | hari Natal, bulan Juli, tahun Masehi                                                | Nama aj                               |
+| <center>10</center> | <mark style="background:#d4b106">Peristiwa sejarah</mark>               | Perang Dunia II, Proklamasi Kemerdekaan <br>Indonesia, Abad Kekosongan              | Jika sbg nama                         |
+| <center>11</center> | <mark style="background:#d4b106">Nama geografi</mark>                   | Benua Afrika, Sungai Jagir, Gunung Bromo                                            | Klo ad nama                           |
+| <center>12</center> | <mark style="background:#d4b106">Benda yg menyatakan asal</mark>        | batik Cirebon, bubur Manado                                                         | Hati2 dgn nama jenis                  |
+| <center>13</center> | <mark style="background:#d4b106">Negara, lembaga</mark>                 | Perserikatan Bangsa-Bangsa, Republik<br>Indonesia                                   |                                       |
+| <center>14</center> | <mark style="background:#d4b106">Judul</mark>                           | Hamnet, Atomic Habits, Tempo                                                        | Media massa jg msk                    |
+| <center>15</center> | <mark style="background:#d4b106">Kata kekerabatan</mark>                | - Dedi bertanya, "Itu apa, Bu?"<br>- Surat Saudara telah diterima.                  | Jika sbg sapaan<br>- kakak saya       |
+| <center>16</center> | <mark style="background:#d4b106">Bangsa, suku, bahasa, aksara</mark>    | bangsa Indonesia, suku Jawa                                                         | Nama aj                               |
 ### Tidak Digunakan
+| <center>No</center> | <center>Syarat</center> |     |
+| ------------------- | ----------------------- | --- |
+|                     |                         |     |
+
 1. Nama org dlm nama jenis, satuan ukuran $\to$ ampere, ikan mujair
 2. Anak dari $\to$ van, binti, boru, bin
 3. Bahasa, suku berupa kata turunan $\to$ pengindonesiaan, inggris-inggrisan
