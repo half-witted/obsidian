@@ -1,31 +1,32 @@
 ## Huruf Kapital
 ### Digunakan
 1. Awal kalimat
-2. Nama org/julukan $\to$ Bapak Koperasi, Prabowo Subiyanto
+2. Nama org/julukan $\to$ Bapak Koperasi, Malcom James McCormick
 3. Teori, hukum, rumus $\to$ teori Darwin, hukum Archimedes
 4. Awal petikan lgsg (kecuali petikan lanjutan)
-5. Agama, kitab, Tuhan (kata "agama", "kitab" kecil) $\to$ Buddha, Tuhan, agama Islam
-6. Gelar kehormatan, kebangsawanan, akademik 
+5. Agama, kitab, Tuhan (kata "agama", "kitab" kecil) $\to$ Buddha, kitab Al-Qur'an, agama Islam
+6. Gelar kehormatan, kebangsawanan, akademik (sebelum, sesudah) $\to$ Profesor Budi, Budi, S.Pd.
+7. Gelar kehormatan, keturunan, jabatan sbg sapaan $\to$ Yang Mulia, Raden, Jenderal
+8. Jabatan, pangkat (jika diikuti nama org, instansi, tmpt) $\to$ Presiden Habibie, wali kota
+9. 
 ### Tidak Digunakan
 1. Nama org pd nama jenis, satuan ukuran $\to$ ampere, ikan mujair
 2. Anak dari $\to$ van, binti, boru, bin
-3. 
+3. Bahasa, suku berupa kata turunan $\to$ 
 ## Huruf Kapital
-1. Nama gelar kehormatan, kebangsawanan, akademik yg diikuti nama org gelar akadeik yg mengikuti nama orang
-2. Nama gelar kehormatan, keturunan, jabatan yg digunakan sbg sapaan: Yang Mulia, Raden, Jenderal
-3. Nama jabatan dan pangkat diikuti nama orang, instansi, tempat (klo gk diikuti, kecil)
-4. Nama bangsa, suku, bahasa, aksara: suku Jawa, bangsa Indonesia
-5. Bkn utk bahasa, suku yg berupa kata turunan: pengindonesiaan, inggris-inggrisan
-6. Nama tahun, bulan, hari, hari besar: hari Natal, tahun Masehi, hari Lebaran
-7. Huruf pertama unsur nama peristiwa sejarah: Konferensi Asia Afrika, Perang Dunia II, Proklamasi Kemerdekaan Indonesia
-8. Bkn utk peristiwa sejarah yg tk digunakan sbg nama: perang dunia, proklamasi kemerdekaan
-9. Nama geografi (klo gk ada namanya, gk kapital): Benua Afrika, sungai, Sungai Jagir
-10. Bkn utk nama geografi yg digunakan sbg nama jenis: jeruk bali, gula jawa
-11. Nama benda yg menyatakan asal daerah: batik Cirebon, bubur Manado
-12. Huruf pertama nama negara, lembaga, kecuali kata tugas: Perserikatan Bangsa-Bangsa, 
-13. Judul buku, karangan, artikel, makalah, media massa: buku berjudul "Atomic Habits", surat kabar Sinar Pembangunan
-14. Nama gelar, pangkat
-15. Huruf pertama kata penunjuk hubungan kekerabatan atau ungkapan lain (termasuk bentuk ulang utuh) sbg sapaan: Bapak berangkat, bapak dan ibu kita
+1. Nama jabatan dan pangkat diikuti nama orang, instansi, tempat (klo gk diikuti, kecil)
+2. Nama bangsa, suku, bahasa, aksara: suku Jawa, bangsa Indonesia
+3. Bkn utk bahasa, suku yg berupa kata turunan: pengindonesiaan, inggris-inggrisan
+4. Nama tahun, bulan, hari, hari besar: hari Natal, tahun Masehi, hari Lebaran
+5. Huruf pertama unsur nama peristiwa sejarah: Konferensi Asia Afrika, Perang Dunia II, Proklamasi Kemerdekaan Indonesia
+6. Bkn utk peristiwa sejarah yg tk digunakan sbg nama: perang dunia, proklamasi kemerdekaan
+7. Nama geografi (klo gk ada namanya, gk kapital): Benua Afrika, sungai, Sungai Jagir
+8. Bkn utk nama geografi yg digunakan sbg nama jenis: jeruk bali, gula jawa
+9. Nama benda yg menyatakan asal daerah: batik Cirebon, bubur Manado
+10. Huruf pertama nama negara, lembaga, kecuali kata tugas: Perserikatan Bangsa-Bangsa, 
+11. Judul buku, karangan, artikel, makalah, media massa: buku berjudul "Atomic Habits", surat kabar Sinar Pembangunan
+12. Nama gelar, pangkat
+13. Huruf pertama kata penunjuk hubungan kekerabatan atau ungkapan lain (termasuk bentuk ulang utuh) sbg sapaan: Bapak berangkat, bapak dan ibu kita
 ## Titik
 1. Digunakan pd akhir kalimat pernyataan
 2. Gk digunakan pd angka atau huruf yg sdh bertanda kurung dlm perincian
