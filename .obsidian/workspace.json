@@ -11,10 +11,15 @@
             "id": "d457d385f444eec2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(2) EYD"
             }
           }
         ]
@@ -221,6 +226,8 @@
   },
   "active": "d457d385f444eec2",
   "lastOpenFiles": [
+    "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
+    "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
     "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
     "(1) SHS/() SHS.md",
@@ -256,8 +263,6 @@
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(6) Quick Notes/() Quick Notes.md",
     "(6) Quick Notes/Intensif.md",
-    "(6) Quick Notes/Books.md",
-    "(6) Quick Notes/BINDO.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
