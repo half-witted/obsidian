@@ -1,8 +1,30 @@
 ## Huruf Kapital
 ### Digunakan
+| <center>No</center> | <center>Syarat</center>         | <center>Contoh</center>              | <center>Tambahan</center> |
+| ------------------- | ------------------------------- | ------------------------------------ | ------------------------- |
+| <center>1</center>  | Awal kalimat                    |                                      |                           |
+| <center>2</center>  | Nama org/julukan                | Bapak Koperasi, Alejandro G Innaritu |                           |
+| <center>3</center>  | Teori, hukum, rumus dr nama org | teori Darwin, hukum Archimedes       |                           |
+| <center>4</center>  |                                 |                                      |                           |
+| <center>5</center>  |                                 |                                      |                           |
+| <center>6</center>  |                                 |                                      |                           |
+| <center>7</center>  |                                 |                                      |                           |
+| <center>8</center>  |                                 |                                      |                           |
+| <center>9</center>  |                                 |                                      |                           |
+| <center>10</center> |                                 |                                      |                           |
+| <center>11</center> |                                 |                                      |                           |
+| <center>12</center> |                                 |                                      |                           |
+| <center>13</center> |                                 |                                      |                           |
+| <center>14</center> |                                 |                                      |                           |
+| <center>15</center> |                                 |                                      |                           |
+| <center>16</center> |                                 |                                      |                           |
+| <center>17</center> |                                 |                                      |                           |
+| <center>18</center> |                                 |                                      |                           |
+| <center>19</center> |                                 |                                      |                           |
+
 1. Awal kalimat
 2. Nama org/julukan $\to$ Bapak Koperasi, Malcom James McCormick
-3. Teori, hukum, rumus $\to$ teori Darwin, hukum Archimedes
+3. Teori, hukum, rumus dr nama org $\to$ teori Darwin, hukum Archimedes
 4. Awal petikan lgsg (kecuali petikan lanjutan)
 5. Agama, kitab, Tuhan (kata "agama", "kitab" kecil) $\to$ Buddha, kitab Al-Qur'an, agama Islam
 6. Gelar, pangkat(sebelum, sesudah) $\to$ Profesor Budi, Budi, S.Pd.
@@ -14,18 +36,17 @@
 12. Benda yg menyatakan asal $\to$ batik Cirebon, bubur Manado
 13. Negara, lembaga $\to$ Perserikatan Bangsa-Bangsa, Republik Indonesia
 14. Judul (termasuk media massa) $\to$ Hamnet, Atomic Habits, Tempo
-15. Kata kekerabatan (jika sbg sapaan) $\to$ Bapak berangkat
+15. Kata kekerabatan (jika sbg sapaan) $\to$ Bapak berangkat, Ibu datang, bapak dan ibu kita, kakak saya
 ### Tidak Digunakan
-1. Nama org pd nama jenis, satuan ukuran $\to$ ampere, ikan mujair
+1. Nama org dlm nama jenis, satuan ukuran $\to$ ampere, ikan mujair
 2. Anak dari $\to$ van, binti, boru, bin
 3. Bahasa, suku berupa kata turunan $\to$ pengindonesiaan, inggris-inggrisan
 4. Nama geografi sbg nama jenis $\to$ jeruk bali, gula jawa, kunci inggris, selat solo
-5. 
-## Huruf Kapital
-1. Huruf pertama nama negara, lembaga, kecuali kata tugas: Perserikatan Bangsa-Bangsa, 
-2. Judul buku, karangan, artikel, makalah, media massa: buku berjudul "Atomic Habits", surat kabar Sinar Pembangunan
-3. Nama gelar, pangkat
-4. Huruf pertama kata penunjuk hubungan kekerabatan atau ungkapan lain (termasuk bentuk ulang utuh) sbg sapaan: Bapak berangkat, bapak dan ibu kita
+## Titik
+### Digunakan
+1. Akhir kalimat pernyataan
+### Tidak Digunakan
+1. Angka, huruf yg bertanda kurung dlm perincian
 ## Titik
 1. Digunakan pd akhir kalimat pernyataan
 2. Gk digunakan pd angka atau huruf yg sdh bertanda kurung dlm perincian
