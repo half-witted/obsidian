@@ -1,26 +1,26 @@
 ## Huruf Kapital
 ### Digunakan
-| <center>No</center> | <center>Syarat</center>         | <center>Contoh</center>              | <center>Tambahan</center> |
-| ------------------- | ------------------------------- | ------------------------------------ | ------------------------- |
-| <center>1</center>  | Awal kalimat                    |                                      |                           |
-| <center>2</center>  | Nama org/julukan                | Bapak Koperasi, Alejandro G Innaritu |                           |
-| <center>3</center>  | Teori, hukum, rumus dr nama org | teori Darwin, hukum Archimedes       |                           |
-| <center>4</center>  |                                 |                                      |                           |
-| <center>5</center>  |                                 |                                      |                           |
-| <center>6</center>  |                                 |                                      |                           |
-| <center>7</center>  |                                 |                                      |                           |
-| <center>8</center>  |                                 |                                      |                           |
-| <center>9</center>  |                                 |                                      |                           |
-| <center>10</center> |                                 |                                      |                           |
-| <center>11</center> |                                 |                                      |                           |
-| <center>12</center> |                                 |                                      |                           |
-| <center>13</center> |                                 |                                      |                           |
-| <center>14</center> |                                 |                                      |                           |
-| <center>15</center> |                                 |                                      |                           |
-| <center>16</center> |                                 |                                      |                           |
-| <center>17</center> |                                 |                                      |                           |
-| <center>18</center> |                                 |                                      |                           |
-| <center>19</center> |                                 |                                      |                           |
+| <center>No</center> | <center>Syarat</center>         | <center>Contoh</center>                                                             | <center>Tambahan</center>             |
+| ------------------- | ------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------- |
+| <center>1</center>  | Awal kalimat                    |                                                                                     |                                       |
+| <center>2</center>  | Nama org/julukan                | Bapak Koperasi, Alejandro G Innaritu                                                |                                       |
+| <center>3</center>  | Teori, hukum, rumus dr nama org | teori Darwin, hukum Archimedes                                                      |                                       |
+| <center>4</center>  | Awal petikan lgsg               | - Ibu berpesan, Hati-hatilah, Nak!"<br>- "Besok pagi", katanya, "mereka berangkat." | Kecuali petikan lgsg lanjutan         |
+| <center>5</center>  | Agama, kitab, Tuhan             | Buddha, kitab Taurat, agama Islam                                                   | "agama", "kitab" kecil                |
+| <center>6</center>  | Gelar, pangkat                  | - Profesor Budi<br>- Budi, S.Pd.                                                    | - Sebelum, sesudah                    |
+| <center>7</center>  | Gelar, pangkat sbg sapaan       | - Halo, Yang Mulia.<br>- Siap, Jenderal.                                            |                                       |
+| <center>8</center>  | Jabatan, pangkat                | Presiden Habibie, Wali Kota Surabaya                                                | Jika diikuti nama org, instansi, tmpt |
+| <center>9</center>  | Tahun, bulan, hari, hari besar  | hari Natal, bulan Juli, tahun Masehi                                                | Nama aj                               |
+| <center>10</center> | Peristiwa sejarah               | Perang Dunia II, Proklamasi Kemerdekaan <br>Indonesia, Abad Kekosongan              | Jika sbg nama                         |
+| <center>11</center> | Nama geografi                   | Benua Afrika, Sungai Jagir, Gunung Bromo                                            | Klo ad nama                           |
+| <center>12</center> | Benda yg menyatakan asal        | batik Cirebon, bubur Manado                                                         | Hati2 dgn nama jenis                  |
+| <center>13</center> | Negara, lembaga                 | Perserikatan Bangsa-Bangsa, Republik<br>Indonesia                                   |                                       |
+| <center>14</center> | Judul                           | Hamnet, Atomic Habits, Tempo                                                        | Media massa jg msk                    |
+| <center>15</center> | Kata kekerabatan                |                                                                                     | Jika sbg sapaan                       |
+| <center>16</center> | Bangsa, suku, bahasa, aksara    |                                                                                     |                                       |
+| <center>17</center> |                                 |                                                                                     |                                       |
+| <center>18</center> |                                 |                                                                                     |                                       |
+| <center>19</center> |                                 |                                                                                     |                                       |
 
 1. Awal kalimat
 2. Nama org/julukan $\to$ Bapak Koperasi, Malcom James McCormick
