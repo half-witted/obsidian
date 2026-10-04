@@ -27,25 +27,37 @@
 | <center>4</center>  | <mark style="background:#d4b106">Nama geografi sbg nama jenis</mark>           | jeruk bali, gula jawa, kunci inggris, selat solo |                           |
 ## Titik
 ### Digunakan
-| <center>No</center> | <center>Syarat</center>                            | <center>Contoh</center>                                |
-| ------------------- | -------------------------------------------------- | ------------------------------------------------------ |
-| <center>1</center>  | Akhir kalimat pernyataan                           | - Mereka duduk di sana.<br>- Dia akan datang ke rumah. |
-| <center>2</center>  | Mengakhiri kalimat sblm perincian baru             | ![[Pasted image 20261004195431.png\|476]]              |
-| <center>3</center>  | Waktu, jangka waktu                                | - pukul 01.35.20<br>- 01.35.20 jam                     |
-| <center>4</center>  | Memisahkan ribuan, kelipatan yg menunjukkan jumlah | - 13.000 pulau<br>- 19.000.000 lapangan pekerjaan      |
+| <center>No</center> | <center>Syarat</center>                                                         | <center>Contoh</center>                                |
+| ------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| <center>1</center>  | <mark style="background:#d4b106">Akhir kalimat pernyataan</mark>                | - Mereka duduk di sana.<br>- Dia akan datang ke rumah. |
+| <center>2</center>  | <mark style="background:#d4b106">Mengakhiri kalimat sblm perincian baru</mark>  | ![[Pasted image 20261004195431.png\|476]]              |
+| <center>3</center>  | <mark style="background:#d4b106">Waktu, jangka waktu</mark>                     | - pukul 01.35.20<br>- 01.35.20 jam                     |
+| <center>4</center>  | <mark style="background:#d4b106">Ribuan, kelipatan yg menunjukkan jumlah</mark> | - 13.000 pulau<br>- 19.000.000 lapangan pekerjaan      |
 ### Tidak Digunakan
-| <center>No</center> | <center>Syarat</center> |
-| ------------------- | ----------------------- |
-|                     |                         |
-## Titik
-1. Digunakan pd akhir kalimat pernyataan
-2. Gk digunakan pd angka atau huruf yg sdh bertanda kurung dlm perincian
-3. Digunakan utk mengakhiri pernyataan lengkap yg diikuti perincian berupa kalimat baru, paragraf baru, atau subjudul baru
-4. Digunakan utk memisahkan angka jam, menit, detik yg menunjukkan waktu atau jangka waktu: pukul 01.35.20, 00.20.30 jam
-5. Gk digunakan utk memisahkan ribuan atau kelipatan yg gk menunjukkan jumlah: 1998
-6. Digunakan utk memisahkan bilangan ribuan atau kelipatannya yg menunjukkan jumlah: 13.000 pulau
-7. Gk digunakan di blkg alamat penerima surat serta tgl surat
+| <center>No</center> | <center>Syarat</center>                                                            | <center>Contoh</center>                   |
+| ------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Angka, huruf bertanda kurung dlm perincian</mark> | ![[Pasted image 20261004195802.png\|347]] |
+| <center>2</center>  | <mark style="background:#d4b106">Ribuan, kelipatan yg gk menunjukkan jumlah</mark> | 1998, NIP                                 |
+| <center>3</center>  | <mark style="background:#d4b106">Blkg alamat penerima surat, tgl surat</mark>      | ![[Pasted image 20261004195927.png\|280]] |
 ## Koma
+### Digunakan
+| <center>No</center> | <center>Syarat</center>                                           | <center>Contoh</center>                                                                                        |
+| ------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 1                   | Unsur2 dlm perincian                                              | - Telepon, majalah, buku, dan jurnal.<br>- Satu, dua, ... tiga!                                                |
+| 2                   | Sblm bbrp konjungsi                                               | - Saya ingin membelinya, tetapi saya bokek.<br>- Ini bukan milik saya, melainkan milik ayah saya.              |
+| 3                   | Memisahkan anak kalimat yg mendahului induk                       | - Kalau diundang, saya akan datang.<br>- Karena baik hati, dia punya banyak teman.                             |
+| 4                   | Blkg konjungsi antarkalimat                                       |                                                                                                                |
+| 5                   | Sebelum dan/atau sesudah kata seru, sapaan                        | - O, begitu?<br>- Dia baik sekali, Bu.                                                                         |
+| 6                   | Memisahkan petikan lgsg                                           | - Kata nenek saya, "Dia baik sekali."<br>- "Dia baik sekali," kata nenek saya, "pantas ia punya banyak teman." |
+| 7                   | Antara: nama dan alamat, bagian2 alamat, tmpt tgl, <br>nama tmpt  |                                                                                                                |
+| 8                   |                                                                   |                                                                                                                |
+| 9                   |                                                                   |                                                                                                                |
+| 10                  |                                                                   |                                                                                                                |
+
+### Tidak Digunakan
+| <center>No</center> | <center>Syarat</center> | <center>Contoh</center> |
+| ------------------- | ----------------------- | ----------------------- |
+|                     |                         |                         |
 1. Digunakan antara unsur2 dlm perincian berupa kata, frasa, atau bilangan
 2. Digunakan sblm kata penghubung (tetapi, melainkan, sedangkan)
 3. Digunakan utk memisahkan anak kalimat yg mendahului induk kalimat $\to$ Kalau diundang, saya akan datang.
