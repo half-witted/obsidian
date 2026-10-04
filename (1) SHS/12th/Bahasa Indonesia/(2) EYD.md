@@ -41,33 +41,20 @@
 | <center>3</center>  | <mark style="background:#d4b106">Blkg alamat penerima surat, tgl surat</mark>      | ![[Pasted image 20261004195927.png\|280]] |
 ## Koma
 ### Digunakan
-| <center>No</center> | <center>Syarat</center>                                           | <center>Contoh</center>                                                                                        |
-| ------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1                   | Unsur2 dlm perincian                                              | - Telepon, majalah, buku, dan jurnal.<br>- Satu, dua, ... tiga!                                                |
-| 2                   | Sblm bbrp konjungsi                                               | - Saya ingin membelinya, tetapi saya bokek.<br>- Ini bukan milik saya, melainkan milik ayah saya.              |
-| 3                   | Memisahkan anak kalimat yg mendahului induk                       | - Kalau diundang, saya akan datang.<br>- Karena baik hati, dia punya banyak teman.                             |
-| 4                   | Blkg konjungsi antarkalimat                                       |                                                                                                                |
-| 5                   | Sebelum dan/atau sesudah kata seru, sapaan                        | - O, begitu?<br>- Dia baik sekali, Bu.                                                                         |
-| 6                   | Memisahkan petikan lgsg                                           | - Kata nenek saya, "Dia baik sekali."<br>- "Dia baik sekali," kata nenek saya, "pantas ia punya banyak teman." |
-| 7                   | Antara: nama dan alamat, bagian2 alamat, tmpt tgl, <br>nama tmpt  |                                                                                                                |
-| 8                   |                                                                   |                                                                                                                |
-| 9                   |                                                                   |                                                                                                                |
-| 10                  |                                                                   |                                                                                                                |
-
+| <center>No</center> | <center>Syarat</center>                                                                                                  | <center>Contoh</center>                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Unsur2 dlm perincian</mark>                                                             | - Telepon, majalah, buku, dan jurnal.<br>- Satu, dua, ... tiga!                                                |
+| <center>2</center>  | <mark style="background:#d4b106">Sblm bbrp konjungsi</mark>                                                              | - Saya ingin membelinya, tetapi saya bokek.<br>- Ini bukan milik saya, melainkan milik ayah saya.              |
+| <center>3</center>  | <mark style="background:#d4b106">Memisahkan anak kalimat yg mendahului induk</mark>                                      | - Kalau diundang, saya akan datang.<br>- Karena baik hati, dia punya banyak teman.                             |
+| <center>4</center>  | <mark style="background:#d4b106">Blkg konjungsi antarkalimat</mark>                                                      |                                                                                                                |
+| <center>5</center>  | <mark style="background:#d4b106">Sebelum dan/atau sesudah kata seru, sapaan</mark>                                       | - O, begitu?<br>- Dia baik sekali, Bu.                                                                         |
+| <center>6</center>  | <mark style="background:#d4b106">Memisahkan petikan lgsg</mark>                                                          | - Kata nenek saya, "Dia baik sekali."<br>- "Dia baik sekali," kata nenek saya, "pantas ia punya banyak teman." |
+| <center>7</center>  | <mark style="background:#d4b106">Antara: nama dan alamat, bagian2 alamat, tmpt tgl, <br>nama tmpt dan wilayah</mark><br> | ![[Pasted image 20261004200752.png\|493]]                                                                      |
+| <center>8</center>  | <mark style="background:#d4b106">Antara nama org dan singkatan gelar</mark>                                              | - Prof. Dr. Muh. Muhlis, S.E., M.A., Ph.D.<br>- Bambang, M.Hum.                                                |
+| <center>9</center>  | <mark style="background:#d4b106">Mengapit ket. aposisi</mark>                                                            | Dennis Villenueve, pembuat film Dune, membuat film terbarunya.                                                 |
+| <center>10</center> | <mark style="background:#d4b106">Sblm angka desimal atau antara rupiah dan sen</mark>                                    | - 12,5 m<br>- Rp500,50                                                                                         |
 ### Tidak Digunakan
-| <center>No</center> | <center>Syarat</center> | <center>Contoh</center> |
-| ------------------- | ----------------------- | ----------------------- |
-|                     |                         |                         |
-1. Digunakan antara unsur2 dlm perincian berupa kata, frasa, atau bilangan
-2. Digunakan sblm kata penghubung (tetapi, melainkan, sedangkan)
-3. Digunakan utk memisahkan anak kalimat yg mendahului induk kalimat $\to$ Kalau diundang, saya akan datang.
-4. Gk digunakan jk induk kalimat mendahului anak kalimat $\to$ Saya akan datang kalau diundang.
-5. Digunakan di blkg konjungsi antarkalimat
-6. Digunakan sebelum dan/atau sesudah kata seru (o, ya, wah, aduh, hai) atau sapaan (Bu, Dik, Nak) $\to$ O, begitu? Dia baik sekali, Bu.
-7. Digunakan utk memisahkan petikan lgsg dr bagian lain dlm kalimat $\to$ Kata nenek saya, "Kita harus berbagi dalam hidup ini."
-8. Tk digunakan utk memisahkan petikan lgsg dr bagian lain dlm kalimat, kalo berakhiran ? atau !
-9. Digunakan di antara nama dan alimat, alamat, bagian2 alamat, tmpt tgl, serta nama tmpt dan wilayah yg ditulis berurutan
-10. Digunakan di antara nama orang dan singkatan gelar akademis yg mengikutinya utk membedakannya dr singkatan nama diri, nama keluarga, atau nama marga $\to$ Prof. Dr. Muh. Muhlis, S.E., M.A., Ph.D
-11. Digunakan sblm angka desimal atau di antara rupiah dan sen yg dinyatakan dgn angka: 12,5 m
-12. Digunakan utk mengapit keterangan aposisi $\to$ Soekarno, Presiden I RI, merupakan salah seorang pendiri Gerakan Nonblok.
-13. Dpt digunakan  di blkg keterangan yg terdapat pd awal kalimat utk menghindari salah pengertian
+| <center>No</center> | <center>Syarat</center>                                                              | <center>Contoh</center>                                                          |
+| ------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Induk kalimat yg mendahului anak</mark>             | - Saya akan datang kalau diundang.<br>- Dia punya banyak teman karena baik hati. |
+| <center>2</center>  | <mark style="background:#d4b106">Memisahkan petikan lgsg dgn akhiran ? atau !</mark> | - "Di mana Saudara tinggal?" tanya Pak Lurah.<br>- "Sekarang?" tanyanya.         |
