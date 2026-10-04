@@ -19,19 +19,24 @@
 | <center>15</center> | <mark style="background:#d4b106">Kata kekerabatan</mark>                | - Dedi bertanya, "Itu apa, Bu?"<br>- Surat Saudara telah diterima.                  | Jika sbg sapaan<br>- kakak saya       |
 | <center>16</center> | <mark style="background:#d4b106">Bangsa, suku, bahasa, aksara</mark>    | bangsa Indonesia, suku Jawa                                                         | Nama aj                               |
 ### Tidak Digunakan
-| <center>No</center> | <center>Syarat</center> |     |
-| ------------------- | ----------------------- | --- |
-|                     |                         |     |
-
-1. Nama org dlm nama jenis, satuan ukuran $\to$ ampere, ikan mujair
-2. Anak dari $\to$ van, binti, boru, bin
-3. Bahasa, suku berupa kata turunan $\to$ pengindonesiaan, inggris-inggrisan
-4. Nama geografi sbg nama jenis $\to$ jeruk bali, gula jawa, kunci inggris, selat solo
+| <center>No</center> | <center>Syarat</center>                                                        | <center>Contoh</center>                          | <center>Tambahan</center> |
+| ------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Nama org dlm nama jenis, satuan ukuran</mark> | ampere, ikan mujair, mesin diesel                |                           |
+| <center>2</center>  | <mark style="background:#d4b106">Anak dari</mark>                              | van, binti, boru, bin, dari                      | Kecuali sbg awal nama     |
+| <center>3</center>  | <mark style="background:#d4b106">Bahasa, suku berupa kata turunan</mark>       | pengindonesiaan, inggris-inggrisan               |                           |
+| <center>4</center>  | <mark style="background:#d4b106">Nama geografi sbg nama jenis</mark>           | jeruk bali, gula jawa, kunci inggris, selat solo |                           |
 ## Titik
 ### Digunakan
-1. Akhir kalimat pernyataan
+| <center>No</center> | <center>Syarat</center>                            | <center>Contoh</center>                                |
+| ------------------- | -------------------------------------------------- | ------------------------------------------------------ |
+| <center>1</center>  | Akhir kalimat pernyataan                           | - Mereka duduk di sana.<br>- Dia akan datang ke rumah. |
+| <center>2</center>  | Mengakhiri kalimat sblm perincian baru             | ![[Pasted image 20261004195431.png\|476]]              |
+| <center>3</center>  | Waktu, jangka waktu                                | - pukul 01.35.20<br>- 01.35.20 jam                     |
+| <center>4</center>  | Memisahkan ribuan, kelipatan yg menunjukkan jumlah | - 13.000 pulau<br>- 19.000.000 lapangan pekerjaan      |
 ### Tidak Digunakan
-1. Angka, huruf yg bertanda kurung dlm perincian
+| <center>No</center> | <center>Syarat</center> |
+| ------------------- | ----------------------- |
+|                     |                         |
 ## Titik
 1. Digunakan pd akhir kalimat pernyataan
 2. Gk digunakan pd angka atau huruf yg sdh bertanda kurung dlm perincian
