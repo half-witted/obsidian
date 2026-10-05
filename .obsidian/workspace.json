@@ -11,10 +11,12 @@
             "id": "8e7becd4f809e83b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(6) Quick Notes/Another aftermovie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Another aftermovie"
             }
           }
         ]
@@ -221,6 +223,7 @@
   },
   "active": "8e7becd4f809e83b",
   "lastOpenFiles": [
+    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004200752.png",
@@ -254,7 +257,6 @@
     "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
-    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(6) Quick Notes/() Quick Notes.md",
