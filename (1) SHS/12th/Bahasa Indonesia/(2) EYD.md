@@ -58,3 +58,19 @@
 | ------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | <center>1</center>  | <mark style="background:#d4b106">Induk kalimat yg mendahului anak</mark>             | - Saya akan datang kalau diundang.<br>- Dia punya banyak teman karena baik hati. |
 | <center>2</center>  | <mark style="background:#d4b106">Memisahkan petikan lgsg dgn akhiran ? atau !</mark> | - "Di mana Saudara tinggal?" tanya Pak Lurah.<br>- "Sekarang?" tanyanya.         |
+## Tanda Hubung
+### Digunakan
+| <center>No</center> | <center>Syarat</center>                                     | <center>Contoh</center>                           |
+| ------------------- | ----------------------------------------------------------- | ------------------------------------------------- |
+| <center>1</center>  | Kata yg terpenggal pergantian baris                         |                                                   |
+| <center>2</center>  | Menyambung unsur bentuk ulang                               | Anak-anak, berulang-ulang                         |
+| <center>3</center>  | Menyambung tgl yg dinyatakan dgn angka, kata yg dieja, skor | - 11-11-2022<br>- p-a-n-i-t-i-a<br>- 2-1          |
+| <center>4</center>  | Memperjelas hubungan kata                                   | Ber-evolusi, dua-puluh-lima ribuan                |
+| <center>5</center>  | Menghubungkan unsur beda                                    | - se-Indonesia<br>- peringkat ke-2<br>- KTP-mu    |
+| <center>6</center>  | Merangkai bahasa asing                                      | - di-*slepet*<br>- di-*tafsil*<br>- mem-*back up* |
+| <center>7</center>  | Menandai imbuhan, bentuk terikat                            |                                                   |
+| <center>8</center>  | Menandai 2 unsur yg 1                                       | - suami-istri<br>- Soekarno-Hatta                 |
+### Tidak Digunakan
+| <center>No</center> | <center>Syarat</center> | <center>Contoh</center> |
+| ------------------- | ----------------------- | ----------------------- |
+| <center>1</center>  | Huruf dan an            |                         |
