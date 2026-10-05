@@ -188,6 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,19 +213,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md"
+                "file": "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +242,8 @@
   },
   "active": "74e3e7b866dc5688",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
+    "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
