@@ -60,17 +60,24 @@
 | <center>2</center>  | <mark style="background:#d4b106">Memisahkan petikan lgsg dgn akhiran ? atau !</mark> | - "Di mana Saudara tinggal?" tanya Pak Lurah.<br>- "Sekarang?" tanyanya.         |
 ## Tanda Hubung
 ### Digunakan
-| <center>No</center> | <center>Syarat</center>                                     | <center>Contoh</center>                           |
-| ------------------- | ----------------------------------------------------------- | ------------------------------------------------- |
-| <center>1</center>  | Kata yg terpenggal pergantian baris                         |                                                   |
-| <center>2</center>  | Menyambung unsur bentuk ulang                               | Anak-anak, berulang-ulang                         |
-| <center>3</center>  | Menyambung tgl yg dinyatakan dgn angka, kata yg dieja, skor | - 11-11-2022<br>- p-a-n-i-t-i-a<br>- 2-1          |
-| <center>4</center>  | Memperjelas hubungan kata                                   | Ber-evolusi, dua-puluh-lima ribuan                |
-| <center>5</center>  | Menghubungkan unsur beda                                    | - se-Indonesia<br>- peringkat ke-2<br>- KTP-mu    |
-| <center>6</center>  | Merangkai bahasa asing                                      | - di-*slepet*<br>- di-*tafsil*<br>- mem-*back up* |
-| <center>7</center>  | Menandai imbuhan, bentuk terikat                            |                                                   |
-| <center>8</center>  | Menandai 2 unsur yg 1                                       | - suami-istri<br>- Soekarno-Hatta                 |
+| <center>No</center> | <center>Syarat</center>                                                                             | <center>Contoh</center>                           |
+| ------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Kata yg terpenggal pergantian baris</mark>                         |                                                   |
+| <center>2</center>  | <mark style="background:#d4b106">Menyambung unsur bentuk ulang</mark>                               | Anak-anak, berulang-ulang                         |
+| <center>3</center>  | <mark style="background:#d4b106">Menyambung tgl yg dinyatakan dgn angka, kata yg dieja, skor</mark> | - 11-11-2022<br>- p-a-n-i-t-i-a<br>- 2-1          |
+| <center>4</center>  | <mark style="background:#d4b106">Memperjelas hubungan kata</mark>                                   | Ber-evolusi, dua-puluh-lima ribuan                |
+| <center>5</center>  | <mark style="background:#d4b106">Menghubungkan unsur beda</mark>                                    | - se-Indonesia<br>- peringkat ke-2<br>- KTP-mu    |
+| <center>6</center>  | <mark style="background:#d4b106">Merangkai bahasa asing</mark>                                      | - di-*slepet*<br>- di-*tafsil*<br>- mem-*back up* |
+| <center>7</center>  | <mark style="background:#d4b106">Menandai imbuhan, bentuk terikat</mark>                            |                                                   |
+| <center>8</center>  | <mark style="background:#d4b106">Menandai 2 unsur yg 1</mark>                                       | - suami-istri<br>- Soekarno-Hatta                 |
 ### Tidak Digunakan
-| <center>No</center> | <center>Syarat</center> | <center>Contoh</center> |
-| ------------------- | ----------------------- | ----------------------- |
-| <center>1</center>  | Huruf dan an            |                         |
+| <center>No</center> | <center>Syarat</center>                                                                 | <center>Contoh</center> |
+| ------------------- | --------------------------------------------------------------------------------------- | ----------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Huruf, angka jika angka melambangkan jmlh huruf</mark> | - P3K<br>- BP2MI        |
+## Tanda Pisah
+### Digunakan
+| <center>No</center> | <center>Syarat</center>                                                 | <center>Contoh</center>                                                         |
+| ------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <center>1</center>  | <mark style="background:#d4b106">Mengapit keterangan, penjelasan</mark> | Kemerdekaan itu—saya yakin akan tercapai—diperjuangkan oleh bangsa itu sendiri. |
+| <center>2</center>  | <mark style="background:#d4b106">Mengapit ket. aposisi</mark>           | Yorgos Lanthimos—seorang sutradara—telah membuat film terbarunya.               |
+| <center>3</center>  | <mark style="background:#d4b106">Di antara2 bilangan (sampai ke)</mark> | - Tahun 2019—2022<br>- Senin—Jumat                                              |
