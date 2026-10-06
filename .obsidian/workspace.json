@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "87abbc234224831a",
+        "id": "48a1f8e24591c686",
         "type": "tabs",
         "children": [
           {
-            "id": "f0b09eb1a6f29860",
+            "id": "0f98c833ba009c47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(1) I'rob dan Surat"
-            }
-          },
-          {
-            "id": "d6f4a44ec6878c18",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,10 +216,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "d6f4a44ec6878c18",
+  "active": "0f98c833ba009c47",
   "lastOpenFiles": [
-    "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
+    "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(6) Quick Notes/BINDO.md",
