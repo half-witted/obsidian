@@ -11,13 +11,31 @@
             "id": "f0b09eb1a6f29860",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(1) I'rob dan Surat"
+            }
+          },
+          {
+            "id": "d6f4a44ec6878c18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "(6) Quick Notes/Another aftermovie.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Another aftermovie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,8 +235,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "f0b09eb1a6f29860",
+  "active": "d6f4a44ec6878c18",
   "lastOpenFiles": [
+    "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
     "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(6) Quick Notes/Another aftermovie.md",
@@ -255,7 +275,6 @@
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
     "(2) TKA/Adv Math/() Adv Math.md",
     "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
-    "(2) TKA/Comp Math/() Comp Math.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
