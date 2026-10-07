@@ -3,6 +3,7 @@
 - Digunakan jika bentuk <mark style="background:#d4b106">subs fungsi jadi tak tentu.</mark> $\to\space \frac{0}{0},\frac{A}{0}$
 - Hanya utk fungsi yg memuat <mark style="background:#d4b106">sin, tan,</mark>
 - $\lim_{ f(x) \to 0 }\frac{\sin f(x)}{\tan g(x)} = \lim_{ f(x) \to 0 }\frac{f(x)}{g(x)}$
+- Bagi dgn $x$ dulu
 
 | <center>Koefisien sama</center>           | <center>Koefisien beda</center>                       |
 | ----------------------------------------- | ----------------------------------------------------- |
