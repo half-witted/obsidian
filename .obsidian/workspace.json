@@ -40,10 +40,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
+                "file": "(6) Quick Notes/Aftermovie.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
+              "title": "Aftermovie"
             }
           }
         ],
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md",
+                "file": "(6) Quick Notes/Aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -249,8 +249,10 @@
   },
   "active": "d43d3ded3def6a85",
   "lastOpenFiles": [
-    "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
+    "(6) Quick Notes/Aftermovie.md",
+    "(6) Quick Notes/Another aftermovie.md",
+    "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(3) Limit.md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
@@ -259,9 +261,7 @@
     "(2) TKA/Adv Math/(2) Polinomial.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
-    "(6) Quick Notes/Aftermovie.md",
     "(6) Quick Notes/() Quick Notes.md",
-    "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Books.md",
     "(6) Quick Notes/Intensif.md",
