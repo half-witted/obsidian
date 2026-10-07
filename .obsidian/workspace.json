@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "(4) Limit (Lanjutan)"
             }
+          },
+          {
+            "id": "2b95ac9179824668",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(2E) Limit (Lanjutan)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
+                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,10 +235,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "8bb615353c5e1004",
+  "active": "2b95ac9179824668",
   "lastOpenFiles": [
-    "(2) TKA/Adv Math/(3) Limit.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
+    "(2) TKA/Adv Math/(3) Limit.md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/11th/Adv Math/(3) Integral.md",
