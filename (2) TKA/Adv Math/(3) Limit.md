@@ -1,4 +1,3 @@
-## Limit
 ### Definition
 - A value that a function approaches to
 - Focuses on behaviour near the point, not at the point
@@ -41,13 +40,6 @@ A function is considered continuous only if (all must be fulfilled):
 	- Hollow dot (floating or attached to a line)
 	- Solid dot (attached to a line)
 	- Continuous line (with or without solid dot attached)
-## Derivative
-### Definition
-Shows rate of changes of a function
-$$f'(x), \frac{dy}{dx}$$
-### Rules
-| <center>Constant</center>             | <center>Power</center>                 | <center>Product</center>                     | <center>Quotient</center>                                                             |
-| ------------------------------------- | -------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------- |
-| $\frac{d}{dx}[c]=0$                   | $\frac{d}{dx}x^n=nx^{n-1}$             | $\frac{d}{dx}[f(x)g(x)]=f'(x)g(x)+f(x)g'(x)$ | $\frac{d}{dx}\left[ \frac{f(x)}{g(x)} \right]=\frac{{f'(x)g(x)-f(x)g'(x)}}{[g(x)]^2}$ |
-| <center>**Chain**</center>            | <center>**Constant multiple**</center> | <center>**Sum and Difference**</center>      |                                                                                       |
-| $\frac{d}{dx}[f(g(x))]=f'(g(x))g'(x)$ | $\frac{d}{dx}[f(x)*c]=f'(x)*c$         | $\frac{d}{dx}[f(x)\pm g(x)]=f'(x)\pm g'(x)$  |                                                                                       |
+
+## Nilai
+## Sifat

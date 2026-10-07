@@ -133,13 +133,13 @@ x mendekati 45 ^JAixoKBT
 40. ^pVGrTr6d
 
 ## Element Links
-MWj7YECf: [[(2) Limit (Lanjutan)#Bentuk Pecahan]]
+MWj7YECf: [[(1) SHS/12th/Adv Math/(2) Limit (Lanjutan)#Bentuk Pecahan]]
 
-COKyBXWk: [[(2) Limit (Lanjutan)#Bentuk Pecahan]]
+COKyBXWk: [[(1) SHS/12th/Adv Math/(2) Limit (Lanjutan)#Bentuk Pecahan]]
 
-GLCKbDRc: [[(2) Limit (Lanjutan)#Bentuk Pecahan]]
+GLCKbDRc: [[(1) SHS/12th/Adv Math/(2) Limit (Lanjutan)#Bentuk Pecahan]]
 
-Ww5CqAsx: [[(2) Limit (Lanjutan)#Bentuk Pecahan]]
+Ww5CqAsx: [[(1) SHS/12th/Adv Math/(2) Limit (Lanjutan)#Bentuk Pecahan]]
 
 ## Embedded Files
 07248d9715261b56a143e5de86f8a0010ee570fa: $$\color{#1971c2}(\infty)=\color{#2f9e44}\infty$$

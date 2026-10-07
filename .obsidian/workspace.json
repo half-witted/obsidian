@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
+                "file": "(2) TKA/Adv Math/(3) Limit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(2) Limit (Lanjutan)"
+              "title": "(3) Limit"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
+                "file": "(2) TKA/Adv Math/(3) Limit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,23 +222,32 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95ad9845db6905a",
+  "active": "8bb615353c5e1004",
   "lastOpenFiles": [
-    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan) 1.md",
+    "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
+    "(2) TKA/Adv Math/(3) Limit.md",
+    "(1) SHS/11th/Adv Math/(3) Integral.md",
+    "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
+    "(2) TKA/Adv Math/(1) Matriks.md",
+    "(2) TKA/Adv Math/(2) Polinomial.md",
+    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
+    "(2) TKA/Comp Math/(2) Eksponen.md",
+    "(6) Quick Notes/Aftermovie.md",
+    "(6) Quick Notes/() Quick Notes.md",
     "(6) Quick Notes/Another aftermovie.md",
+    "(6) Quick Notes/BINDO.md",
+    "(6) Quick Notes/Books.md",
+    "(6) Quick Notes/Intensif.md",
+    "(2) TKA/() TKA.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
-    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
-    "(6) Quick Notes/BINDO.md",
-    "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(3) UTBK/PBM/(1) Konjungsi.md",
     "(1) SHS/12th/Bahasa Indonesia/(2) EYD.md",
     "(1) SHS/12th/Bahasa Indonesia/(1) Fundamental.md",
-    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004200752.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004200656.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004195927.png",
@@ -247,21 +256,12 @@
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
-    "(1) SHS/12th/() 12th.md",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001215016_678.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214535_122.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214523_020.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214148_731.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001213722_829.png",
-    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
-    "(1) SHS/12th/Physics/() Exercises/(1E) Listrik Statis.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
-    "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
-    "(1) SHS/12th/Adv Math/() Exercises/() Exercises.md",
     "(1) SHS/12th/Comp Math/() Attachments",
-    "(1) SHS/12th/Comp Math/() Comp Math.md",
-    "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
-    "(2) TKA/Adv Math/() Adv Math.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
