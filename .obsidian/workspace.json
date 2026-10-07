@@ -11,10 +11,15 @@
             "id": "8bb615353c5e1004",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(2) Limit (Lanjutan)"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,8 +222,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "8bb615353c5e1004",
+  "active": "d95ad9845db6905a",
   "lastOpenFiles": [
+    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan) 1.md",
+    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
@@ -246,7 +254,6 @@
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214148_731.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001213722_829.png",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
-    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Physics/() Exercises/(1E) Listrik Statis.md",
     "(1) SHS/12th/Comp Math/() Exercises/(1E) Transformasi.md",
     "(1) SHS/12th/Adv Math/() Exercises/(1E) Vector.md",
@@ -255,7 +262,6 @@
     "(1) SHS/12th/Comp Math/() Comp Math.md",
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
     "(2) TKA/Adv Math/() Adv Math.md",
-    "(1) SHS/12th/Geography/(2) Pola Keruangan.md",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
