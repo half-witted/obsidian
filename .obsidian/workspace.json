@@ -34,8 +34,7 @@
               "title": "(2E) Limit (Lanjutan)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
+                "file": "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,8 +234,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "2b95ac9179824668",
+  "active": "8bb615353c5e1004",
   "lastOpenFiles": [
+    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(3) Limit.md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
@@ -268,7 +268,6 @@
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004195431.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001215016_678.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214535_122.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214523_020.png",
