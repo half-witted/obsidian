@@ -1,42 +1,42 @@
 ## Definisi
-- Nilai yang didekati oleh suatu fungsi.
-- Focuses on behaviour near the point, not at the point
-- $\lim_{ x \to a }f(x)=L\to$ when $x$ gets closer to $a$, the function's value gets closer to $L$
+- <mark style="background:#40a9ff">Nilai yang didekati</mark> oleh suatu fungsi.
+- Fokus pd perilaku fungsi di <mark style="background:#40a9ff">sekitar titik, bukan pd titik.</mark>
+- $\lim_{ x \to a }f(x)=L\to$ ketika $x$ makin mendekati $a$, nilai fungsi makin mendekati $L$
 ## Rules
-| <center>Constant</center>                           | <center>Identity</center>                                                             | <center>Constant multiple</center>                                          | <center>Sum and difference</center>                                          |
+| <center>Konstanta</center>                          | <center>Identity</center>                                                             | <center>Perkalian Konstanta</center>                                        | <center>Penjumalahan, Pengurangan</center>                                   |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | $\lim_{ x \to a }c=c$                               | $\lim_{ x \to a }x=a$                                                                 | $\lim_{ x \to a }[c*f(x)]=c*\lim_{ x \to a }f(x)$                           | $\lim_{ x \to a }[f(x)\pm g(x)]=\lim_{ x \to a }f(x)\pm\lim_{ x \to a }g(x)$ |
-| <center>**Power**</center>                          | <center>**Quotient**</center>                                                         | <center>**Product**</center>                                                |                                                                              |
+| <center>**Pangkat**</center>                        | <center>**Pembagian**</center>                                                        | <center>**Perkalian**</center>                                              |                                                                              |
 | $\lim_{ x \to a }[f(x)]^n=[\lim_{ x \to a }f(x)]^n$ | $\lim_{ x \to a }\frac{f(x)}{g(x)}=\frac{\lim_{ x \to a }f(x)}{\lim_{ x \to a }g(x)}$ | $\lim_{ x \to a }[f(x)*g(x)]=[\lim_{ a \to x }f(x)]*[\lim_{ x \to a }g(x)]$ |                                                                              |
-## Value
-### Steps
-- Substitute the value of $x$
-- Calculate using algebraic operations
-- Determine the value
-### Results
-1. Determinate
-   If the value is a real number (ex: $2, \frac{3}{6}, 0.67$)
-2. Indeterminate
-	- If the value is either $\frac{0}{0}$ or $\frac{\infty}{\infty}\to$ factor or [[#L'Hopital Rule]]
-	- If the value is $\frac{a}{0}\to$ limit doesn't exist (DNE)
+## Nilai
+### Langkah
+- Subs $x$
+- Hitung pake aljabar
+- Tentukan nilai
+### Hasil
+1. Tentu
+   Nilai blgn real (ex: $2, \frac{3}{6}, 0.67$)
+2. Tk tentu
+	- Jika nilai $\frac{0}{0}$ atau $\frac{\infty}{\infty}\to$ pemfaktoran atau [[#L'Hopital Rule]]
+	- Jika nilai $\frac{a}{0}\to$ limit tk ada (DNE)
 ## L'Hopital Rule
-Used if the value is either $\frac{0}{0}$ or $\frac{\infty}{\infty}$
+Digunakan jika hasil $\frac{0}{0}$ atau $\frac{\infty}{\infty}$
 
-| <center>Function</center> | <center>L'Hopital</center> |
-| ------------------------- | -------------------------- |
-| Constant                  | 0                          |
-| $x^n$                     | $nx^{n-1}$                 |
-| $ax^n$                    | $anx^{n-1}$                |
-## Continuous Function (Strictly Continuous)
-A function is considered continuous only if (all must be fulfilled):
+| <center>Fungsi</center> | <center>L'Hopital</center> |
+| ----------------------- | -------------------------- |
+| Constant                | 0                          |
+| $x^n$                   | $nx^{n-1}$                 |
+| $ax^n$                  | $anx^{n-1}$                |
+## Fungsi Kontinu
+Hanya jika <mark style="background:#40a9ff">semua syarat terpenuhi:</mark>
 - Function must be defined $\to f(a)$
-- Left limit and right must be the same ($-:$ from left, otherwise) $\to \lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ }f(x)$
-- Limit's value must be the same with function's $\to \lim_{ x \to a }f(x)=f(a)$
-## Dots
-- Function value
-	- Solid dot (floating or attached to a line)
-	- Continuous line (no hollow dot)
-- Limit value
-	- Hollow dot (floating or attached to a line)
-	- Solid dot (attached to a line)
-	- Continuous line (with or without solid dot attached)
+- Limit kiri, kanan sama ($-:$ kiri, sebaliknya) $\to \lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ }f(x)$
+- Nilai limit $=$ fungsi $\to \lim_{ x \to a }f(x)=f(a)$
+## Titik
+- Nilai fungsi
+	- Titik penuh (mengambang atau menempel pd garis)
+	- Garis kontinu (tanpa titik kosong)
+- Nilai limit
+	- Titik kosong (mengambang atau menempel pd garis)
+	- Titik penuh (menempel pd garis)
+	- Garis kontinu (dengan atau tanpa titik penuh yg menempel)

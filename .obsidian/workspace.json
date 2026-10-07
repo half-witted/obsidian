@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Adv Math/(3) Limit.md",
+                "file": "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(3) Limit"
+              "title": "(4) Limit (Lanjutan)"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Adv Math/(3) Limit.md",
+                "file": "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,8 +224,8 @@
   },
   "active": "8bb615353c5e1004",
   "lastOpenFiles": [
-    "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(3) Limit.md",
+    "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/11th/Adv Math/(3) Integral.md",
