@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a123f69048d14c7f",
+        "id": "dbb0fa5ffaec5772",
         "type": "tabs",
         "children": [
           {
-            "id": "5d67a7196e12ba08",
+            "id": "fab4d62e552513e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/() SHS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,8 +216,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "5d67a7196e12ba08",
+  "active": "fab4d62e552513e9",
   "lastOpenFiles": [
+    "(1) SHS/() SHS.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(6) Quick Notes/Aftermovie.md",
@@ -241,7 +236,6 @@
     "(6) Quick Notes/Books.md",
     "(6) Quick Notes/Intensif.md",
     "(2) TKA/() TKA.md",
-    "(1) SHS/() SHS.md",
     "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
