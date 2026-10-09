@@ -11,10 +11,15 @@
             "id": "8bb74954eb8603c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(2) Listrik Arus Searah (DC)"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,6 +224,7 @@
   },
   "active": "8bb74954eb8603c2",
   "lastOpenFiles": [
+    "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
     "(6) Quick Notes/Another aftermovie.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
@@ -249,7 +256,6 @@
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004195802.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004195431.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
-    "(1) SHS/12th/Bahasa Indonesia/() Bahasa Indonesia.md",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001215016_678.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214535_122.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214523_020.png",
