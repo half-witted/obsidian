@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4a5c974c8d9e0f",
+        "id": "15068ca0c89704fa",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec3c1be60f67075",
+            "id": "8bb74954eb8603c2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,12 +216,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "0ec3c1be60f67075",
+  "active": "8bb74954eb8603c2",
   "lastOpenFiles": [
+    "(6) Quick Notes/Another aftermovie.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(3) Limit.md",
-    "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/() SHS.md",
     "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
