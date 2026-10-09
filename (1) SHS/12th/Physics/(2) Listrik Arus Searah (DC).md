@@ -22,3 +22,11 @@ Mengalir kalo ada <mark style="background:#40a9ff">perbedaan potensial</mark>
 ### Alat Ukur
 - Kuat arus: amperemeter dgn pemasangan seri
 - Tegangan: voltmeter dgn pemasangan paralel
+## Hambatan
+| $R=\frac{V}{I}$ | $R=$ hambatan $(\ohm)$<br>$V=$ tegangan $(V)$<br>$I=$ [[#Kuat\|kuat arus]] $(A)$ |
+| --------------- | -------------------------------------------------------------------------------- |
+<mark style="background:#40a9ff">Dlm kondisi ideal, hambatan tk berubah.</mark> $\to$ kalo tegangan dikali 2, kuat arus otomatis dikali 2 jg
+### Faktor Pemengaruh
+|     |     |
+| --- | --- |
+
