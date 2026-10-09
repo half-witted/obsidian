@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5e615eb23b73dfef",
+        "id": "3b4a5c974c8d9e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "cd825ca5aea7ef07",
+            "id": "0ec3c1be60f67075",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
-            }
-          },
-          {
-            "id": "c1f79fc4867e43e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/() SHS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,11 +216,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "c1f79fc4867e43e6",
+  "active": "0ec3c1be60f67075",
   "lastOpenFiles": [
     "(6) Quick Notes/Another aftermovie.md",
-    "(6) Quick Notes/Aftermovie.md",
     "(1) SHS/() SHS.md",
+    "(6) Quick Notes/Aftermovie.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(3) Limit.md",
