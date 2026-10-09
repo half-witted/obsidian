@@ -30,7 +30,7 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 | $R=\frac{\rho l}{A}$<br>^hambatan-juga | $R=$ [[#^hambatan\|hambatan]] $(\ohm)$<br>$\rho=$ hambat jenis $(\ohm m)$<br>$l=$ panjang penghantar $(m)$<br>$A=$ luas penampang $(m^2)$ |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 ### Pengaruh Suhu
-| <center>Rumus</center>               | <center>Keterangan</center>                  |
-| ------------------------------------ | -------------------------------------------- |
-| $\triangle T=T'-T_{0}$               | $\triangle T=$ perubahan suhu $(^{\circle})$ |
-| $\triangle R=R_{0}\alpha\triangle T$ |                                              |
+| <center>Rumus</center>                                                             | <center>Keterangan</center>                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $\triangle T=T'-T_{0}$                                                             | $\triangle T=$ perubahan suhu $(^{\circ}C)$<br>$T'=$ suku akhir $(^{\circ}C)$<br>$T_{0}=$ suhu awal $(^{\circ}C)$                                                                                        |
+| $\begin{aligned}\triangle R &= R_{0}\alpha\triangle T \\ &= R'-R_{0}\end{aligned}$ | $\triangle R=$ perubahan hambatan $(\ohm)$<br>$R_{0}=$ hambatan awal $(\ohm)$<br>$\alpha=$ koefisien muai $(/^{\circ}C)$<br>$\triangle T=$ perubahan suhu $(^{\circ}C)$<br>$R'=$ hambatan akhir $(\ohm)$ |
