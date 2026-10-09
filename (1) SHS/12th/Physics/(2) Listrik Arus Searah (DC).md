@@ -1,3 +1,3 @@
 ## Arus
-- Arahnya berlawanan dgn elektron $\to$ <mark style="background:#40a9ff">potensial tinggi ke rendah</mark>
+- Kalo muatan positif $\to$ arah dr potensial tinggi (lbh banyak) ke rendah (lbh dikit)
 - 
