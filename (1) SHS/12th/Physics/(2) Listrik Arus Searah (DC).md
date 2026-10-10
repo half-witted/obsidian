@@ -46,8 +46,10 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 Dipasang scr <mark style="background:#9254de">berdampingan</mark>
 ![[Pasted image 20261010141526.png|232]]
 
-| <center>Rumus</center>                         | <center>Keterangan</center>            |
-| ---------------------------------------------- | -------------------------------------- |
-| $I_{total}=I_{1}=I_{2}=\dots=I_{n}$            | $I=$ [[#^kuat-arus\|kuat arus]] $(A)$  |
-| $R_{total}=R_{1}+R_{2}+\dots R_{n}$            | $R=$ [[#^hambatan\|hambatan]] $(\ohm)$ |
-| $V_{sumber}=V_{total}=V_{1}+V_{2}+\dots+V_{n}$ | $V=$ [[#^hambatan\|tegangan]] $(V)$    |
+| <center>Rumus</center>                             | <center>Keterangan</center>            |
+| -------------------------------------------------- | -------------------------------------- |
+| $I_{total}=I_{1}=I_{2}=\dots=I_{n}$                | $I=$ [[#^kuat-arus\|kuat arus]] $(A)$  |
+| $R_{total}=R_{1}+R_{2}+\dots +R_{n}$               | $R=$ [[#^hambatan\|hambatan]] $(\ohm)$ |
+| $V_{sumber}=V_{total}=V_{1}+V_{2}+\dots+V_{n}$     | $V=$ [[#^hambatan\|tegangan]] $(V)$    |
+| $V_{1}:V_{2}:\dots :V_{n}=R_{1}:R_{2}:\dots:R_{n}$ |                                        |
+| $V_{n}=\frac{R_{n}}{R_{s}}$                        |                                        |
