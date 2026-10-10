@@ -46,10 +46,20 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 Dipasang scr <mark style="background:#9254de">berdampingan</mark>
 ![[Pasted image 20261010141526.png|232]]
 
-| <center>Rumus</center>                             | <center>Keterangan</center>            |
-| -------------------------------------------------- | -------------------------------------- |
-| $I_{total}=I_{1}=I_{2}=\dots=I_{n}$                | $I=$ [[#^kuat-arus\|kuat arus]] $(A)$  |
-| $R_{total}=R_{1}+R_{2}+\dots +R_{n}$               | $R=$ [[#^hambatan\|hambatan]] $(\ohm)$ |
-| $V_{sumber}=V_{total}=V_{1}+V_{2}+\dots+V_{n}$     | $V=$ [[#^hambatan\|tegangan]] $(V)$    |
-| $V_{1}:V_{2}:\dots :V_{n}=R_{1}:R_{2}:\dots:R_{n}$ |                                        |
-| $V_{n}=\frac{R_{n}}{R_{s}}$                        |                                        |
+| <center>Rumus</center>                                        | <center>Keterangan</center>                     |
+| ------------------------------------------------------------- | ----------------------------------------------- |
+| $I_{s}=I_{1}=I_{2}=\dots=I_{n}$                               | $I_{s}=$ [[#^kuat-arus\|kuat arus seri]] $(A)$  |
+| $R_{s}=R_{1}+R_{2}+\dots +R_{n}$                              | $R_{s}=$ [[#^hambatan\|hambatan seri]] $(\ohm)$ |
+| $V_{sumber}=V_{s}=V_{1}+V_{2}+\dots+V_{n}$                    | $V_{s}=$ [[#^hambatan\|tegangan seri]] $(V)$    |
+| $\frac{V_{1}}{V_{2}}=\frac{R_{1}}{R_{2}}=\frac{I_{2}}{I_{1}}$ |                                                 |
+| $V_{n}=\frac{R_{n}}{R_{s}}V_{s}$                              |                                                 |
+- Kelemahan: jika 1 lampu putus, seluruh lampu padam
+- Manfaat: arus ttp sama meskipun hambatan beda, jumlah kabel dikit
+#### Paralel
+Dipasang scr <mark style="background:#9254de">bercabang</mark>
+![[Pasted image 20261010143904.png|179]]
+
+| <center>Rumus</center>          | <center>Keterangan</center> |
+| ------------------------------- | --------------------------- |
+| $I_{p}=I_{1}+I_{2}+\dots+I_{n}$ |                             |
+| $\frac{1}{R_{p}}$               |                             |
