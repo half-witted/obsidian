@@ -70,7 +70,6 @@ Dipasang scr <mark style="background:#9254de">bercabang</mark>
 - Kelemahan: kabel lbh banyak, arus tk sama
 - Manfaat: seluruh lampu nyala, jika 1 rusak yg lain aman
 ## Hukum Kirkchoff
-### Hukum 1 Kirkchoff
-| $\sum I_{masuk}=\sum I_{keluar}$ | $I=$ [[#^kuat-arus\|arus]] $(A)$ |
-| -------------------------------- | -------------------------------- |
-
+### Hukum I Kirkchoff
+$\sum I_{masuk}=\sum I_{keluar}$
+### Hukum II Kirkchoff
