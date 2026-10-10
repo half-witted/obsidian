@@ -70,6 +70,18 @@ Dipasang scr <mark style="background:#9254de">bercabang</mark>
 - Kelemahan: kabel lbh banyak, arus tk sama
 - Manfaat: seluruh lampu nyala, jika 1 rusak yg lain aman
 ## Hukum Kirkchoff
-### Hukum I Kirkchoff
+### Hukum I
 $\sum I_{masuk}=\sum I_{keluar}$
-### Hukum II Kirkchoff
+### Hukum II
+| $\sum\epsilon+\sum IR=0$ | $\epsilon=$ gaya gerak (GGL) |
+| ------------------------ | ---------------------------- |
+#### Aturan
+1. Pilih *loop* (bebas)
+	- Searah dgn kuat arus $\to$ penurunan tegangan $(IR)$ positif
+	- Berlawanan $\to$ negatif
+2. Pas ikut *loop*
+	- Ketemu kutub positif dulu $\to$ ggl $(\epsilon)$ positif
+	- Negatif dulu $\to$ negatif
+#### 1 *Loop*
+##### Langkah
+1. 
