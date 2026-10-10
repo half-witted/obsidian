@@ -14,8 +14,8 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 - Muatan <mark style="background:#d4b106">negatif: potensial tinggi (lbh dikit) ke rendah (lbh banyak)</mark>
 - Kebalikan arah elektron
 ### Kuat
-| $I=\frac{Q}{t}$ | $I=$ kuat arus $(A)$<br>$Q=$ muatan $(C)$<br>$t=$ waktu $(s)$ |
-| --------------- | ------------------------------------------------------------- |
+| $I=\frac{Q}{t}$<br>^kuat-arus | $I=$ kuat arus $(A)$<br>$Q=$ muatan $(C)$<br>$t=$ waktu $(s)$ |
+| ----------------------------- | ------------------------------------------------------------- |
 ### Hubungan dengan Elektron
 | $Q=ne$ | $Q=$ muatan<br>$n=$ jumlah elektron<br>$e=-1,6*10^{-19}\space C=$ muatan yg dibawa 1 elektron |
 | ------ | --------------------------------------------------------------------------------------------- |
@@ -36,7 +36,18 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 | $\begin{aligned}\triangle R &= R_{0}\alpha\triangle T \\ &= R'-R_{0}\end{aligned}$ | $\triangle R=$ perubahan hambatan $(\ohm)$<br>$R_{0}=$ hambatan awal $(\ohm)$<br>$\alpha=$ koefisien muai $(/^{\circ}C)$<br>$\triangle T=$ perubahan suhu $(^{\circ}C)$<br>$R'=$ hambatan akhir $(\ohm)$ |
 ### Rangkaian
 #### Simbol
-| <center>Komponen</center> | <center>Simbol</center>                                                      |
-| ------------------------- | ---------------------------------------------------------------------------- |
-| Saklar                    | ![[Pasted image 20261010140922.png\|90]]![[Pasted image 20261010141009.png]] |
-|                           |                                                                              |
+| <center>Komponen</center> | <center>Simbol</center>                                                          |
+| ------------------------- | -------------------------------------------------------------------------------- |
+| Saklar                    | ![[Pasted image 20261010140922.png\|90]]![[Pasted image 20261010141009.png\|94]] |
+| Lampu/resistor            | ![[Pasted image 20261010141158.png\|212]]                                        |
+| Sumber tegangan           | ![[Pasted image 20261010141222.png\|263]]                                        |
+| Hambatan                  | ![[Pasted image 20261010141255.png\|257]]                                        |
+#### Seri
+Dipasang scr <mark style="background:#9254de">berdampingan</mark>
+![[Pasted image 20261010141526.png|232]]
+
+| <center>Rumus</center>                         | <center>Keterangan</center>            |
+| ---------------------------------------------- | -------------------------------------- |
+| $I_{total}=I_{1}=I_{2}=\dots=I_{n}$            | $I=$ [[#^kuat-arus\|kuat arus]] $(A)$  |
+| $R_{total}=R_{1}+R_{2}+\dots R_{n}$            | $R=$ [[#^hambatan\|hambatan]] $(\ohm)$ |
+| $V_{sumber}=V_{total}=V_{1}+V_{2}+\dots+V_{n}$ | $V=$ [[#^hambatan\|tegangan]] $(V)$    |
