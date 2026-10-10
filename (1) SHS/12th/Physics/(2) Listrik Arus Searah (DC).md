@@ -88,3 +88,13 @@ $\sum I_{masuk}=\sum I_{keluar}$
 2. Tentukan arah
 3. Tentukan $\epsilon$ dan $IR$ tiap cabang
 4. Masukan ke rumus
+#### 2 *Loop*
+Lgsg pake rumus
+1. Pake 2 titik dgn cabang plg banyak
+2. Pilih salah 1 jd acuan
+3. Jadikan semua arus keluar dr acuan
+4. Tinjau beda potensial 2 titik
+
+| $V_{AB}=$ |     |
+| --------- | --- |
+
