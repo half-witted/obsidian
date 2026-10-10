@@ -1,12 +1,12 @@
 ## Konversi
-| <center>No</center> | <center>Satuan</center> | <center>Simbol</center> | <center>Pangkat</center> |
-| ------------------- | ----------------------- | ----------------------- | ------------------------ |
-| 1                   | Kilo                    | $k$                     | $10^3$                   |
-| 2                   | Senti                   | $c$                     | $10^{-2}$                |
-| 3                   | Mili                    | $m$                     | $10^{-3}$                |
-| 4                   | Mikro                   | $\mu$                   | $10^{-6}$                |
-| 5                   | Nano                    | $n$                     | $10^{-9}$                |
-| 6                   | Piko                    | $p$                     | $10^{-12}$               |
+| <center>Satuan</center> | <center>Simbol</center> | <center>Pangkat</center> |
+| ----------------------- | ----------------------- | ------------------------ |
+| Kilo                    | $k$                     | $10^3$                   |
+| Senti                   | $c$                     | $10^{-2}$                |
+| Mili                    | $m$                     | $10^{-3}$                |
+| Mikro                   | $\mu$                   | $10^{-6}$                |
+| Nano                    | $n$                     | $10^{-9}$                |
+| Piko                    | $p$                     | $10^{-12}$               |
 ## Arus
 ### Arah Alir
 Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
@@ -17,7 +17,7 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 | $I=\frac{Q}{t}$ | $I=$ kuat arus $(A)$<br>$Q=$ muatan $(C)$<br>$t=$ waktu $(s)$ |
 | --------------- | ------------------------------------------------------------- |
 ### Hubungan dengan Elektron
-| $Q=ne$ | $Q=$ muatan<br>$n=$ jumlah elektron<br>$e=-1,6*10^{-19}\space C=$ muatan yg dibawa 1 elektron     |
+| $Q=ne$ | $Q=$ muatan<br>$n=$ jumlah elektron<br>$e=-1,6*10^{-19}\space C=$ muatan yg dibawa 1 elektron |
 | ------ | --------------------------------------------------------------------------------------------- |
 ### Alat Ukur
 - Kuat arus: amperemeter dgn pemasangan seri
@@ -34,3 +34,9 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $\triangle T=T'-T_{0}$                                                             | $\triangle T=$ perubahan suhu $(^{\circ}C)$<br>$T'=$ suku akhir $(^{\circ}C)$<br>$T_{0}=$ suhu awal $(^{\circ}C)$                                                                                        |
 | $\begin{aligned}\triangle R &= R_{0}\alpha\triangle T \\ &= R'-R_{0}\end{aligned}$ | $\triangle R=$ perubahan hambatan $(\ohm)$<br>$R_{0}=$ hambatan awal $(\ohm)$<br>$\alpha=$ koefisien muai $(/^{\circ}C)$<br>$\triangle T=$ perubahan suhu $(^{\circ}C)$<br>$R'=$ hambatan akhir $(\ohm)$ |
+### Rangkaian
+#### Simbol
+| <center>Komponen</center> | <center>Simbol</center>                                                      |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| Saklar                    | ![[Pasted image 20261010140922.png\|90]]![[Pasted image 20261010141009.png]] |
+|                           |                                                                              |

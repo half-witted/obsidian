@@ -11,10 +11,15 @@
             "id": "4e1036c7c1c516de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(2) Listrik Arus Searah (DC)"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,6 +224,10 @@
   },
   "active": "4e1036c7c1c516de",
   "lastOpenFiles": [
+    "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010141009.png",
+    "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010140947.png",
+    "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010140944.png",
+    "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010140922.png",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
     "(1) SHS/12th/Physics/(1.1) Muatan dan Medan Listrik.md",
     "(1) SHS/12th/Physics/(1.2) Potensial, Energi, dan Kapasitor.md",
@@ -243,7 +253,6 @@
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
-    "(3) UTBK/PBM/(1) Konjungsi.md",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004200752.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004200656.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments/Pasted image 20261004195927.png",
@@ -252,9 +261,6 @@
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001215016_678.png",
     "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214535_122.png",
-    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214523_020.png",
-    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001214148_731.png",
-    "(1) SHS/12th/Comp Math/() Exercises/() Attachments/Pasted Image 20261001213722_829.png",
     "(1) SHS/12th/Comp Math/() Attachments",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
