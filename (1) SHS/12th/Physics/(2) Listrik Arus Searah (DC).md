@@ -34,6 +34,7 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $\triangle T=T'-T_{0}$                                                             | $\triangle T=$ perubahan suhu $(^{\circ}C)$<br>$T'=$ suku akhir $(^{\circ}C)$<br>$T_{0}=$ suhu awal $(^{\circ}C)$                                                                                        |
 | $\begin{aligned}\triangle R &= R_{0}\alpha\triangle T \\ &= R'-R_{0}\end{aligned}$ | $\triangle R=$ perubahan hambatan $(\ohm)$<br>$R_{0}=$ hambatan awal $(\ohm)$<br>$\alpha=$ koefisien muai $(/^{\circ}C)$<br>$\triangle T=$ perubahan suhu $(^{\circ}C)$<br>$R'=$ hambatan akhir $(\ohm)$ |
+![[Pasted image 20261010155215.png]]
 ### Rangkaian
 #### Simbol
 | <center>Komponen</center> | <center>Simbol</center>                                                          |
