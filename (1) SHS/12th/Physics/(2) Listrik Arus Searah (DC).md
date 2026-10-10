@@ -105,4 +105,10 @@ $\sum I_{masuk}=\sum I_{keluar}$
 ## Daya
 | $P=\frac{W}{t}$ | $P=$ daya $(W)$<br>$W=$ [[#Energi\|energi]] $(J)$<br>$t=$ waktu $(s)$ |
 | --------------- | --------------------------------------------------------------------- |
+## Transformasi Energi
+- Tk bs diciptakan, dimusnahkan
+- Cuma bs berubah dr 1 bentuk ke lain
+### Potensial ke Listrik
+| $mgh=Pt$ | $m=$ massa  |
+| -------- | ---------- |
 
