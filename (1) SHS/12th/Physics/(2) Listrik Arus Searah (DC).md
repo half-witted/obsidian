@@ -73,8 +73,8 @@ Dipasang scr <mark style="background:#9254de">bercabang</mark>
 ### Hukum I
 $\sum I_{masuk}=\sum I_{keluar}$
 ### Hukum II
-| $\sum\epsilon+\sum IR=0$ | $\epsilon=$ gaya gerak (GGL) |
-| ------------------------ | ---------------------------- |
+| $\sum\epsilon+\sum IR=0$ | $\epsilon=$ gaya gerak $(J/C$ atau $V)$ |
+| ------------------------ | --------------------------------------- |
 #### Aturan
 1. Pilih *loop* (bebas)
 	- Searah dgn kuat arus $\to$ penurunan tegangan $(IR)$ positif
