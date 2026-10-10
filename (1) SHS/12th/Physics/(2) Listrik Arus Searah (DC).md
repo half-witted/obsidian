@@ -84,4 +84,7 @@ $\sum I_{masuk}=\sum I_{keluar}$
 	- Negatif dulu $\to$ negatif
 #### 1 *Loop*
 ##### Langkah
-1. 
+1. Tentukan *loop*
+2. Tentukan arah
+3. Tentukan $\epsilon$ dan $IR$ tiap cabang
+4. Masukan ke rumus
