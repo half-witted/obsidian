@@ -99,3 +99,10 @@ $\sum I_{masuk}=\sum I_{keluar}$
 2. Pilih salah 1 jd acuan
 3. Jadikan semua arus keluar dr acuan
 4. Tinjau beda potensial 2 titik
+## Energi
+| $W=VIt$ | $W=$ energi $(J)$<br>$I=$ [[#^kuat-arus\|kuat arus]] $(A)$<br>$t=$ waktu $(s)$ |
+| ------- | ------------------------------------------------------------------------------ |
+## Rangkuman Rumus
+| <center>Rumus</center> | <center>Keterangan</center> |
+| ---------------------- | --------------------------- |
+|                        |                             |
