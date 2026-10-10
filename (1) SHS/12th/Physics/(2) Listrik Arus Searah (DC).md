@@ -89,11 +89,13 @@ $\sum I_{masuk}=\sum I_{keluar}$
 3. Tentukan $\epsilon$ dan $IR$ tiap cabang
 4. Masukan ke rumus
 #### 2 *Loop*
-$\frac{V_{AB}-\epsilon_{1}}{R_{1}}+\frac{V_{AB}-\epsilon_{2}}{R_{2}}+\dots+\frac{V_{AB}-\epsilon_{n}}{}$
-Lgsg pake rumus
+- Pake [[#Langkah|langkah]] di 1 *loop* cuman 2 kali
+- Pake rumus
+
+| $I_{1}+I_{2}+\dots+I_{n}=0$                                                                                     |
+| --------------------------------------------------------------------------------------------------------------- |
+| $\frac{V_{AB}-\epsilon_{1}}{R_{1}}+\frac{V_{AB}-\epsilon_{2}}{R_{2}}+\dots+\frac{V_{AB}-\epsilon_{n}}{R_{n}}=0$ |
 1. Pake 2 titik dgn cabang plg banyak
 2. Pilih salah 1 jd acuan
 3. Jadikan semua arus keluar dr acuan
 4. Tinjau beda potensial 2 titik
-
-
