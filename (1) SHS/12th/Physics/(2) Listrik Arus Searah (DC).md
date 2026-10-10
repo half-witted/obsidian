@@ -14,8 +14,8 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 - Muatan <mark style="background:#d4b106">negatif: potensial tinggi (lbh dikit) ke rendah (lbh banyak)</mark>
 - Kebalikan arah elektron
 ### Kuat
-| $I=\frac{Q}{t}$<br>^kuat-arus | $I=$ kuat arus $(A)$<br>$Q=$ muatan $(C)$<br>$t=$ waktu $(s)$ |
-| ----------------------------- | ------------------------------------------------------------- |
+| $I=\frac{Q}{t}$ | $I=$ arus $(A)$<br>$Q=$ muatan $(C)$<br>$t=$ waktu $(s)$ |
+| --------------- | -------------------------------------------------------- |
 ### Hubungan dengan Elektron
 | $Q=ne$ | $Q=$ muatan<br>$n=$ jumlah elektron<br>$e=-1,6*10^{-19}\space C=$ muatan yg dibawa 1 elektron |
 | ------ | --------------------------------------------------------------------------------------------- |
@@ -23,12 +23,12 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 - Kuat arus: amperemeter dgn pemasangan seri
 - Tegangan: voltmeter dgn pemasangan paralel
 ## Hambatan
-| $R=\frac{V}{I}$<br>^hambatan | $R=$ [[#^hambatan-juga\|hambatan]] $(\ohm)$<br>$V=$ tegangan $(V)$<br>$I=$ [[#Kuat\|kuat arus]] $(A)$ |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------- |
+| $R=\frac{V}{I}$ | $R=$ hambatan$(\ohm)$<br>$V=$ tegangan $(V)$<br>$I=$ [[#Arus\|arus]] $(A)$ |
+| --------------- | -------------------------------------------------------------------------- |
 <mark style="background:#40a9ff">Dlm kondisi ideal, hambatan tk berubah.</mark> $\to$ kalo tegangan dikali 2, kuat arus otomatis dikali 2 jg
 ### Faktor Pemengaruh
-| $R=\frac{\rho l}{A}$<br>^hambatan-juga | $R=$ [[#^hambatan\|hambatan]] $(\ohm)$<br>$\rho=$ hambat jenis $(\ohm m)$<br>$l=$ panjang penghantar $(m)$<br>$A=$ luas penampang $(m^2)$ |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| $R=\frac{\rho l}{A}$ | $R=$ hambatan $(\ohm)$<br>$\rho=$ hambat jenis $(\ohm m)$<br>$l=$ panjang penghantar $(m)$<br>$A=$ luas penampang $(m^2)$ |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 ### Pengaruh Suhu
 | <center>Rumus</center>                                                             | <center>Keterangan</center>                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,13 +47,13 @@ Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 Dipasang scr <mark style="background:#9254de">berdampingan</mark>
 ![[Pasted image 20261010141526.png|232]]
 
-| <center>Rumus</center>                                        | <center>Keterangan</center>                     |
-| ------------------------------------------------------------- | ----------------------------------------------- |
-| $I_{s}=I_{1}=I_{2}=\dots=I_{n}$                               | $I_{s}=$ [[#^kuat-arus\|kuat arus seri]] $(A)$  |
-| $R_{s}=R_{1}+R_{2}+\dots +R_{n}$                              | $R_{s}=$ [[#^hambatan\|hambatan seri]] $(\ohm)$ |
-| $V_{s}=V_{1}+V_{2}+\dots+V_{n}$                               | $V_{s}=$ [[#^hambatan\|tegangan seri]] $(V)$    |
-| $\frac{V_{1}}{V_{2}}=\frac{R_{1}}{R_{2}}=\frac{I_{2}}{I_{1}}$ |                                                 |
-| $V_{n}=\frac{R_{n}}{R_{s}}V_{s}$                              |                                                 |
+| <center>Rumus</center>                                        | <center>Keterangan</center>                    |
+| ------------------------------------------------------------- | ---------------------------------------------- |
+| $I_{s}=I_{1}=I_{2}=\dots=I_{n}$                               | $I_{s}=$ [[#Arus\|arus seri]] $(A)$            |
+| $R_{s}=R_{1}+R_{2}+\dots +R_{n}$                              | $R_{s}=$ [[#Hambatan\|hambatan seri]] $(\ohm)$ |
+| $V_{s}=V_{1}+V_{2}+\dots+V_{n}$                               | $V_{s}=$ tegangan seri $(V)$                   |
+| $\frac{V_{1}}{V_{2}}=\frac{R_{1}}{R_{2}}=\frac{I_{2}}{I_{1}}$ |                                                |
+| $V_{n}=\frac{R_{n}}{R_{s}}V_{s}$                              |                                                |
 - Kelemahan: jika 1 lampu putus, seluruh lampu padam
 - Manfaat: arus ttp sama meskipun hambatan beda, kabel lbh dikit
 #### Paralel
@@ -62,9 +62,9 @@ Dipasang scr <mark style="background:#9254de">bercabang</mark>
 
 | <center>Rumus</center>                                                  | <center>Keterangan</center>                        |
 | ----------------------------------------------------------------------- | -------------------------------------------------- |
-| $I_{p}=I_{1}+I_{2}+\dots+I_{n}$                                         | $I_{p}=$ [[#^kuat-arus\|kuat arus paralel]] $(A)$  |
+| $I_{p}=I_{1}+I_{2}+\dots+I_{n}$                                         | $I_{p}=$ [[#Arus\|arus paralel]] $(A)$             |
 | $\frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\dots+\frac{1}{R_{n}}$ | $R_{p}=$ [[#^hambatan\|hambatan paralel]] $(\ohm)$ |
-| $V_{p}=V_{1}=V_{2}=\dots=V_{n}$                                         | $V_{p}=$ [[#^hambatan\|tegangan paralel]] $(V)$    |
+| $V_{p}=V_{1}=V_{2}=\dots=V_{n}$                                         | $V_{p}=$ tegangan paralel $(V)$                    |
 | $\frac{V_{1}}{V_{2}}=\frac{R_{2}}{R_{1}}=\frac{I_{2}}{I_{1}}$           |                                                    |
 | $I_{n}=\frac{R_{p}}{R_{n}}I_{p}$                                        |                                                    |
 - Kelemahan: kabel lbh banyak, arus tk sama
@@ -100,9 +100,16 @@ $\sum I_{masuk}=\sum I_{keluar}$
 3. Jadikan semua arus keluar dr acuan
 4. Tinjau beda potensial 2 titik
 ## Energi
-| $W=VIt$ | $W=$ energi $(J)$<br>$I=$ [[#^kuat-arus\|kuat arus]] $(A)$<br>$t=$ waktu $(s)$ |
-| ------- | ------------------------------------------------------------------------------ |
+| $W=VIt$ | $W=$ energi $(J)$<br>$I=$ [[#Arus\|arus]] $(A)$<br>$t=$ waktu $(s)$ |
+| ------- | ------------------------------------------------------------------- |
 ## Rangkuman Rumus
-| <center>Rumus</center> | <center>Keterangan</center> |
-| ---------------------- | --------------------------- |
-|                        |                             |
+### Kuat Arus
+| <center>Rumus</center>           | <center>Keterangan</center>                                                    |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| $I=\frac{Q}{t}$                  | $I=$ arus $(A)$<br>$Q=$ mautan $(C)$<br>$t=$ waktu $(s)$                       |
+| $I=\frac{ne}{t}$                 | $n=$ jumlah elektron<br>$e=-1,6*10^{-19}\space C=$ muatan yg dibawa 1 elektron |
+| $I=\frac{V}{R}$                  | $V=$ tegangan $(V)$<br>$R=$ hambatan $(\ohm)$                                  |
+| $I_{s}=I_{1}=I_{2}=\dots=I_{n}$  | $I_{s}=$ arus seri $(A)$                                                       |
+| $I_{p}=I_{1}+I_{2}+\dots+I_{n}$  | $I_{p}=$ arus paralel $(A)$                                                    |
+| $I_{n}=\frac{R_{p}}{R_{n}}I_{p}$ | $R_{p}=$ hambatan paralel                                                      |
+### Hambatan
