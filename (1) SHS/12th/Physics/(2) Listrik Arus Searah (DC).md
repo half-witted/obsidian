@@ -50,7 +50,7 @@ Dipasang scr <mark style="background:#9254de">berdampingan</mark>
 | ------------------------------------------------------------- | ----------------------------------------------- |
 | $I_{s}=I_{1}=I_{2}=\dots=I_{n}$                               | $I_{s}=$ [[#^kuat-arus\|kuat arus seri]] $(A)$  |
 | $R_{s}=R_{1}+R_{2}+\dots +R_{n}$                              | $R_{s}=$ [[#^hambatan\|hambatan seri]] $(\ohm)$ |
-| $V_{sumber}=V_{s}=V_{1}+V_{2}+\dots+V_{n}$                    | $V_{s}=$ [[#^hambatan\|tegangan seri]] $(V)$    |
+| $V_{s}=V_{1}+V_{2}+\dots+V_{n}$                               | $V_{s}=$ [[#^hambatan\|tegangan seri]] $(V)$    |
 | $\frac{V_{1}}{V_{2}}=\frac{R_{1}}{R_{2}}=\frac{I_{2}}{I_{1}}$ |                                                 |
 | $V_{n}=\frac{R_{n}}{R_{s}}V_{s}$                              |                                                 |
 - Kelemahan: jika 1 lampu putus, seluruh lampu padam
@@ -63,7 +63,7 @@ Dipasang scr <mark style="background:#9254de">bercabang</mark>
 | ----------------------------------------------------------------------- | -------------------------------------------------- |
 | $I_{p}=I_{1}+I_{2}+\dots+I_{n}$                                         | $I_{p}=$ [[#^kuat-arus\|kuat arus paralel]] $(A)$  |
 | $\frac{1}{R_{p}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\dots+\frac{1}{R_{n}}$ | $R_{p}=$ [[#^hambatan\|hambatan paralel]] $(\ohm)$ |
-| $V_{sumber}=V_{p}=V_{1}=V_{2}=\dots=V_{n}$                              | $V_{p}=$ [[#^hambatan\|tegangan paralel]] $(V)$    |
+| $V_{p}=V_{1}=V_{2}=\dots=V_{n}$                                         | $V_{p}=$ [[#^hambatan\|tegangan paralel]] $(V)$    |
 | $\frac{V_{1}}{V_{2}}=\frac{R_{2}}{R_{1}}=\frac{I_{2}}{I_{1}}$           |                                                    |
 | $I_{n}=\frac{R_{p}}{R_{n}}I_{p}$                                        |                                                    |
 - Kelemahan: kabel lbh banyak, arus tk sama
