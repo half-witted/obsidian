@@ -102,14 +102,7 @@ $\sum I_{masuk}=\sum I_{keluar}$
 ## Energi
 | $W=VIt$ | $W=$ energi $(J)$<br>$I=$ [[#Arus\|arus]] $(A)$<br>$t=$ waktu $(s)$ |
 | ------- | ------------------------------------------------------------------- |
-## Rangkuman Rumus
-### Kuat Arus
-| <center>Rumus</center>           | <center>Keterangan</center>                                                    |
-| -------------------------------- | ------------------------------------------------------------------------------ |
-| $I=\frac{Q}{t}$                  | $I=$ arus $(A)$<br>$Q=$ mautan $(C)$<br>$t=$ waktu $(s)$                       |
-| $I=\frac{ne}{t}$                 | $n=$ jumlah elektron<br>$e=-1,6*10^{-19}\space C=$ muatan yg dibawa 1 elektron |
-| $I=\frac{V}{R}$                  | $V=$ tegangan $(V)$<br>$R=$ hambatan $(\ohm)$                                  |
-| $I_{s}=I_{1}=I_{2}=\dots=I_{n}$  | $I_{s}=$ arus seri $(A)$                                                       |
-| $I_{p}=I_{1}+I_{2}+\dots+I_{n}$  | $I_{p}=$ arus paralel $(A)$                                                    |
-| $I_{n}=\frac{R_{p}}{R_{n}}I_{p}$ | $R_{p}=$ hambatan paralel                                                      |
-### Hambatan
+## Daya
+| $P=\frac{W}{t}$ | $P=$ daya $(W)$<br>$W=$ [[#Energi\|energi]] $(J)$<br>$t=$ waktu $(s)$ |
+| --------------- | --------------------------------------------------------------------- |
+
