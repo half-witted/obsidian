@@ -14,15 +14,15 @@
 | DC *(direct current)*      | Arus searah $\to$ pergerakan elektron 1 arah           |
 | AC *(alternating current)* | Arus bolak balik $\to$ pergerakan elektron bolak balik |
 ### Berdasarkan Muatan
-| <center>Istilah</center> | <center>Penjelasan</center>                                                                    |
-| ------------------------ | ---------------------------------------------------------------------------------------------- |
-| Konvensional             | Muatan positif *(hole)* $\to$ *hole* bermuatan positif gerak dari potensial positif ke negatif |
-| Elektron                 | Muatan negatif (elektron) $\to$ elektron bermuatan negatif gerak dr                            |
+| <center>Istilah</center> | <center>Penjelasan</center>                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------ |
+| Konvensional             | Muatan positif *(hole)* $\to$ *hole* bermuatan positif gerak dr potensial positif ke negatif     |
+| Elektron                 | Muatan negatif (elektron) $\to$ elektron bermuatan negatif gerak dr potensial negatif ke positif |
 ## Arus
 ### Arah Alir
-Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
-- Muatan <mark style="background:#d4b106">positif: potensial tinggi (lbh banyak) ke rendah (lbh dikit)</mark>
-- Muatan <mark style="background:#d4b106">negatif: potensial tinggi (lbh dikit) ke rendah (lbh banyak)</mark>
+Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark> $\to$ ada kalo 
+- Muatan <mark style="background:#d4b106">positif: potensial tinggi (positif lbh byk) ke rendah (lbh dikit)</mark>
+- Muatan <mark style="background:#d4b106">negatif: potensial tinggi (negatif lbh dikit) ke rendah (lbh byk)</mark>
 - Kebalikan arah elektron
 ### Kuat
 | $I=\frac{Q}{t}$ | $I=$ arus $(A)$<br>$Q=$ muatan $(C)$<br>$t=$ waktu $(s)$ |
