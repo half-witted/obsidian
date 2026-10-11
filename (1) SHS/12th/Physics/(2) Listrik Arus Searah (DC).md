@@ -108,7 +108,7 @@ $\sum I_{masuk}=\sum I_{keluar}$
 ## Transformasi Energi
 - Tk bs diciptakan, dimusnahkan
 - Cuma bs berubah dr 1 bentuk ke lain
-### Potensial ke Listrik
-| $mgh=Pt$ | $m=$ massa  |
-| -------- | ---------- |
-
+### Listrik ke Kalor
+| <center>Rumus</center> | <center>Keterangan</center> |
+| ---------------------- | --------------------------- |
+|                        |                             |
