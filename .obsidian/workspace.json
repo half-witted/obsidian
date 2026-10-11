@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c744e296ea52006",
+        "id": "cde92f09511fed36",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf194928f882e98",
+            "id": "ea34312a1167f359",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2) Listrik Arus Searah (DC)"
-            }
-          },
-          {
-            "id": "10a401b24f9cd9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
         ]
@@ -187,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,7 +216,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "2bf194928f882e98",
+  "active": "ea34312a1167f359",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
