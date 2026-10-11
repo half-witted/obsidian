@@ -109,6 +109,8 @@ $\sum I_{masuk}=\sum I_{keluar}$
 - Tk bs diciptakan, dimusnahkan
 - Cuma bs berubah dr 1 bentuk ke lain
 ### Listrik ke Kalor
-| <center>Rumus</center> | <center>Keterangan</center> |
-| ---------------------- | --------------------------- |
-|                        |                             |
+| <center>Rumus</center> | <center>Keterangan</center>                                                                                                                                                      |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $Q=W$                  | $Q=$ kalor $(J)$<br>$W=$ [[#Energi\|energi]] $(J)$                                                                                                                               |
+| $mc\triangle T=Pt$     | $m=$ massa zat $(kg)$<br>$c=$ kalor jenis $(J/kg^{\circ}C)$<br>$\triangle T=$ [[#Pengaruh Suhu\|perubahan suhu]] $(^{\circ}C)$<br>$P=$ [[#Daya\|daya]] $(W)$<br>$t=$ waktu $(s)$ |
+| $\eta=\frac{W}{Q}$     | $\eta=$ efisiensi (biasanya dikali dgn 100%)                                                                                                                                     |
