@@ -57,6 +57,3 @@ $-\frac{1}{x}\leq \frac{\sin ax}{x},\frac{\cos ax}{x} \leq \frac{1}{x} \to  o\le
 1. Pake permisalan: $\frac{1}{x}=a \to x=\frac{1}{a}$
 2. Ganti $\lim_{ x \to \infty } \to \lim_{ a \to 0 }$
 3. Lanjut di [[#Limit Fungsi Trigonometri|limit fungsi trigonometri]]
-
-\color{#1971c2}
-\color{#2f9e44}
