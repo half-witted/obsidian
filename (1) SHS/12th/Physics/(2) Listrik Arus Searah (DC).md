@@ -78,7 +78,7 @@ Dipasang scr <mark style="background:#9254de">bercabang</mark>
 | $V_{p}=V_{1}=V_{2}=\dots=V_{n}$                                         | $V_{p}=$ tegangan paralel $(V)$                    |
 | $\frac{V_{1}}{V_{2}}=\frac{R_{2}}{R_{1}}=\frac{I_{2}}{I_{1}}$           |                                                    |
 | $I_{n}=\frac{R_{p}}{R_{n}}I_{p}$                                        |                                                    |
-- Kelemahan: kabel lbh banyak, arus tk sama
+- Kelemahan: kabel lbh banyak, arus tk sama 
 - Manfaat: seluruh lampu nyala, jika 1 rusak yg lain aman
 ## Hukum Kirkchoff
 ### Hukum I
