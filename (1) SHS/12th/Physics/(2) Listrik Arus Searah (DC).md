@@ -8,7 +8,7 @@
 | Nano                    | $n$                     | $10^{-9}$                |
 | Piko                    | $p$                     | $10^{-12}$               |
 ## Jenis Arus
-### Berdasarkan Arah
+### Berdasarkan Arah Arus
 | <center>Istilah</center>   | <center>Penjelasan</center>                            |
 | -------------------------- | ------------------------------------------------------ |
 | DC *(direct current)*      | Arus searah $\to$ pergerakan elektron 1 arah           |
