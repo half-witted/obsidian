@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e154553b6c1a546",
+        "id": "953bae648f996154",
         "type": "tabs",
         "children": [
           {
-            "id": "56079829c6509e0b",
+            "id": "9bfbcc67de6c3902",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "(2E) Listrik Arus Searah"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -170,7 +168,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,13 +217,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "56079829c6509e0b",
+  "active": "9bfbcc67de6c3902",
   "lastOpenFiles": [
+    "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013105644_915.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013105346_630.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013104708_147.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013104109_992.png",
-    "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
@@ -236,7 +233,6 @@
     "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010141255.png",
     "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010141222.png",
     "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010141158.png",
-    "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010141052.png",
     "(1) SHS/12th/Physics/(1.1) Muatan dan Medan Listrik.md",
     "(1) SHS/12th/Physics/(1.2) Potensial, Energi, dan Kapasitor.md",
     "(6) Quick Notes/Another aftermovie.md",
