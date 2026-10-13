@@ -7,18 +7,22 @@
 | Mikro                   | $\mu$                   | $10^{-6}$                |
 | Nano                    | $n$                     | $10^{-9}$                |
 | Piko                    | $p$                     | $10^{-12}$               |
-## Jenis Arus
-### Berdasarkan Arah Arus
+## Arus 
+Bisa mengalir karena:
+- Ada <mark style="background:#40a9ff">sumber tegangan</mark> (beda potensial): sumber tegangan menciptakan [[#Arah Alir|beda potensial]]
+- Rangkaian <mark style="background:#40a9ff">tertutup</mark>
+- Ada <mark style="background:#40a9ff">hambatan</mark>: komponen spt resistor <mark style="background:#40a9ff">beri jalur muatan listrik utk mengalir</mark>
+### Jenis
+#### Berdasarkan Arah Arus
 | <center>Istilah</center>   | <center>Penjelasan</center>                            |
 | -------------------------- | ------------------------------------------------------ |
 | DC *(direct current)*      | Arus searah $\to$ pergerakan elektron 1 arah           |
 | AC *(alternating current)* | Arus bolak balik $\to$ pergerakan elektron bolak balik |
-### Berdasarkan Muatan
+#### Berdasarkan Muatan
 | <center>Istilah</center> | <center>Penjelasan</center>                                                                      |
 | ------------------------ | ------------------------------------------------------------------------------------------------ |
 | Konvensional             | Muatan positif *(hole)* $\to$ *hole* bermuatan positif gerak dr potensial positif ke negatif     |
 | Elektron                 | Muatan negatif (elektron) $\to$ elektron bermuatan negatif gerak dr potensial negatif ke positif |
-## Arus 
 ### Arah Alir
 Mengalir kalo ada <mark style="background:#d4b106">perbedaan potensial</mark>
 - Muatan <mark style="background:#d4b106">positif: potensial tinggi (positif lbh byk) ke rendah (lbh dikit)</mark>
