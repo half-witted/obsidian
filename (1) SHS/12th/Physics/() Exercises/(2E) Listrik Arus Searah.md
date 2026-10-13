@@ -66,6 +66,8 @@ Arah:
 
 16. ^86x3n2Pg
 
+17. ^na9w7WFT
+
 ## Embedded Files
 13e28ddadda8fb01d330e07270d9ca8fbf11f6f6: $$\color{#1971c2}\begin{aligned}
 \sum I_{masuk}&=\sum I_{keluar} \\
@@ -223,6 +225,15 @@ cf0cfed01c57ff18255eb468ab5803ecd82fa2a5: $$\color{#1971c2}\begin{aligned}
 v_{1}&=i_{1}R=\frac{3}{2}*2=\color{#2f9e44}3\space V \\
 v_{2}&=i_{2}R=\frac{1}{4}*8=\color{#2f9e44}2\space V \\
 v_{3}&=i_{3}R=\frac{5}{4}*4=\color{#2f9e44}5\space V
+\end{aligned}$$
+
+0ba504aa8c54ced49f8446ab83d54bd691e9760a: $$\color{#1971c2}\begin{aligned}
+I_{1}+I_{2}+I_{3}&=0 \\
+\frac{V_{AB}-\epsilon_{1}}{R_{1}}+\frac{V_{AB}-\epsilon_{2}}{R_{2}}+\frac{V_{AB}-\epsilon_{3}}{R_{3}}&=0 \\
+\frac{V_{AB}-36}{6}+\frac{V_{AB}}{12}+\frac{V_{AB}-24}{12}&=0 \\
+2V_{AB}-72+V_{AB}+V_{AB}-24&=0 \\
+4V_{AB}&=96 \\
+V_{AB}&=24
 \end{aligned}$$
 
 b714be55d6b30986bdc9bfe30d91ad0803432e53: [[Pasted Image 20261013104109_992.png]]
@@ -514,14 +525,18 @@ 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
 
-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
+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
 
-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
+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
 
-+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
+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
 
-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
+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
 
-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
+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
 ```
 %%
