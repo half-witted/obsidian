@@ -11,10 +11,12 @@
             "id": "56079829c6509e0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(2E) Listrik Arus Searah"
             }
           }
         ]
@@ -79,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -167,6 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,6 +222,9 @@
   },
   "active": "56079829c6509e0b",
   "lastOpenFiles": [
+    "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013104708_147.png",
+    "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013104109_992.png",
+    "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
@@ -230,7 +237,6 @@
     "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010141052.png",
     "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010141009.png",
     "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010140947.png",
-    "(1) SHS/12th/Physics/() Attachments/Pasted image 20261010140944.png",
     "(1) SHS/12th/Physics/(1.1) Muatan dan Medan Listrik.md",
     "(1) SHS/12th/Physics/(1.2) Potensial, Energi, dan Kapasitor.md",
     "(6) Quick Notes/Another aftermovie.md",
@@ -252,7 +258,6 @@
     "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
-    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Comp Math/() Attachments",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
