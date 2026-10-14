@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "953bae648f996154",
+        "id": "a84073293bea65bd",
         "type": "tabs",
         "children": [
           {
-            "id": "95424d86b03b3a5e",
+            "id": "5513028d96f94cd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(1) SHS/() SHS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,10 +217,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "95424d86b03b3a5e",
+  "active": "5513028d96f94cd5",
   "lastOpenFiles": [
-    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/() SHS.md",
+    "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/() 12th.md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
