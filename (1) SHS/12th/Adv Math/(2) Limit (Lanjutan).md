@@ -18,7 +18,7 @@
 2. Jika bentuk tk tentu, pake sifat dasar
 3. Kalo <mark style="background:#d4b106">cosinus buat</mark> fungsi jadi <mark style="background:#d4b106">tk tentu</mark> 
 	- Ubah jd <mark style="background:#d4b106">sin atau tan</mark> pake [[#Rumus Trigonometri|rumus trigonometri]]
-	- Bagi dgn $\frac{x}{x}$
+	- Bagi dgn $x$
 ### Rumus Trigonometri
 1. Identitas:
 	- Dasar:

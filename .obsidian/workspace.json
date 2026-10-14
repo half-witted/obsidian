@@ -49,8 +49,7 @@
               "title": "(2) Listrik Arus Searah (DC)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,11 +249,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "22d30f6e75a6a614",
+  "active": "5513028d96f94cd5",
   "lastOpenFiles": [
-    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
+    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/() 12th.md",
