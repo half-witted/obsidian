@@ -43,9 +43,9 @@ Tentukan derajat tertinggi dr pembilang, penyebut
 
 | <center>Kondisi</center> | <center>Shortcut                                     |
 | ------------------------ | ---------------------------------------------------- |
-| Pembilang $>$ penyebut   | $\lim_{ x \to \infty }\frac{x^3}{x^2}=0$             |
+| Pembilang $>$ penyebut   | $\lim_{ x \to \infty }\frac{x^3}{x^2}=\infty$        |
 | Pembilang $=$ penyebut   | $\lim_{ x \to \infty }\frac{1x^2}{2x^2}=\frac{1}{2}$ |
-| Pembilang $<$ penyebut   | $\lim_{ x \to \infty }\frac{x^2}{x^3}=\infty$        |
+| Pembilang $<$ penyebut   | $\lim_{ x \to \infty }\frac{x^2}{x^3}=0$             |
 ### Bentuk Akar
 Bentuk umum: $\sqrt{ ax^2+bx+c }-\sqrt{ px^2+qx+r }$ (jadikan gini semua)
 
