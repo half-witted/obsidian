@@ -11,10 +11,15 @@
             "id": "8429f8502f1b4016",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(1) I'rob dan Surat"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
