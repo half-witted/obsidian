@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "345c29e76f3f969b",
+        "id": "db2f6817d77b18c6",
         "type": "tabs",
         "children": [
           {
-            "id": "2969a593f774af70",
+            "id": "b5c670a151c6a887",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2) Limit (Lanjutan)"
-            }
-          },
-          {
-            "id": "631a146b404a5b0d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "(2E) Limit (Lanjutan)"
-            }
-          },
-          {
-            "id": "20a13f78306cdd94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +217,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "631a146b404a5b0d",
+  "active": "b5c670a151c6a887",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
