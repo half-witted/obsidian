@@ -1,1 +1,0 @@
-## Persamaan Lingkaran
