@@ -13,8 +13,11 @@
 - $x^2+y^2+Cx+Dy+E=0$
 	- $P=\left( \frac{C}{-2}, \frac{D}{-2} \right)$
 	- $r=\sqrt{ \left( \frac{C}{-2} \right)^2+\left( \frac{D}{-2} \right)^2-E }$
-## Kedudukan Titik dan Garis
-### Kedudukan Titik
-- Luar $\to(x-a)^2+(y-b)^2>r^2$
-- Pada: $\to(x-a)^2+(y-b)^2<r^2$
-- Dalam: $\to(x-a)^2+(y-b)^2<r^2$
+## Titik dan Garis
+### Titik
+#### Kedudukan Titik
+- Pada $=r^2$ atau $=0$
+- Dalam $<r^2$ atau $<0$
+- Luar $>r^2$ atau $>0$
+#### Jarak Titik terhadap Lingkaran
+- Pada
