@@ -35,8 +35,11 @@ Jika diketahui
 3. Tentukan kedudukan dr diskriminan $\to D=b^2-4ac$
 ## Persamaan Garis Singgung
 Jika diketahui:
-- <mark style="background:#d4b106">Titik singgung</mark>$(x_{1},y_{1})$, <mark style="background:#d4b106">pusat</mark>$(a,b)$
+- <mark style="background:#d4b106">Titik singgung</mark>$(x_{1},y_{1})$
 	$\frac{y-y_{1}}{x-x_{1}}=-\frac{x_{1}-a}{y_{1}-b}$
-- Gradien $(m)$
+- <mark style="background:#d4b106">Gradien</mark> $(m)$
 	$(y-b)=m(x-a)\pm r\sqrt{ 1+m^2 }$
+		- Hubungan 2 garis
+			- Tegak lurus $\to m_{1}*m_{2}=-1$
+			- Sejajar $\to m_{1}=m_{2}$
 -  
