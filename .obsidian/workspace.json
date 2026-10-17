@@ -11,10 +11,15 @@
             "id": "580bc8adc57d1014",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(6) Lingkaran Analitika"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,8 +224,9 @@
   },
   "active": "580bc8adc57d1014",
   "lastOpenFiles": [
-    "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
+    "(6) Quick Notes/BINDO.md",
     "(1) SHS/() SHS.md",
+    "(1) SHS/12th/Arabic/(1) I'rob dan Surat.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
@@ -252,7 +259,6 @@
     "(1) SHS/11th/Adv Math/(3) Integral.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
     "(6) Quick Notes/() Quick Notes.md",
-    "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Books.md",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Comp Math/() Attachments",

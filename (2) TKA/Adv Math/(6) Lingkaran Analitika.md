@@ -13,3 +13,8 @@
 - $x^2+y^2+Cx+Dy+E=0$
 	- $P=\left( \frac{C}{-2}, \frac{D}{-2} \right)$
 	- $r=\sqrt{ \left( \frac{C}{-2} \right)^2+\left( \frac{D}{-2} \right)^2-E }$
+## Kedudukan Titik dan Garis
+### Kedudukan Titik
+- Luar:
+- Pada:
+- Dalam:
