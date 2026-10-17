@@ -15,6 +15,6 @@
 	- $r=\sqrt{ \left( \frac{C}{-2} \right)^2+\left( \frac{D}{-2} \right)^2-E }$
 ## Kedudukan Titik dan Garis
 ### Kedudukan Titik
-- Luar:
-- Pada:
-- Dalam:
+- Luar $\to(x-a)^2+(y-b)^2>r^2$
+- Pada: $\to(x-a)^2+(y-b)^2<r^2$
+- Dalam: $\to(x-a)^2+(y-b)^2<r^2$
