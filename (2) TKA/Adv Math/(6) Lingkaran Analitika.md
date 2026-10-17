@@ -27,8 +27,8 @@
 #### Kedudukan
 - Menyinggung $\to D=0$
 - Tk memotong, menyinggung $\to D<0$
-- Memotong di 2 titik $\to D<0$
+- Memotong di 2 titik $\to D>0$
 ##### Langkah-Langkah
-1. Subs per. garis ke per. lingkaran
-2. Sederhanakan sampe dpt bentuk $ax^2+bx+c=0$
+1. Subs per. garis ke per. lingkaran $\to$ jdkan bentuk $y=$
+2. Sederhanakan $\to$ $ax^2+bx+c=0$
 3. Tentukan kedudukan dr diskriminan $\to D=b^2-4ac$
