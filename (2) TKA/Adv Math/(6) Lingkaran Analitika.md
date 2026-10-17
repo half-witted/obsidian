@@ -5,7 +5,7 @@
 Jika diketahui
 - <mark style="background:#d4b106">Pusat, jari2</mark>
 	- $(x-a)^2+(y-b)^2=r^2$ dgn $P(a,b)$
-	- $x^2+y^2+Cx+Dy+E=0\to$ sama aj kyk atas, <mark style="background:#d4b106">cuman dijabarin</mark>
+	- $x^2+y^2+Cx+Dy+E=0$
 - <mark style="background:#d4b106">2 titik</mark> yg klo dihubungin jd <mark style="background:#d4b106">diameter</mark>
 	- $P=(\frac{x_{1}+x_{2}}{2},\frac{y_{1}+y_{2}}{2})$
 	- $r=\sqrt{ (x_{2}-x_{1})^2+(y_{2}-y_{1})^2 }$  dgn $P(x_{1},y_{1})$
@@ -35,5 +35,8 @@ Jika diketahui
 3. Tentukan kedudukan dr diskriminan $\to D=b^2-4ac$
 ## Persamaan Garis Singgung
 Jika diketahui:
-- Titik singgung$(x_{1},y_{1})$ $\to\frac{y-y_{1}}{x-x_{1}}=-\frac{x_{1}-a}{y_{1}-b}$
-- 
+- <mark style="background:#d4b106">Titik singgung</mark>$(x_{1},y_{1})$, <mark style="background:#d4b106">pusat</mark>$(a,b)$
+	$\frac{y-y_{1}}{x-x_{1}}=-\frac{x_{1}-a}{y_{1}-b}$
+- Gradien $(m)$
+	$(y-b)=m(x-a)\pm r\sqrt{ 1+m^2 }$
+-  
