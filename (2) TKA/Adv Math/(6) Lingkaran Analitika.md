@@ -15,9 +15,20 @@
 	- $r=\sqrt{ \left( \frac{C}{-2} \right)^2+\left( \frac{D}{-2} \right)^2-E }$
 ## Titik dan Garis
 ### Titik
-#### Kedudukan Titik
+#### Kedudukan
 - Pada $=r^2$ atau $=0$
 - Dalam $<r^2$ atau $<0$
 - Luar $>r^2$ atau $>0$
-#### Jarak Titik terhadap Lingkaran
-- Pada
+#### Jarak terhadap Lingkaran
+- Pada $=0$
+- Dalam $=r-PB$ dgn $PB$ sbg jarak pusat ke titik
+- Luar $=PC-r$ dgn $PC$ sbg jarak pusat ke titik
+### Garis
+#### Kedudukan
+- Menyinggung $\to D=0$
+- Tk memotong, menyinggung $\to D<0$
+- Memotong di 2 titik $\to D<0$
+##### Langkah-Langkah
+1. Subs per. garis ke per. lingkaran
+2. Sederhanakan sampe dpt bentuk $ax^2+bx+c=0$
+3. Tentukan kedudukan dr diskriminan $\to D=b^2-4ac$
