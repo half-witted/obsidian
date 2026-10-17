@@ -32,3 +32,5 @@
 1. Subs per. garis ke per. lingkaran $\to$ jdkan bentuk $y=$
 2. Sederhanakan $\to$ $ax^2+bx+c=0$
 3. Tentukan kedudukan dr diskriminan $\to D=b^2-4ac$
+## Persamaan Garis Singgung
+- Titik singgung $\to\frac{y-y_{1}}{x-x_{1}}=-\frac{x_{1}-a}{y_{1}-b}$
