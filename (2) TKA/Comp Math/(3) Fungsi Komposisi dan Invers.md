@@ -30,5 +30,10 @@ Harus fungsi bijektif atau fungsi korespondensi satu2.
 3. Subs ke $x=f^{-1}(y)$
 4. Ganti $y$ dgn $x$
 ### Aplikasi
-#### Fungsi Linear
-<mark style="background:#9254de">Semua fungsi linear</mark> merupakan fungsi <mark style="background:#9254de">bijektif.</mark>
+| <center>Jenis</center> | <center>Fungsi</center> | <center>Invers</center>   | <center>Keterangan</center>                                                                                                                    |
+| ---------------------- | ----------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Linear                 | $f(x)=ax+b$             | $f^{-1}(x)=\frac{x-b}{a}$ | - <mark style="background:#d4b106">Semua fungsi linear</mark> merupakan fungsi <mark style="background:#d4b106">bijektif</mark><br>- $a\neq 0$ |
+| Rasional               |                         |                           |                                                                                                                                                |
+| Kuadrat                |                         |                           |                                                                                                                                                |
+| Irasional              |                         |                           |                                                                                                                                                |
+| Eksponen               |                         |                           |                                                                                                                                                |
