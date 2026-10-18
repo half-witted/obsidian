@@ -15,3 +15,6 @@ Tinggal subs2
 - Diketahui $(f\circ g)(x)$ dan $g(x)$ $\to$ pake permisalan
 ### Komposisi 3 Fungsi
 $(f\circ g\circ h)(x)=f(g(h(x)))$
+## Fungsi Invers
+Fungsi kebalikan dr suatu fungsi
+$f^{-1}(x)$
