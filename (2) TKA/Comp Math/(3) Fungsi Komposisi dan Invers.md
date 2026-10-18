@@ -42,3 +42,5 @@ Harus fungsi bijektif atau fungsi korespondensi satu2.
 $I(x)=x$
 - Anggota domain, range selalu sama
 - Jika $f(x)$ dikomposisikan dgn $I(x)\to(f\circ I)(x)=(I\circ f)(x)=f(x)$
+- $(f\circ f^{-1})(x)=(f^{-1}\circ f)(x)=I(x)=x$
+- 
