@@ -16,5 +16,11 @@ Tinggal subs2
 ### Komposisi 3 Fungsi
 $(f\circ g\circ h)(x)=f(g(h(x)))$
 ## Fungsi Invers
-Fungsi kebalikan dr suatu fungsi
-$f^{-1}(x)$
+- Fungsi <mark style="background:#40a9ff">kebalikan</mark> dr <mark style="background:#40a9ff">suatu fungsi</mark>
+- Jika $f(x)=y$ maka $f^{-1}(y)=x$
+### Syarat
+Harus fungsi bijektif atau fungsi korespodens
+### Langkah
+1. Ubah $f(x)=y$ jd $x$ sama dgn fungsi bervariabel $y$
+2. Tulis $f^{-1}(y)=x$
+3. Ganti $y$ dgn $x$ shg diperoleh $f^{-1}(x)$
