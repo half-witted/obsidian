@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eef71ff8fc9189af",
+        "id": "c19617f88114935e",
         "type": "tabs",
         "children": [
           {
-            "id": "01be2c359f818d78",
+            "id": "cb37fdde831db76d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) TKA/Comp Math/(2) Eksponen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2) Eksponen"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Comp Math/(2) Eksponen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,12 +216,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "01be2c359f818d78",
+  "active": "cb37fdde831db76d",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
-    "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
     "(2) TKA/Adv Math/(3) Limit.md",
