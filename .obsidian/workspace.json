@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c19617f88114935e",
+        "id": "bfdf9a15f54990cb",
         "type": "tabs",
         "children": [
           {
-            "id": "cb37fdde831db76d",
+            "id": "28176216956364d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+                "file": "(1) SHS/() SHS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(3) Fungsi Komposisi dan Invers"
+              "title": "() SHS"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+                "file": "(1) SHS/() SHS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,11 +222,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "cb37fdde831db76d",
+  "active": "d95ad9845db6905a",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
-    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
