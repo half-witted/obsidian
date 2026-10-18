@@ -9,3 +9,4 @@ Tinggal subs2
 #### Salah Satu Fungsi Penyusun
 - Diketahui $(f\circ g)(x)$ dan $f(x)$ $\to$ tinggal subs
 - Diketahui $(f\circ g)(x)$ dan $g(x)$ $\to$ pk permisalan
+### Komposisi 3 Fungsi
