@@ -45,4 +45,3 @@ $I(x)=x$
 - $(f\circ f^{-1})(x)=(f^{-1}\circ f)(x)=I(x)=x$
 ### Invers Komposisi 2 Fungsi
 $(f\circ g)^{-1}(x)=(g^{-1}\circ f^{-1})(x)$
- 
