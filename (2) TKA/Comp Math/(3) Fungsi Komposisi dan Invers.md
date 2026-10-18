@@ -1,9 +1,10 @@
 ## Fungsi Komposisi
 Fungsi $f$ komposisi $g$ $\to (f\circ g)(x)$ atau $f(g(x))$
-### Syarat
+### Konsep
+#### Syarat
 $(f\circ g)(x)\to R_{g}\subset D_{f}$
 $(g\circ f)(x)\to R_{f}\subset D_{g}$
-### Sifat
+#### Sifat
 1. Tk komutatif $\to(f\circ g)(x)\neq (g\circ f)(x)$
 2. Asosiatif $\to((f\circ g)\circ h(x))=(f\circ(g\circ h)(x))$
 ### Komposisi 2 Fungsi
@@ -18,9 +19,16 @@ $(f\circ g\circ h)(x)=f(g(h(x)))$
 ## Fungsi Invers
 - Fungsi <mark style="background:#40a9ff">kebalikan</mark> dr <mark style="background:#40a9ff">suatu fungsi</mark>
 - Jika $f(x)=y$ maka $f^{-1}(y)=x$
-### Syarat
-Harus fungsi bijektif atau fungsi korespodens
-### Langkah
-1. Ubah $f(x)=y$ jd $x$ sama dgn fungsi bervariabel $y$
-2. Tulis $f^{-1}(y)=x$
-3. Ganti $y$ dgn $x$ shg diperoleh $f^{-1}(x)$
+### Konsep
+#### Syarat
+Harus fungsi bijektif atau fungsi korespondensi satu2.
+- $n(A)=n(B)$
+- Tiap anggota $A$ berpasangan tepat 1 dgn anggota $B$
+#### Metode
+1. Buat $y=f(x)$
+2. Ubah $y=f(x)$ jd $x$ sama dgn fungsi bervariabel $y$
+3. Subs ke $x=f^{-1}(y)$
+4. Ganti $y$ dgn $x$
+### Aplikasi
+#### Fungsi Linear
+<mark style="background:#9254de">Semua fungsi linear</mark> merupakan fungsi <mark style="background:#9254de">bijektif.</mark>
