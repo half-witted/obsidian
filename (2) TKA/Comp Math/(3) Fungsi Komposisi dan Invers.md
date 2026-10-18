@@ -18,7 +18,7 @@ Tinggal subs2
 $(f\circ g\circ h)(x)=f(g(h(x)))$
 ## Fungsi Invers
 - Fungsi <mark style="background:#40a9ff">kebalikan</mark> dr <mark style="background:#40a9ff">suatu fungsi</mark>
-- Jika $f(x)=y$ maka $f^{-1}(y)=x$
+- $f(x)=y$ jika dan hanya jika $f^{-1}(y)=x$
 ### Konsep
 #### Syarat
 Harus fungsi bijektif atau fungsi korespondensi satu2.
@@ -30,10 +30,10 @@ Harus fungsi bijektif atau fungsi korespondensi satu2.
 3. Subs ke $x=f^{-1}(y)$
 4. Ganti $y$ dgn $x$
 ### Aplikasi
-| <center>Jenis</center> | <center>Fungsi</center>  | <center>Invers</center>                           | <center>Keterangan</center>                                                                                                                              |
+| <center>Jenis</center> | <center>Fungsi</center>  | <center>Invers</center>                           | <center>Tambahan</center>                                                                                                                                |
 | ---------------------- | ------------------------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Linear                 | $f(x)=ax+b$              | $f^{-1}(x)=\frac{x-b}{a}$                         | - <mark style="background:#d4b106">Semua fungsi linear</mark> merupakan fungsi <mark style="background:#d4b106">bijektif</mark><br>- $a\neq 0$           |
 | Rasional               | $f(x)=\frac{ax+b}{cx+d}$ | $f^{-1}(x)=\frac{-dx+b}{cx-a}$                    | $x\neq -\frac{d}{c}\to x\neq \frac{a}{c}$                                                                                                                |
 | Kuadrat                | $f(x)=ax^2+bx+c$         | $f^{-1}(x)=\frac{-b\pm \sqrt{ b^2-4a(c-x) }}{2a}$ | 1. Pake $x_{p}=-\frac{b}{2a}$<br>2. Domain fungsi dibatasi jd $D_{f}\leq-\frac{b}{2a}$ dan $D_{f}\geq-\frac{b}{2a}$<br>3. Pake kuadrat sempurna atau ABC |
-| Irasional              |                          |                                                   |                                                                                                                                                          |
-| Eksponen               |                          |                                                   |                                                                                                                                                          |
+| Irasional              | $f(x)=\sqrt{ x }$        |                                                   | - $x\geq 0$<br>- Pake [[#Metode\|metode]]                                                                                                                |
+| Eksponen               | $f(x)=n^x$               |                                                   | - Invers $=$ fungsi log<br>- Pake [[#Metode\|metode]]                                                                                                    |
