@@ -37,3 +37,5 @@ Harus fungsi bijektif atau fungsi korespondensi satu2.
 | Kuadrat                | $f(x)=ax^2+bx+c$         | $f^{-1}(x)=\frac{-b\pm \sqrt{ b^2-4a(c-x) }}{2a}$ | 1. Pake $x_{p}=-\frac{b}{2a}$<br>2. Domain fungsi dibatasi jd $D_{f}\leq-\frac{b}{2a}$ dan $D_{f}\geq-\frac{b}{2a}$<br>3. Pake kuadrat sempurna atau ABC |
 | Irasional              | $f(x)=\sqrt{ x }$        |                                                   | - $x\geq 0$<br>- Pake [[#Metode\|metode]]                                                                                                                |
 | Eksponen               | $f(x)=n^x$               |                                                   | - Invers $=$ fungsi log<br>- Pake [[#Metode\|metode]]                                                                                                    |
+## Invers dari Fungsi Komposisi
+ 
