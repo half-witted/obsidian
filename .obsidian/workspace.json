@@ -11,10 +11,15 @@
             "id": "01be2c359f818d78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(6) Lingkaran Analitika"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
