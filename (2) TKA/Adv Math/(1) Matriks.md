@@ -100,4 +100,4 @@ $\begin{aligned}2x+3y &= 7\\4x-y &= 5\end{aligned}$
 5. Cari $x=\frac{D_{x}}{D}$ dan $y=\frac{D_{y}}{D}$
 #### Contoh Soal
 ![[Pasted image 20260927174246.png|458]]
-$\begin{aligned}\begin{bmatrix}1&2\\2&-3\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix}&=\begin{bmatrix}5\\3\end{bmatrix} \\ \\ D={\begin{vmatrix}1&2\\2&-3\end{vmatrix}}&=(1*(-3))-(2*2)=-7 \\ D_{x}=\begin{vmatrix}5&2\\3&-3\end{vmatrix}&=(5*(-3))-(3*2)=-21 \\ D_{y}=\begin{vmatrix}1&5\\2&3\end{vmatrix}&=(1*3)-(2*5)=-7 \\ x &= \frac{D_{x}}{D} = \frac{-21}{-7} = \color{#9D7EF9}3\\y &= \frac{D_{y}}{D} = \frac{-7}{-7} = \color{#9D7EF9}1\end{aligned}$
+$\begin{aligned}&\begin{bmatrix}1&2\\2&-3\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix}=\begin{bmatrix}5\\3\end{bmatrix} \\ \\ D&={\begin{vmatrix}1&2\\2&-3\end{vmatrix}}=(1*(-3))-(2*2)=-7 \\ D_{x}&=\begin{vmatrix}5&2\\3&-3\end{vmatrix}=(5*(-3))-(3*2)=-21 \\ D_{y}&=\begin{vmatrix}1&5\\2&3\end{vmatrix}=(1*3)-(2*5)=-7 \\ x &= \frac{D_{x}}{D} = \frac{-21}{-7} = \color{#9D7EF9}3\\y &= \frac{D_{y}}{D} = \frac{-7}{-7} = \color{#9D7EF9}1\end{aligned}$
