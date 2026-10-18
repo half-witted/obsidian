@@ -34,11 +34,17 @@ Jika diketahui
 3. Tentukan kedudukan dr <mark style="background:#affad1">diskriminan</mark> $\to D=b^2-4ac$
 ## Persamaan Garis Singgung
 Jika diketahui:
-- <mark style="background:#d4b106">Titik singgung</mark>$(x_{1},y_{1})$
+- <mark style="background:#40a9ff">Titik singgung</mark>$(x_{1},y_{1})$
+	![[Pasted image 20261018101924.png|200]]
 	$\frac{y-y_{1}}{x-x_{1}}=-\frac{x_{1}-a}{y_{1}-b}$
-- <mark style="background:#d4b106">Gradien</mark> $(m)$
+- <mark style="background:#40a9ff">Gradien</mark> $(m)$
 	$(y-b)=m(x-a)\pm r\sqrt{ 1+m^2 }$
 		- Hubungan 2 garis
 			- Tegak lurus $\to m_{1}*m_{2}=-1$
-			- Sejajar $\to m_{1}=m_{2}$
--  
+			- Sejajar $\to m_{1}=m_{2}$ ^63a9f4
+-  <mark style="background:#40a9ff">1 titik luar</mark> lingkaran
+	![[Pasted image 20261018101702.png|200]]
+	1. Misalkan per. garis $\to (y-b)=m(x-a)\pm r\sqrt{ 1+m^2 }$
+	2. Subs $(p,q)$ ke per. garis 
+	3. Tentukan $m$ yg mungkin
+	4. Habis dpt $m$, tentukan per. garis dgn rumus [[#^63a9f4|gradien]]
