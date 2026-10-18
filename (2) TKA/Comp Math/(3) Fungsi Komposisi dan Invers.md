@@ -38,4 +38,7 @@ Harus fungsi bijektif atau fungsi korespondensi satu2.
 | Irasional              | $f(x)=\sqrt{ x }$        |                                                   | - $x\geq 0$<br>- Pake [[#Metode\|metode]]                                                                                                                |
 | Eksponen               | $f(x)=n^x$               |                                                   | - Invers $=$ fungsi log<br>- Pake [[#Metode\|metode]]                                                                                                    |
 ## Invers dari Fungsi Komposisi
- 
+### Fungsi Identitas
+$I(x)=x$
+- Anggota domain, range selalu sama
+- Jika $f(x)$ dikomposisikan dgn $I(x)\to(f\circ I)(x)=(I\circ f)(x)=f(x)$
