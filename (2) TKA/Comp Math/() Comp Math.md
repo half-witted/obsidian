@@ -4,3 +4,4 @@
 - [[(1.2) Barisan dan Deret]]
 - [[(2) Eksponen]]
 - [[(3) Fungsi Komposisi dan Invers]]
+- [[(4) Garis dan Sudut]]
