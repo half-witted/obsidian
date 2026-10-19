@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d2cf17650ba4691b",
+        "id": "d44a8e576f6778d7",
         "type": "tabs",
         "children": [
           {
-            "id": "27e4858cc3c60687",
+            "id": "cecddd3400f9a933",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "(2) Regular"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -170,7 +168,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,12 +218,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "27e4858cc3c60687",
+  "active": "cecddd3400f9a933",
   "lastOpenFiles": [
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115413_286.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115042_489.png",
     "(4) Tasks/PH arab.md",
     "(4) Tasks/() Tasks.md",
-    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113711_979.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113644_842.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113509_109.png",
@@ -261,8 +259,6 @@
     "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013231532_788.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013225635_898.png",
-    "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013221211_311.png",
-    "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013220035_462.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Comp Math/() Attachments",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
