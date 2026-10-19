@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -203,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,12 +223,15 @@
   },
   "active": "27e4858cc3c60687",
   "lastOpenFiles": [
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115042_489.png",
+    "(4) Tasks/PH arab.md",
+    "(4) Tasks/() Tasks.md",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113711_979.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113644_842.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113509_109.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/Drawing 2026-10-19 11.32.34.excalidraw.md",
-    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
@@ -254,13 +259,10 @@
     "(1) SHS/12th/Adv Math/() Exercises/(2E) Limit (Lanjutan).md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Physics/() Exercises/(2E) Listrik Arus Searah.md",
-    "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
-    "(1) SHS/12th/() 12th.md",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013231532_788.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013225635_898.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013221211_311.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013220035_462.png",
-    "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013220017_388.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Comp Math/() Attachments",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
