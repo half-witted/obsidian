@@ -1,4 +1,7 @@
 ![[Pasted image 20260830170340.png]]
 - [[(1) Matriks]]
 - [[(2) Polinomial]]
-- [[(1) SHS/12th/Adv Math/(2) Limit (Lanjutan)]]
+- [[(3) Limit]]
+- [[(4) Limit (Lanjutan)]]
+- [[(5) Lingkaran]]
+- [[(6) Lingkaran Analitika]]

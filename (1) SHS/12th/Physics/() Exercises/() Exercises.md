@@ -1,1 +1,2 @@
 - [[(1E) Listrik Statis]]
+- [[(2E) Listrik Arus Searah]]

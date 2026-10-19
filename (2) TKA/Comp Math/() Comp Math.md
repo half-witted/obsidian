@@ -2,3 +2,5 @@
 - [[(2) TKA/Comp Math/() Exercises/() Exercises|() Exercises]]
 - [[(1.1) Pola Bilangan]]
 - [[(1.2) Barisan dan Deret]]
+- [[(2) Eksponen]]
+- [[(3) Fungsi Komposisi dan Invers]]

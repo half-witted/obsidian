@@ -1,3 +1,4 @@
 - [[(1) SHS/12th/Physics/() Exercises/() Exercises|() Exercises]]
 - [[(1.1) Muatan dan Medan Listrik]]
 - [[(1.2) Potensial, Energi, dan Kapasitor]]
+- [[(2) Listrik Arus Searah (DC)]]

@@ -1,2 +1,3 @@
 - [[(1) Sabar]]
 - [[(2) Iman, Islam, Ihsan]]
+- [[(4) Warisan]]
