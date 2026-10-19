@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cecddd3400f9a933",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "(2) Regular"
-            }
-          },
-          {
             "id": "fdb7f612f39c5f54",
             "type": "leaf",
             "state": {
@@ -34,8 +22,7 @@
               "title": "() SHS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +211,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "fdb7f612f39c5f54",
+  "active": "d95ad9845db6905a",
   "lastOpenFiles": [
-    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
     "(1) SHS/() SHS.md",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115413_286.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115042_489.png",
     "(4) Tasks/PH arab.md",
