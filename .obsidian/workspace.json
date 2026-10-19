@@ -18,8 +18,19 @@
               "icon": "excalidraw-icon",
               "title": "(2) Regular"
             }
+          },
+          {
+            "id": "fdb7f612f39c5f54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -209,9 +219,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "cecddd3400f9a933",
+  "active": "fdb7f612f39c5f54",
   "lastOpenFiles": [
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
+    "(1) SHS/() SHS.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115413_286.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115042_489.png",
     "(4) Tasks/PH arab.md",
@@ -226,7 +237,6 @@
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
     "(2) TKA/Bahasa Indonesia/() Exercises",
     "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
-    "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
