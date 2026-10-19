@@ -11,10 +11,12 @@
             "id": "27e4858cc3c60687",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(2) Regular"
             }
           }
         ]
@@ -167,6 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,6 +221,17 @@
   },
   "active": "27e4858cc3c60687",
   "lastOpenFiles": [
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113711_979.png",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113644_842.png",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113509_109.png",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
+    "(2) TKA/Bahasa Indonesia/() Exercises/Drawing 2026-10-19 11.32.34.excalidraw.md",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/(2) Regular.md",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
+    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",
+    "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/(2) Informasi dalam Teks.md",
+    "(2) TKA/Bahasa Indonesia/() Exercises",
+    "(2) TKA/Bahasa Indonesia/Pemahaman Tekstual/() Pemahaman Tekstual.md",
     "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
@@ -247,23 +261,12 @@
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013221211_311.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013220035_462.png",
     "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013220017_388.png",
-    "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013214916_743.png",
-    "(1) SHS/12th/Physics/() Exercises/() Attachments/Pasted Image 20261013214221_779.png",
-    "(1) SHS/12th/Physics/(1.1) Muatan dan Medan Listrik.md",
-    "(1) SHS/12th/Physics/(1.2) Potensial, Energi, dan Kapasitor.md",
-    "(6) Quick Notes/Another aftermovie.md",
-    "(6) Quick Notes/Aftermovie.md",
-    "(1) SHS/11th/Adv Math/(2) Limit and Derivative.md",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Comp Math/() Attachments",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
     "(1) SHS/12th/Arabic/() Attachments",
-    "(2) TKA/Comp Math/() Exercises/() Attachments",
-    "(2) TKA/Comp Math/() Exercises",
-    "(1) SHS/12th/PP",
-    "(2) TKA/Adv English/Test",
     "Untitled.canvas",
     "(2) TKA/Bahasa Indonesia/Untitled.canvas",
     "SHS/11th/Bahasa Indonesia/Untitled.canvas",
