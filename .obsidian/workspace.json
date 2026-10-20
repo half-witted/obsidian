@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d44a8e576f6778d7",
+        "id": "2b93817b3b232ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb7f612f39c5f54",
+            "id": "aa479937e5954fca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(4) Garis dan Sudut"
+              "title": "New tab"
             }
           }
         ]
@@ -211,13 +206,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "fdb7f612f39c5f54",
+  "active": "aa479937e5954fca",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261020010857.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261020010653.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261020010608.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261020010359.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261020010248.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261020005810.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261020005545.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261020005426.png",
     "(2) TKA/Comp Math/() Comp Math.md",
-    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(1) SHS/12th/IE/(4) Warisan.md",
     "(2) TKA/Comp Math/() Exercises/() Exercises.md",
@@ -233,9 +233,6 @@
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115413_286.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019115042_489.png",
     "(4) Tasks/PH arab.md",
-    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113711_979.png",
-    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113644_842.png",
-    "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments/Pasted Image 20261019113509_109.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/Drawing 2026-10-19 11.32.34.excalidraw.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
@@ -250,9 +247,6 @@
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
     "(2) TKA/Adv Math/(3) Limit.md",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261018101924.png",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261018101919.png",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261018101702.png",
     "(1) SHS/12th/Bahasa Indonesia/() Attachments",
     "(1) SHS/12th/Comp Math/() Attachments",
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
