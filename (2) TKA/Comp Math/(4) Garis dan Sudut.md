@@ -13,4 +13,4 @@
 | Saling berpotongan tegak lurus | $\overleftrightarrow{AB}\perp\overleftrightarrow{AD}$     | ![[Pasted image 20261020010608.png\|164]] |
 | Saling bersilangan             | $\overleftrightarrow{AB}$ dan $\overleftrightarrow{CG}$   | ![[Pasted image 20261020010653.png\|165]] |
 | Saling berhimpit               | $\overleftrightarrow{AB}$ dan $\overleftrightarrow{IJ}$   | ![[Pasted image 20261020010857.png\|198]] |
-### Ruas
+### Membagi Ruas
