@@ -14,8 +14,19 @@
 | Modus                   |                                             | Urutin, cari nilai yg sering muncul                       |
 | Median                  |                                             | Urutin, cari nilai tengah                                 |
 ### Data Kelompok
-| <center>Ukuran</center> | <center>Rumus</center>                                         | <center>Keterangan</center>                                                                                                                                                  |
-| ----------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mean                    | $\bar{x}=\displaystyle\frac{\sum f_{i}x_{i}}{\sum f_{i}}$      | $\bar{x}=$ mean<br>$f_{i}=$ frekuensi data ke-i<br>$x_{i}=$ nilai tengah kelas                                                                                               |
-| Modus                   | $Mo=Tb+p\displaystyle\left( \frac{d_{1}}{d_{1}+d_{2}} \right)$ | $Tb=$ [[#^unsur\|tepi bawah]] kelas modus<br>$p=$ [[#^unsur\|panjang]] kelas modus<br>$d_{1}=$ selisih frekuensi kelas modus dgn kelas sebelum<br>$d_{2}=$ dgn kelas sesudah |
-| Median                  | $Me=Tb+\displaystyle p$                                        |                                                                                                                                                                              |
+| <center>Ukuran</center> | <center>Rumus</center>                                                                              | <center>Keterangan</center>                                                                                                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mean                    | $\bar{x}=\displaystyle\frac{\sum f_{i}x_{i}}{\sum f_{i}}$                                           | $\bar{x}=$ mean<br>$f_{i}=$ frekuensi data ke-i<br>$x_{i}=$ nilai tengah kelas                                                                                                                                        |
+| Modus                   | $Mo=Tb+p\displaystyle\left( \frac{d_{1}}{d_{1}+d_{2}} \right)$                                      | $Mo=$ modus<br>$Tb=$ [[#^unsur\|tepi bawah]] kelas modus<br>$p=$ [[#^unsur\|panjang]] kelas modus<br>$d_{1}=$ selisih frekuensi kelas modus dgn kelas sebelum<br>$d_{2}=$ dgn kelas sesudah                           |
+| Median                  | $Me=Tb+\displaystyle\frac{p\left( \frac{n}{2}-\sum f_{kumulatif\space sebelumnya} \right)}{f_{Me}}$ | $Me=$ median<br>$Tb=$ [[#^unsur\|tepi bawah]] kelas median<br>$p=$ [[#^unsur\|panjang]] kelas median<br>$\sum f_{kumulatif\space sebelumnya}=$ frekuensi kumulatif sebelum kelas median<br>$f_{Me}=$ frekuensi median |
+## Letak Data
+### Data Tunggal
+| <center>Ukuran</center> | <center>Rumus</center>         | <center>Keterangan</center>                                  |
+| ----------------------- | ------------------------------ | ------------------------------------------------------------ |
+| Kuartil                 | $Q_{i}=x_{\frac{i}{4}(1+n)}$   | $Q_{i}=$ kuartil ke-i<br>$x=$ total data<br>$n=$ jumlah data |
+| Desil                   | $D_{i}=x_{\frac{i}{10}(1+n)}$  | $D_{i}=$ desil ke-i                                          |
+| Persentil               | $P_{i}=x_{\frac{i}{100}(1+n)}$ | $P_{i}=$ persentil ke-i                                      |
+### Data Kelompok
+| <center>Ukuran</center> | <center>Rumus</center> | <center>Keterangan</center> |
+| ----------------------- | ---------------------- | --------------------------- |
+| Kuartil                 |                        |                             |
