@@ -1,0 +1,2 @@
+## Ukuran Pemusatan Data
+### Mean

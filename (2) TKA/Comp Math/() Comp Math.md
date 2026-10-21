@@ -5,3 +5,4 @@
 - [[(2) Eksponen]]
 - [[(3) Fungsi Komposisi dan Invers]]
 - [[(4) Garis dan Sudut]]
+- [[(5) Statistika Deskriptif]]

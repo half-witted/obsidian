@@ -84,5 +84,3 @@ Mengukur penyebaran data bergantung pada mean
 
 | $SB=\sqrt{ \sigma }$ | $SB=$ simpangan baku<br>$\sigma=$ [[#Ragam (Varian)\|ragam/varian]] |
 | -------------------- | ------------------------------------------------------------------- |
-### *Box and Whisker (Boxplot)*
-## Exercises
