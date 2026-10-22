@@ -15,9 +15,23 @@ Jika $A=A^T\to A=$ <mark style="background:#d4b106">matriks simetris</mark>
 | Matriks persegi         | baris $=$ kolom<br>$m=n$        | ![[Pasted image 20261023011205.png\|214]] |
 | Matriks persegi panjang | baris $\neq$ kolom<br>$m\neq n$ | ![[Pasted image 20261023011225.png\|167]] |
 #### Berdasarkan Pola Elemen
-| <center>Jenis</center> | <center>Penjelasan</center>                                                                        | <center>Contoh</center>                           |
-| ---------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| Matriks nol            | Semua elemen $=0$                                                                                  | ![[Pasted image 20261023011525.png\|91]]          |
-| Matriks diagonal       | Elemen diagonal utama $\neq 0$, elemen lain $=0$                                                   | $\begin{bmatrix}a&0&0\\0&b&0\\0&0&c\end{bmatrix}$ |
-| Matriks identitas      | Elemen diagonal utama $=1$, elemen lain $=0$                                                       | $\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}$ |
-| Matriks segitiga       | - Atas (U): elemen di bawah diagonal utama $=0$<br>- Bawah (L): elemen di atas diagonal utama $=0$ | $\begin{bmatrix}a&b&b\\0&\end{bmatrix}$           |
+| <center>Jenis</center> | <center>Penjelasan</center>                                                                        | <center>Contoh</center>                                                                                |
+| ---------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Matriks nol            | Semua elemen $=0$                                                                                  | ![[Pasted image 20261023011525.png\|91]]                                                               |
+| Matriks diagonal       | Elemen diagonal utama $\neq 0$, elemen lain $=0$                                                   | $\begin{bmatrix}a&0&0\\0&b&0\\0&0&c\end{bmatrix}$                                                      |
+| Matriks identitas      | - Elemen diagonal utama $=1$, elemen lain $=0$<br>- Misalkan matriks $A\to A\times I=A$            | $\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}$                                                      |
+| Matriks segitiga       | - Atas (U): elemen di bawah diagonal utama $=0$<br>- Bawah (L): elemen di atas diagonal utama $=0$ | $\begin{bmatrix}a&b&c\\0&d&e\\0&0&f\end{bmatrix}$<br>$\begin{bmatrix}a&0&0\\b&c&0\\d&e&f\end{bmatrix}$ |
+### Kesamaan
+$>1$ matriks dikatakan sama jika:
+- Ordo sama
+- Elemen2 sepetak sama
+## Operasi
+### Penjumlahan dan Pengurangan
+Menjumlahkan atau mengurangkan elemen sepetak
+![[Pasted image 20261023012520.png|381]]
+### Perkalian Skalar
+![[Pasted image 20261023012625.png|228]]
+### Perkalian
+| ![[Pasted image 20261023012728.png\|187]] | ![[Pasted image 20261023012746.png\|267]] |
+| ----------------------------------------- | ----------------------------------------- |
+
