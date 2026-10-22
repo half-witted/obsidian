@@ -34,4 +34,12 @@ Menjumlahkan atau mengurangkan elemen sepetak
 ### Perkalian
 | ![[Pasted image 20261023012728.png\|187]] | ![[Pasted image 20261023012746.png\|267]] |
 | ----------------------------------------- | ----------------------------------------- |
-
+## Determinan
+### Ordo 2x2
+![[Pasted image 20261023013430.png|358]]
+### Ordo 3x3
+Pake sarrus:
+1. Tulis ulang
+	![[Pasted image 20261023013642.png|162]]
+2.  Kalikan elemen2 diagonal kanan, jumlahkan
+	![[Pasted image 20261023013934.png]]
