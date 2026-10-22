@@ -26,7 +26,7 @@
 	- Matriks segitiga bawah (L)
 	  Di atas diagonal utama bernilai 0
 	  $\begin{bmatrix}1&0&0\\2&3&0\\4&5&6\end{bmatrix}$
-### Transpos
+### Transpose
 Menukar elemen baris dgn kolom
 - $A=\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}\to A^T=\begin{bmatrix}1&4&7\\2&5&8\\3&6&9\end{bmatrix}$
 - $B=\begin{bmatrix}2&1&4\\1&4&5\\4&5&3\end{bmatrix}\to B^T=\begin{bmatrix}2&1&4\\1&4&5\\4&5&3\end{bmatrix}$
