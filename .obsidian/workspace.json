@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Adv Math/(2) Polinomial.md",
+                "file": "(6) Quick Notes/Skip materi TKA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(2) Polinomial"
+              "title": "Skip materi TKA"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Adv Math/(2) Polinomial.md",
+                "file": "(6) Quick Notes/Skip materi TKA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,6 +214,7 @@
   },
   "active": "52c6dd4bbba60321",
   "lastOpenFiles": [
+    "(2) TKA/Adv Math/(2) Polinomial.md",
     "(6) Quick Notes/Skip materi TKA.md",
     "(2) TKA/Adv Math/() Adv Math.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
