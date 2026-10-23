@@ -8,30 +8,22 @@
 Himpunan bagian dr ruang sampel
 ![[Pasted image 20261023200237.png|68]]
 ### Jenis
-| <center>Jenis</center> | <center>Penjelasan</center> |                                           |
-| ---------------------- | --------------------------- | ----------------------------------------- |
-| Tunggal                |                             | ![[Pasted image 20261023200554.png\|213]] |
+| <center>Jenis</center> | <center>Penjelasan</center>                                                |                                                               |
+| ---------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Tunggal                |                                                                            | ![[Pasted image 20261023200554.png\|213]]                     |
+| Majemuk                | $>1$ kejadian terjadi bersamaan                                            | - Dan: pake gabungan $(\cup)$<br>- Atau: pake irisan $(\cap)$ |
+| Tidak saling lepas     | $>1$ kejadian yg slg beririsan                                             | ![[Pasted image 20261023203453.png\|309]]                     |
+| Saling lepas           | - $>1$ kejadian tk bs terjadi bersamaan<br>- Irisan berupa himpunan kosong | ![[Pasted image 20261023203528.png\|208]]                     |
+| Komplemen              | Kejadian $A^c$ yg bukan kejadian $A$                                       | ![[Pasted image 20261023203659.png\|188]]                     |
+| Lengkap                | Gabungan bbrp kejadian yg menghasilkan ruang sampel                        | ![[Pasted image 20261023203828.png\|229]]                     |
+| Pasti terjadi          |                                                                            | ![[Pasted image 20261023204423.png\|125]]                     |
+| Tidak pasti terjadi    |                                                                            | ![[Pasted image 20261023204444.png\|88]]                      |
+## Peluang
+| $P(A)=\displaystyle \frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ banyak anggota kejadian $A$<br>$n(S)=$ banyak titik sampel |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------- |
 
-#### Tunggal
-Kejadian yg terdiri dr 1 kejadian
-
-#### Majemuk
-- $>1$ kejadian terjadi bersamaan
-- Contoh
-	- Dan
-	![[Pasted image 20261023203224.png|214]]
-	- Atau
-	![[Pasted image 20261023203210.png|215]]
-#### Tidak Saling Lepas
-$>1$ kejadian yg slg beririsan
-![[Pasted image 20261023203453.png|309]]
-#### Saling Lepas
-$>1$ kejadian yg tk bisa terjadi bersamaan, irisan berupa himpunan kosong
-![[Pasted image 20261023203528.png|208]]
-#### Komplemen
-Kejadian $A^c$ yg bukan kejadian $A$
-![[Pasted image 20261023203659.png|188]]
-#### Lengkap
-Gabungan bbrp kejadian yg menghasilkan ruang sampel
-![[Pasted image 20261023203828.png|199]]
-#### Pasti Terjadi
+- Kisaran nilai $\to$ ![[Pasted image 20261023204717.png|131]]
+### Jenis
+#### Kepastian
+![[Pasted image 20261023204833.png|123]]
+#### Kemustahilan
