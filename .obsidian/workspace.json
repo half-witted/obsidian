@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(6) Quick Notes/Skip materi TKA.md",
+                "file": "(2) TKA/Comp Math/(6) Peluang.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Skip materi TKA"
+              "title": "(6) Peluang"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(6) Quick Notes/Skip materi TKA.md",
+                "file": "(2) TKA/Comp Math/(6) Peluang.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,8 +214,11 @@
   },
   "active": "52c6dd4bbba60321",
   "lastOpenFiles": [
-    "(2) TKA/Adv Math/(2) Polinomial.md",
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
+    "(2) TKA/Comp Math/(6) Peluang.md",
     "(6) Quick Notes/Skip materi TKA.md",
+    "(2) TKA/Adv Math/Untitled.md",
+    "(2) TKA/Adv Math/(2) Polinomial.md",
     "(2) TKA/Adv Math/() Adv Math.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261023190434.png",
@@ -233,7 +236,6 @@
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Books.md",
     "(6) Quick Notes/Intensif.md",
-    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(6) Quick Notes/() Quick Notes.md",
     "Untitled.md",
@@ -248,7 +250,6 @@
     "(1) SHS/12th/Comp Math/() Exercises/() Exercises.md",
     "(4) Tasks/() Tasks.md",
     "(1) SHS/12th/Physics/() Exercises/() Exercises.md",
-    "(1) SHS/12th/Comp Math/() Exercises/(2E) Lingkaran.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",
