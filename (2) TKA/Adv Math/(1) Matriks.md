@@ -1,103 +1,95 @@
 ## Pengenalan
 ### Konsep
-- Dinyatakan dgn huruf kapital, elemen2 nya dgn huruf kecil
-- Ordo matriks adalah baris x kolom $\to A_{2x3}=$ matriks A dgn 2 baris, 3 kolom
+- Dinyatakan dgn huruf kapital, elemen2 dgn huruf kecil
+- Ordo: banyak baris $(m)$ $\times$ banyak kolom $(n)$
+### Transpose
+Matriks dr perpindahan elemen2 baris dgn kolom
+![[Pasted image 20261023010729.png|352]]
+Jika $A=A^T\to A=$ <mark style="background:#d4b106">matriks simetris</mark>
 ### Jenis
 #### Berdasarkan Baris dan Kolom
-- Matriks baris: 1 baris aja
-- Matriks kolom: 1 kolom aja
-- Matriks persegi panjang; jumlah baris, kolom beda
-- Matriks persegi: jumlah baris, kolom sama
-
-| $\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}$ | $1, 5, 9=$ diagonal utama<br>$3, 5, 7=$ diagonal sekunder/samping<br>Penjumlahan diagonal utama disebut *trace* |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| <center>Jenis</center>  | <center>Penjelasan</center>     | <center>Contoh</center>                   |
+| ----------------------- | ------------------------------- | ----------------------------------------- |
+| Matriks baris           | 1 baris aja                     | ![[Pasted image 20261023011111.png\|218]] |
+| Matriks kolom           | 1 kolom aja                     | ![[Pasted image 20261023011143.png\|125]] |
+| Matriks persegi         | baris $=$ kolom<br>$m=n$        | ![[Pasted image 20261023011205.png\|214]] |
+| Matriks persegi panjang | baris $\neq$ kolom<br>$m\neq n$ | ![[Pasted image 20261023011225.png\|167]] |
 #### Berdasarkan Pola Elemen
-- Matriks nol: semua elemen 0
-- Matriks diagonal: matriks persegi dgn elemen diagonal utama $\neq$ 0, elemen lain 0
-  $\begin{bmatrix}1&0&0\\0&2&0\\0&0&3\end{bmatrix}$
-- Matriks identitas ^matriks-identitas
-	- Matriks persegi dgn elemen diagonal utama 1, elemen lain 0
-	- Hasil kali matriks dgn invers nya
-      $\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}$
-- Matriks segitiga
-	- Matriks segitiga atas (U)
-	  Di bawah diagonal utama bernilai 0
-	  $\begin{bmatrix}1&2&3\\0&4&5\\0&0&6\end{bmatrix}$
-	- Matriks segitiga bawah (L)
-	  Di atas diagonal utama bernilai 0
-	  $\begin{bmatrix}1&0&0\\2&3&0\\4&5&6\end{bmatrix}$
-### Transpose
-Menukar elemen baris dgn kolom
-- $A=\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}\to A^T=\begin{bmatrix}1&4&7\\2&5&8\\3&6&9\end{bmatrix}$
-- $B=\begin{bmatrix}2&1&4\\1&4&5\\4&5&3\end{bmatrix}\to B^T=\begin{bmatrix}2&1&4\\1&4&5\\4&5&3\end{bmatrix}$
-Jika $A=A^T\to A=$ <mark style="background:#40a9ff">matriks simetris</mark>
-### Kesamaan Dua Matriks
-Matriks $A=$ matriks $B$ jika berordo sama dan elemen2 sepetak bernilai sama
-$A=\begin{bmatrix}\frac{1}{2} & 0\\5 & 9\end{bmatrix}$ sama dgn $B=\begin{bmatrix}\sin\left(\frac{\pi}{2}\right) & 0\\\sqrt{25} & 3^2\end{bmatrix}$
+| <center>Jenis</center> | <center>Penjelasan</center>                                                                        | <center>Contoh</center>                                                                                |
+| ---------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Matriks nol            | Semua elemen $=0$                                                                                  | ![[Pasted image 20261023011525.png\|91]]                                                               |
+| Matriks diagonal       | Elemen diagonal utama $\neq 0$, elemen lain $=0$                                                   | $\begin{pmatrix}a&0&0\\0&b&0\\0&0&c\end{pmatrix}$                                                      |
+| Matriks identitas      | - Elemen diagonal utama $=1$, elemen lain $=0$<br>- Misalkan matriks $A\to A\times I=A$            | $\begin{pmatrix}1&0&0\\0&1&0\\0&0&1\end{pmatrix}$                                                      |
+| Matriks segitiga       | - Atas (U): elemen di bawah diagonal utama $=0$<br>- Bawah (L): elemen di atas diagonal utama $=0$ | $\begin{pmatrix}a&b&c\\0&d&e\\0&0&f\end{pmatrix}$<br>$\begin{pmatrix}a&0&0\\b&c&0\\d&e&f\end{pmatrix}$ |
+### Kesamaan
+$>1$ matriks dikatakan sama jika:
+- Ordo sama
+- Elemen2 sepetak sama
 ## Operasi
-### Penjumlahan
-Jumlahkan elemen sepetak
-$\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}+\begin{bmatrix}5&2&3\\3&8&0\end{bmatrix}=\begin{bmatrix}-4&6&5\\6&7&0\end{bmatrix}$
-### Pengurangan
-Kurangkan elemen sepetak
-$\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}-\begin{bmatrix}5&2&3\\3&8&0\end{bmatrix}=\begin{bmatrix}6&2&-1\\0&-9&0\end{bmatrix}$
+### Penjumlahan dan Pengurangan
+Menjumlahkan atau mengurangkan elemen sepetak
+![[Pasted image 20261023012520.png|381]]
 ### Perkalian Skalar
-$A=\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}\to3A=3\begin{bmatrix}1&4&2\\3&-1&0\end{bmatrix}=\begin{bmatrix}3&12&6\\9&-3&0\end{bmatrix}$
-### Perkalian Matriks
-$A_{mxn}*B_{nxp}=(AB)_{mxp}$
-$A=\begin{bmatrix}1&2\\3&4\\1&0\end{bmatrix},B=\begin{bmatrix}-1&2&1\\3&2&4\end{bmatrix}$
-$\begin{aligned}\hookrightarrow C=AB&=\begin{bmatrix}(1*-1)+(2*3)&(1*2)+(2*2)&(1*1)+(2*4)\\(3*-1)+(4*3)&(3*2)+(4*2)&(3*1)+(4*4)\\(1*-1)+(0*3)&(1*2)+(0*2)&(1*1)+(0*4)\end{bmatrix}\\&=\begin{bmatrix}-1+6&2+4&1+8\\-3+12&6+8&3+16\\-1+0&2+0&1+0\end{bmatrix}\\&=\begin{bmatrix}5&6&9\\9&14&19\\-1&2&1\end{bmatrix}\end{aligned}$
+![[Pasted image 20261023012625.png|228]]
+### Perkalian
+| ![[Pasted image 20261023012728.png\|187]] | ![[Pasted image 20261023012746.png\|267]] |
+| ----------------------------------------- | ----------------------------------------- |
 ## Determinan
-Determinan matriks $A=|A|$
-### Nilai Determinan
+### Nilai
 #### Ordo 2x2
-$|A|=$ hasil kali diagonal utama $-$ hasil kali diagonal sekunder
-$A=\begin{bmatrix}3&5\\4&7\end{bmatrix},|A|=(3*7)-(4*5)=1$
+![[Pasted image 20261023013430.png|358]]
 #### Ordo 3x3
-Pake metode sarrus
-$\begin{aligned}B=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix},|B|&=\begin{bmatrix}1&0&2\\3&1&-2\\1&-1&2\end{bmatrix}\begin{matrix}1&0\\3&1\\1&-1\end{matrix}\\&=(1*1*2)+(0*-2*1)+(2*3*-1)-(2*1*1)-(1*-2*-1)-(0*3*2)\\&=2+0-6-2-2-0\\&=-8\end{aligned}$
-### Jenis
-- Jika $|A|=0$, matriks $A$ disebut <mark style="background:#d4b106">matriks singular</mark> (tk punya invers)
-- Jika $|A|\neq0$, matriks $A$ disebut <mark style="background:#d4b106">matriks nonsingular</mark>
+Pake sarrus:
+1. Tulis ulang
+	![[Pasted image 20261023013642.png|162]]
+2.  Kalikan elemen2 diagonal kanan, jumlahkan
+	![[Pasted image 20261023013934.png|181]]
+3. Kalikan elemen2 diagonal kiri, jumlahkan
+	![[Pasted image 20261023014102.png|181]]
+4. Hitung determinan
+	![[Pasted image 20261023014133.png|359]]
+### SPL
+![[Pasted image 20261023014305.png|165]]
+![[Pasted image 20261023014251.png|542]]
 ### Sifat
-- $|A^T|=|A|$
-- $|A^{-1}|=\frac{1}{|A|}$
-- $|AB|=|A|*|B|$
-- $|A^n|=|A|^n$
-- $|kA|=k^n*|A|$ dgn $n$ adalah ordo
-## Adjoin
-$A=\begin{bmatrix}1&4&3\\2&5&1\\3&4&2\end{bmatrix}$
-### Minor
-Menutup baris dan kolom, menjadikan sisanya sbg matriks baru, menghitung hasil kali diagonal utama $-$ hasil kali diagonal sekunder
-
-| $M_{11}=\begin{bmatrix}5&1\\4&2\end{bmatrix}=10-4=6$  | $M_{12}\begin{bmatrix}2&1\\3&2\end{bmatrix}=4-3=1$   | $M_{13}=\begin{bmatrix}2&5\\3&4\end{bmatrix}=8-15=-7$ |
-| ----------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- |
-| $M_{21}=\begin{bmatrix}4&3\\4&2\end{bmatrix}=8-12=-4$ | $M_{22}=\begin{bmatrix}1&3\\3&2\end{bmatrix}=2-9=-7$ | $M_{23}=\begin{bmatrix}1&4\\3&4\end{bmatrix}=4-12=-8$ |
-| $M_{31}=\begin{bmatrix}4&3\\5&1\end{bmatrix}4-15=-11$ | $M_{32}=\begin{bmatrix}1&3\\2&1\end{bmatrix}=1-6=-5$ | $M_{33}=\begin{bmatrix}1&4\\2&5\end{bmatrix}=5-8=-3$  |
-### Kofaktor
-$kof(A)=\begin{bmatrix}M_{11}&-M_{12}&M_{13}\\-M_{21}&M_{22}&-M_{23}\\M_{31}&-M_{32}&M_{33}\end{bmatrix}=\begin{bmatrix}6&-1&-7\\4&-7&8\\-11&5&-3\end{bmatrix}$
-### Adjoin
-$\begin{aligned}Adj(A)&=(kof(A))^T\\&=\begin{bmatrix}6&4&-11\\-1&-7&5\\-7&8&-3\end{bmatrix}\end{aligned}$
+| <center>Sifat</center>                                      | <center>Penjelasan Tambahan</center>                                                             |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| $\lvert A\rvert = \lvert A^T\rvert$                         |                                                                                                  |
+| $\lvert AB\rvert=\lvert A\rvert*\lvert B\rvert$             |                                                                                                  |
+| $\lvert kA\rvert=k^n\lvert A\rvert$                         | Dgn $n=$ ordo matriks $A$                                                                        |
+| $\lvert A^{-1}\rvert=\displaystyle\frac{1}{\lvert A\rvert}$ |                                                                                                  |
+| $\lvert A^n\rvert=\lvert A\rvert^n$                         |                                                                                                  |
+| $\lvert A\rvert=\lvert B\rvert$                             | Jika $A=\begin{pmatrix}c&d\\e&f\end{pmatrix}$ dan $B=\begin{pmatrix}c+ke&d+kf\\e&f\end{pmatrix}$ |
+| $\lvert A\rvert=-\lvert B\rvert$                            | Jika $A=\begin{pmatrix}c&d\\e&f\end{pmatrix}$ dan $B=\begin{pmatrix}e&f\\c&d\end{pmatrix}$       |
+| $k\lvert A\rvert=\lvert B\rvert$                            | Jika $A=\begin{pmatrix}c&d\\e&f\end{pmatrix}$ dan $B=\begin{pmatrix}kc&kd\\e&f\end{pmatrix}$     |
+| $\lvert A\rvert=0$                                          | Jika $A=\begin{pmatrix}c&d\\0&0\end{pmatrix}$ dan $A=\begin{pmatrix}c&0\\e&0\end{pmatrix}$       |
 ## Invers
-Matriks persegi $A$ dan $B$ dgn ordo sama dikatakan saling invers jika $AB=BA=$ [[#^matriks-identitas|matriks identitas]] $\to A=B^{-1},B=A^{-1}$
-$A^{-1}=\frac{1}{|A|}*Adj(A)$
+Jika $A^{-1}$ adalah invers matriks $A$, maka berlaku:
+![[Pasted image 20261023015718.png|161]]
+### Ordo 2x2
+![[Pasted image 20261023015820.png|232]]
+### Ordo 3x3
+![[Pasted image 20261023185147.png|276]]
+#### Minor
+| ![[Pasted image 20261023185349.png\|155]]<br>1. Menghilangkan elemen2 baris ke$-i$ dan kolom ke$-j$<br>- Misal $M_{13}\to$ menghilangkan elemen baris ke-1 dan kolom ke-3 | ![[Pasted image 20261023185436.png\|305]]<br>2. Cari determinan |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+#### Kofaktor
+![[Pasted image 20261023185843.png|233]]
 ### Sifat
-- $A^{-1}*A=A*A^{-1}=I$ dgn $I=$ [[#^matriks-identitas|matriks identitas]] 
+- $A^{-1}A=AA^{-1}=I$
 - $(A^{-1})^{-1}=A$
 - $(A^T)^{-1}=(A^{-1})^T$
-- $(AB)^{-1}=A^{-1}B^{-1}$
+- $(AB)^{-1}=B^{-1}A^{-1}$
+### Matriks Singular
+- Tk mempunyai invers
+- Matriks persegi merupakan singular kalo determinannya 0
 ## SPL
-$\begin{aligned}2x+3y &= 7\\4x-y &= 5\end{aligned}$
-1. Matriks koefisien $\to \begin{bmatrix}2&3\\4&-1\end{bmatrix}$
-2. Matriks variabel $\to \begin{bmatrix}x\\y\end{bmatrix}$
-3. Matriks konstanta $\to \begin{bmatrix}7\\5\end{bmatrix}$
-4. Gabung $\to \begin{bmatrix}2&3\\4&-1\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix} = \begin{bmatrix}7\\5\end{bmatrix}$
-### Aturan Cramer
-1. Ubah SPL jdi bentuk matriks
-2. Cari [[#^determinan|determinan]] koefisien $(D)$
-3. Cari $D_{x}$: $D$ dgn elemen <mark style="background:#d4b106">kolom pertama diganti</mark> elemen matriks konstanta
-4. Cari $D_{y}$: $D$ dgn elemen <mark style="background:#d4b106">kolom kedua diganti</mark> elemen matriks konstanta 
-5. Cari $x=\frac{D_{x}}{D}$ dan $y=\frac{D_{y}}{D}$
-#### Contoh Soal
-![[Pasted image 20260927174246.png|458]]
-$\begin{aligned}&\begin{bmatrix}1&2\\2&-3\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix}=\begin{bmatrix}5\\3\end{bmatrix} \\ \\ D&={\begin{vmatrix}1&2\\2&-3\end{vmatrix}}=(1*(-3))-(2*2)=-7 \\ D_{x}&=\begin{vmatrix}5&2\\3&-3\end{vmatrix}=(5*(-3))-(3*2)=-21 \\ D_{y}&=\begin{vmatrix}1&5\\2&3\end{vmatrix}=(1*3)-(2*5)=-7 \\ x &= \frac{D_{x}}{D} = \frac{-21}{-7} = \color{#9D7EF9}3\\y &= \frac{D_{y}}{D} = \frac{-7}{-7} = \color{#9D7EF9}1\end{aligned}$
+![[Pasted image 20261023190245.png|359]]
+### Mencari Matriks
+Dari persamaan
+![[Pasted image 20261023190343.png|119]]
+
+| <center>Matriks | <center>Penyelesaian</center>             |
+| --------------- | ----------------------------------------- |
+| $B$             | ![[Pasted image 20261023190414.png\|197]] |
+| $A$             | ![[Pasted image 20261023190434.png\|199]] |
