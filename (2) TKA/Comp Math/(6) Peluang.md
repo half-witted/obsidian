@@ -27,3 +27,4 @@ Himpunan bagian dr ruang sampel
 #### Kepastian
 ![[Pasted image 20261023204833.png|123]]
 #### Kemustahilan
+![[Pasted image 20261023211213.png|100]]
