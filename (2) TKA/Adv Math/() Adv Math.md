@@ -1,5 +1,6 @@
 ![[Pasted image 20260830170340.png]]
 - [[(1) Matriks]]
+- [[(1) Matriks lagi]]
 - [[(2) Polinomial]]
 - [[(3) Limit]]
 - [[(4) Limit (Lanjutan)]]

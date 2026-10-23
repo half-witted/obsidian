@@ -69,3 +69,9 @@ Jika $A^{-1}$ adalah invers matriks $A$, maka berlaku:
 ### Ordo 2x2
 ![[Pasted image 20261023015820.png|232]]
 ### Ordo 3x3
+![[Pasted image 20261023185147.png|276]]
+#### Minor
+| ![[Pasted image 20261023185349.png\|155]]<br>1. Menghilangkan elemen2 baris ke$-i$ dan kolom ke$-j$<br>- Misal $M_{13}\to$ menghilangkan elemen baris ke-1 dan kolom ke-3 | ![[Pasted image 20261023185436.png\|305]]<br>2. Cari determinan |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+#### Kofaktor
+![[Pasted image 20261023185843.png|233]]
