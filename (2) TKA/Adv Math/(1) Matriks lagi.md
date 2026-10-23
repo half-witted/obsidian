@@ -52,8 +52,20 @@ Pake sarrus:
 ![[Pasted image 20261023014305.png|165]]
 ![[Pasted image 20261023014251.png|542]]
 ### Sifat
-| <center>Sifat</center>                          | <center>Penjelasan Tambahan</center>                   |
-| ----------------------------------------------- | ------------------------------------------------------ |
-| $\lvert A\rvert = \lvert A^T\rvert$             |                                                        |
-| $\lvert AB\rvert=\lvert A\rvert*\lvert B\rvert$ |                                                        |
-| $\lvert A\rvert=\lvert B\rvert$                 | Jika $A=\begin{pmatrix}c&d\\e&f\end{pmatrix}$ dan $B=$ |
+| <center>Sifat</center>                                      | <center>Penjelasan Tambahan</center>                                                             |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| $\lvert A\rvert = \lvert A^T\rvert$                         |                                                                                                  |
+| $\lvert AB\rvert=\lvert A\rvert*\lvert B\rvert$             |                                                                                                  |
+| $\lvert kA\rvert=k^n\lvert A\rvert$                         | Dgn $n=$ ordo matriks $A$                                                                        |
+| $\lvert A^{-1}\rvert=\displaystyle\frac{1}{\lvert A\rvert}$ |                                                                                                  |
+| $\lvert A^n\rvert=\lvert A\rvert^n$                         |                                                                                                  |
+| $\lvert A\rvert=\lvert B\rvert$                             | Jika $A=\begin{pmatrix}c&d\\e&f\end{pmatrix}$ dan $B=\begin{pmatrix}c+ke&d+kf\\e&f\end{pmatrix}$ |
+| $\lvert A\rvert=-\lvert B\rvert$                            | Jika $A=\begin{pmatrix}c&d\\e&f\end{pmatrix}$ dan $B=\begin{pmatrix}e&f\\c&d\end{pmatrix}$       |
+| $k\lvert A\rvert=\lvert B\rvert$                            | Jika $A=\begin{pmatrix}c&d\\e&f\end{pmatrix}$ dan $B=\begin{pmatrix}kc&kd\\e&f\end{pmatrix}$     |
+| $\lvert A\rvert=0$                                          | Jika $A=\begin{pmatrix}c&d\\0&0\end{pmatrix}$ dan $A=\begin{pmatrix}c&0\\e&0\end{pmatrix}$       |
+## Invers
+Jika $A^{-1}$ adalah invers matriks $A$, maka berlaku:
+![[Pasted image 20261023015718.png|161]]
+### Ordo 2x2
+![[Pasted image 20261023015820.png|232]]
+### Ordo 3x3
