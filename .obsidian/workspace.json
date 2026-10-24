@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Comp Math/(7) Kombinatorika.md",
+                "file": "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(7) Kombinatorika"
+              "title": "(6) Lingkaran Analitika"
             }
           }
         ],
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Comp Math/(7) Kombinatorika.md",
+                "file": "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,10 +230,19 @@
   },
   "active": "6f246b271ea3b438",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024083510.png",
+    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
+    "(2) TKA/Comp Math/(2) Eksponen.md",
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Comp Math/(6) Peluang.md",
     "(2) TKA/Comp Math/(7) Kombinatorika.md",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084538.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084511.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084440.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084421.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084359.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024083510.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024083259.png",
     "(2) TKA/Comp Math/() Comp Math.md",
     "2026-10-24.md",
@@ -241,12 +250,6 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024082610.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024082414.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023211213.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204833.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204717.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204542.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204444.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204423.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203828.png",
     "(6) Quick Notes/Skip materi TKA.md",
     "(2) TKA/Adv Math/Untitled.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
@@ -261,12 +264,9 @@
     "(6) Quick Notes/() Quick Notes.md",
     "Untitled.md",
     "(1) SHS/11th/Comp Math/(1) Statistika.md",
-    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
-    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(1) SHS/12th/IE/(4) Warisan.md",
     "(2) TKA/Comp Math/() Exercises/() Exercises.md",
     "(1) SHS/12th/Physics/() Physics.md",
-    "(1) SHS/12th/IE/() IE.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",

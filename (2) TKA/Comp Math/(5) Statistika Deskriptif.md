@@ -34,12 +34,12 @@
 | Persentil               | $P_{i}=Tb+\displaystyle\frac{p\left( \frac{n}{100}-\sum f_{kumulatif\space sebelumnya} \right)}{f_{P}}$ | $P_{i}=$ persentil ke-i<br>$Tb=$ [[#^unsur\|tepi bawah]] kelas persentil<br>$p=$ [[#^unsur\|panjang]] kelas persentil<br>$n=$ jumlah seluruh frekuensi<br>$\sum f_{kumulatif\space sebelumnya}=$ frekuensi kumulatif sebelum frekuensi persentil<br>$f_{P}=$ frekuensi kelas persentil |
 ## Penyebaran Data
 ### Data Tunggal
-| <center>Ukuran</center> | <center>Rumus</center>                                  | <center>Keterangan</center>                                                                                |
-| ----------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Jangkauan               | $J=x_{terbesar}-x_{terkecil}$                           | $J=$ jangkauan                                                                                             |
-| Simpangan rata-rata     | $SR=\displaystyle\frac{\sum\|x_{i}-\bar{x}\|}{n}$       | $SR=$ simpangan rata-rata<br>$x_{i}=$ data ke-i<br>$\bar{x}=$ [[#Data Tunggal\|mean]] <br>$n=$ jumlah data |
-| Ragam/varian            | $\sigma^2=\displaystyle\frac{\sum(x_{i}=\bar{x})^2}{n}$ | $\sigma=$ ragam/varian                                                                                     |
-| Simpangan baku          | $SB=\sqrt{ \sigma }$                                    | $SB=$ simpangan baku                                                                                       |
+| <center>Ukuran</center> | <center>Rumus</center>                                     | <center>Keterangan</center>                                                                                |
+| ----------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Jangkauan               | $J=x_{terbesar}-x_{terkecil}$                              | $J=$ jangkauan                                                                                             |
+| Simpangan rata-rata     | $SR=\displaystyle\frac{\sum\lvert x_{i}-\bar{x}\rvert}{n}$ | $SR=$ simpangan rata-rata<br>$x_{i}=$ data ke-i<br>$\bar{x}=$ [[#Data Tunggal\|mean]] <br>$n=$ jumlah data |
+| Ragam/varian            | $\sigma^2=\displaystyle\frac{\sum(x_{i}-\bar{x})^2}{n}$    | $\sigma=$ ragam/varian                                                                                     |
+| Simpangan baku          | $SB=\sqrt{ \sigma }$                                       | $SB=$ simpangan baku                                                                                       |
 ### Data Kelompok
 | <center>Ukuran</center> | <center>Rumus</center> | <center>Keterangan</center> |
 | ----------------------- | ---------------------- | --------------------------- |
