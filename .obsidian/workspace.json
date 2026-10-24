@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d807041452cecf16",
+        "id": "cf02644b1eaefb0e",
         "type": "tabs",
         "children": [
           {
-            "id": "52c6dd4bbba60321",
+            "id": "e909298860608e4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) TKA/Comp Math/(6) Peluang.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(6) Peluang"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Comp Math/(6) Peluang.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,8 +206,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "52c6dd4bbba60321",
+  "active": "e909298860608e4e",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(6) Peluang.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023211213.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204833.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204717.png",
@@ -224,9 +219,7 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203659.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203528.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203453.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203224.png",
     "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
-    "(2) TKA/Comp Math/(6) Peluang.md",
     "(6) Quick Notes/Skip materi TKA.md",
     "(2) TKA/Adv Math/Untitled.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
