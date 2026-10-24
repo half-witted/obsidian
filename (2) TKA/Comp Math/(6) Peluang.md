@@ -25,6 +25,16 @@ Himpunan bagian dr ruang sampel
 - Kisaran nilai $\to$ ![[Pasted image 20261023204717.png|131]]
 ### Jenis
 #### Kepastian
-![[Pasted image 20261023204833.png|123]]
+![[Pasted image 20261023204833.png|113]]
 #### Kemustahilan
-![[Pasted image 20261023211213.png|100]]
+![[Pasted image 20261023211213.png|89]]
+#### Komplemen
+![[Pasted image 20261024082414.png|243]]
+#### Empiris
+| $P(A)=\displaystyle\frac{f(A)}{n}$ | $P(A)=$ peluang empiris kejadian $A$<br>$f(A)=$ frekuensi kejadian $A$ yg sdh terjadi<br>$n=$ banyak percobaan |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+![[Pasted image 20261024082610.png|336]]
+#### Frekuensi Harapan
+| $Fh(A)=n\times P(A)$ | $Fh(A)=$ frekuensi harapan kejadian $A$<br>$P(A)=$ peluang empiris $A$<br>$n=$ banyak percobaan |
+| -------------------- | ----------------------------------------------------------------------------------------------- |
+## Peluang Kejadian Majemuk

@@ -11,13 +11,34 @@
             "id": "e909298860608e4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Comp Math/(7) Kombinatorika.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(7) Kombinatorika"
+            }
+          },
+          {
+            "id": "6f246b271ea3b438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Comp Math/(7) Kombinatorika.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(7) Kombinatorika"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Comp Math/(7) Kombinatorika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,9 +228,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "e909298860608e4e",
+  "active": "6f246b271ea3b438",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/() Comp Math.md",
+    "(2) TKA/Comp Math/(7) Kombinatorika.md",
+    "2026-10-24.md",
     "(2) TKA/Comp Math/(6) Peluang.md",
+    "(2) TKA/Comp Math/Untitled",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024082610.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024082414.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023211213.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204833.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204717.png",
@@ -217,8 +245,6 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023204423.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203828.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203659.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203528.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261023203453.png",
     "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(6) Quick Notes/Skip materi TKA.md",
     "(2) TKA/Adv Math/Untitled.md",
@@ -234,7 +260,6 @@
     "(6) Quick Notes/() Quick Notes.md",
     "Untitled.md",
     "(1) SHS/11th/Comp Math/(1) Statistika.md",
-    "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(1) SHS/12th/IE/(4) Warisan.md",
@@ -242,7 +267,6 @@
     "(1) SHS/12th/Physics/() Physics.md",
     "(1) SHS/12th/IE/() IE.md",
     "(1) SHS/12th/Comp Math/() Exercises/() Exercises.md",
-    "(4) Tasks/() Tasks.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",
@@ -252,7 +276,6 @@
     "(4) Tasks/() Attachments/Inti Kalimat.pdf",
     "(4) Tasks/() Attachments/Argumentative Text.pdf",
     "(4) Tasks/() Attachments",
-    "(1) SHS/12th/Arabic/() Attachments",
     "Untitled.canvas",
     "(2) TKA/Bahasa Indonesia/Untitled.canvas",
     "SHS/11th/Bahasa Indonesia/Untitled.canvas",
