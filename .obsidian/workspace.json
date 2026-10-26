@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "(7) Kombinatorika"
             }
-          },
-          {
-            "id": "6f246b271ea3b438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "(1.1) Pola Bilangan"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
+                "file": "(2) TKA/Comp Math/(7) Kombinatorika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,17 +212,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "6f246b271ea3b438",
+  "active": "e909298860608e4e",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
+    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+    "(2) TKA/Comp Math/(2) Eksponen.md",
+    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
+    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(5) Lingkaran.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
-    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
-    "(2) TKA/Comp Math/(2) Eksponen.md",
-    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
-    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
-    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Comp Math/(6) Peluang.md",
     "(2) TKA/Comp Math/(7) Kombinatorika.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084538.png",
@@ -266,7 +251,6 @@
     "(6) Quick Notes/() Quick Notes.md",
     "Untitled.md",
     "(1) SHS/11th/Comp Math/(1) Statistika.md",
-    "(1) SHS/12th/IE/(4) Warisan.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",
