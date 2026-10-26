@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a16a517d7527ab7d",
+        "id": "06f997d876e80230",
         "type": "tabs",
         "children": [
           {
             "id": "b3369ead2f217121",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(6) Quick Notes/Skip materi TKA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Skip materi TKA"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(6) Quick Notes/Skip materi TKA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,23 +215,25 @@
   },
   "active": "b3369ead2f217121",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
+    "(2) TKA/Comp Math/(UNK) Kombinatorika.md",
+    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
+    "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+    "(2) TKA/Comp Math/(6) Peluang.md",
+    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
+    "(2) TKA/Comp Math/(2) Eksponen.md",
+    "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
+    "(6) Quick Notes/Skip materi TKA.md",
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/Books.md",
     "(6) Quick Notes/Intensif.md",
-    "(6) Quick Notes/Skip materi TKA.md",
-    "(2) TKA/Comp Math/(7) Kombinatorika.md",
-    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
-    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
-    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
-    "(2) TKA/Comp Math/(2) Eksponen.md",
-    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
-    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(5) Lingkaran.md",
-    "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
-    "(2) TKA/Comp Math/(6) Peluang.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084538.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084511.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084440.png",
@@ -243,8 +252,6 @@
     "(2) TKA/Adv Math/() Adv Math.md",
     "(6) Quick Notes/Infor.md",
     "(6) Quick Notes/() Quick Notes.md",
-    "Untitled.md",
-    "(1) SHS/11th/Comp Math/(1) Statistika.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",

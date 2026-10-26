@@ -7,4 +7,4 @@
 - [[(4) Garis dan Sudut]]
 - [[(5) Statistika Deskriptif]]
 - [[(6) Peluang]]
-- [[(7) Kombinatorika]]
+- [[(UNK) Kombinatorika]]
