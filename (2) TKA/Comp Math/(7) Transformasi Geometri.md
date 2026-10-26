@@ -1,0 +1,1 @@
+## Translasi (Pergeseran)
