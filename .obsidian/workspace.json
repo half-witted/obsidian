@@ -26,10 +26,15 @@
             "id": "bac901bd548e0617",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(1) Transformasi"
             }
           }
         ]
@@ -225,9 +230,9 @@
   },
   "active": "b3369ead2f217121",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/() Comp Math.md",
-    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
+    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
+    "(2) TKA/Comp Math/() Comp Math.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
