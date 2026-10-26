@@ -6,13 +6,14 @@ Syarat:
 - Jarak benda ke cermin $=$ jarak bayangan ke cermin
 - Benda, bayangan membentuk garis *perpendicular* dgn cermin
 
-| <center>Refleksi terhadap</center> | <center>Matriks</center>                                                 | <center>Keterangan</center> |
-| ---------------------------------- | ------------------------------------------------------------------------ | --------------------------- |
-| Titik O $(0,0)$                    | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}-x\\-y\end{pmatrix}$  |                             |
-| Sumbu $x$                          | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}x\\-y\end{pmatrix}$   |                             |
-| Sumbu $y$                          | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}-x\\y\end{pmatrix}$   |                             |
-| Garis $y=k$                        | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}x\\2k-y\end{pmatrix}$ |                             |
-| Garis $x=k$                        | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}2k-x\\y\end{pmatrix}$ |                             |
-| Garis $y=x$                        | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}y\\x\end{pmatrix}$    |                             |
-| Garis $y=-x$                       | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}-y\\-x\end{pmatrix}$  |                             |
-|                                    |                                                                          |                             |
+| <center>Refleksi terhadap</center> | <center>Matriks</center>                                                                                                                                                                 | <center>Keterangan</center>                                     |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Titik O $(0,0)$                    | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}-x\\-y\end{pmatrix}$                                                                                                                  |                                                                 |
+| Sumbu $x$                          | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}x\\-y\end{pmatrix}$                                                                                                                   |                                                                 |
+| Sumbu $y$                          | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}-x\\y\end{pmatrix}$                                                                                                                   |                                                                 |
+| Garis $y=k$                        | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}x\\2k-y\end{pmatrix}$                                                                                                                 |                                                                 |
+| Garis $x=k$                        | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}2k-x\\y\end{pmatrix}$                                                                                                                 |                                                                 |
+| Garis $y=x$                        | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}y\\x\end{pmatrix}$                                                                                                                    |                                                                 |
+| Garis $y=-x$                       | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}-y\\-x\end{pmatrix}$                                                                                                                  |                                                                 |
+| Garis $y=mx$                       | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}\cos 2\theta&\sin 2\theta\\sin 2\theta&-\cos 2\theta\end{pmatrix}\begin{pmatrix}x\\y\end{pmatrix}$                                    | $\theta=$ sudut antara garis $y=mx$ atau $y=mx+c$ dgn sumbu $x$ |
+| Garis $y=mx+c$                     | $\begin{pmatrix}x'\\y'\end{pmatrix}=\begin{pmatrix}\cos 2\theta&\sin 2\theta\\sin 2\theta&-\cos 2\theta\end{pmatrix}\begin{pmatrix}x\\y-c\end{pmatrix}+\begin{pmatrix}0\\c\end{pmatrix}$ |                                                                 |
