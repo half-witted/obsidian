@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
+                "file": "(2) TKA/Adv Math/(7) Polinomial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(7) Transformasi Geometri"
+              "title": "(7) Polinomial"
             }
           }
         ]
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -214,12 +215,13 @@
   },
   "active": "01776baa07a1b77f",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
+    "(2) TKA/Adv Math/(7) Polinomial.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
-    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
     "(2) TKA/Comp Math/(6) Peluang.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(2) TKA/Comp Math/() Comp Math.md",
@@ -249,7 +251,6 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024082610.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024082414.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261023211213.png",
-    "(2) TKA/Adv Math/Untitled.md",
     "(2) TKA/Adv Math/(2) Polinomial.md",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
