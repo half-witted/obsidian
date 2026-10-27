@@ -31,7 +31,9 @@ Syarat:
 - *Counter-clockwise* $(+)$
 - *Clockwise* $(-)$
 ## Dilatasi (Pembesaran)
-| <center>Pusat</center> | <center>Matriks</center>                                                                                    |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------- |
-| O $(0,0)$              | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x\\y\end{pmatrix}$                                      |
-| $(a,b)$                | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x-a\\y-b\end{pmatrix}+\begin{pmatrix}a\\b\end{pmatrix}$ |
+Tk merubah bentuk, <mark style="background:#40a9ff">hanya ukuran</mark>
+
+| <center>Pusat</center> | <center>Matriks</center>                                                                                    | <center>Keterangan</center> |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------- |
+| O $(0,0)$              | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x\\y\end{pmatrix}$                                      | $k=$ faktor skala<br>$k=$   |
+| $(a,b)$                | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x-a\\y-b\end{pmatrix}+\begin{pmatrix}a\\b\end{pmatrix}$ |                             |
