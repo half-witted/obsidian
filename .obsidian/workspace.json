@@ -11,10 +11,15 @@
             "id": "01776baa07a1b77f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(6) Lingkaran Analitika"
             }
           }
         ]
@@ -79,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -209,21 +215,21 @@
   },
   "active": "01776baa07a1b77f",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
+    "(2) TKA/Comp Math/(2) Eksponen.md",
+    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
+    "(2) TKA/Comp Math/(6) Peluang.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
     "(6) Quick Notes/Skip materi TKA.md",
-    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(UNK) Kombinatorika.md",
-    "(2) TKA/Comp Math/(6) Peluang.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
-    "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
-    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
-    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Another aftermovie.md",
