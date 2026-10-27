@@ -33,7 +33,7 @@ Syarat:
 ## Dilatasi (Pembesaran)
 Tk merubah bentuk, <mark style="background:#40a9ff">hanya ukuran</mark>
 
-| <center>Pusat</center> | <center>Matriks</center>                                                                                    | <center>Keterangan</center> |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------- |
-| O $(0,0)$              | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x\\y\end{pmatrix}$                                      | $k=$ faktor skala<br>$k=$   |
-| $(a,b)$                | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x-a\\y-b\end{pmatrix}+\begin{pmatrix}a\\b\end{pmatrix}$ |                             |
+| <center>Pusat</center> | <center>Matriks</center>                                                                                    | <center>Keterangan</center>                                                              |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| O $(0,0)$              | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x\\y\end{pmatrix}$                                      | $k=$ faktor skala<br>$k=\frac{bayangan\space ke\space pusat}{asal\space ke\space pusat}$ |
+| $(a,b)$                | $\begin{pmatrix}x'\\y'\end{pmatrix}=k\begin{pmatrix}x-a\\y-b\end{pmatrix}+\begin{pmatrix}a\\b\end{pmatrix}$ |                                                                                          |
