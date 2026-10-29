@@ -1,7 +1,7 @@
 ## Konsep
 ### Bentuk Umum
-| ![[Pasted image 20261029084437.png\|522]] | - Banyak akar persamaan derajat $n$  |
-| ----------------------------------------- | ------------------------------------ |
+| ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar persamaan derajat $n$ adalah $n$ buah<br>- Misalkan         |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 ## Operasi
 ### Penjumlahan dan Pengurangan
 1. Kelompokkan suku sejenis
