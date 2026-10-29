@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -215,6 +216,10 @@
   },
   "active": "df12fcaeb9d96db1",
   "lastOpenFiles": [
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111836.png",
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111620.png",
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111615.png",
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111611.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111545.png",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Adv Math/(7) Polinomial.md",
@@ -224,7 +229,6 @@
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029084437.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029083821.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261027133715.png",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261027133635.png",
     "Untitled.md",
     "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
@@ -248,9 +252,6 @@
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(5) Lingkaran.md",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084538.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084511.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024084440.png",
     "(2) TKA/Comp Math/Untitled",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",

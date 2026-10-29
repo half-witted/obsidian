@@ -30,10 +30,11 @@ Kali pelangi
 ##### Bersusun
 ![[Pasted image 20261027133715.png|336]]
 ##### Horner
-| <center>Pembagi</center> | <center>Penyelesaian</center>             |
-| ------------------------ | ----------------------------------------- |
-| $(x-h)$                  | Tinggal horner                            |
-| $(ax+b)$                 | ![[Pasted image 20261029111545.png\|276]] |
+| <center>Pembagi</center> | <center>Penyelesaian</center>             |                                           |
+| ------------------------ | ----------------------------------------- | ----------------------------------------- |
+| $(x-h)$                  | Tinggal horner                            |                                           |
+| $(ax+b)$                 | ![[Pasted image 20261029111545.png\|276]] | ![[Pasted image 20261029111620.png\|222]] |
+| $(x-a)(x-b)$             | Horner 2 kali                             | ![[Pasted image 20261029111836.png\|371]] |
 ## Teorema
 ### Teorema Sisa
 1. Jika $P(x)$ dibagi $(x-h)$, sisa pembagian adalah $P(h)$
