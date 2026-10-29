@@ -38,9 +38,11 @@ Kali pelangi
 ## Teorema
 ### Teorema Sisa
 Tk habis terbagi
-1. Jika $P(x)$ dibagi $(x-h)$, sisa pembagian adalah $P(h)$
-2. Jika $P(x)$ dibagi $(ax-b)$, sisa pembagian adalah $P\displaystyle\left( \frac{b}{a} \right)$
-3. Jika $P(x)$ dibagi $(x-a)(x-b)$, sisa pembagian adalah $S(x)=mx+n$
+1. $P(x)$ dibagi $(x-h)\to S(x)=P(h)$
+2. $P(x)$ dibagi $(ax-b)\to S(x)=P\displaystyle\left( \frac{b}{a} \right)$
+3. $P(x)$ dibagi $(x-a)(x-b)\to S(x)=mx+n$
+	- $P(a)=ma+n$
+	- $P(b)=mb+n$
 ### Teorema Faktor
 Habis terbagi
 $(x-h)$ faktor dr $P(x)$ kalo $P(h)=0$
