@@ -33,8 +33,8 @@ Habis terbagi
 $(x-h)$ faktor dr $P(x)$ kalo $P(h)=0$
 ## Persamaan
 ### Bentuk Umum
-| ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar derajat $n$ adalah $n$ buah<br>- Misal $p$ adalah akarnya, kemungkinan nilainya adalah hasil bagi dr faktor $a_{0}$ dgn $a_{n}$ |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar derajat $n$ adalah $n$ buah<br>- Misal $p$ adalah akarnya, kemungkinan nilainya $\displaystyle\frac{faktor\space dari\space a_{0}}{faktor\space dari\space a_{n}}$ |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ### Akar Persamaan
 #### Menentukan Akar
 | ![[Pasted image 20261029090259.png\|298]] | ![[Pasted image 20261029090346.png\|329]] | ![[Pasted image 20261029090411.png\|266]] |
