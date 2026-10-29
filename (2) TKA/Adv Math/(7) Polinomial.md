@@ -3,13 +3,16 @@
 | ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar derajat $n$ adalah $n$ buah<br>- Misal $p$ adalah akarnya, kemungkinan nilainya adalah hasil bagi dr faktor $a_{0}$ dgn $a_{n}$ |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 ### Akar Persamaan
-#### Menentukan Nilai
+#### Menentukan Akar
 | ![[Pasted image 20261029090259.png\|298]] | ![[Pasted image 20261029090346.png\|329]] | ![[Pasted image 20261029090411.png\|266]] |
 | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
 #### Rumus
-| <center>Rumus</center> | <center>Perumusan</center>                               |
-| ---------------------- | -------------------------------------------------------- |
-| Jumlah akar2           | $x_{1}+x_{2}+\dots+x_{n}=\displaystyle-\frac{a_{n-1}}{}$ |
+| <center>Rumus</center>        | <center>Perumusan</center>                                                                       |
+| ----------------------------- | ------------------------------------------------------------------------------------------------ |
+| Jumlah akar2                  | $x_{1}+x_{2}+\dots+x_{n}=\displaystyle-\frac{a_{n-1}}{a_{n}}$                                    |
+| Jumlah hasil kali tiap 2 akar | $x_{1}x_{2}+x_{1}x_{3}+x_{2}x_{3}+\dots+x_{n-1}x_{n}=\displaystyle \frac{a_{n-2}}{a_{n}}$        |
+| Jumlah hasil kali tiap 3 akar | $x_{1}x_{2}x_{3}+x_{1}x_{2}x_{4}+\dots+x_{n-2}x_{n-1}x_{n}=\displaystyle -\frac{a_{n-3}}{a_{n}}$ |
+| Jumlah hasil kali semua akar  | $x_{1}x_{2}x_{3}\dots x_{n}=(-1)^2\times \displaystyle \frac{a_{0}}{a_{n}}$                      |
 ## Operasi
 ### Penjumlahan dan Pengurangan
 1. Kelompokkan suku sejenis
