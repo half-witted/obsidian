@@ -37,8 +37,10 @@ Kali pelangi
 | $(x-a)(x-b)$             | Horner 2 kali                             | ![[Pasted image 20261029111836.png\|371]] |
 ## Teorema
 ### Teorema Sisa
+Tk habis terbagi
 1. Jika $P(x)$ dibagi $(x-h)$, sisa pembagian adalah $P(h)$
 2. Jika $P(x)$ dibagi $(ax-b)$, sisa pembagian adalah $P\displaystyle\left( \frac{b}{a} \right)$
 3. Jika $P(x)$ dibagi $(x-a)(x-b)$, sisa pembagian adalah $S(x)=mx+n$
 ### Teorema Faktor
+Habis terbagi
 $(x-h)$ faktor dr $P(x)$ kalo $P(h)=0$
