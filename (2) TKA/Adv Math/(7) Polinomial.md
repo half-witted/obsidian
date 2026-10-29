@@ -1,7 +1,15 @@
 ## Konsep
 ### Bentuk Umum
-| ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar persamaan derajat $n$ adalah $n$ buah<br>- Misalkan         |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar derajat $n$ adalah $n$ buah<br>- Misal $p$ adalah akarnya, kemungkinan nilainya adalah hasil bagi dr faktor $a_{0}$ dgn $a_{n}$ |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+### Akar Persamaan
+#### Menentukan Nilai
+| ![[Pasted image 20261029090259.png\|298]] | ![[Pasted image 20261029090346.png\|329]] | ![[Pasted image 20261029090411.png\|266]] |
+| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+#### Rumus
+| <center>Rumus</center> | <center>Perumusan</center>                               |
+| ---------------------- | -------------------------------------------------------- |
+| Jumlah akar2           | $x_{1}+x_{2}+\dots+x_{n}=\displaystyle-\frac{a_{n-1}}{}$ |
 ## Operasi
 ### Penjumlahan dan Pengurangan
 1. Kelompokkan suku sejenis
