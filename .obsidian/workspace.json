@@ -11,10 +11,15 @@
             "id": "df12fcaeb9d96db1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Adv Math/(7) Polinomial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(7) Polinomial"
             }
           }
         ]
@@ -168,6 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Adv Math/(7) Polinomial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +216,8 @@
   },
   "active": "df12fcaeb9d96db1",
   "lastOpenFiles": [
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029084437.png",
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029083821.png",
     "(2) TKA/Adv Math/(7) Polinomial.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261027133715.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261027133635.png",
@@ -245,7 +253,6 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024083510.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261024083259.png",
     "(2) TKA/Comp Math/Untitled",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261024082610.png",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout",
