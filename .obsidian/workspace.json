@@ -11,10 +11,15 @@
             "id": "f03883f61fee5282",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Adv Math/(7) Polinomial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(7) Polinomial"
             }
           }
         ]
@@ -79,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -168,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "(2) TKA/Adv Math/(7) Polinomial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +215,9 @@
   },
   "active": "f03883f61fee5282",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
+    "(2) TKA/Comp Math/(6) Peluang.md",
+    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
     "(2) TKA/Adv Math/(7) Polinomial.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111836.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111620.png",
@@ -222,12 +231,10 @@
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029084437.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029083821.png",
     "Untitled.md",
-    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
-    "(2) TKA/Comp Math/(6) Peluang.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
@@ -236,7 +243,6 @@
     "(6) Quick Notes/Skip materi TKA.md",
     "(2) TKA/Comp Math/(UNK) Kombinatorika.md",
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
-    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(6) Quick Notes/BINDO.md",
     "(6) Quick Notes/Another aftermovie.md",
     "(6) Quick Notes/Books.md",
