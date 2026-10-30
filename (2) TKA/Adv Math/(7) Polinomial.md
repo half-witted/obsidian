@@ -36,10 +36,10 @@ $(x-h)$ faktor dr $P(x)$ kalo $P(h)=0$
 | ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar derajat $n$ adalah $n$ buah<br>- Misal $p$ adalah akarnya, kemungkinan nilainya $\displaystyle\frac{faktor\space dari\space a_{0}}{faktor\space dari\space a_{n}}$ |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ### Akar Persamaan
-#### Menentukan Akar
 | ![[Pasted image 20261029090259.png\|298]] | ![[Pasted image 20261029090346.png\|303]] | ![[Pasted image 20261029090411.png\|295]] |
 | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-#### Rumus
+### Jumlah dan Hasil Akar
+
 | <center>Rumus</center>        | <center>Perumusan</center>                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------------------ |
 | Jumlah akar2                  | $x_{1}+x_{2}+\dots+x_{n}=\displaystyle-\frac{a_{n-1}}{a_{n}}$                                    |
