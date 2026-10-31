@@ -50,3 +50,11 @@
 | ----------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Tabung, kerucut               | $\displaystyle\frac{V_{2}}{V_{1}}=\frac{r_{2}^2t_{2}}{r_{1}^2t_{1}}$ | $V_{1,2}=$ volume awal, baru<br>$r_{1,2}=$ jari2 awal, baru<br>$t_{1,2}=$ tinggi awal, baru |
 | Bola                          | $\displaystyle\frac{V_{2}}{V_{1}}=\frac{r_{2}^3}{r_{1}^3}$           |                                                                                             |
+## Sisi Datar
+### Kubus
+#### Diagonal
+| <center>jenis</center>  | <center>Rumus</center> | <center>Keterangan</center>                        | <center>Contoh</center>                   |
+| ----------------------- | ---------------------- | -------------------------------------------------- | ----------------------------------------- |
+| Panjang diagonal bidang | $d=s\sqrt{ 2 }$        | $d=$ panjang diagonal bidang<br>$s=$ panjang rusuk | ![[Pasted image 20261031110932.png\|125]] |
+| Panjang diagonal ruang  | $D=s\sqrt{ 3 }$        | $D=$ panjang diagonal ruang                        | ![[Pasted image 20261031111342.png\|125]] |
+| Luas bidang diagonal    | $L=s^2\sqrt{ 2 }$      | $L=$ luas bidang diagonal                          | ![[Pasted image 20261031111534.png\|126]] |
