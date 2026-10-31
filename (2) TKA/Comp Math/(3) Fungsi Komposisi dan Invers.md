@@ -19,6 +19,7 @@ $(f\circ g\circ h)(x)=f(g(h(x)))$
 ## Fungsi Invers
 - Fungsi <mark style="background:#40a9ff">kebalikan</mark> dr <mark style="background:#40a9ff">suatu fungsi</mark>
 - $f(x)=y$ jika dan hanya jika $f^{-1}(y)=x$
+- $(f\circ g)^{-1}(x)=g^{-1}(f^{-1}(x))$
 ### Konsep
 #### Syarat
 Harus fungsi bijektif atau fungsi korespondensi satu2.
