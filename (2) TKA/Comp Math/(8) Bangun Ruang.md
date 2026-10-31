@@ -110,3 +110,12 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 | Luas permukaan         | $L_{p}=2L_{a}+K_{a}\times t$ | $L_{p}=$ luas permukaan<br>$L_{a}=$ luas atas/alas<br>$K_{a}=$ keliling atas/alas<br>$t=$ tinggi |
 | Volume                 | $V=L_{a}\times t$            | $V=$ volume                                                                                      |
 ### Limas
+#### Jenis
+1. Berdasarkan alas
+	- Limas segitiga
+	- Limas segi empat
+	- etc
+2. Berdasarkan rusuk
+	- Limas tegak
+	- Limas miring
+#### Unsur
