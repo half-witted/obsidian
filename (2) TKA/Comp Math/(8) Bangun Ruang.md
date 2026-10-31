@@ -52,6 +52,10 @@
 | Bola                          | $\displaystyle\frac{V_{2}}{V_{1}}=\frac{r_{2}^3}{r_{1}^3}$           |                                                                                             |
 ## Sisi Datar
 ### Kubus
+#### Ciri-Ciri
+- Punya 6 sisi persegi sama luas
+- Punya 12 rusuk sama panjang
+- Punya 8 titik sudut
 #### Diagonal
 Teorema <mark style="background:#9254de">pythagoras</mark>
 
@@ -61,11 +65,16 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 | Panjang diagonal ruang  | $D=s\sqrt{ 3 }$<br>$D=\sqrt{ d^2+s^2 }$ | $D=$ diagonal ruang                | ![[Pasted image 20261031111342.png\|125]] |
 | Luas bidang diagonal    | $L=s^2\sqrt{ 2 }$<br>$L=d\times s$      | $L=$ bidang diagonal               | ![[Pasted image 20261031111534.png\|126]] |
 #### Luas Permukaan dan Volume
-| <center>Rumus</center> | <center>Perumusan</center> | <center>Keterangan</center>          |
-| ---------------------- | -------------------------- | ------------------------------------ |
-| Luas permukaan         | $L_{p}=6s^2$               | $L_{p}=$ luas permukaan<br>$s=$ sisi |
-| Volume                 | $V=s^3$                    | $V=$ volume                          |
+| <center>Rumus</center> | <center>Perumusan</center> | <center>Keterangan</center>           |
+| ---------------------- | -------------------------- | ------------------------------------- |
+| Luas permukaan         | $L_{p}=6s^2$               | $L_{p}=$ luas permukaan<br>$s=$ rusuk |
+| Volume                 | $V=s^3$                    | $V=$ volume                           |
 ### Balok
+#### Ciri-Ciri
+- Punya 6 sisi persegi panjang
+- Tiap sisi yg berhadapan sama luas
+- Punya 12 rusuk
+- Punya 8 titik sudut
 #### Diagonal
 Teorema <mark style="background:#9254de">pythagoras</mark>
 
@@ -100,3 +109,4 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 | ---------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------ |
 | Luas permukaan         | $L_{p}=2L_{a}+K_{a}\times t$ | $L_{p}=$ luas permukaan<br>$L_{a}=$ luas atas/alas<br>$K_{a}=$ keliling atas/alas<br>$t=$ tinggi |
 | Volume                 | $V=L_{a}\times t$            | $V=$ volume                                                                                      |
+### Limas
