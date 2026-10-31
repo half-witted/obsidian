@@ -55,20 +55,30 @@
 #### Diagonal
 Teorema <mark style="background:#9254de">pythagoras</mark>
 
-| <center>jenis</center>  | <center>Rumus</center>                  | <center>Keterangan</center>                        | <center>Contoh</center>                   |
-| ----------------------- | --------------------------------------- | -------------------------------------------------- | ----------------------------------------- |
-| Panjang diagonal bidang | $d=s\sqrt{ 2 }$                         | $d=$ panjang diagonal bidang<br>$s=$ panjang rusuk | ![[Pasted image 20261031110932.png\|125]] |
-| Panjang diagonal ruang  | $D=s\sqrt{ 3 }$<br>$D=\sqrt{ d^2+s^2 }$ | $D=$ panjang diagonal ruang                        | ![[Pasted image 20261031111342.png\|125]] |
-| Luas bidang diagonal    | $L=s^2\sqrt{ 2 }$<br>$L=d\times s$      | $L=$ luas bidang diagonal                          | ![[Pasted image 20261031111534.png\|126]] |
+| <center>jenis</center>  | <center>Rumus</center>                  | <center>Keterangan</center>        | <center>Contoh</center>                   |
+| ----------------------- | --------------------------------------- | ---------------------------------- | ----------------------------------------- |
+| Panjang diagonal bidang | $d=s\sqrt{ 2 }$<br>$d=\sqrt{ s^2+s^2 }$ | $d=$ diagonal bidang<br>$s=$ rusuk | ![[Pasted image 20261031110932.png\|125]] |
+| Panjang diagonal ruang  | $D=s\sqrt{ 3 }$<br>$D=\sqrt{ d^2+s^2 }$ | $D=$ diagonal ruang                | ![[Pasted image 20261031111342.png\|125]] |
+| Luas bidang diagonal    | $L=s^2\sqrt{ 2 }$<br>$L=d\times s$      | $L=$ bidang diagonal               | ![[Pasted image 20261031111534.png\|126]] |
 #### Luas Permukaan dan Volume
-| <center>Rumus</center> | <center>Perumusan</center> | <center>Keterangan</center> |
-| ---------------------- | -------------------------- | --------------------------- |
-| Luas permukaan         | $6s^2$                     | $s=$ sisi                   |
-| Volume                 | $s^3$                      |                             |
+| <center>Rumus</center> | <center>Perumusan</center> | <center>Keterangan</center>          |
+| ---------------------- | -------------------------- | ------------------------------------ |
+| Luas permukaan         | $L_{p}=6s^2$               | $L_{p}=$ luas permukaan<br>$s=$ sisi |
+| Volume                 | $V=s^3$                    | $V=$ volume                          |
 ### Balok
 #### Diagonal
 Teorema <mark style="background:#9254de">pythagoras</mark>
 
-| <center>Jenis</center> | <center>Rumus</center> | <center>Keterangan</center> | <center>Contoh</center> |
-| ---------------------- | ---------------------- | --------------------------- | ----------------------- |
-| Diagonal bidang        |                        |                             |                         |
+| <center>Jenis</center> | <center>Rumus</center>                                                                                                                       | <center>Keterangan</center>               | <center>Contoh</center>                   |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| Diagonal bidang        | $AF=\sqrt{ p^2+t^2 }$<br>$AC=\sqrt{ p^2+l^2 }$<br>$BG=\sqrt{ l^2+t^2 }$                                                                      | $p=$ panjang<br>$t=$ tinggi<br>$l=$ lebar | ![[Pasted image 20261031112632.png\|204]] |
+| Diagonal ruang         | $D=\sqrt{ p^2+l^2+t^2 }$                                                                                                                     | $D=$ diagonal ruang                       | ![[Pasted image 20261031112830.png\|205]] |
+| Bidang diagonal        | $L_{ACGE}=L_{BDHF}=\sqrt{ p^2+l^2 }\times t$<br>$L_{CDEF}=L_{ABGH}=\sqrt{ l^2+t^2 }\times p$<br>$L_{BCHE}=L_{ADGF}=\sqrt{ p^2+t^2 }\times l$ | $L=$ bidang diagonal                      | ![[Pasted image 20261031113141.png\|204]] |
+#### Luas Permukaan dan Volume
+| <center>Rumus</center> | <center>Perumusan</center> | <center>Keterangan</center>                                          |
+| ---------------------- | -------------------------- | -------------------------------------------------------------------- |
+| Luas permukaan         | $L_{p}=2(pt+pl+lt)$        | $L_{p}=$ luas permukaan<br>$p=$ panjang<br>$t=$ tinggi<br>$l=$ lebar |
+| Volume                 | $V=plt$                    | $V=$ volume                                                          |
+![[Pasted image 20261031113419.png|357]]
+### Prisma
+#### Jenis
