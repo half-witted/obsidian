@@ -11,10 +11,15 @@
             "id": "310f2c8b9d85b8ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2) TKA/Comp Math/(8.1) Bangun Ruang Sisi Lengkung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(8.1) Bangun Ruang Sisi Lengkung"
             }
           }
         ]
@@ -209,6 +214,11 @@
   },
   "active": "310f2c8b9d85b8ce",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261031102318.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261031102256.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261031102202.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261031102055.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261031102017.png",
     "(2) TKA/Comp Math/(8.1) Bangun Ruang Sisi Lengkung.md",
     "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
@@ -227,10 +237,6 @@
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111611.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029111545.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261029090411.png",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029090346.png",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029090259.png",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029084437.png",
-    "(2) TKA/Adv Math/() Attachments/Pasted image 20261029083821.png",
     "Untitled.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
@@ -244,7 +250,6 @@
     "(6) Quick Notes/Books.md",
     "(6) Quick Notes/Intensif.md",
     "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
-    "(2) TKA/Adv Math/(5) Lingkaran.md",
     "(2) TKA/Comp Math/Untitled",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
