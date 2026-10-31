@@ -99,11 +99,12 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 	- Prisma tegak
 	- Prisma miring
 #### Unsur
-| <center>Unsur</center> | <center>Rumus</center> | <center>Keterangan</center> |
-| ---------------------- | ---------------------- | --------------------------- |
-| Banyak sisi            | $n+2$                  | $n=$ banyak segi            |
-| Banyak rusuk           | $3n$                   |                             |
-| Banyak titik sudut     | $2n$                   |                             |
+| <center>Unsur</center> | <center>Rumus</center> | <center>Keterangan</center>                                        |
+| ---------------------- | ---------------------- | ------------------------------------------------------------------ |
+| Banyak sisi            | $n+2$                  | $n=$ banyak segi                                                   |
+| Banyak rusuk           | $3n$                   |                                                                    |
+| Banyak titik sudut     | $2n$                   |                                                                    |
+| Panjang kerangka       | $p_{k}=2K_{a}+nt$      | $p_{k}=$ panjang kerangka<br>$K_{a}=$ keliling alas<br>$t=$ tinggi |
 #### Luas Permukaan dan Volume
 | <center>Rumus</center> | <center>Perumusan</center>   | <center>Keterangan</center>                                                                      |
 | ---------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -119,3 +120,14 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 	- Limas tegak
 	- Limas miring
 #### Unsur
+| <center>Unsur</center> | <center>Rumus</center>    | <center>Keterangan</center>                                                     |
+| ---------------------- | ------------------------- | ------------------------------------------------------------------------------- |
+| Banyak sisi            | $n+1$                     | $n=$ banyak segi                                                                |
+| Banyak rusuk           | $2n$                      |                                                                                 |
+| Banyak titik sudut     | $n+1$                     |                                                                                 |
+| Panjang kerangka       | $p_{k}=K_{a}+(n\times s)$ | $p_{k}=$ panjang kerangka<br>$K_{a}=$ keliling alas<br>$s=$ panjang rusuk tegak |
+#### Luas Permukaan dan Volume
+| <center>Rumus</center> | <center>Perumusan</center>                | <center>Keterangan</center>                                                                    |
+| ---------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Luas permukaan         | $L_{p}=L_{a}+(n\times L_{st})$            | $L_{p}=$ luas permukaan<br>$L_{a}=$ luas alas<br>$n=$ banyak segi<br>$L_{st}=$ luas sisi tegak |
+| Volume                 | $V=\displaystyle\frac{1}{3}L_{a}\times t$ | $V=$ volume<br>$t=$ tinggi                                                                     |
