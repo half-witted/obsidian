@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "efe3bfa48ea37935",
+        "id": "1a571b36527e2b86",
         "type": "tabs",
         "children": [
           {
-            "id": "7de98e75ad06227a",
+            "id": "310f2c8b9d85b8ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) TKA/Comp Math/(8.1) Bangun Ruang Sisi Lengkung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(8.1) Bangun Ruang Sisi Lengkung"
+              "title": "New tab"
             }
           }
         ]
@@ -212,10 +207,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "7de98e75ad06227a",
+  "active": "310f2c8b9d85b8ce",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Comp Math/(8.1) Bangun Ruang Sisi Lengkung.md",
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
