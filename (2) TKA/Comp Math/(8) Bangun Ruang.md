@@ -89,4 +89,14 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 2. Berdasarkan rusuk
 	- Prisma tegak
 	- Prisma miring
-
+#### Unsur
+| <center>Unsur</center> | <center>Rumus</center> | <center>Keterangan</center> |
+| ---------------------- | ---------------------- | --------------------------- |
+| Banyak sisi            | $n+2$                  | $n=$ banyak segi            |
+| Banyak rusuk           | $3n$                   |                             |
+| Banyak titik sudut     | $2n$                   |                             |
+#### Luas Permukaan dan Volume
+| <center>Rumus</center> | <center>Perumusan</center>   | <center>Keterangan</center>                                                                      |
+| ---------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------ |
+| Luas permukaan         | $L_{p}=2L_{a}+K_{a}\times t$ | $L_{p}=$ luas permukaan<br>$L_{a}=$ luas atas/alas<br>$K_{a}=$ keliling atas/alas<br>$t=$ tinggi |
+| Volume                 |                              |                                                                                                  |
