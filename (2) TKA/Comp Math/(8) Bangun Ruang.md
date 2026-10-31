@@ -99,4 +99,4 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 | <center>Rumus</center> | <center>Perumusan</center>   | <center>Keterangan</center>                                                                      |
 | ---------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------ |
 | Luas permukaan         | $L_{p}=2L_{a}+K_{a}\times t$ | $L_{p}=$ luas permukaan<br>$L_{a}=$ luas atas/alas<br>$K_{a}=$ keliling atas/alas<br>$t=$ tinggi |
-| Volume                 |                              |                                                                                                  |
+| Volume                 | $V=L_{a}\times t$            | $V=$ volume                                                                                      |
