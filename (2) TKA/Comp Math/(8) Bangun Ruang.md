@@ -13,7 +13,7 @@
 | Luas atas/alas              | $L_{a}=\pi r^2$             | $L_{a}=$ luas atas/alas                  |
 | Luas permukaan (tertutup)   | $L_{p}=2\times L_{a}+L_{s}$ | $L_{p}=$ luas permukaan                  |
 | Luas permukaan (tanpa atas) | $L_{p}=L_{a}+L_{s}$         |                                          |
-![[Pasted image 20261031103558.png|167]]
+![[Pasted image 20261031103558.png|167]]49/
 ### Kerucut
 #### Unsur
 |        | <center>1</center>                       | <center>2</center>                        | <center>3</center>                       | <center>4</center>                       | <center>5</center>                       | <center>6</center>                       |
