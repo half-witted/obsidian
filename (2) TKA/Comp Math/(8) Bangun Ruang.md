@@ -82,3 +82,11 @@ Teorema <mark style="background:#9254de">pythagoras</mark>
 ![[Pasted image 20261031113419.png|357]]
 ### Prisma
 #### Jenis
+1. Berdasarkan alas
+	- Prisma segitiga
+	- Prisma segi empat
+	- etc
+2. Berdasarkan rusuk
+	- Prisma tegak
+	- Prisma miring
+
