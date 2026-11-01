@@ -46,7 +46,8 @@ $P(A^C)=$ peluang semua kejadian yg bukan $A$
 | ----------------------- | --------------------------------------------------------------------------------------------------- |
 ## Peluang Kejadian
 ### Gabungan
-Dpt terjadi bersamaan
+- Dpt terjadi bersamaan
+- Ditandai dgn <mark style="background:#d4b106">"atau"</mark>
 
 | <center>Kejadian</center> | <center>Rumus</center>                                                                                                                               |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,5 +56,13 @@ Dpt terjadi bersamaan
 ![[Pasted image 20261101164542.png|224]]
 ### Saling Lepas
 Himpunan saling asing, tk dpt terjadi bersamaan
-$P(A\cup B)=P(A)+P(B)$
+
+| $P(A\cup B)=P(A)+P(B)$ | $P(A\cup B)=\displaystyle\frac{n(A\cup B)}{n(S)}$ |
+| ---------------------- | ------------------------------------------------- |
 ![[Pasted image 20261101174806.png|224]]
+### Saling Bebas
+- Kejadian $A$ dan $B$ <mark style="background:#d4b106">saling bebas</mark> jika kejadian $A$ <mark style="background:#d4b106">tk memengaruhi terjadi tidaknya</mark> kejadian $B$, sebaliknya
+- Ditandai dgn <mark style="background:#d4b106">"dan"</mark>
+
+| $P(A\cap B)=P(A)\times P(B)$ | $P(A\cap B)=\displaystyle\frac{n(A\cap B)}{n(S)}$ |
+| ---------------------------- | ------------------------------------------------- |
