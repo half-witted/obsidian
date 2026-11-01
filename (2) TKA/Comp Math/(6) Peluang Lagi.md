@@ -11,8 +11,9 @@
 | Beberapa objek beda    | $n(S)=n(S_{1})\times n(S_{2})\times\dots \times n(S_{x})$ | $n(S_{x})=$ jumlah sampel objek ke$-n$                                       |
 ### Kejadian
 Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
-![[Pasted image 20261101133012.png|183]]
-#### Tunggal
-1 kejadian
-#### Majemuk
- >1 kejadian dan biasanya ditandai "dan", "atau"
+![[Pasted image 20261101133012.png|171]]
+
+| <center>Jenis</center> | <center>Penjelasan</center>                         | <center>Contoh</center>                                                                                                         | <center>Visualisasi</center>                                                                 |
+| ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Tunggal                | 1 kejadian                                          | Kejadian muncul mata dadu ganjil                                                                                                | ![[Pasted image 20261101133520.png\|168]]                                                    |
+| Majemuk                | - > 1 kejadian<br>- Biasanya ditandai "dan", "atau" | 1. Kejadian muncul mata dadu ganjil <u>dan</u> $(\cap)$ prima<br>2. Kejadian muncul mata dadu ganjil <u>atau</u> $(\cup)$ prima | 1. ![[Pasted image 20261101133733.png\|166]]<br>2. ![[Pasted image 20261101133956.png\|164]] |
