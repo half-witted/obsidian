@@ -64,5 +64,5 @@ Himpunan saling asing, tk dpt terjadi bersamaan
 - Kejadian $A$ dan $B$ <mark style="background:#d4b106">saling bebas</mark> jika kejadian $A$ <mark style="background:#d4b106">tk memengaruhi terjadi tidaknya</mark> kejadian $B$, sebaliknya
 - Ditandai dgn <mark style="background:#d4b106">"dan"</mark>
 
-| $P(A\cap B)=P(A)\times P(B)$ | $P(A\cap B)=\displaystyle\frac{n(A\cap B)}{n(S)}$ |
-| ---------------------------- | ------------------------------------------------- |
+| $P(A\cap B)=P(A)\times P(B)$ | $P(A\cap B)=\displaystyle\frac{n(A\cap B)}{n(S)}$ | $P(A)\times P(B)\neq\displaystyle\frac{n(A\cap B)}{n(S)}\to$ bukan kejadian saling bebas |
+| ---------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
