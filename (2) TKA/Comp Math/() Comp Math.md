@@ -8,4 +8,5 @@
 - [[(5) Statistika Deskriptif]]
 - [[(6) Peluang]]
 - [[(7) Transformasi Geometri]]
+- [[(8) Bangun Ruang]]
 - [[(UNK) Kombinatorika]]

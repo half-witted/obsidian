@@ -1,40 +1,26 @@
 ## Unsur
-| <center>Unsur</center> | <center>Penjelasan</center>     | <center>Contoh</center>                                        |
-| ---------------------- | ------------------------------- | -------------------------------------------------------------- |
-| Percobaan              |                                 | - Pelemparan koin<br>- Pengambilan bola                        |
-| Ruang sampel $(S)$     | Himpunan semua hasil yg mungkin | $S=\{A,G\}$                                                    |
-| Titik sampel           | Setiap anggota dr ruang sampel  | - Titik sampel: $A$ dan $G$<br>- Banyak titik sampel: $n(S)=2$ |
-## Kejadian
-Himpunan bagian dr ruang sampel
-![[Pasted image 20261023200237.png|68]]
-### Jenis
-| <center>Jenis</center> | <center>Penjelasan</center>                                                |                                                               |
-| ---------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Tunggal                |                                                                            | ![[Pasted image 20261023200554.png\|213]]                     |
-| Majemuk                | $>1$ kejadian terjadi bersamaan                                            | - Dan: pake gabungan $(\cup)$<br>- Atau: pake irisan $(\cap)$ |
-| Tidak saling lepas     | $>1$ kejadian yg slg beririsan                                             | ![[Pasted image 20261023203453.png\|309]]                     |
-| Saling lepas           | - $>1$ kejadian tk bs terjadi bersamaan<br>- Irisan berupa himpunan kosong | ![[Pasted image 20261023203528.png\|208]]                     |
-| Komplemen              | Kejadian $A^c$ yg bukan kejadian $A$                                       | ![[Pasted image 20261023203659.png\|188]]                     |
-| Lengkap                | Gabungan bbrp kejadian yg menghasilkan ruang sampel                        | ![[Pasted image 20261023203828.png\|229]]                     |
-| Pasti terjadi          |                                                                            | ![[Pasted image 20261023204423.png\|125]]                     |
-| Tidak pasti terjadi    |                                                                            | ![[Pasted image 20261023204444.png\|88]]                      |
-## Peluang
-| $P(A)=\displaystyle \frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ banyak anggota kejadian $A$<br>$n(S)=$ banyak titik sampel |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <center>Unsur</center> | <center>Penjelasan</center>                                                    | <center>Contoh</center>         |
+| ---------------------- | ------------------------------------------------------------------------------ | ------------------------------- |
+| Percobaan              | <mark style="background:#40a9ff">Kegiatan</mark> utk memperoleh hasil tertentu | Melempar 1 dadu                 |
+| Titik sampel           | <mark style="background:#40a9ff">Hasil</mark> percobaan 1 waktu                | 1, 2, 3, 4, 5, 6                |
+| Ruang sampel $(S)$     | <mark style="background:#40a9ff">Himpunan</mark> dr titik sampel (semesta)     | $S=\{1,2,3,4,5,6\}$<br>$n(S)=6$ |
+### Titik Sampel
+| <center>Objek</center> | <center>Rumus</center>                                    | <center>Keterangan</center>                                                  |
+| ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| $n$ objek sama         | $n(S)=n(S_{1})^n$                                         | $n(S)=$ sampel total<br>$n(S_{1})=$ jumlah sampel objek<br>$n=$ jumlah objek |
+| Beberapa objek beda    | $n(S)=n(S_{1})\times n(S_{2})\times\dots \times n(S_{x})$ | $n(S_{x})=$ jumlah sampel objek ke$-n$                                       |
+### Kejadian
+Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
+![[Pasted image 20261101133012.png|171]]
 
-- Kisaran nilai $\to$ ![[Pasted image 20261023204717.png|131]]
-### Jenis
-#### Kepastian
-![[Pasted image 20261023204833.png|113]]
-#### Kemustahilan
-![[Pasted image 20261023211213.png|89]]
-#### Komplemen
-![[Pasted image 20261024082414.png|243]]
-#### Empiris
-| $P(A)=\displaystyle\frac{f(A)}{n}$ | $P(A)=$ peluang empiris kejadian $A$<br>$f(A)=$ frekuensi kejadian $A$ yg sdh terjadi<br>$n=$ banyak percobaan |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-![[Pasted image 20261024082610.png|336]]
-#### Frekuensi Harapan
-| $Fh(A)=n\times P(A)$ | $Fh(A)=$ frekuensi harapan kejadian $A$<br>$P(A)=$ peluang empiris $A$<br>$n=$ banyak percobaan |
-| -------------------- | ----------------------------------------------------------------------------------------------- |
-## Peluang Kejadian Majemuk
+| <center>Jenis</center> | <center>Penjelasan</center>                         | <center>Contoh</center>                                                                                                         | <center>Visualisasi</center>                                                                 |
+| ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Tunggal                | 1 kejadian                                          | Kejadian muncul mata dadu ganjil                                                                                                | ![[Pasted image 20261101133520.png\|168]]                                                    |
+| Majemuk                | - > 1 kejadian<br>- Biasanya ditandai "dan", "atau" | 1. Kejadian muncul mata dadu ganjil <u>dan</u> $(\cap)$ prima<br>2. Kejadian muncul mata dadu ganjil <u>atau</u> $(\cup)$ prima | 1. ![[Pasted image 20261101133733.png\|166]]<br>2. ![[Pasted image 20261101133956.png\|164]] |
+## Peluang I
+### Peluang Empiris
+- Berdasarkan banyak percobaan yg dilakukan
+- Makin banyak percobaan, makin stabil 
+
+| $P(A)=\displaystyle\frac{f(A)}{n}$ | $P(A)=$ peluang kejadian<br>$f(A)=$ frekuensi kejadian<br>$n=$ banyak percobaan |
+| ---------------------------------- | ------------------------------------------------------------------------------- |

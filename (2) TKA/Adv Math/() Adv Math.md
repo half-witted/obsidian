@@ -5,3 +5,4 @@
 - [[(4) Limit (Lanjutan)]]
 - [[(5) Lingkaran]]
 - [[(6) Lingkaran Analitika]]
+- [[(7) Polinomial]]
