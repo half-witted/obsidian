@@ -35,3 +35,13 @@ Berdasarkan perhitungan matematis <mark style="background:#d4b106">tanpa percoba
 | ----------------------- | --------------------------------------------------------------------------------------------------- |
 ### Kisaran Nilai Peluang
 ![[Pasted image 20261101162341.png|168]]
+- Jika $P(A)=0\to$ peluang kemustahilan
+- Jika $P(A)=1\to$ peluang kepastian
+### Peluang Komplemen
+$P(A^C)=$ peluang semua kejadian yg bukan $A$
+![[Pasted image 20261101163135.png|225]]
+
+| <center>Rumus</center> | <center>Keterangan</center>                                                                                      |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| $P(A)+P(A^C)=1$        | $P(A)=$ peluang kejadian $A$<br>$P(A^C)=$ peluang komplemen kejadian $A$                                         |
+| $n(A)+n(A^C)=n(S)$     | $n(A)=$ banyak [[#Titik Sampel\|titik sampel]] kejadian $A$<br>$n(A^C)=$ banyak [[#Titik Sampel\|titik sampel]]  |
