@@ -46,8 +46,8 @@ $P(A^C)=$ peluang semua kejadian yg bukan $A$
 | ----------------------- | --------------------------------------------------------------------------------------------------- |
 ## Peluang Kejadian
 ### Gabungan
-| <center>Kejadian</center> | <center>Rumus</center>            | <center>Keterangan</center>                                                                                                                                  |
-| ------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <center>2</center>        | $P(A\cup B)=P(A)+P(B)-P(A\cap B)$ | $P(A\cup B)=$ peluang kejadian $A$ gabung $B$<br>$P(A)=$ peluang kejadian $A$<br>$P(B)=$ peluang kejadian $B$<br>$P(A\cap B)=$ peluang kejadian $A$ iris $B$ |
-| 3                         |                                   |                                                                                                                                                              |
+| <center>Kejadian</center> | <center>Rumus</center>                                                              |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| <center>2</center>        | $P(A\cup B)=P(A)+P(B)-P(A\cap B)$                                                   |
+| <center>3</center>        | $P(A\cup B\cup C)=P(A)+P(B)+P(C)-P(A\cap B)-P(A\cap C)-P(B\cap C)+P(A\cap B\cap C)$ |
 ![[Pasted image 20261101164542.png|224]]
