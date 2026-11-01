@@ -9,3 +9,10 @@
 | ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | $n$ objek sama         | $n(S)=n(S_{1})^n$                                         | $n(S)=$ sampel total<br>$n(S_{1})=$ jumlah sampel objek<br>$n=$ jumlah objek |
 | Beberapa objek beda    | $n(S)=n(S_{1})\times n(S_{2})\times\dots \times n(S_{x})$ | $n(S_{x})=$ jumlah sampel objek ke$-n$                                       |
+### Kejadian
+Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
+![[Pasted image 20261101133012.png|183]]
+#### Tunggal
+1 kejadian
+#### Majemuk
+ >1 kejadian dan biasanya ditandai "dan", "atau"
