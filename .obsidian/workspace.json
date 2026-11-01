@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1a571b36527e2b86",
+        "id": "1b2c0be396bf8c31",
         "type": "tabs",
         "children": [
           {
-            "id": "310f2c8b9d85b8ce",
+            "id": "5aa7008bfebe3d48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(3) Fungsi Komposisi dan Invers"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,12 +206,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "310f2c8b9d85b8ce",
+  "active": "5aa7008bfebe3d48",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/(8) Bangun Ruang.md",
-    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261031113419.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261031113141.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261031112830.png",
