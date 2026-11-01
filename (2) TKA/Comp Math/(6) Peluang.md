@@ -1,9 +1,9 @@
 ## Unsur
-| <center>Unsur</center> | <center>Penjelasan</center>                                                    | <center>Contoh</center>         |
-| ---------------------- | ------------------------------------------------------------------------------ | ------------------------------- |
-| Percobaan              | <mark style="background:#40a9ff">Kegiatan</mark> utk memperoleh hasil tertentu | Melempar 1 dadu                 |
-| Titik sampel           | <mark style="background:#40a9ff">Hasil</mark> percobaan 1 waktu                | 1, 2, 3, 4, 5, 6                |
-| Ruang sampel $(S)$     | <mark style="background:#40a9ff">Himpunan</mark> dr titik sampel (semesta)     | $S=\{1,2,3,4,5,6\}$<br>$n(S)=6$ |
+| <center>Unsur</center> | <center>Penjelasan</center>                                                                   | <center>Contoh</center>         |
+| ---------------------- | --------------------------------------------------------------------------------------------- | ------------------------------- |
+| Percobaan              | <mark style="background:#40a9ff">Kegiatan</mark> utk memperoleh hasil tertentu                | Melempar 1 dadu                 |
+| Titik sampel           | <mark style="background:#40a9ff">Hasil</mark> percobaan 1 waktu                               | 1, 2, 3, 4, 5, 6                |
+| Ruang sampel $(S)$     | <mark style="background:#40a9ff">Himpunan</mark> dr [[#Titik Sampel\|titik sampel]] (semesta) | $S=\{1,2,3,4,5,6\}$<br>$n(S)=6$ |
 ### Titik Sampel
 | <center>Objek</center> | <center>Rumus</center>                                    | <center>Keterangan</center>                                                              |
 | ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -27,6 +27,11 @@ Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
 ### Peluang Teoretis
 Berdasarkan perhitungan matematis <mark style="background:#d4b106">tanpa percobaan</mark>
 
-| $P(A)=\displaystyle\frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ banyak titik sampel kejadian $A$<br>$n(S)=$ total titik sampel |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| $P(A)=\displaystyle\frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ banyak [[#Titik Sampel\|titik sampel]] kejadian $A$<br>$n(S)=$ total [[#Titik Sampel\|titik sampel]] |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 - Pastikan <mark style="background:#d4b106">peluang tiap titik sampel sama</mark>
+### Frekuensi Harapan
+| $F_{h}(A)=n\times P(A)$ | $F_{h}(A)=$ frekuensi harapan kejadian $A$<br>$n=$ banyak percobaan<br>$P(A)=$ peluang kejadian $A$ |
+| ----------------------- | --------------------------------------------------------------------------------------------------- |
+### Kisaran Nilai Peluang
+![[Pasted image 20261101162341.png|168]]
