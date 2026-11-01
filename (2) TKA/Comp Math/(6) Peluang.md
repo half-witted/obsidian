@@ -5,10 +5,10 @@
 | Titik sampel           | <mark style="background:#40a9ff">Hasil</mark> percobaan 1 waktu                | 1, 2, 3, 4, 5, 6                |
 | Ruang sampel $(S)$     | <mark style="background:#40a9ff">Himpunan</mark> dr titik sampel (semesta)     | $S=\{1,2,3,4,5,6\}$<br>$n(S)=6$ |
 ### Titik Sampel
-| <center>Objek</center> | <center>Rumus</center>                                    | <center>Keterangan</center>                                                  |
-| ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| $n$ objek sama         | $n(S)=n(S_{1})^n$                                         | $n(S)=$ sampel total<br>$n(S_{1})=$ banyak sampel objek<br>$n=$ banyak objek |
-| Beberapa objek beda    | $n(S)=n(S_{1})\times n(S_{2})\times\dots \times n(S_{x})$ | $n(S_{x})=$ banyak sampel objek ke$-n$                                       |
+| <center>Objek</center> | <center>Rumus</center>                                    | <center>Keterangan</center>                                                              |
+| ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| $n$ objek sama         | $n(S)=n(S_{1})^n$                                         | $n(S)=$ total titik sampel<br>$n(S_{1})=$ banyak titik sampel objek<br>$n=$ banyak objek |
+| Beberapa objek beda    | $n(S)=n(S_{1})\times n(S_{2})\times\dots \times n(S_{x})$ | $n(S_{x})=$ banyak titik sampel objek ke$-n$                                             |
 ### Kejadian
 Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
 ![[Pasted image 20261101133012.png|171]]
@@ -19,12 +19,14 @@ Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
 | Majemuk                | - > 1 kejadian<br>- Biasanya ditandai "dan", "atau" | 1. Kejadian muncul mata dadu ganjil <u>dan</u> $(\cap)$ prima<br>2. Kejadian muncul mata dadu ganjil <u>atau</u> $(\cup)$ prima | 1. ![[Pasted image 20261101133733.png\|166]]<br>2. ![[Pasted image 20261101133956.png\|164]] |
 ## Peluang I
 ### Peluang Empiris
-- Berdasarkan banyak percobaan yg dilakukan
+- Berdasarkan banyak <mark style="background:#d4b106">percobaan yg dilakukan</mark>
 - <mark style="background:#d4b106">Makin banyak</mark> percobaan, makin stabil ke nilai tertentu, <mark style="background:#d4b106">makin akurat</mark>
 
 | $P(A)=\displaystyle\frac{f(A)}{n}$ | $P(A)=$ peluang kejadian $A$<br>$f(A)=$ frekuensi kejadian $A$<br>$n=$ banyak percobaan |
 | ---------------------------------- | --------------------------------------------------------------------------------------- |
 ### Peluang Teoretis
-| $P(A)=\displaystyle\frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ anggota kejadian $A$<br>$n(S)=$ sampel total |
-| ------------------------------------- | ------------------------------------------------------------------------------------ |
+Berdasarkan perhitungan matematis <mark style="background:#d4b106">tanpa percobaan</mark>
 
+| $P(A)=\displaystyle\frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ banyak titik sampel kejadian $A$<br>$n(S)=$ total titik sampel |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+- Pastikan <mark style="background:#d4b106">peluang tiap titik sampel sama</mark>
