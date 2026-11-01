@@ -7,8 +7,8 @@
 ### Titik Sampel
 | <center>Objek</center> | <center>Rumus</center>                                    | <center>Keterangan</center>                                                  |
 | ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| $n$ objek sama         | $n(S)=n(S_{1})^n$                                         | $n(S)=$ sampel total<br>$n(S_{1})=$ jumlah sampel objek<br>$n=$ jumlah objek |
-| Beberapa objek beda    | $n(S)=n(S_{1})\times n(S_{2})\times\dots \times n(S_{x})$ | $n(S_{x})=$ jumlah sampel objek ke$-n$                                       |
+| $n$ objek sama         | $n(S)=n(S_{1})^n$                                         | $n(S)=$ sampel total<br>$n(S_{1})=$ banyak sampel objek<br>$n=$ banyak objek |
+| Beberapa objek beda    | $n(S)=n(S_{1})\times n(S_{2})\times\dots \times n(S_{x})$ | $n(S_{x})=$ banyak sampel objek ke$-n$                                       |
 ### Kejadian
 Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
 ![[Pasted image 20261101133012.png|171]]
@@ -20,7 +20,11 @@ Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
 ## Peluang I
 ### Peluang Empiris
 - Berdasarkan banyak percobaan yg dilakukan
-- Makin banyak percobaan, makin stabil 
+- <mark style="background:#d4b106">Makin banyak</mark> percobaan, makin stabil ke nilai tertentu, <mark style="background:#d4b106">makin akurat</mark>
 
-| $P(A)=\displaystyle\frac{f(A)}{n}$ | $P(A)=$ peluang kejadian<br>$f(A)=$ frekuensi kejadian<br>$n=$ banyak percobaan |
-| ---------------------------------- | ------------------------------------------------------------------------------- |
+| $P(A)=\displaystyle\frac{f(A)}{n}$ | $P(A)=$ peluang kejadian $A$<br>$f(A)=$ frekuensi kejadian $A$<br>$n=$ banyak percobaan |
+| ---------------------------------- | --------------------------------------------------------------------------------------- |
+### Peluang Teoretis
+| $P(A)=\displaystyle\frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ anggota kejadian $A$<br>$n(S)=$ sampel total |
+| ------------------------------------- | ------------------------------------------------------------------------------------ |
+
