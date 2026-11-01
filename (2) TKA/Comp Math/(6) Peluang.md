@@ -17,31 +17,36 @@ Himpunan bagian dr ruang sampel $(S)\to A \subseteq S$
 | ---------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | Tunggal                | 1 kejadian                                          | Kejadian muncul mata dadu ganjil                                                                                                | ![[Pasted image 20261101133520.png\|168]]                                                    |
 | Majemuk                | - > 1 kejadian<br>- Biasanya ditandai "dan", "atau" | 1. Kejadian muncul mata dadu ganjil <u>dan</u> $(\cap)$ prima<br>2. Kejadian muncul mata dadu ganjil <u>atau</u> $(\cup)$ prima | 1. ![[Pasted image 20261101133733.png\|166]]<br>2. ![[Pasted image 20261101133956.png\|164]] |
-## Peluang I
-### Peluang Empiris
+## Peluang
+![[Pasted image 20261101162341.png|168]]
+- Jika $P(A)=0\to$ peluang kemustahilan
+- Jika $P(A)=1\to$ peluang kepastian
+### Empiris
 - Berdasarkan banyak <mark style="background:#d4b106">percobaan yg dilakukan</mark>
 - <mark style="background:#d4b106">Makin banyak</mark> percobaan, makin stabil ke nilai tertentu, <mark style="background:#d4b106">makin akurat</mark>
 
 | $P(A)=\displaystyle\frac{f(A)}{n}$ | $P(A)=$ peluang kejadian $A$<br>$f(A)=$ frekuensi kejadian $A$<br>$n=$ banyak percobaan |
 | ---------------------------------- | --------------------------------------------------------------------------------------- |
-### Peluang Teoretis
+### Teoretis
 Berdasarkan perhitungan matematis <mark style="background:#d4b106">tanpa percobaan</mark>
 
 | $P(A)=\displaystyle\frac{n(A)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$n(A)=$ banyak [[#Titik Sampel\|titik sampel]] kejadian $A$<br>$n(S)=$ total [[#Titik Sampel\|titik sampel]] |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 - Pastikan <mark style="background:#d4b106">peluang tiap titik sampel sama</mark>
-### Frekuensi Harapan
-| $F_{h}(A)=n\times P(A)$ | $F_{h}(A)=$ frekuensi harapan kejadian $A$<br>$n=$ banyak percobaan<br>$P(A)=$ peluang kejadian $A$ |
-| ----------------------- | --------------------------------------------------------------------------------------------------- |
-### Kisaran Nilai Peluang
-![[Pasted image 20261101162341.png|168]]
-- Jika $P(A)=0\to$ peluang kemustahilan
-- Jika $P(A)=1\to$ peluang kepastian
-### Peluang Komplemen
+### Komplemen
 $P(A^C)=$ peluang semua kejadian yg bukan $A$
 ![[Pasted image 20261101163135.png|225]]
 
-| <center>Rumus</center> | <center>Keterangan</center>                                                                                      |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| $P(A)+P(A^C)=1$        | $P(A)=$ peluang kejadian $A$<br>$P(A^C)=$ peluang komplemen kejadian $A$                                         |
-| $n(A)+n(A^C)=n(S)$     | $n(A)=$ banyak [[#Titik Sampel\|titik sampel]] kejadian $A$<br>$n(A^C)=$ banyak [[#Titik Sampel\|titik sampel]]  |
+| <center>Rumus</center>                                                                    | <center>Keterangan</center>                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $n(A)+n(A^C)=n(S)$                                                                        | $n(A)=$ banyak [[#Titik Sampel\|titik sampel]] kejadian $A$<br>$n(A^C)=$ banyak [[#Titik Sampel\|titik sampel]] kejadian komplemen $A$<br>$n(S)=$ total [[#Titik Sampel\|titik sampel]] |
+| $P(A)+P(A^C)=1$<br>$\displaystyle\frac{n(A)}{n(S)}+\frac{n(A^C)}{n(S)}=\frac{n(S)}{n(S)}$ | $P(A)=$ peluang kejadian $A$<br>$P(A^C)=$ peluang kejadian komplemen $A$                                                                                                                |
+## Frekuensi Harapan
+| $F_{h}(A)=n\times P(A)$ | $F_{h}(A)=$ frekuensi harapan kejadian $A$<br>$n=$ banyak percobaan<br>$P(A)=$ peluang kejadian $A$ |
+| ----------------------- | --------------------------------------------------------------------------------------------------- |
+## Peluang Kejadian
+### Gabungan
+|     |     |
+| --- | --- |
+
+
