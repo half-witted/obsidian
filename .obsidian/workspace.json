@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Comp Math/(6) Peluang.md",
+                "file": "(2) TKA/Comp Math/(6.2) Kombinatorika.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(6) Peluang"
+              "title": "(6.2) Kombinatorika"
             }
           }
         ]
@@ -215,6 +215,8 @@
   },
   "active": "5aa7008bfebe3d48",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(6.1) Peluang.md",
+    "(2) TKA/Comp Math/(6.2) Kombinatorika.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101174806.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101164542.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101163135.png",
@@ -222,20 +224,16 @@
     "(2) TKA/Comp Math/(8) Bangun Ruang.md",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Adv Math/() Adv Math.md",
-    "(2) TKA/Comp Math/(6) Peluang.md",
-    "(2) TKA/Comp Math/(6) Peluang.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133956.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133733.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133520.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133012.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101132943.png",
     "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
-    "(2) TKA/Comp Math/(UNK) Kombinatorika.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261031113419.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261031113141.png",
     "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(6) Quick Notes/Skip materi TKA.md",
