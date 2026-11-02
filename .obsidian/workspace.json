@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Comp Math/(6.2) Kombinatorika.md",
+                "file": "(2) TKA/Comp Math/(6.1) Peluang.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(6.2) Kombinatorika"
+              "title": "(6.1) Peluang"
             }
           }
         ]
@@ -215,8 +215,8 @@
   },
   "active": "5aa7008bfebe3d48",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(2) TKA/Comp Math/(6.2) Kombinatorika.md",
+    "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101174806.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101164542.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101163135.png",
