@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
+                "file": "(2) TKA/Comp Math/(6.1) Peluang.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(5) Statistika Deskriptif"
+              "title": "(6.1) Peluang"
             }
           },
           {
@@ -37,7 +37,8 @@
               "title": "Skip materi TKA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,18 +229,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "159638913a577a71",
+  "active": "916c4fdfa20eea3f",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/(10) Trigonometri.md",
+    "(2) TKA/Comp Math/(6.1) Peluang.md",
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(6) Quick Notes/Skip materi TKA.md",
+    "(2) TKA/Comp Math/(10) Trigonometri.md",
     "(2) TKA/Comp Math/(8) Bangun Ruang.md",
     "(2) TKA/Adv Math/(8) Trigonometri.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
-    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
     "(2) TKA/Comp Math/(9) Lingkaran.md",
-    "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
-    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Adv Math/(5) Lingkaran.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
