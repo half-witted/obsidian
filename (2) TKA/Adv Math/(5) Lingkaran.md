@@ -32,15 +32,15 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 | $K=\pi d$              | $K=$ keliling<br>$d=$ diameter |
 | $K=2\pi r$             | $r=$ jari2                     |
 ### Luas
-| <center>Rumus</center> | <center>Penjelasan</center> |
-| ---------------------- | --------------------------- |
-| $L=\pi r^2$            | $L=$ luas<br>$r=$ jari2     |
-| $L=\frac{1}{4}\pi d^2$ | $d=$ diameter               |
+| <center>Rumus</center>              | <center>Penjelasan</center> |
+| ----------------------------------- | --------------------------- |
+| $L=\pi r^2$                         | $L=$ luas<br>$r=$ jari2     |
+| $L=\displaystyle\frac{1}{4}\pi d^2$ | $d=$ diameter               |
 ## Busur dan Juring
-- Panjang busur $\to \color{#40A9FF}\frac{\theta}{360\degree}2\pi r$
+- Panjang busur $\displaystyle\to \color{#40A9FF}\frac{\theta}{360\degree}2\pi r$
 - Luas juring
-	- $\color{#40A9FF}\frac{\theta}{360\degree}\pi r^2$
+	- $\displaystyle\color{#40A9FF}\frac{\theta}{360\degree}\pi r^2$
 	- $\color{#40A9FF}L\triangle+L_{t}$
-- Hubungan 2 juring dan panjang busur $\to\color{#40A9FF}\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}=\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
+- Hubungan 2 juring dan panjang busur $\displaystyle\to\color{#40A9FF}\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}=\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
 ![[Pasted image 20260929220345.png|185]]
-- Hubungan panjang busur dan luas juring $\to\color{#40A9FF}\frac{p_{b}}{k}=\frac{L_{j}}{L}$
+- Hubungan panjang busur dan luas juring $\displaystyle\to\color{#40A9FF}\frac{p_{b}}{k}=\frac{L_{j}}{L}$
