@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "916c4fdfa20eea3f",
+            "id": "159638913a577a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "159638913a577a71",
+            "id": "916c4fdfa20eea3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +37,7 @@
               "title": "Skip materi TKA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +230,13 @@
   },
   "active": "159638913a577a71",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
-    "(2) TKA/Adv Math/(8) Trigonometri.md",
+    "(2) TKA/Comp Math/(10) Trigonometri.md",
     "(6) Quick Notes/Skip materi TKA.md",
-    "(2) TKA/Comp Math/(9) Lingkaran.md",
     "(2) TKA/Comp Math/(8) Bangun Ruang.md",
+    "(2) TKA/Adv Math/(8) Trigonometri.md",
+    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
+    "(2) TKA/Comp Math/(9) Lingkaran.md",
     "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(2) TKA/Comp Math/(2) Eksponen.md",
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
@@ -264,7 +265,6 @@
     "Untitled.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Comp Math/(2) Lingkaran.md",
-    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Physics/(2) Listrik Arus Searah (DC).md",
     "(2) TKA/Comp Math/Untitled",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
