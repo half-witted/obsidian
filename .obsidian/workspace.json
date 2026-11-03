@@ -37,7 +37,8 @@
               "title": "Skip materi TKA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,11 +229,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "159638913a577a71",
+  "active": "916c4fdfa20eea3f",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(6) Quick Notes/Skip materi TKA.md",
-    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
     "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
     "(2) TKA/Comp Math/(6.2) Kombinatorika.md",
     "(2) TKA/Comp Math/(8) Bangun Ruang.md",
