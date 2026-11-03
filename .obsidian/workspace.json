@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57be4382a96190d2",
@@ -231,6 +232,11 @@
   },
   "active": "916c4fdfa20eea3f",
   "lastOpenFiles": [
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261104063504.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261104063421.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261104063417.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261104063149.png",
+    "(2) TKA/Comp Math/() Attachments/Pasted image 20261104062951.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261104062059.png",
     "(2) TKA/Comp Math/(10) Trigonometri.md",
     "(2) TKA/Comp Math/(11) Kekongruenan dan Kesebangunan.md",
@@ -257,13 +263,8 @@
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101174806.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101164542.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261101163135.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261101162341.png",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Adv Math/() Adv Math.md",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133956.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133733.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133520.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261101133012.png",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "Untitled.md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
