@@ -70,3 +70,6 @@ Tinggal subs elim $\to$ jangan lupa balikin ke $f(x)=ax^2+bx+c$
 4. Susun ke $f(x)=ax^2+bx+c$
 ![[Pasted image 20261104221425.png|450]]
 ### 1 Titik Potong dan Titik Puncak
+#### Sumbu x
+1. Tentukan tipot sumbu $x$ yg belum diketahui $\to$ sifat simetris
+2. Lanjut ke cara [[#2 Titik Potong|2 tipot]]
