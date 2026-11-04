@@ -19,3 +19,11 @@ $y=ax^2+bx+c$
 - Jika $x_{1,2}$ adalah akar2 $ax^2+bx+c=0$, tipot sumbu $x$ adalah
 	$(x_{1},0)$ dan $(x_{2},0)$
 ## Koefisien
+### Koefisien a
+![[Pasted image 20261104213554.png|235]]
+
+| <center>Kondisi</center> | <center>Grafik</center>                                           | <center>Contoh</center>                   |
+| ------------------------ | ----------------------------------------------------------------- | ----------------------------------------- |
+| $a>0$                    | - Parabola terbuka ke atas<br>- Makin besar, grafik makin sempit  | ![[Pasted image 20261104213139.png\|249]] |
+| $a<0$                    | - Parabola terbuka ke bawah<br>- Makin kecil, grafik makin sempit | ![[Pasted image 20261104213155.png\|244]] |
+### Koefisien b
