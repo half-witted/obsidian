@@ -62,7 +62,11 @@ $D=b^2-4ac$
 ![[Pasted image 20261104220157.png|276]]
 ## Menentukan Rumus
 ### 3 Titik
-Tinggal subs elim $\to$ jangan lupa balikin ke $ax^2+bx+c=0$
+Tinggal subs elim $\to$ jangan lupa balikin ke $f(x)=ax^2+bx+c$
 ### 2 Titik Potong
-
+1. Misalkan fungsi $\to f(x)=a(x-x_{1})(x-x_{2})$
+2. Subs nilai $a$ dgn subs $(x,y)$ ke $f(x)$
+3. Subs $a$ dan titik2 potong ke $f(x)$
+4. Susun ke $f(x)=ax^2+bx+c$
+![[Pasted image 20261104221425.png|450]]
 ### 1 Titik Potong dan Titik Puncak
