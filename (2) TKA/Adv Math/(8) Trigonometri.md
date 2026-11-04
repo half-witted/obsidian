@@ -34,3 +34,19 @@ $\pi=180^{\circ}$
 | $y=\sin bx$<br>$y=\cos bx$<br>$y=\tan bx$                         | ![[Pasted image 20261104204314.png\|394]]                                                                         |
 | $y=\sin\space(x+c)$<br>$y=\cos\space(x+c)$<br>$y=\tan\space(x+c)$ | ![[Pasted image 20261104204719.png\|317]]<br>![[Pasted image 20261104204745.png\|343]]\|<br>Pindah posisi aja     |
 | $y=\sin x+d$<br>$y=\cos x+d$<br>$y=\tan x+d$                      | ![[Pasted image 20261104204922.png\|316]]<br>![[Pasted image 20261104204946.png\|328]]<br>Nilai maks, min berubah |
+## Rumus
+1. Identitas:
+	- Dasar:
+		- $\sin^2x+\cos^2x=1$
+		- $1+\tan^2x=\sec^2x$
+		- $1+\cot^2x=\csc^2x$
+	- Perbandingan:
+		- $\cot x=\frac{1}{\tan x}$
+		- $\sec x=\frac{1}{\cos x}$
+		- $\csc x=\frac{1}{\sin x}$
+2. Sudut rangkap: 
+	- $\sin 2x=2\sin x\cos x$
+	- $\cos ax=1-2\sin^2\frac{a}{2}x$ 
+	- $\cos ax=\cos^2\frac{a}{2}x-\sin^2\frac{a}{2}x$
+	- $\cos ax=2\cos^2x-1$
+3. Jumlah sudut, selisih sudut: $\cos A-\cos B=-2\sin\frac{1}{2}(A+B)\sin\frac{1}{2}(A-B)$
