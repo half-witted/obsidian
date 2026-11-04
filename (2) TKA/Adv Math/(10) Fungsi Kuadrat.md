@@ -35,3 +35,23 @@ $x_{p}=\displaystyle-\frac{b}{2a}$
 ### Koefisien c
 ![[Pasted image 20261104214404.png|243]]
 Titik potong sumbu $y\to(0,c)$
+## Sumbu Simetri, Titik Puncak, Nilai Optimum, Diskriminan
+![[Pasted image 20261104215019.png|517]]
+### Diskriminan
+$D=b^2-4ac$
+![[Pasted image 20261104215252.png|301]]
+
+| <center>Kondisi</center> | <center>Grafik</center>                                               |
+| ------------------------ | --------------------------------------------------------------------- |
+| $D>0$                    | <mark style="background:#d4b106">Memotong</mark> sumbu $x$ di 2 titik |
+| $D=0$                    | <mark style="background:#d4b106">Menyinggung</mark> sumbu $x$         |
+| $D<0$                    | <mark style="background:#d4b106">Tk memotong</mark> sumbu $x$         |
+## Pergeseran
+### Horizontal
+| <center>Arah</center> | <center>Rumus</center> |
+| --------------------- | ---------------------- |
+| Kanan $s$ satuan      | $f(x-s)$               |
+| Kiri $s$ satuan       | $f(x+s)$               |
+![[Pasted image 20261104215540.png|301]]
+![[Pasted image 20261104215557.png|300]]
+### Vertikal
