@@ -36,8 +36,8 @@ $(x-h)$ faktor dr $P(x)$ kalo $P(h)=0$
 | ![[Pasted image 20261029084437.png\|522]] | - Nilai $x$ yg memenuhi persamaan disebut akar2<br>- Banyak akar derajat $n$ adalah $n$ buah<br>- Misal $p$ adalah akarnya, kemungkinan nilainya $\displaystyle\frac{faktor\space dari\space a_{0}}{faktor\space dari\space a_{n}}$ |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ### Akar Persamaan
-| ![[Pasted image 20261029090259.png\|298]] | ![[Pasted image 20261029090346.png\|303]] | ![[Pasted image 20261029090411.png\|295]] |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| ![[Pasted image 20261029090259.png\|298]]<br><br>Cari faktor derajat 0 dan tertinggi | ![[Pasted image 20261029090346.png\|303]] | ![[Pasted image 20261029090411.png\|295]] |
+| ------------------------------------------------------------------------------------ | ----------------------------------------- | ----------------------------------------- |
 ### Jumlah dan Hasil Akar
 
 | <center>Rumus</center>        | <center>Perumusan</center>                                                                       |
