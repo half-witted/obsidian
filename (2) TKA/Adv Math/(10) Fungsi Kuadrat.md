@@ -27,3 +27,11 @@ $y=ax^2+bx+c$
 | $a>0$                    | - Parabola terbuka ke atas<br>- Makin besar, grafik makin sempit  | ![[Pasted image 20261104213139.png\|249]] |
 | $a<0$                    | - Parabola terbuka ke bawah<br>- Makin kecil, grafik makin sempit | ![[Pasted image 20261104213155.png\|244]] |
 ### Koefisien b
+![[Pasted image 20261104214443.png|217]]
+$x_{p}=\displaystyle-\frac{b}{2a}$
+1. Jika $x_{p}>0$, puncak di sumbu $x$ <mark style="background:#9254de">positif</mark>
+2. Jika $x_{p}<0$, puncak di sumbu $x$ <mark style="background:#9254de">negatif</mark>
+3. Jika $x_{p}=0$, puncak tepat di sumbu $y$
+### Koefisien c
+![[Pasted image 20261104214404.png|243]]
+Titik potong sumbu $y\to(0,c)$
