@@ -19,3 +19,9 @@ $\pi=180^{\circ}$
 #### Sudut Istimewa
 ![[Pasted image 20261104195214.png|443]]
 ### Kuadran
+![[Pasted image 20261104200003.png|320]]
+## Fungsi Trigonometri
+| <center>Fungsi</center> | <center>Grafik</center>                   | <center>Keterangan</center>                                                            |
+| ----------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------- |
+| $y=\sin x$              | ![[Pasted image 20261104201633.png\|291]] | - Nilai maks $=1$<br>- Nilai min $=-1$<br>- Amplitudo $=1$<br>- Periode $=360^{\circ}$ |
+| $y=\cos x$              | ![[Pasted image 20261104201735.png]]      |                                                                                        |
