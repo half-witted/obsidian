@@ -1,4 +1,4 @@
-## Pengenalan
+ ## Pengenalan
 ### Konsep
 - Dinyatakan dgn huruf kapital, elemen2 dgn huruf kecil
 - Ordo: banyak baris $(m)$ $\times$ banyak kolom $(n)$
