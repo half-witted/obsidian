@@ -65,7 +65,7 @@ $D=b^2-4ac$
 Tinggal subs elim $\to$ jangan lupa balikin ke $f(x)=ax^2+bx+c$
 ### 2 Titik Potong
 1. Misalkan fungsi $\to f(x)=a(x-x_{1})(x-x_{2})$
-2. Subs nilai $a$ dgn subs $(x,y)$ ke $f(x)$
+2. Tentukan nilai $a$ dgn subs $(x,y)$ ke $f(x)$
 3. Subs $a$ dan titik2 potong ke $f(x)$
 4. Susun ke $f(x)=ax^2+bx+c$
 ![[Pasted image 20261104221425.png|450]]
@@ -73,3 +73,8 @@ Tinggal subs elim $\to$ jangan lupa balikin ke $f(x)=ax^2+bx+c$
 #### Sumbu x
 1. Tentukan tipot sumbu $x$ yg belum diketahui $\to$ sifat simetris
 2. Lanjut ke cara [[#2 Titik Potong|2 tipot]]
+#### Sumbu y
+1. Misalkan fungsi $\to f(x)=a(x-x_{p})^2+y_{p}$
+2. Tentukan nilai $a$ dgn subs $(0.y)$ dan $(x_{p},y_{p})$ ke $f(x)$
+3. Subs $a$ dan $(x_{p},y_{p})$ ke $f(x)$
+4. Susun ke $f(x)=ax^2+bx+c$
