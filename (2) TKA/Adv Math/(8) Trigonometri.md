@@ -28,7 +28,8 @@ $\pi=180^{\circ}$
 | $y=\cos x$              | ![[Pasted image 20261104201735.png\|292]] | - Nilai maks $=1$<br>- Nilai min $=-1$<br>- Amplitudo $=1$<br>- Periode $=360^{\circ}$                  |
 | $y=\tan x$              | ![[Pasted image 20261104201819.png\|292]] | - Nilai maks $=$ tk ada<br>- Nilai min $=$ tk ada<br>- Amplitudo $=$ tk ada<br>- Periode $=180^{\circ}$ |
 ### Analisis Fungsi
-| <center>Fungsi</center>                   | <center>Keterangan</center>               |
-| ----------------------------------------- | ----------------------------------------- |
-| $y=a\sin x$<br>$y=a\cos x$<br>$y=a\tan x$ | ![[Pasted image 20261104203525.png\|450]] |
-|                                           |                                           |
+| <center>Fungsi</center>                                           | <center>Keterangan</center>                                                       |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| $y=a\sin x$<br>$y=a\cos x$<br>$y=a\tan x$                         | ![[Pasted image 20261104203943.png\|394]]                                         |
+| $y=\sin bx$<br>$y=\cos bx$<br>$y=\tan bx$                         | ![[Pasted image 20261104204314.png\|394]]                                         |
+| $y=\sin\space(x+c)$<br>$y=\cos\space(x+c)$<br>$y=\tan\space(x+c)$ | ![[Pasted image 20261104204719.png\|317]]<br>![[Pasted image 20261104204745.png]] |
