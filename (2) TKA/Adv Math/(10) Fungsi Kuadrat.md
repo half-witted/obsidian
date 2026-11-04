@@ -48,10 +48,21 @@ $D=b^2-4ac$
 | $D<0$                    | <mark style="background:#d4b106">Tk memotong</mark> sumbu $x$         |
 ## Pergeseran
 ### Horizontal
-| <center>Arah</center> | <center>Rumus</center> |
-| --------------------- | ---------------------- |
-| Kanan $s$ satuan      | $f(x-s)$               |
-| Kiri $s$ satuan       | $f(x+s)$               |
+| <center>Arah</center> | <center>Fungsi</center> |
+| --------------------- | ----------------------- |
+| Kanan $s$ satuan      | $f(x-s)$                |
+| Kiri $s$ satuan       | $f(x+s)$                |
 ![[Pasted image 20261104215540.png|301]]
 ![[Pasted image 20261104215557.png|300]]
 ### Vertikal
+| <center>Arah</center> | <center>Fungsi</center> |
+| --------------------- | ----------------------- |
+| Atas $t$ satuan       | $f(x)+t$                |
+| Bawah $t$ satuan      | $f(x)-t$                |
+![[Pasted image 20261104220157.png|276]]
+## Menentukan Rumus
+### 3 Titik
+Tinggal subs elim $\to$ jangan lupa balikin ke $ax^2+bx+c=0$
+### 2 Titik Potong
+
+### 1 Titik Potong dan Titik Puncak
