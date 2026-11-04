@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f94aa9f3050c3345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "(4) Limit (Lanjutan)"
-            }
-          },
-          {
             "id": "8a369ea2b51c2df7",
             "type": "leaf",
             "state": {
@@ -37,8 +22,7 @@
               "title": "(8) Trigonometri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,6 +215,11 @@
   },
   "active": "8a369ea2b51c2df7",
   "lastOpenFiles": [
+    "(2) TKA/Adv Math/() Attachments/Pasted image 20261104203525.png",
+    "(2) TKA/Adv Math/(9) Vector.md",
+    "(6) Quick Notes/Skip materi TKA.md",
+    "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
+    "(2) TKA/Adv Math/(8) Trigonometri.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261104201819.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261104201735.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261104201633.png",
@@ -239,15 +228,11 @@
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261104195214.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261104195103.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261104195048.png",
-    "(6) Quick Notes/Skip materi TKA.md",
-    "(2) TKA/Adv Math/(4) Limit (Lanjutan).md",
     "(2) TKA/Adv Math/(2) Transformasi Geometri.md",
     "(2) TKA/Adv Math/(7) Polinomial.md",
     "(2) TKA/Adv Math/(6) Lingkaran Analitika.md",
     "(2) TKA/Adv Math/(5) Lingkaran.md",
-    "(2) TKA/Adv Math/(9) Vector.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
-    "(2) TKA/Adv Math/(8) Trigonometri.md",
     "(2) TKA/Adv Math/(3) Limit.md",
     "(1) SHS/12th/Adv Math/(1) Vector.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
@@ -266,7 +251,6 @@
     "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261104072432.png",
     "(2) TKA/Comp Math/() Attachments/Pasted image 20261104064516.png",
-    "(2) TKA/Comp Math/() Attachments/Pasted image 20261104064457.png",
     "(2) TKA/Comp Math/Untitled",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
