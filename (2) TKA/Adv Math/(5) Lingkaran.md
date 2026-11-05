@@ -41,7 +41,7 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Panjang busur                 | $b=\displaystyle\frac{\theta}{360^{\circ}}K$                                                                  | $b=$ panjang busur<br>$K=$ [[#Keliling\|keliling lingkaran]] |
 | Luas juring                   | $L_{j}=\displaystyle\frac{\theta}{360^{\circ}}L$                                                              | $L_{j}=$ luas juring<br>$L=$ [[#Luas\|luas lingkaran]]       |
-| Luas tembereng                | $L_{t}=L_{j}-L$                                                                                               | $L_{t}=$ luas tembereng                                      |
+| Luas tembereng                | $L_{t}=L_{j}-L\triangle$<br>$L\triangle=\displaystyle\frac{1}{2}r^2\sin\theta$                                | $L_{t}=$ luas tembereng<br>$L\triangle=$ luas segitiga       |
 | 2 juring dan panjang busur    | $\displaystyle\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}=\frac{L_{AOB}}{L_{DOC}}=\frac{\alpha}{\beta}$ | ![[Pasted image 20260929220345.png\|185]]                    |
 | Panjang busur dan luas juring | $\displaystyle\frac{b}{K}=\frac{L_{j}}{L}$                                                                    |                                                              |
 
