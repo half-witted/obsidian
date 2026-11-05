@@ -1,7 +1,7 @@
 ## Konsep
 $y=ax^2+bx+c$
 ### Penggambaran
-1. Tentukan nilai $x$ dan $y$
+1. Tentukan sembarang nilai $x$ dan $y$
 2. Tentukan titik2 nya
 3. Gambar
 ![[Pasted image 20261104210827.png|327]]
