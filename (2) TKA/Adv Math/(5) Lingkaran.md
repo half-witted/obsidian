@@ -37,18 +37,11 @@ Dibentuk oleh 2 tali busur dan <mark style="background:#d4b106">titik sudut pd k
 | $L=\pi r^2$                         | $L=$ luas<br>$r=$ jari2     |
 | $L=\displaystyle\frac{1}{4}\pi d^2$ | $d=$ diameter               |
 ## Busur, Juring, dan Tembereng
-| <center>Rumus</center>     | <center>Perumusan</center>                                                                                    | <center>Keterangan</center>                                  |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Panjang busur              | $b=\displaystyle\frac{\theta}{360^{\circ}}K$                                                                  | $b=$ panjang busur<br>$K=$ [[#Keliling\|keliling lingkaran]] |
-| Luas juring                | $L_{j}=\displaystyle\frac{\theta}{360^{\circ}}L$                                                              | $L_{j}=$ luas juring<br>$L=$ [[#Luas\|luas lingkaran]]       |
-| Luas tembereng             | $L_{t}=L_{j}-L$                                                                                               | $L_{t}=$ luas tembereng                                      |
-| 2 juring dan panjang busur | $\displaystyle\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}=\frac{L_{AOB}}{L_{DOC}}=\frac{\alpha}{\beta}$ | ![[Pasted image 20260929220345.png\|185]]                    |
-| a                          |                                                                                                               |                                                              |
+| <center>Rumus</center>        | <center>Perumusan</center>                                                                                    | <center>Keterangan</center>                                  |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Panjang busur                 | $b=\displaystyle\frac{\theta}{360^{\circ}}K$                                                                  | $b=$ panjang busur<br>$K=$ [[#Keliling\|keliling lingkaran]] |
+| Luas juring                   | $L_{j}=\displaystyle\frac{\theta}{360^{\circ}}L$                                                              | $L_{j}=$ luas juring<br>$L=$ [[#Luas\|luas lingkaran]]       |
+| Luas tembereng                | $L_{t}=L_{j}-L$                                                                                               | $L_{t}=$ luas tembereng                                      |
+| 2 juring dan panjang busur    | $\displaystyle\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}=\frac{L_{AOB}}{L_{DOC}}=\frac{\alpha}{\beta}$ | ![[Pasted image 20260929220345.png\|185]]                    |
+| Panjang busur dan luas juring | $\displaystyle\frac{b}{K}=\frac{L_{j}}{L}$                                                                    |                                                              |
 
-- Panjang busur $\displaystyle\to \color{#40A9FF}\frac{\theta}{360\degree}2\pi r$
-- Luas juring
-	- $\displaystyle\color{#40A9FF}\frac{\theta}{360\degree}\pi r^2$
-	- $\color{#40A9FF}L\triangle+L_{t}$
-- Hubungan 2 juring dan panjang busur $\displaystyle\to\color{#40A9FF}\frac{\overset{\frown}{AB}}{\overset{\frown}{DC}}=\frac{L\space AOB}{L\space DOC}=\frac{\alpha}{\beta}$
-
-- Hubungan panjang busur dan luas juring $\displaystyle\to\color{#40A9FF}\frac{p_{b}}{k}=\frac{L_{j}}{L}$
