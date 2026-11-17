@@ -18,5 +18,6 @@
     "math",
     "theme"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": true
 }

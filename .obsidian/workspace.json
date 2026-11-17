@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "161984d6013f40b8",
+        "id": "52d86d08de14afcb",
         "type": "tabs",
         "children": [
           {
-            "id": "91cfdcb082b54949",
+            "id": "0816098294a34a90",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2) TKA/Adv Math/(10) Fungsi Kuadrat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,9 +207,23 @@
       "templates:Insert template": false
     }
   },
-  "active": "91cfdcb082b54949",
+  "active": "0816098294a34a90",
   "lastOpenFiles": [
-    "(6) Quick Notes/Skip materi TKA.md",
+    "(2) TKA/Comp Math/(12) Bangun Datar.md",
+    "(2) TKA/Comp Math/(11) Kekongruenan dan Kesebangunan.md",
+    "(2) TKA/Comp Math/(10) Trigonometri.md",
+    "(2) TKA/Comp Math/(9) Lingkaran.md",
+    "(2) TKA/Comp Math/(8) Bangun Ruang.md",
+    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
+    "(2) TKA/Comp Math/(6.2) Kombinatorika.md",
+    "(2) TKA/Comp Math/(6.1) Peluang.md",
+    "(2) TKA/Comp Math/(5) Statistika Deskriptif.md",
+    "(2) TKA/Comp Math/(4) Garis dan Sudut.md",
+    "(2) TKA/Comp Math/(3) Fungsi Komposisi dan Invers.md",
+    "(2) TKA/Comp Math/(2) Eksponen.md",
+    "(2) TKA/Comp Math/(1.2) Barisan dan Deret.md",
+    "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
+    "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Adv Math/(11) Fungsi, Persamaan, dan Pertidaksamaan Eksponen.md",
     "(2) TKA/Adv Math/(10) Fungsi Kuadrat.md",
     "(2) TKA/Adv Math/(9) Vector.md",
@@ -223,7 +236,6 @@
     "(2) TKA/Adv Math/(2) Transformasi Geometri.md",
     "(2) TKA/Adv Math/(1) Matriks.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105074941.png",
-    "(1) SHS/11th/Comp Math/(2) Matriks.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105073429.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105073409.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105073306.png",
@@ -233,18 +245,6 @@
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105072624.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105072351.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105072022.png",
-    "(1) SHS/12th/Adv Math/(1) Vector.md",
-    "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
-    "(2) TKA/Adv Math/(9) Fungsi Kuadrat.md",
-    "(2) TKA/Adv Math/(2) Polinomial.md",
-    "(2) TKA/Comp Math/(7) Transformasi Geometri.md",
-    "(2) TKA/Comp Math/(12) Bangun Datar.md",
-    "(2) TKA/Comp Math/(11) Kekongruenan dan Kesebangunan.md",
-    "(2) TKA/Comp Math/(10) Trigonometri.md",
-    "(2) TKA/Comp Math/(9) Lingkaran.md",
-    "(2) TKA/Comp Math/(8) Bangun Ruang.md",
-    "(2) TKA/Comp Math/(6.2) Kombinatorika.md",
-    "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(2) TKA/Comp Math/Untitled",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru/() Attachments",
     "(2) TKA/Bahasa Indonesia/() Exercises/() Tryout/() Ruangguru",
