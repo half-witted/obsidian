@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "700a0091ebf64cfa",
+        "id": "93e797a62441cbad",
         "type": "tabs",
         "children": [
           {
-            "id": "cee089214befa608",
+            "id": "f8d453a2383590b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/() SHS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "() SHS"
             }
           }
         ]
@@ -207,7 +212,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "cee089214befa608",
+  "active": "f8d453a2383590b7",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(6.1) Peluang.md",
