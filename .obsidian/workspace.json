@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52390ed7b1252c02",
+        "id": "2bc7f05391c5eb8b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1dc3b29b3298fb",
+            "id": "9b8abdcf86859b40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
         ]
@@ -212,10 +207,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "1b1dc3b29b3298fb",
+  "active": "9b8abdcf86859b40",
   "lastOpenFiles": [
-    "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(1) SHS/() SHS.md",
+    "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
     "(1) SHS/12th/Comp Math/(1) Transformasi.md",
     "(1) SHS/12th/Geography/(1) Konsep Wilayah dan Tata Ruang.md",
