@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc7f05391c5eb8b",
+        "id": "700a0091ebf64cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "9b8abdcf86859b40",
+            "id": "cee089214befa608",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -207,7 +207,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "9b8abdcf86859b40",
+  "active": "cee089214befa608",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(6.1) Peluang.md",
