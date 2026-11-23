@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edb6d735f3c62f0f",
+        "id": "2aac5663c6c29229",
         "type": "tabs",
         "children": [
           {
-            "id": "2154245a9fd030cc",
+            "id": "0a40614d1a3a82ac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "(6) Quick Notes/Another aftermovie.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Another aftermovie"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -209,8 +207,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "2154245a9fd030cc",
+  "active": "0a40614d1a3a82ac",
   "lastOpenFiles": [
+    "(6) Quick Notes/Another aftermovie.md",
     "(1) SHS/() SHS.md",
     "(2) TKA/Comp Math/(6.1) Peluang.md",
     "(1) SHS/12th/Adv Math/(2) Limit (Lanjutan).md",
@@ -236,7 +235,6 @@
     "(2) TKA/Comp Math/(1.1) Pola Bilangan.md",
     "(2) TKA/Comp Math/() Comp Math.md",
     "(2) TKA/Adv Math/(11) Fungsi, Persamaan, dan Pertidaksamaan Eksponen.md",
-    "(2) TKA/Adv Math/(10) Fungsi Kuadrat.md",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105074941.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105073429.png",
     "(2) TKA/Adv Math/() Attachments/Pasted image 20261105073409.png",
