@@ -11,10 +11,15 @@
             "id": "0a40614d1a3a82ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(1) SHS/12th/History/(0) Pra Materi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(0) Pra Materi"
             }
           }
         ]
