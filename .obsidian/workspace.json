@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1cdf7ff91753946a",
+        "id": "de09125134ffe8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "a2379bb0fcca15bc",
+            "id": "ab963d130da738c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) SHS/() SHS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "() SHS"
+              "title": "New tab"
             }
           }
         ]
@@ -212,7 +207,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "a2379bb0fcca15bc",
+  "active": "ab963d130da738c7",
   "lastOpenFiles": [
     "(1) SHS/() SHS.md",
     "(1) SHS/12th/History/(1) Perjuangan Rakyat dalam Memproklamasikan Kemerdekaan.md",
